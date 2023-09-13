@@ -18,10 +18,3 @@ defaults:
   - scope:
       path: "_pages"
       type: "pages"
-
-plugins:
-  - jekyll-redirect-from
-redirect_from:
-  json: false
-whitelist:
-  - jekyll-redirect-from  
