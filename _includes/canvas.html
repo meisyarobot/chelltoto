@@ -4,17 +4,17 @@
    <div class="uk-width-1-2@s">
     <ul class="uk-text-large uk-nav-default uk-nav-divider" uk-nav>
       <li class="uk-nav-header">Menu</li>
-      {% for item in site.data.settings.menu %}
+      {% for item in site.data.settings.menu.menu %}
       <li><a href="{{item.url}}"><span class="uk-margin-small-right" uk-icon="icon: {{item.icon}}"></span> {{item.title}}</a></li>
       {% endfor %}
       <li class="uk-nav-header">Games</li>   
-      {% for item in site.data.settings.providers %}
+      {% for item in site.data.settings.menu.providers %}
       <li><a href="{{item.url}}">{{item.title}}</a></li>
       {% endfor %}
     </ul>
   </div>
  <div class="uk-position-fixed uk-position-top">
-  <button class="uk-close-large uk-offcanvas-close"  type="button" aria-label="Close" uk-close></button>   
+  <button class="uk-close-large uk-offcanvas-close" type="button" aria-label="Close" uk-close></button>   
  </div>  
 </div>
-<!-- /Sidenav -->        
+<!-- /Sidenav -->
