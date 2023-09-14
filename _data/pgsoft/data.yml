@@ -1,0 +1,234 @@
+# 1.Bahasa Indonesia
+# 2. English
+
+# Bahasa Indonesia
+id_ID:
+  - title: Mahjong Ways
+    img: mahjong-ways.webp
+    url: https://m.pgsoft-games.com/65/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 65
+    provider: PG Soft
+  
+  - title: Mahjong Ways 2
+    img: mahjong-ways2.webp
+    url: https://m.pgsoft-games.com/74/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 74
+    provider: PG Soft
+  
+  - title: Lucky Neko
+    img: lucky-neko.webp
+    url: https://m.pgsoft-games.com/89/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 89
+    provider: PG Soft
+  
+  - title: Wild Bandito
+    img: wild-bandito.webp
+    url: https://m.pgsoft-games.com/104/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    id: 104
+    provider: PG Soft
+  
+  - title: Medusa - The Curse of Athena
+    img: medusa.webp
+    url: https://m.pgsoft-games.com/7/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 7
+    provider: PG Soft
+  
+  - title: Medusa II - The Quest of Perseus
+    img: medusa2.webp
+    url: https://m.pgsoft-games.com/6/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 6
+    provider: PG Soft
+  
+  - title: Dragon Hatch
+    img: dragon-hatch.webp
+    url: https://m.pgsoft-games.com/57/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 57
+    provider: PG Soft
+  
+  - title: Ways of The Qilin
+    img: qilin-ways.webp
+    url: https://m.pgsoft-games.com/106/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 106
+    provider: PG Soft
+  
+  - title: Phoenix Rises
+    img: phoenix-rises.webp
+    url: https://m.pgsoft-games.com/82/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 82
+    provider: PG Soft
+  
+  - title: Jurassic Kingdom
+    img: jurassic-kingdom.webp
+    url: https://m.pgsoft-games.com/110/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 110
+    provider: PG Soft
+  
+  - title: Candy Bonanza
+    img: candy-bonanza.webp
+    url: https://m.pgsoft-games.com/100/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 100
+    provider: PG Soft
+  
+  - title: Candy Burst
+    img: candy-burst.webp
+    url: https://m.pgsoft-games.com/70/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 70
+    provider: PG Soft
+  
+  - title: Mermaid Riches
+    img: mermaid-riches.webp
+    url: https://m.pgsoft-games.com/102/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 102
+    provider: PG Soft
+  
+  - title: Treasures of Aztec
+    img: aztec-treasures.webp
+    url: https://m.pgsoft-games.com/87/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 87
+    provider: PG Soft
+  
+  - title: Garuda Gems
+    img: garuda-gems.webp
+    url: https://m.pgsoft-games.com/122/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 122
+    provider: PG Soft
+  
+  - title: Bali Vacation - Infinity Reels
+    img: bali-vacation.webp
+    url: https://m.pgsoft-games.com/94/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 94
+    provider: PG Soft
+  
+  - title: Opera Dynasty
+    img: opera-dynasty.webp
+    url: https://m.pgsoft-games.com/93/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 93
+    provider: PG Soft
+  
+  - title: The Queen's Banquet
+    img: queens-banquet.webp
+    url: https://m.pgsoft-games.com/120/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 120
+    provider: PG Soft
+  
+  - title: Honey Trap of Diao Chan
+    img: honey-trap.webp
+    url: https://m.pgsoft-games.com/1/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 1
+    provider: PG Soft
+  
+  - title: Dreams of Macau
+    img: dreams-macau.webp
+    url: https://m.pgsoft-games.com/79/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 79
+    provider: PG Soft
+  
+  - title: Queen Bounty
+    img: queen-bounty.webp
+    url: https://m.pgsoft-games.com/84/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 84
+    provider: PG Soft
+  
+  - title: Rise of Apollo
+    img: apollo-rise.webp
+    url: https://m.pgsoft-games.com/101/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 101
+    provider: PG Soft
+  
+  - title: Supermarket Spree
+    img: supermarket-spree.webp
+    url: https://m.pgsoft-games.com/115/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 115
+    provider: PG Soft
+  
+  - title: Cocktail Nights
+    img: cocktail-nights.webp
+    url: https://m.pgsoft-games.com/117/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 117
+    provider: PG Soft
+  
+  - title: Leprechaun Riches
+    img: leprechaun-riches.webp
+    url: https://m.pgsoft-games.com/60/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 60
+    provider: PG Soft
+  
+  - title: Secrets of Cleopatra - Infinity reels
+    img: secrets-cleopatra.webp
+    url: https://m.pgsoft-games.com/90/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 90
+    provider: PG Soft
+  
+  - title: Circus Delight
+    img: circus-delight.webp
+    url: https://m.pgsoft-games.com/80/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 80
+    provider: PG Soft
+  
+  - title: Vampire's Charm
+    img: vampires-charm.webp
+    url: https://m.pgsoft-games.com/58/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 58
+    provider: PG Soft
+  
+  - title: Crypto Gold
+    img: crypto-gold.webp
+    url: https://m.pgsoft-games.com/103/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 103
+    provider: PG Soft
+  
+  - title: Wild Bounty Showdown
+    img: wild-bounty-showdown.webp
+    url: https://m.pgsoft-games.com/135/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 135
+    provider: PG Soft
+  
+  - title: Bikini Paradise
+    img: bikini-paradise.webp
+    url: https://m.pgsoft-games.com/69/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 69
+    provider: PG Soft
+  
+  - title: Butterfly Blossom
+    img: butterfly-blossom.webp
+    url: https://m.pgsoft-games.com/125/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 125
+    provider: PG Soft
+  
+  - title: Emperor's Favour
+    img: emperors-favour.webp
+    url: https://m.pgsoft-games.com/44/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 44
+    provider: PG Soft
+  
+  - title: Egypt's Book of Mystery
+    img: egypt-book-mystery.webp
+    url: https://m.pgsoft-games.com/73/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 73
+    provider: PG Soft
+  
+  - title: Legend of Perseus
+    img: legend-of-perseus.webp
+    url: https://m.pgsoft-games.com/128/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 128
+    provider: PG Soft
+  
+  - title: Groundhog Harvest
+    img: groundhog-harvest.webp
+    url: https://m.pgsoft-games.com/111/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 111
+    provider: PG Soft
+  
+  - title: Dragon Legend - Mythical Treasure Jackpot
+    img: dragon-legend.webp
+    url: https://m.pgsoft-games.com/29/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 29
+    provider: PG Soft
+  
+  - title: Jack Frost's Winter - Infinity Reels
+    img: jack-frosts-winter.webp
+    url: https://m.pgsoft-games.com/97/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    id: 97
+    provider: PG Soft
+
+
