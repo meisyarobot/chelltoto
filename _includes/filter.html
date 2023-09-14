@@ -17,16 +17,19 @@
 <nav uk-dropnav="mode: click">
    <ul class="uk-subnav">
         <li uk-filter-control><a href="#">{{site.data.settings.menu.page.all}}</a></li>
+        {% if page.active == "pragmatic-play" %}
         <li>
             <a href="#">{{site.data.settings.menu.page.line}} <span uk-drop-parent-icon></span></a>
             <div class="uk-dropdown">
-                <ul class="uk-nav uk-dropdown-nav">
-                    <li class="uk-active"><a href="#">Active</a></li>
-                    <li><a href="#">Item</a></li>
-                    <li><a href="#">Item</a></li>
-                </ul>
+              <ul class="uk-nav uk-dropdown-nav">
+                 <li><a data-pilih="megaways" id="#megaways" href="#megaways">Megaways</a></li>
+                 <li><a data-pilih="slotmania" id="#slotmania" href="#slotmania">Slot Mania</a></li>
+                 <li><a data-pilih="nexus" id="nexus" href="#nexus">Nexus</a></li>
+               <li><a data-pilih="infini" id="infini" href="#infini">Infini</a></li>
+              </ul>
             </div>
         </li>
+        {% endif %}
         <li uk-filter-control="[data-pilih='tablegames']"><a href="#tablegames"><a href="#">{{site.data.settings.menu.page.table}}</a></li>
     </ul>
 </nav>
