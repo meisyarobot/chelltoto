@@ -49,7 +49,25 @@
    {% include filter.html %}
    {{ content }}
    {% include canvas.html %}
-   {% include modal.html %}
+
+   <div id="modal" class="uk-modal-full" uk-modal>
+    <div class="uk-modal-dialog">
+     <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
+     <div class="uk-background-cover" uk-height-viewport>
+     <iframe 
+      name="modal_iframe" 
+      id="game-slot"
+      src="" 
+      width="100%" 
+      height="670px" 
+      frameborder="0" 
+      allow="autoplay; encrypted-media" 
+      donotallowfullscreen>
+      <p>Your browser does not support iframes.</p>
+     </iframe>
+     </div>
+    </div>
+   </div>
    {% include javascript.html %}
   </div>
  </div>
