@@ -11,15 +11,16 @@
   <link rel="stylesheet" href="{{ '/assets/css/mainstyle.css' | absolute_url }}">        
  </head>
 <body><!-- Body -->
+ 
 <!-- Navbar --> 
 <nav class="uk-navbar-container uk-navbar-transparent uk-fixed-navigation uk-navbar="mode: click"">
  <div uk-navbar>
   <div class="uk-navbar-left">                
-   <a class="uk-navbar-item uk-logo branded" href="">L154</a>
+   <a class="uk-navbar-item uk-logo branded" href="{{site.url}}">{{site.title}}</a>
   </div>
   <div class="uk-navbar-right">
     <button class="uk-button uk-button-default uk-button-small uk-margin-small-right" type="button" uk-toggle="target: #offcanvas-push">{{site.data.settings.menu.page.menu}}</button>            
-    <a href="#" uk-icon="icon:refresh"></a>  
+    <a href="{{relative_url}}" uk-icon="icon:refresh"></a>  
     <button class="theme-toggle" id="theme-toggle" title="Toggles light & dark" aria-label="auto" aria-live="polite">
       <svg class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24">
         <mask class="moon" id="moon-mask">
@@ -43,6 +44,7 @@
   </div>
 </nav>
 <!-- /Navbar -->
+
  <div class="uk-section uk-margin-xlarge-top"><!-- Section -->
   <div data-uk-filter=".js-filter" class="uk-container"><!-- Container -->
    <h3 class="uk-heading-line uk-text-center"><span>{{ page.title }}</span></h3>
@@ -50,13 +52,12 @@
    {{ content }}
    {% include canvas.html %}
 
-   <div id="modal" class="uk-modal-full" uk-modal>
+   <div id="modal" class="modal uk-modal-full" uk-modal>
     <div class="uk-modal-dialog">
      <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
      <div class="game-fallback-container uk-background-cover" uk-height-viewport>
      <iframe 
-      name="modal_iframe" 
-      id="game-slot"
+      name="modal_iframe"
       src="" 
       frameborder="0" 
       allow="autoplay; encrypted-media" 
