@@ -10,17 +10,17 @@ permalink: /site/
  <div class="uk-card uk-card-default uk-border-rounded"><!-- card --> 
   <div class="uk-card-media-top"><!-- card img -->    
    <a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()"> 
-    <img src="../assets/img/megaways/{{ game.img }}" width="1800" height="1200" alt="{{ game.title }}" class="uk-border-rounded">
+    <img src="{{site.url}}assets/img/megaways/{{ game.img }}" width="1800" height="1200" alt="{{ game.title }}" class="uk-border-rounded">
    </a>
   </div><!-- /card img --> 
   <div class="uk-card-body uk-margin-remove-top"><!-- card body --> 
    <p class="uk-margin-remove-bottom">{{ game.provider }}</p>
-   <h3 class="uk-text-small uk-card-title uk-margin-remove-top uk-text-bold">{{ game.title }}</h3><!-- card title -->
+   <h3 class="uk-text-small uk-card-title uk-margin-remove-top uk-text-bold"><a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()">{{ game.title }}</a></h3><!-- card title -->
   </div><!-- /card body --> 
  </div><!-- /card --> 
 </div>       
 {% else %}
- <p>Tidak ada game data.</p>
+ <p>{{site.data.settings.menu.page.nodata}}</p>
 {% endfor %}  
 <!-- /Grid -->      
 </div>
