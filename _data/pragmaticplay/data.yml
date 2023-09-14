@@ -166,13 +166,20 @@
   url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40smwildwest
   provider: Pragmatic Play
 
+- title: Wild West Gold Megaways
+  symbol: vswayswildwest
+  img: megaways-wwg.webp
+  type: megaways
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswildwest
+  provider: Pragmatic Play
+
 - title: Wild West Duels
   symbol: vs20pistols
   img: wild-west-duels.webp
-  url: pragmatic-play/wild-west-duels
-  currency: idr
-  lang: id
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20pistols
+  type: videoslot
   provider: Pragmatic Play
+
 - title: Diamond Strike
   symbol: vs15diamond
   img: diamond-strike.webp
@@ -180,6 +187,7 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+
 - title: Drill That Gold
   symbol: vs20drtgold
   img: drill-that-gold.webp
