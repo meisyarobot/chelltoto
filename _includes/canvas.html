@@ -3,11 +3,11 @@
  <div class="uk-offcanvas-bar">        
    <div class="uk-width-1-2@s">
     <ul class="uk-text-large uk-nav-default uk-nav-divider" uk-nav>
-      <li class="uk-nav-header">Menu</li>
+      <li class="uk-nav-header">{{site.data.settings.menu.page.menu}}</li>
       {% for item in site.data.settings.menu.menu %}
       <li><a href="{{item.url}}"><span class="uk-margin-small-right" uk-icon="icon: {{item.icon}}"></span> {{item.title}}</a></li>
       {% endfor %}
-      <li class="uk-nav-header">Games</li>   
+      <li class="uk-nav-header">{{site.data.settings.menu.page.games}}</li>   
       {% for item in site.data.settings.menu.providers %}
       <li><a href="{{item.url}}">{{item.title}}</a></li>
       {% endfor %}
