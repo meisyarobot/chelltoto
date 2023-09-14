@@ -414,21 +414,11 @@ input, select, textarea {
  padding: 10px !important;
 }
 #modal, .uk-modal-full {
- z-index: 99999 !important;
+ z-index: 9998 !important;
 }
 .uk-card-media-top img {
  border: 6px solid transparent;
  border-radius: 10px !important;    
-}
-
-.closed {
-  position: absolute;
-  right: -5px;
-  top: -5px;
-  background-color: white;
-  border-radius: 50%;
-  border: 1px solid black;
-  text-align: center;
 }
     iframe {
       width: 100%;
