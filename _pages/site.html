@@ -3,24 +3,22 @@ layout: mainpage
 permalink: /site/
 ---
 
-<div id="grid" class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid><!-- Grids -->
-<!-- Grid -->     
+<div id="grid" class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid>
 {% for game in site.data.megaways %}  
 <div data-pilih="videoslot" class="uk-width-1-2 bc item">
- <div class="uk-card uk-card-default uk-border-rounded"><!-- card --> 
-  <div class="uk-card-media-top"><!-- card img -->    
+ <div class="uk-card uk-card-default uk-border-rounded"> 
+  <div class="uk-card-media-top">
    <a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()"> 
-    <img src="{{site.url}}assets/img/megaways/{{ game.img }}" width="1800" height="1200" alt="{{ game.title }}" class="uk-border-rounded">
+    <img src="{{site.url}}assets/img/megaways/{{game.img}}" width="1800" height="1200" alt="{{game.title}}" class="uk-border-rounded">
    </a>
-  </div><!-- /card img --> 
-  <div class="uk-card-body uk-margin-remove-top"><!-- card body --> 
-   <p class="uk-margin-remove-bottom">{{ game.provider }}</p>
-   <h3 class="uk-text-small uk-card-title uk-margin-remove-top uk-text-bold"><a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()">{{ game.title }}</a></h3><!-- card title -->
-  </div><!-- /card body --> 
- </div><!-- /card --> 
+  </div> 
+  <div class="uk-card-body uk-margin-remove-top"> 
+   <p class="uk-margin-remove-bottom">{{game.provider}}</p>
+   <h3 class="uk-link-reset uk-text-small uk-card-title uk-margin-remove-top uk-text-bold"><a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()">{{game.title}}</a></h3><!-- card title -->
+  </div> 
+ </div>
 </div>       
 {% else %}
- <p>{{site.data.settings.menu.page.nodata}}</p>
-{% endfor %}  
-<!-- /Grid -->      
+<p>{{site.data.settings.menu.page.nodata}}</p>
+{% endfor %}        
 </div>
