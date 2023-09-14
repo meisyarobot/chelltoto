@@ -5,7 +5,7 @@ olympus-gates:
   url: pragmatic-play/olympus-gates
   currency: idr
   lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympgate
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20olympgate
   provider: Pragmatic Play
 starlight-princess:
   title: Starlight Princess
@@ -14,7 +14,7 @@ starlight-princess:
   url: pragmatic-play/starlight-princess
   currency: idr
   lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20starlight
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20starlight
   provider: Pragmatic Play
 starlight-christmas:
   title: Starlight Christmas
@@ -23,7 +23,7 @@ starlight-christmas:
   url: pragmatic-play/starlight-christmas
   currency: idr
   lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20schristmas
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20schristmas
   provider: Pragmatic Play
 gatot-kaca:
   title: Gates of Gatot Kaca
@@ -32,7 +32,7 @@ gatot-kaca:
   url: pragmatic-play/gatot-kaca
   currency: idr
   lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20gatotgates
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20gatotgates
   provider: Pragmatic Play
 gatotkaca-fury:
   title: Gatot Kaca Fury
@@ -41,7 +41,7 @@ gatotkaca-fury:
   url: pragmatic-play/gatotkaca-fury
   currency: IDR
   lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20gatotfury
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20gatotfury
   provider: Pragmatic Play
 sweet-bonanza:
   title: Sweet Bonanza
