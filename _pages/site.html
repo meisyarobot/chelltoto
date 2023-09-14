@@ -2,3 +2,25 @@
 layout: mainpage
 permalink: /site/
 ---
+
+<div id="grid" class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid><!-- Grids -->
+<!-- Grid -->     
+{% for game in site.data.megaways %}  
+<div data-pilih="videoslot" class="uk-width-1-2 bc item">
+ <div class="uk-card uk-card-default uk-border-rounded"><!-- card --> 
+  <div class="uk-card-media-top"><!-- card img -->    
+   <a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()"> 
+    <img src="" width="1800" height="1200" alt="" class="uk-border-rounded">
+   </a>
+  </div><!-- /card img --> 
+  <div class="uk-card-body uk-margin-remove-top"><!-- card body --> 
+   <p class="uk-margin-remove-bottom">{{ game.provider }}</p>
+   <h3 class="uk-text-small uk-card-title uk-margin-remove-top uk-text-bold">{{ game.title }}</h3><!-- card title -->
+  </div><!-- /card body --> 
+ </div><!-- /card --> 
+</div>       
+{% else %}
+ <p>Tidak ada game data.</p>
+{% endfor %}  
+<!-- /Grid -->      
+</div>
