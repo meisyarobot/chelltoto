@@ -271,3 +271,38 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20smrabbit
   provider: Pragmatic Play
 
+- title: Sword of Ares
+  symbol: vs20swordofares
+  img: sword-of-ares.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20swordofares
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Slot Mania Ares
+  symbol: vs20slotmanar
+  img: slotmania-ares.webp
+  type: slotmania
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20slotmanar
+  provider: Pragmatic Play
+
+- title: Rise Samurai
+  symbol: vs25samurai
+  img: risesamurai.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs25samurai
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Rise Samurai 3
+  symbol: vs40samurai3
+  img: risesamurai3.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs40samurai3
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Rise of Samurai Megaways
+  symbol: vswayssamurai
+  img: megaways-risesamurai.webp
+  type: megaways
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswayssamurai
+  provider: Pragmatic Play
+
