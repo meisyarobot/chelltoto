@@ -52,16 +52,14 @@
    {{ content }}
    {% include canvas.html %}
 
-   <div id="modal" class="modal uk-modal-full" uk-modal>
+   <div id="modal" class="uk-modal-full" uk-modal>
     <div class="uk-modal-dialog">
      <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
      <div class="game-fallback-container uk-background-cover" uk-height-viewport>
      <iframe 
       name="modal_iframe"
       src="" 
-      frameborder="0" 
-      allow="autoplay; encrypted-media" 
-      donotallowfullscreen>
+      frameborder="0">
       <p>Your browser does not support iframes.</p>
      </iframe>
      </div>
