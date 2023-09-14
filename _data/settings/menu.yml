@@ -4,10 +4,19 @@ site_url: /
 menu:
   - title: Lobby
     url: /
+    icon: home
   - title: Unduh Aplikasi
     url: 
+    icon: download
   - title: Situs Sedot WC
     url: /borungkad
+    icon: trash
+
+page:
+  providers: Providers
+  menu: Menu
+  search: Cari
+  view_al: Lihat Semua
 
 providers:
   - title: Pragnatic Play
