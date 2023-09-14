@@ -1,0 +1,19 @@
+name: L154
+site_url: /
+
+menu:
+  - title: Lobby
+    url: /
+  - title: Unduh Aplikasi
+    url: 
+  - title: Situs Sedot WC
+    url: /borungkad
+
+providers:
+  - title: Pragnatic Play
+    url: pragmatic-play
+  - title: PG Soft
+    url: pgsoft
+  - title: Megaways
+    url: megaways
+
