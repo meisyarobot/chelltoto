@@ -46,6 +46,8 @@
  
  <div class="uk-section uk-margin-xlarge-top"><!-- Section -->
   <div data-uk-filter=".js-filter" class="uk-container"><!-- Container -->
+   <h3 class="uk-heading-line uk-text-center"><span>{{ page.title }}</span></h3>
+   {% include filter.html %}
    {{ content }}
    {% include canvas.html %}
    {% include javascript.html %}
