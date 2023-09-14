@@ -4,13 +4,13 @@
    <div class="uk-width-1-2@s">
     <ul class="uk-text-large uk-nav-default uk-nav-divider" uk-nav>
       <li class="uk-nav-header">Menu</li>
-      <li><a href="{{site.url}}"><span class="uk-margin-small-right" uk-icon="icon: home"></span> Beranda</a></li>
-      <li><a href="#"><span class="uk-margin-small-right" uk-icon="icon: download"></span> Unduh Aplikasi</a></li>
-      <li class="uk-nav-divider"></li>
-      <li><a href="#"><span class="uk-margin-small-right" uk-icon="icon: trash"></span> Situs sedot wc</a></li>
-      <li class="uk-nav-header">Games</li>              
-      <li><a href="#">Pragmatic Play</a></li>
-      <li><a href="#">PG Soft</a></li>
+      {% for item in site.data.settings.menu %}
+      <li><a href="{{item.url}}"><span class="uk-margin-small-right" uk-icon="icon: {{item.icon}}"></span> {{item.title}}</a></li>
+      {% endfor %}
+      <li class="uk-nav-header">Games</li>   
+      {% for item in site.data.settings.providers %}
+      <li><a href="{{item.url}}">{{item.title}}</a></li>
+      {% endfor %}
     </ul>
   </div>
  <div class="uk-position-fixed uk-position-top">
