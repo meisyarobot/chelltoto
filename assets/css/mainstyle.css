@@ -414,19 +414,11 @@ input, select, textarea {
  padding: 10px !important;
 }
 #modal, .uk-modal-full {
- z-index: 9999 !important;
+ z-index: 99999 !important;
 }
 .uk-card-media-top img {
  border: 6px solid transparent;
  border-radius: 10px !important;    
-}
-#modal {
-  position: fixed;
-  left: 10%;
-  top: 10%;
-  height: 300px;
-  width: 80%;
-  display: none;
 }
 
 .closed {
