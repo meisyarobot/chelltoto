@@ -20,8 +20,12 @@ page:
   games: Games
   line: Line
   table_games: Table Games
+  egypt: mesir
+  mahjong: Mahyong
+  classic: Klasik
   table: Table
   new: Baru
+  nodata: Tidak ada game data
 
 providers:
   - title: Pragmatic Play
