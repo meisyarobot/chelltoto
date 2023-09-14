@@ -8,7 +8,7 @@
 - title: Slot Mania Olympus
   symbol: vs20olympmania
   img: slotmania-olympus.webp
-  type: videoslot
+  type: slotmania
   url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympmania
   provider: Pragmatic Play
 
@@ -16,20 +16,20 @@
   symbol: vs20xmania
   img: 5000xmania.webp
   url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20xmania
-  type: videoslot
+  type: slotmania
   provider: Pragmatic Play
 
 - title: Nexus Gates of Olympus
   symbol: vs20nexusgates
   img: nexus-olympus.webp
-  type: videoslot
+  type: nexus
   url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20nexusgates
   provider: Pragmatic Play
 
 - title: Infini88 Gates of Olympus
   symbol: vs20olginf88
   img: infini88-olympuss.webp
-  type: videoslot
+  type: infini
   url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olginf88
   provider: Pragmatic Play
 
@@ -57,21 +57,21 @@
 - title: Infini88 Starlight Princess
   symbol: vs20slpinf88
   img: infini88-princess.webp
-  type: videoslot
+  type: infini
   url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slpinf88
   provider: Pragmatic Play
 
 - title: Slot Mania Princess
   symbol: vs20smprincess
   img: slotmania-princess.webp
-  type: videoslot
+  type: slotmania
   url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smprincess
   provider: Pragmatic Play
 
 - title: Nexus Starlight Princess
   symbol: vs20nexussp
   img: nexus-starlight-princess.webp
-  type: videoslot
+  type: nexus
   url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20nexussp
   provider: Pragmatic Play 
 
@@ -92,7 +92,7 @@
 - title: Slot Mania Gatotkaca
   symbol: vs20smgatot
   img: slotmania-gatotkaca.webp
-  type: videoslot
+  type: slotmania
   url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smgatot
   provider: Pragmatic Play
 
@@ -110,28 +110,62 @@
   type: videoslot
   provider: Pragmatic Play
 
+- title: Sweet Slot Mania
+  symbol: vs20fruitmania
+  img: slotmania-sweet.webp
+  type: slotmania
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitmania
+  provider: Pragmatic Play
+
+- title: Nexus Sweet Bonanza
+  symbol: vs20fruitsnexus
+  img: nexus-sweet-bonanza.webp
+  type: nexus
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitsnexus
+  provider: Pragmatic Play
+
+- title: Infini88 Sweet Bonanza
+  symbol: vs20swbinf88
+  img: infini88-sweet-bonanza.webp
+  type: infini
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20swbinf88
+  provider: Pragmatic Play
+  
 - title: Aztec Gems
   symbol: vs5aztecgems
   img: aztec-gems.webp
-  url: pragmatic-play/aztec-gems
-  currency: idr
-  lang: id
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5aztecgems
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Aztec Gema Deluxe
   symbol: vs9aztecgemsdx
   img: aztec-gems-deluxe.webp
-  url: pragmatic-play/aztec-gems-deluxe
-  currency: idr
-  lang: id
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs9aztecgemsdx
+  type: videoslot
   provider: Pragmatic Play
+
+- title: Slot Mania Gems
+  symbol: vs5slotgems
+  img: slotmania-gems.webp
+  type: slotmania
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5slotgems
+  provider: Pragmatic Play
+
 - title: Wild West Gold
   symbol: vs40wildwest
   img: wild-west-gold.webp
-  url: pragmatic-play/wild-west-gold
-  currency: idr
-  lang: id
+  type: videoslot
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40wildwest
   provider: Pragmatic Play
+
+- title: Wild West Slot Mania
+  symbol: vs40smwildwest
+  img: slotmania-wwg.webp
+  type: slotmania
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40smwildwest
+  provider: Pragmatic Play
+
 - title: Wild West Duels
   symbol: vs20pistols
   img: wild-west-duels.webp
