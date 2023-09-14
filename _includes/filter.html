@@ -3,7 +3,7 @@
  <div class="uk-float-right">
   <form class="uk-search uk-search-default">
     <span uk-search-icon></span>
-    <input id="myfilter" class="uk-form-width-small uk-search-input" type="search" placeholder="Cari permainan" aria-label="Search">
+    <input id="myfilter" class="uk-form-width-small uk-search-input" type="search" placeholder="{{site.data.settings.menu.page.search}}" aria-label="Search">
   </form>   
  </div>
  <div class="uk-float-left">
@@ -16,9 +16,9 @@
 <div class="uk-overflow-autos">
 <nav uk-dropnav="mode: click">
    <ul class="uk-subnav">
-        <li uk-filter-control><a href="#">Semua</a></li>
+        <li uk-filter-control><a href="#">{{site.data.settings.menu.page.all}}</a></li>
         <li>
-            <a href="#">Line <span uk-drop-parent-icon></span></a>
+            <a href="#">{{site.data.settings.menu.page.line}} <span uk-drop-parent-icon></span></a>
             <div class="uk-dropdown">
                 <ul class="uk-nav uk-dropdown-nav">
                     <li class="uk-active"><a href="#">Active</a></li>
@@ -27,7 +27,7 @@
                 </ul>
             </div>
         </li>
-        <li uk-filter-control="[data-pilih='tablegames']"><a href="#tablegames"><a href="#">Table Games</a></li>
+        <li uk-filter-control="[data-pilih='tablegames']"><a href="#tablegames"><a href="#">{{site.data.settings.menu.page.table}}</a></li>
     </ul>
 </nav>
 </div>
