@@ -11,8 +11,12 @@
   <link rel="stylesheet" href="{{ '/mainstyle.css' | absolute_url }}">        
  </head>
 <body><!-- Body -->
- {{ content }}
- {% include canvas.html %}
- {% include javascript.html %}
+ <div class="uk-section uk-margin-xlarge-top"><!-- Section -->
+  <div data-uk-filter=".js-filter" class="uk-container"><!-- Container -->
+   {{ content }}
+   {% include canvas.html %}
+   {% include javascript.html %}
+  </div>
+ </div>
 </body>
 </html>
