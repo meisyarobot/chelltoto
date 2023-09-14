@@ -110,6 +110,13 @@
   type: videoslot
   provider: Pragmatic Play
 
+- title: Sweet Bonanza Dice
+  symbol: vs20bnnzdice
+  img: sweet-bonanza-dice.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20bnnzdice
+  type: videoslot
+  provider: Pragmatic Play
+
 - title: Sweet Slot Mania
   symbol: vs20fruitmania
   img: slotmania-sweet.webp
@@ -242,3 +249,25 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20candvil
   type: videoslot
   provider: Pragmatic Play
+
+- title: Slot Mania Candy
+  symbol: vs20slmancan
+  img: slotmania-candy-village.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20slmancan
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Rabbit Garden
+  symbol: vs20goldclust
+  img: rabbit-garden.webp
+  type: videoslot
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20goldclust
+  provider: Pragmatic Play
+
+- title: Slot Mania Rabbit
+  symbol: vs20smrabbit
+  img: slotmania-rabbit.webp
+  type: slotmania
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20smrabbit
+  provider: Pragmatic Play
+
