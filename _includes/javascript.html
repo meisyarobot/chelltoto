@@ -3,7 +3,18 @@
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit-icons.min.js"></script>     
 <script src="https://unpkg.com/infinite-scroll@4/dist/infinite-scroll.pkgd.min.js"></script>
-<script type="text/javascript" language="javascript">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.27.2/js/core/modal.min.js"></script>
+<script>
+function showModal()
+{
+  $('#modal').show();
+}
+function hideModal()
+{
+  $('#modal').hide();
+}
+</script>
+<script type="text/javascript">
 $(document).ready(function() {
   $('#grid').click(function(event) {
     event.preventDefault()
@@ -21,16 +32,6 @@ $(document).ready(function() {
   $('.bc').addClass(itemClass)
 });
 </script>    
-<script>
-function showModal()
-{
-  $('#modal').show();
-}
-function hideModal()
-{
-  $('#modal').hide();
-}
-</script>
 <script>
 document.addEventListener('DOMContentLoaded', () => {
     const inputEl = document.getElementById('myfilter');
