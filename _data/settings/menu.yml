@@ -13,13 +13,18 @@ menu:
     icon: trash
 
 page:
-  providers: Providers
   menu: Menu
   search: Cari
-  view_al: Lihat Semua
+  view_all: Lihat Semua
+  all: Semua
+  games: Games
+  line: Line
+  table_games: Table Games
+  table: Table
+  new: Baru
 
 providers:
-  - title: Pragnatic Play
+  - title: Pragmatic Play
     url: pragmatic-play
   - title: PG Soft
     url: pgsoft
