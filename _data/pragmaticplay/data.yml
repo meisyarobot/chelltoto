@@ -208,19 +208,19 @@
   type: videoslot
   provider: Pragmatic Play 
 
-- title: Pyramid Bonanza
-  symbol: vs20pbonanza
-  img: pyramid-bonanza.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20pbonanza
-  type: videoslot
-  provider: Pragmatic Play 
-
 - title: Slot Mania Bonanza Gold
   symbol: vs20goldmania
   img: slotmania-bonanzagold.webp
   type: slotmania
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20goldmania
   provider: Pragmatic Play
+
+- title: Pyramid Bonanza
+  symbol: vs20pbonanza
+  img: pyramid-bonanza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20pbonanza
+  type: videoslot
+  provider: Pragmatic Play 
 
 - title: Slot Mania Pyramid
   symbol: vs20smbonanza
