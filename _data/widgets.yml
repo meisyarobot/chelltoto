@@ -1,0 +1,26 @@
+pragmaticplay:
+- title: Pragmatic Play
+  url: pragmatic-play
+  images:
+   - img: https://l154gamer.github.io/assets/feature/peaky-blinders.webp
+     url: pragmatic-play
+   - img: https://l154gamer.github.io/assets/feature/cowboys-gold.webp
+     url: pragmatic-play
+   - img: https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-duels.webp
+     url: pragmatic-play
+   - img: https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-gold.webp
+     url: pragmatic-play
+
+pgsoft:
+- title: Pragmatic Play
+  url: pgsoft
+  images:
+   - img: https://l154gamer.github.io/assets/feature/wild-bounty-showdown.webp
+     url: pgsoft
+   - img: https://l154gamer.github.io/assets/feature/medusa.webp
+     url: pgsoft
+   - img: https://as-saadah.github.io/games/assets/img/pgsoft/mahjong-ways2.webp
+     url: pgsoft
+   - img: https://as-saadah.github.io/games/assets/img/pgsoft/supermarket-spree.webp
+     url: pgsoft
+
