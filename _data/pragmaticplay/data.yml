@@ -1,3 +1,17 @@
+- title: Mahjong Wins 
+  symbol: vs1024mahjwins
+  img: mahjong-wins.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs1024mahjwins
+  type: new
+  provider: Pragmatic Play
+
+- title: Mahjong Bonanza 
+  symbol: vs20mahjongbnz
+  img: mahjong-bonanza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20mahjongbnz
+  type: new
+  provider: Pragmatic Play
+
 - title: Gates of Olympus
   symbol: vs20olympgate
   img: olympus-gates.webp
@@ -345,6 +359,20 @@
   symbol: vs20aztecgates
   img: aztec-gates.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20aztecgates
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Aztec King
+  symbol: vs10aztecking
+  img: aztec-king.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10aztecking
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Book of Aztec King
+  symbol: vs10bookazteck
+  img: book-of-aztec-king.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10bookazteck
   type: videoslot
   provider: Pragmatic Play
 
