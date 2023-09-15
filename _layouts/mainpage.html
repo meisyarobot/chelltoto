@@ -52,20 +52,18 @@
    {{ content }}
    {% include canvas.html %}
 
-   <div id="modal" class="uk-modal-full" uk-modal>
-    <div class="uk-modal-dialog">
-     <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
+
+   <div id="modal">
+    <div class="uk-cover-container uk-modal-full" uk-height-viewport>
+     <button onClick="hideModal()" class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
      <div class="game-fallback-container">
-     <iframe 
-      name="modal_iframe"
-      src=""  
-      frameborder="0">
-      <p>Your browser does not support iframes.</p>
-     </iframe>
+      <iframe name="gameiframe" frameborder="0" src="">
+       <p>Your browser does not support iframes.</p>
+      </iframe>
      </div>
     </div>
    </div>
-   
+
    {% include javascript.html %}
   </div>
  </div>
