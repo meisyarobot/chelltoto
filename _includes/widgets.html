@@ -15,13 +15,13 @@
    <!-- /clearfix -->                 
    <div class="uk-grid-small" uk-grid><!-- begin content grids -->
    <!-- begin content imgs -->
+   {% for item in item.images %} 
    <div class="uk-width-1-2">
-    {% for item in item.images %}
     <a href="{{ item.url | relative_url }}">
      <img class="uk-border-rounded" src="{{ item.img }}" width="1800" height="1200" alt="{{ item.title }}">
     </a>
-    {% endfor %}
    </div>
+   {% endfor %} 
    <!-- /End content imgs -->
   </div><!-- /End content grids -->
  </div><!-- /card -->
@@ -43,13 +43,13 @@
    <!-- /clearfix -->                 
    <div class="uk-grid-small" uk-grid><!-- begin content grids -->
    <!-- begin content imgs -->
+   {% for item in item.images %} 
    <div class="uk-width-1-2">
-    {% for item in item.images %}
     <a href="{{ item.url | relative_url }}">
      <img class="uk-border-rounded" src="{{ item.img }}" width="1800" height="1200" alt="{{ item.title }}">
     </a>
-    {% endfor %}
    </div>
+   {% endfor %} 
    <!-- /End content imgs -->
   </div><!-- /End content grids -->
  </div><!-- /card -->
