@@ -63,9 +63,16 @@
   type: new
   provider: Pragmatic Play
 
+- title: Wisdom of Athena
+  symbol: vs20procount
+  img: wisdom-of-athena.webp
+  type: new
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20procount
+  provider: Pragmatic Play 
+
+
 
 # Old Games
-
 - title: Gates of Olympus
   symbol: vs20olympgate
   img: olympus-gates.webp
@@ -118,7 +125,7 @@
 - title: Starlight Princess 1000
   symbol: vs20starlightx
   img: starlight-princess-1000.webp
-  type: videoslot
+  type: new
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20starlightx
   provider: Pragmatic Play
 
@@ -182,7 +189,7 @@
   symbol: vs20bnnzdice
   img: sweet-bonanza-dice.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20bnnzdice
-  type: videoslot
+  type: new
   provider: Pragmatic Play
 
 - title: Sweet Slot Mania
