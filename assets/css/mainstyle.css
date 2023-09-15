@@ -431,3 +431,9 @@ input, select, textarea {
       width: 100%;
       color: #ffffff;  
   }
+#modal {
+  position: fixed;
+  left: 0;
+  top: 0;
+  display: none;
+}
