@@ -71,7 +71,6 @@
   provider: Pragmatic Play 
 
 
-
 # Old Games
 - title: Gates of Olympus
   symbol: vs20olympgate
@@ -444,3 +443,44 @@
   type: megaways
   provider: Pragmatic Play
 
+- title: Robber Strike
+  symbol: vs4096robber
+  img: robber-strike.webp
+  type: videoslot
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs4096robber
+  provider: Pragmatic Play 
+
+- title: Gates of Hades
+  symbol: vs20ghades
+  img: gates-of-hades.webp
+  type: videoslot
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20ghades
+  provider: Pragmatic Play
+
+- title: Zeus Vs Hades
+  symbol: vs15godsofwar
+  img: zeus-vs-hades.webp
+  type: new
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs15godsofwar
+  provider: Pragmatic Play
+
+- title: Peaky Blinders
+  symbol: vs20pblinders
+  img: peaky-blinders.webp
+  type: videoslot
+  permalink: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20pblinders
+  provider: Pragmatic Play
+
+- title: Peaky Blinders 2
+  symbol: 
+  img: peaky-blinders2.webp
+  type: videoslot
+  url: 
+  provider: Pragmatic Play
+
+- title: The Catfather
+  symbol: vs9catz
+  img: the-catfather.webp
+  type: videoslot
+  permalink: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs9catz
+  provider: Pragmatic Play
