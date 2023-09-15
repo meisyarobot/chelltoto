@@ -14,7 +14,7 @@
   type: new
   provider: Pragmatic Play
 
-- title: Piggi Bankers 
+- title: Piggy Bankers 
   symbol: vs20piggybank
   img: piggy-bankers.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20piggybank
@@ -37,7 +37,7 @@
 
 - title: Forge of Olympus
   symbol: vs20forge
-  img: forge-olympus.webp
+  img: forge-of-olympus.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20forge
   type: new
   provider: Pragmatic Play
