@@ -1,3 +1,5 @@
+# New games 
+
 - title: Mahjong Wins 
   symbol: vs1024mahjwins
   img: mahjong-wins.webp
@@ -11,6 +13,58 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20mahjongbnz
   type: new
   provider: Pragmatic Play
+
+- title: Piggi Bankers 
+  symbol: vs20piggybank
+  img: piggy-bankers.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20piggybank
+  type: new
+  provider: Pragmatic Play
+  
+- title: Gold Oasis
+  symbol: vswaysincwnd
+  img: gold-oasis.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysincwnd
+  type: new
+  provider: Pragmatic Play
+
+- title: Frozen Tropics 
+  symbol: vswaysftropics
+  img: frozen-tropics.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysftropics
+  type: new
+  provider: Pragmatic Play
+
+- title: Forge of Olympus
+  symbol: vs20forge
+  img: forge-olympus.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20forge
+  type: new
+  provider: Pragmatic Play
+
+- title: Pub Kings
+  symbol: vs20lvlup
+  img: pub-kings.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20lvlup
+  type: new
+  provider: Pragmatic Play
+
+- title: Mustang Trail
+  symbol: vs10trail
+  img: mustang-trail.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10trail
+  type: new
+  provider: Pragmatic Play
+
+- title: Cash Box
+  symbol: vs20cashmachine
+  img: cash-box.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20cashmachine
+  type: new
+  provider: Pragmatic Play
+
+
+# Old Games
 
 - title: Gates of Olympus
   symbol: vs20olympgate
