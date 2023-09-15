@@ -18,6 +18,7 @@
    <ul class="uk-subnav">
         <li uk-filter-control><a href="#">{{site.data.settings.menu.page.all}}</a></li>
         {% if page.active == "pragmatic-play" %}
+        <li><a uk-filter-control="[data-pilih='new']" href="#new">{{site.data.settings.menu.page.new}}</a></li>
         <li>
             <a href="#">{{site.data.settings.menu.page.line}} <span uk-drop-parent-icon></span></a>
             <div class="uk-dropdown">
