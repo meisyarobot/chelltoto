@@ -32,6 +32,9 @@
             </div>
         </li>
         {% endif %}
+        {% if page.active == "pgsoft" %}
+         <li uk-filter-control><a href="#">{{site.data.settings.menu.page.table}}</a></li>
+        {% endif %}
     </ul>
 </nav>
 </div>
