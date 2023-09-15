@@ -306,3 +306,52 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswayssamurai
   provider: Pragmatic Play
 
+- title: 5 Rabbits Megaways
+  symbol: vswaysrabbits
+  img: megaways-rabbits.webp
+  type: megaways
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysrabbits
+  provider: Pragmatic Play 
+
+- title: 5 Lions
+  symbol: vs243lions
+  img: 5lions.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs243lions
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: 5 Lions Gold
+  symbol: vs243lionsgold
+  img: 5lions-gold.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs243lionsgold
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: 5 Lions Dance
+  symbol: vs1024lionsd
+  img: 5lions-dance.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs1024lionsd
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: 5 Lions Megaways
+  symbol: vswayslions
+  img: megaways-lions.webp
+  type: megaways
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswayslions
+  provider: Pragmatic Play
+
+- title: Gates of Aztec
+  symbol: vs20aztecgates
+  img: aztec-gates.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20aztecgates
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Aztec King Megaways
+  symbol: vswaysaztecking
+  img: aztec-king-megaways.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysaztecking
+  type: megaways
+  provider: Pragmatic Play
+
