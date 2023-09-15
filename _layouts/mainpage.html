@@ -53,14 +53,10 @@
    {% include canvas.html %}
 
 
-   <div id="modal">
-    <div class="uk-cover-container uk-modal-full" uk-height-viewport>
+   <div id="modal" class="uk-modal-full">
+    <div class="game-fallback-container">
      <button onClick="hideModal()" class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
-     <div class="game-fallback-container">
-      <iframe name="modal_iframe" frameborder="0" src="">
-       <p>Your browser does not support iframes.</p>
-      </iframe>
-     </div>
+     <iframe name="modal_iframe" src=""></iframe>
     </div>
    </div>
 
