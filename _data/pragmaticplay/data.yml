@@ -443,6 +443,13 @@
   type: megaways
   provider: Pragmatic Play
 
+- title: Aztec Bonanza
+  symbol: vs7776aztec
+  img: aztec-bonanza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs7776aztec
+  type: videoslot
+  provider: Pragmatic Play
+
 - title: Robber Strike
   symbol: vs4096robber
   img: robber-strike.webp
