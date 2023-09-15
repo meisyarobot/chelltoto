@@ -413,3 +413,191 @@ id_ID:
     img: speed-winner.webp
     provider: PG Soft
 
+  - title: Baccarat Deluxe
+    gameid: 31
+    url: https://m.pgsoft-games.com/31/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: baccarat-deluxe.webp
+    type: table
+    provider: PG Soft
+
+  - title: American Blackjack
+    url: pgsoft/table-games/american-blackjack
+    img: american-blackjack.webp
+    lang: American Blackjack
+    type: table
+    provider: PG Soft
+
+  - title: European Blackjack
+    url: 
+    img: european-blackjack.webp
+    type: table
+    provider: PG Soft  
+  
+  - title: Fortune Tiger
+    gameid: 126
+    img: fortune-tiger.webp
+    url: https://m.pgsoft-games.com/126/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    provider: PG Soft
+  
+  - title: Ninja Vs Samurai
+    gameid: 59
+    img: samurai-vs-ninja.webp
+    url: https://m.pgsoft-games.com/59/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    provider: PG Soft
+  
+  - title: Hood VS Wolf - The Wild Hunt
+    gameid: 18
+    img: hood-vs-wolf.webp
+    url: https://m.pgsoft-games.com/18/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    provider: PG Soft
+  
+  - title: Gem Saviour
+    img: gem-saviour.webp
+    url: https://m.pgsoft-games.com/2/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 2
+    provider: PG Soft
+  
+  - title: Gem Saviour Sword
+    img: gem-saviour-sword.webp
+    url: https://m.pgsoft-games.com/38/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    gameid: 38
+    provider: PG Soft
+  
+  - title: Gem Saviour Conquest
+    gameid: 62
+    img: gem-saviour-conquest.webp
+    url: https://m.pgsoft-games.com/62/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    provider: PG Soft
+  
+  - title: Buffalo Win - Infinity Reels
+    gameid: 108
+    url: https://m.pgsoft-games.com/108/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: buffalo-win.webp
+    provider: PG Soft
+  
+  - title: Wild Coaster
+    gameid: 132
+    url: https://m.pgsoft-games.com/132/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: wild-coaster.webp
+    provider: PG Soft
+  
+  - title: Hip Hop Panda
+    gameid: 33
+    url: https://m.pgsoft-games.com/33/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: hip-hop-panda.webp
+    provider: PG Soft
+  
+  - title: Guardians of Ice & Fire
+    gameid: 91
+    url: https://m.pgsoft-games.com/91/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: guardians-ice-fire.webp
+    provider: PG Soft
+  
+  - title: Asgardian Rising
+    gameid: 1340277
+    url: https://m.pgsoft-games.com/1340277/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: asgardian-rising.webp
+    provider: PG Soft
+  
+  - title: Win Win Fish Prawn Crab
+    gameid: 129
+    url: https://m.pgsoft-games.com/129/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: fish-prawn.webp
+    provider: PG Soft
+  
+  - title: Santa's Gift Rush
+    gameid: 37
+    url: https://m.pgsoft-games.com/37/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: santas-gift-rush.webp
+    provider: PG Soft
+  
+  - title: Wizdom Wonders
+    gameid: 17
+    url: https://m.pgsoft-games.com/17/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: wizdom-wonders.webp
+    provider: PG Soft
+  
+  - title: Alchemy Gold
+    gameid: 1368367
+    url: https://m.pgsoft-games.com/1368367/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: alchemy-gold.webp
+    provider: PG Soft
+  
+  - title: Double Fortune
+    gameid: 48
+    url: https://m.pgsoft-games.com/48/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: double-fortune.webp
+    provider: PG Soft
+  
+  - title: Flirting Scholar
+    gameid: 61
+    url: https://m.pgsoft-games.com/61/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: flirting-scholar.webp
+    provider: PG Soft
+  
+  - title: Destiny of Sun & Moon
+    gameid: 121
+    url: https://m.pgsoft-games.com/121/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: destiny-sun-moon.webp
+    provider: PG Soft
+  
+  - title: Rave Party Fever
+    gameid: 1420892
+    url: https://m.pgsoft-games.com/1420892/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: rave-party-fever.webp
+    provider: PG Soft
+  
+  - title: Prosperity Lion
+    gameid: 36
+    url: https://m.pgsoft-games.com/36/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: prosperity-lion.webp
+    provider: PG Soft
+
+  - title: Jewels of Prosperity
+    gameid: 88
+    url: https://m.pgsoft-games.com/88/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: prosperity-jewels.webp
+    provider: PG Soft
+  
+  - title: Caishen Wins
+    gameid: 71
+    url: https://m.pgsoft-games.com/71/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: caishen-wins.webp
+    provider: PG Soft
+  
+  - title: Journey to the Wealth
+    gameid: 50
+    url: https://m.pgsoft-games.com/50/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: journey-wealth.webp
+    provider: PG Soft
+  
+  - title: Fortune Ox
+    gameid: 98
+    url: https://m.pgsoft-games.com/98/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: fortune-ox.webp
+    provider: PG Soft
+  
+  - title: Shaolin Soccer
+    gameid: 67
+    url: https://m.pgsoft-games.com/67/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: shaolin-soccer.webp
+    provider: PG Soft
+  
+  - title: Mr. Hallow-Win
+    gameid: 35
+    url: https://m.pgsoft-games.com/35/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: mr-hallow-win.webp
+    provider: PG Soft
+  
+  - title: Ganesha Fortune
+    gameid: 75
+    img: ganesha-fortune.webp
+    url: https://m.pgsoft-games.com/75/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    provider: PG Soft
+  
+  - title: Ganesha Gold
+    gameid: 42
+    img: ganesha-gold.webp
+    url: https://m.pgsoft-games.com/42/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    provider: PG Soft
+
