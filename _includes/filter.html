@@ -27,13 +27,13 @@
                  <li><a uk-filter-control="[data-pilih='nexus']" href="#nexus">Nexus</a></li>
                  <li><a uk-filter-control="[data-pilih='infini']" href="#infini">Infini</a></li>
                  <li><a uk-filter-control="[data-pilih='classic']" href="#classic">Klasik Slot</a></li>
-                 <li><a uk-filter-control="[data-pilih='tablegames']" href="#tablegames">{{site.data.settings.menu.page.table}}</a></li>
+                 <li><a uk-filter-control="[data-pilih='table']" href="#table">{{site.data.settings.menu.page.table}}</a></li>
               </ul>
             </div>
         </li>
         {% endif %}
         {% if page.active == "pgsoft" %}
-         <li uk-filter-control><a href="#">{{site.data.settings.menu.page.table}}</a></li>
+         <li><a uk-filter-control="[data-pilih='table']" href="#table">{{site.data.settings.menu.page.table}}</a></li>
         {% endif %}
     </ul>
 </nav>
