@@ -23,17 +23,28 @@ feature:
         url: pgsoft
 
 
+
+
 providers:
-  - img: https://l154gamer.github.io/assets/images/providers/pragmatic.svg
+  - title: Pragmatic Play
+    img: https://l154gamer.github.io/assets/images/providers/pragmatic.svg
     url: pragmatic-play
-  - img: https://l154gamer.github.io/assets/images/providers/pgsoft.svg
+  - title: PG Soft
+    img: https://l154gamer.github.io/assets/images/providers/pgsoft.svg
     url: pgsoft
-  - img: https://l154gamer.github.io/assets/images/providers/yggdrasil.svg
+  - title: Yggdrasil
+    img: https://l154gamer.github.io/assets/images/providers/yggdrasil.svg
     url: yggdrasil
-  - img: https://l154gamer.github.io/assets/images/providers/nolimitcity.svg
+  - title: Nolimit City
+    img: https://l154gamer.github.io/assets/images/providers/nolimitcity.svg
     url: nolimit-city
-  - img: https://l154gamer.github.io/assets/images/providers/habanero.svg
+  - title: Habanero
+    img: https://l154gamer.github.io/assets/images/providers/habanero.svg
     url: habanero
+  - title: Red Tiger
+    img: https://l154gamer.github.io/assets/images/providers/redtiger.svg
+    url: redtiger
+
 
 
 donasi:
