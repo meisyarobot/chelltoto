@@ -16,7 +16,9 @@
 <nav class="uk-navbar-container uk-navbar-transparent uk-fixed-navigation uk-navbar="mode: click"">
  <div uk-navbar>
   <div class="uk-navbar-left">                
-   <a class="uk-navbar-item uk-logo branded" href="{{site.url}}">{{site.title}}</a>
+   <a class="uk-logo uk-navbar-item" href="{{site.url}}">
+    <img src="{{ "/assets/logo.svg" | absolute_url }}" width="40" height="40" alt="{{ site.title }}">
+   </a>  
   </div>
   <div class="uk-navbar-right">
     <a href="{{relative_url}}" uk-icon="icon:refresh"></a>  
