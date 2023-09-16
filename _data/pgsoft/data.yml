@@ -3,6 +3,21 @@
 
 # Bahasa Indonesia
 id_ID:
+  - title: Gladiator's Glory
+    gameid: 
+    img: gladiators-glory.webp
+    url: 
+    type: new
+    disable: disable
+    provider: PG Soft 
+
+  - title: Safari Wilds
+    gameid: 
+    img: safari-wilds.webp
+    type: new
+    disable: disable
+    provider: PG Soft 
+  
   - title: Fruity Candy
     gameid: 1397455
     img: fruity-candy.webp
