@@ -15,10 +15,12 @@
 <!-- Navbar --> 
 <nav class="uk-navbar-container uk-navbar-transparent uk-fixed-navigation uk-navbar="mode: click"">
  <div uk-navbar>
-  <div class="uk-navbar-left">                
-   <a class="uk-navbar-item uk-logo branded" href="{{site.url}}">{{site.title}}</a>
+  <div class="uk-navbar-left">    
+   <a class="uk-logo uk-navbar-item" href="{{site.url}}">
+    <img src="{{ "/assets/logo.svg" | absolute_url }}" width="80" height="80" alt="{{ site.title }}">
+   </a>
   </div>
-  <div class="uk-navbar-right">         
+  <div class="uk-navbar-right">    
     <a href="{{relative_url}}" uk-icon="icon:refresh"></a>  
     <button class="theme-toggle" id="theme-toggle" title="Toggles light & dark" aria-label="auto" aria-live="polite">
       <svg class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24">
