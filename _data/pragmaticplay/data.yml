@@ -716,3 +716,31 @@
   type: videoslot
   provider: Pragmatic Play
 
+- title: The Hand of Midas
+  symbol: vs20midas
+  img: midas-hand.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20midas
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Clover Gold
+  symbol: vs20mustanggld2
+  img: clover-gold.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20mustanggld2
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Fruit Party
+  symbol: vs20fruitparty
+  img: fruit-party.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitparty
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Fruit Party 2
+  symbol: vs20fparty2
+  img: fruit-party2.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20fparty2
+  type: videoslot
+  provider: Pragmatic Play
+
