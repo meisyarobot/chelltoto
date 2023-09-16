@@ -3,6 +3,20 @@
 
 # Bahasa Indonesia
 id_ID:
+  - title: Fruity Candy
+    gameid: 1397455
+    img: fruity-candy.webp
+    url: https://m.pgsoft-games.com/1397455/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    type: new
+    provider: PG Soft 
+
+  - title: Cruise Royale
+    gameid: 1473388
+    img: cruise-royale.webp
+    url: https://m.pgsoft-games.com/1473388/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    type: new
+    provider: PG Soft 
+
   - title: Mahjong Ways
     img: mahjong-ways.webp
     url: https://m.pgsoft-games.com/65/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
@@ -217,6 +231,7 @@ id_ID:
     img: groundhog-harvest.webp
     url: https://m.pgsoft-games.com/111/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
     gameid: 111
+    disable: disable
     provider: PG Soft
   
   - title: Dragon Legend - Mythical Treasure Jackpot
@@ -361,6 +376,7 @@ id_ID:
   - title: Sushi Oishi
     gameid: 109
     img: sushi-oishi.webp
+    disable: disable
     url: https://m.pgsoft-games.com/109/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
     provider: PG Soft
   
@@ -385,6 +401,7 @@ id_ID:
   - title: Farm Invaders
     gameid: 116
     img: farm-invaders.webp
+    disable: disable
     url: https://m.pgsoft-games.com/116/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
     lang: Penjajah Ladang
     provider: PG Soft
@@ -421,16 +438,17 @@ id_ID:
     provider: PG Soft
 
   - title: American Blackjack
-    url: pgsoft/table-games/american-blackjack
+    url: 
     img: american-blackjack.webp
-    lang: American Blackjack
     type: table
+    disable: disable
     provider: PG Soft
 
   - title: European Blackjack
     url: 
     img: european-blackjack.webp
     type: table
+    disable: disable
     provider: PG Soft  
   
   - title: Fortune Tiger
@@ -515,6 +533,7 @@ id_ID:
     gameid: 17
     url: https://m.pgsoft-games.com/17/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
     img: wizdom-wonders.webp
+    disable: disable
     provider: PG Soft
   
   - title: Alchemy Gold
@@ -679,17 +698,4 @@ id_ID:
     url: https://m.pgsoft-games.com/95/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
     provider: PG Soft
 
-  - title: Fruity Candy
-    gameid: 1397455
-    img: fruity-candy.webp
-    url: https://m.pgsoft-games.com/1397455/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-    type: videoslot
-    provider: PG Soft 
-
-  - title: Cruise Royale
-    gameid: 1473388
-    img: cruise-royale.webp
-    url: https://m.pgsoft-games.com/1473388/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-    type: videoslot
-    provider: PG Soft 
 
