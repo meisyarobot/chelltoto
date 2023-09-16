@@ -712,4 +712,9 @@ id_ID:
     img: majestic-treasures.webp
     url: https://m.pgsoft-games.com/95/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
     provider: PG Soft
-
+  
+  - title: Steampunk Wheel of Destiny
+    gameid: 
+    img: steampunk-wheel-of-destiny.webp
+    disable: disable    
+    provider: PG Soft
