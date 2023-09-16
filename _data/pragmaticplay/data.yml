@@ -491,3 +491,46 @@
   type: videoslot
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs9catz
   provider: Pragmatic Play
+
+- title: Juicy Fruits
+  symbol: vs50juicyfr
+  img: juicy-fruits.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs50juicyfr
+  type: classic
+  provider: Pragmatic Play
+
+- title: Extra Juicy
+  symbol: vs10fruity2
+  img: extra-juicy.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10fruity2
+  type: classic
+  provider: Pragmatic Play
+
+- title: Extra Juicy Megaways
+  symbol: vswaysxjuicy
+  img: megaways-extra-juicy.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysxjuicy
+  type: classic
+  provider: Pragmatic Play
+
+- title: Great Rhino
+  symbol: vs20rhino
+  img: great-rhino.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20rhino
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Great Rhino Deluxe
+  symbol: vs20rhinoluxe
+  img: great-rhino-deluxe.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20rhinoluxe
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Great Rhino Megaways
+  symbol: vswaysrhino
+  img: great-rhino-megaways.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysrhino
+  type: megaways
+  provider: Pragmatic Play
+
