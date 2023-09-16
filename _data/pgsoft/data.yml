@@ -718,3 +718,10 @@ id_ID:
     img: steampunk-wheel-of-destiny.webp
     disable: disable    
     provider: PG Soft
+
+  - title: Summon & Conquer
+    gameid: 
+    img: summon-and-conquer.webp
+    disable: disable    
+    url: 
+    provider: PG Soft
