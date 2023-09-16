@@ -576,6 +576,13 @@
   type: videoslot
   provider: Pragmatic Play
 
+- title: The Dog House Megaways
+  symbol: vswaysdogs
+  img: megaways-dog-house.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysdogs
+  type: megaways
+  provider: Pragmatic Play
+
 - title: Release The Kraken
   symbol: vs20kraken
   img: release-the-kraken.webp
@@ -589,4 +596,11 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20kraken2
   type: videoslot
   provider: Pragmatic Play
+
+- title: Floating Dragon Megaways
+  symbol: vswaysfltdrg
+  img: floating-dragon.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysfltdrg
+  type: megaways
+  provider: Pragmatic Play - Reel Kingdom
 
