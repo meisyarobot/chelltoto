@@ -443,3 +443,8 @@ input, select, textarea {
   display: none;
 }
 
+.game_disable {
+  cursor: not-allowed;
+  pointer-events: none;
+  opacity: 0.4;
+}
