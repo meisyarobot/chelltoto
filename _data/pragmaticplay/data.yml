@@ -666,3 +666,25 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10bbextreme
   type: reelkingdom
   provider: Pragmatic Play - Reel Kingdom
+
+- title: Slot Mania Big Bass
+  symbol: vs10smbigbass
+  img: slotmania-bigbass.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10smbigbass
+  type: slotmania
+  provider: Pragmatic Play
+
+- title: The Amazing Money Machine
+  symbol: vs10amm
+  img: amazing-money-machine.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10amm
+  type: wsg
+  provider: Pragmatic Play - Wild Streak Gaming
+
+- title: Lucky Lightning
+  symbol: vswayslight
+  img: lucky.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswayslight
+  type: wsg
+  provider: Pragmatic Play - Wild Streak Gaming
+
