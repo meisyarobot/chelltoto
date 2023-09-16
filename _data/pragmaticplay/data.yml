@@ -688,3 +688,31 @@
   type: wsg
   provider: Pragmatic Play - Wild Streak Gaming
 
+- title: Fat Panda
+  symbol: vs20beefed
+  img: fat-panda.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20beefed
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Mahjong Panda
+  symbol: vs1024mahjpanda
+  img: fat-panda.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs1024mahjpanda
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Panda's Fortune
+  symbol: vs25pandagold
+  img: pandas-fortune.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs25pandagold
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Panda's Fortune 2
+  symbol: vs25pandatemple
+  img: pandas-fortune2.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs25pandatemple
+  type: videoslot
+  provider: Pragmatic Play
+
