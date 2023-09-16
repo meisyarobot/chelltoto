@@ -597,10 +597,17 @@
   type: videoslot
   provider: Pragmatic Play
 
+- title: Floating Dragon — Hold & Spin
+  symbol: vs10floatdrg
+  img: floating-dragon.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10floatdrg
+  type: reelkingdom
+  provider: Pragmatic Play - Reel Kingdom 
+
 - title: Floating Dragon Megaways
   symbol: vswaysfltdrg
   img: floating-dragon.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysfltdrg
-  type: megaways
+  type: reelkingdom
   provider: Pragmatic Play - Reel Kingdom
 
