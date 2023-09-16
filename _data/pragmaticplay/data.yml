@@ -611,3 +611,52 @@
   type: reelkingdom
   provider: Pragmatic Play - Reel Kingdom
 
+- title: Big Bass Bonanza
+  symbol: vs10bbbonanza
+  img: big-bass-bonanza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10bbbonanza
+  type: reelkingdom
+  provider: Pragmatic Play - Reel Kingdom
+
+- title: Big Bass Bonanza — Hold & Spinner
+  symbol: vs10bbhas
+  img: big-bass-bonanza-hold-spinner.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10bbhas
+  type: reelkingdom
+  provider: Pragmatic Play - Reel Kingdom
+
+- title: Bigger Bass Bonanza
+  symbol: vs12bbb
+  img: bigger-bass-bonanza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs12bbb
+  type: reelkingdom
+  provider: Pragmatic Play - Reel Kingdom
+
+- title: Big Bass Splash
+  symbol: vs10txbigbass
+  img: big-bass-splash.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10txbigbass
+  type: reelkingdom
+  provider: Pragmatic Play - Reel Kingdom
+  
+- title: Big Bass Bonanza — Keeping It Reel
+  symbol: vs10bbkir
+  img: big-bass-keeping-it-reel.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10bbkir
+  type: reelkingdom
+  provider: Pragmatic Play - Reel Kingdom
+  
+- title: Christmas Big Bass Bonanza
+  symbol: vs10bxmasbnza
+  img: christmas-big-bass-bonanza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10bxmasbnza
+  type: reelkingdom
+  provider: Pragmatic Play - Reel Kingdom
+
+- title: Bigger Bass — Blizzard Christmas Catch
+  symbol: vs12bbbxmas
+  img: bigger-bass-blizzard.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs12bbbxmas
+  type: reelkingdom
+  provider: Pragmatic Play - Reel Kingdom
+
