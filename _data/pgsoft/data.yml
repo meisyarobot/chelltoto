@@ -12,10 +12,10 @@ id_ID:
     provider: PG Soft 
 
   - title: Safari Wilds
-    gameid: 
+    gameid: 1594259
     img: safari-wilds.webp
     type: new
-    disable: disable
+    url: https://m.pgsoft-games.com/1594259/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
     provider: PG Soft 
   
   - title: Fruity Candy
@@ -700,7 +700,7 @@ id_ID:
     img: super-golf-drive.webp
     url: https://m.pgsoft-games.com/1513328/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
     provider: PG Soft
-  
+
   - title: Lucky Clover Lady
     gameid: 1601012
     img: lucky-clover-lady.webp
@@ -712,5 +712,4 @@ id_ID:
     img: majestic-treasures.webp
     url: https://m.pgsoft-games.com/95/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
     provider: PG Soft
-
 
