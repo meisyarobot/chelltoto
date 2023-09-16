@@ -29,3 +29,15 @@
 {% endfor %} 
 
 </div><!-- /Grids -->
+
+<div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-position-relative uk-light uk-margin" tabindex="-1" uk-slider>
+    <ul class="uk-slider-items uk-grid">
+     {% for item in site.data.widgets.providers %}
+        <li class="uk-width-1-3">
+            <div class="uk-panel">
+                <a href="{{ item.url | absolute_url }}"><img src="{{ item.img }}" width="100" height="100" alt="providers"></a>
+            </div>
+        </li>
+     {% endfor %}
+    </ul>
+</div>
