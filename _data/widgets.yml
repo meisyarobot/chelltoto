@@ -70,7 +70,13 @@ footer:
   - title: 18+ 
     img: https://l154gamer.github.io/assets/18plus.svg
     url: https://l154gamer.github.io/
+    width: 25px
+    height: 25px
   - title: Download Apk Android
     img: https://l154gamer.github.io/assets/download-app.svg
     url: https://l154gamer.github.io/app/android/L154Gamer_AndroidApp.apk
+    width: 120px
+    height: 120px
+
+
 
