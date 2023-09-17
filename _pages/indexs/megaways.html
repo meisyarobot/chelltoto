@@ -1,35 +1,27 @@
 ---
-layout: default
+layout: mainpage
 title: Megaways
 permalink: /megaways/
 active: megaways
 ---
 
-<style>
-.iframe-container{
-   min-height: 100px;
-   background:#000000 url("../assets/loader.gif") no-repeat 50% top !important;
-} 
-</style>
-<div class="row">
- {% for game in site.data.megaways %}
- <div class="col column-content s6 m6">
- <div class="blog-card blog-card-blog sticky-action">
-   <div class="blog-card-image">
-    <a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()" class="waves-effect waves-block waves-light"> 
-     <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/megaways/{{ game.img }}" alt="{{ game.title }}"> 
+<div id="grid" class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid>
+{% for game in site.data.megaways %}  
+ <div data-pilih="{{game.type}}" class="uk-width-1-2 bc {{game.disable}}">
+  <div class="uk-card uk-card-default uk-border-rounded"> 
+   <div class="uk-card-media-top">
+    <a href="{{ game.permalink | absolute_url }}" target="modal_iframe" onClick="showModal()"> 
+     <img src="{{site.url}}assets/img/megaways/{{game.img}}" width="1800" height="1200" alt="{{game.title}}" class="uk-border-rounded">
     </a>
-   <div class="ripple-cont"></div>
-   </div>
-   <div class="blog-table">
-     <h6 class="blog-category blog-text-success">{{ game.by }}</h6>
-     <h4 class="blog-card-caption">
-      <a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()">{{ game.title }}</a>
-     </h4>
-   </div>
- </div>
- </div>
- {% else %}
-  <p>Tidak ada data.</p>
- {% endfor %}
+   </div> 
+   <div class="uk-card-body uk-margin-remove-top"> 
+    <h3 class="uk-link-reset uk-text-small uk-card-title uk-text-bold">
+    <a href="{{ game.permalink | absolute_url }}" target="modal_iframe" onClick="showModal()">{{game.title}}</a>
+    </h3>
+   </div> 
+  </div>
+ </div>       
+{% else %}
+<p>{{site.data.settings.menu.page.nodata}}</p>
+ {% endfor %}        
 </div>
