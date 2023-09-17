@@ -55,7 +55,6 @@ providers:
     url: playngo
 
 
-
 donasi:
 - title: Donasi
   items:
@@ -67,5 +66,11 @@ donasi:
      desc: 
 
 
-
+footer:
+  - title: 18+ 
+    img: https://l154gamer.github.io/assets/18plus.svg
+    url: https://l154gamer.github.io/
+  - title: Download Apk Android
+    img: https://l154gamer.github.io/assets/download-app.svg
+    url: https://l154gamer.github.io/app/android/L154Gamer_AndroidApp.apk
 
