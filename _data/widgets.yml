@@ -47,6 +47,12 @@ providers:
   - title: NetEnt
     img: https://l154gamer.github.io/assets/images/providers/netentlogo.svg
     url: netent
+  - title: Bgaming
+    img: https://l154gamer.github.io/assets/images/providers/bgaming.svg
+    url: bgaming
+  - title: Play'n Go
+    img: https://l154gamer.github.io/assets/images/providers/playngo-logo.svg
+    url: playngo
 
 
 
