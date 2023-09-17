@@ -44,6 +44,9 @@ providers:
   - title: Red Tiger
     img: https://l154gamer.github.io/assets/images/providers/redtiger.svg
     url: redtiger
+  - title: NetEnt
+    img: https://l154gamer.github.io/assets/images/providers/netentlogo.svg
+    url: netent
 
 
 
