@@ -161,6 +161,25 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/microgaming/immortal-romance.webp
       - img: https://l154gamer.github.io/assets/img/microgaming/jungle-jim.webp
 
+  - title: Advant Play
+    url: advant-play
+    images:
+      - img: https://l154gamer.github.io/assets/img/advant-play/racing-for-luck.webp
+      - img: https://l154gamer.github.io/assets/img/advant-play/road-to-uefa.webp
+      - img: https://l154gamer.github.io/assets/img/advant-play/treasure-of-drake.webp
+      - img: https://l154gamer.github.io/assets/img/advant-play/anubis.webp
+      - img: https://l154gamer.github.io/assets/img/advant-play/infinity-ocean.webp
+
+  - title: iSoftBet
+    url: isoftbet
+    images:
+      - img: https://l154gamer.github.io/assets/img/isoftbet/plunderin-pirates.webp
+      - img: https://l154gamer.github.io/assets/img/isoftbet/bounty-belles.webp
+      - img: https://l154gamer.github.io/assets/img/isoftbet/alice-adventure.webp
+      - img: https://l154gamer.github.io/assets/img/isoftbet/tyrant-king.webp
+      - img: https://l154gamer.github.io/assets/img/isoftbet/tales-of-silver.webp
+
+
 
 
 
