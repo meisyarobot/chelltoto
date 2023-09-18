@@ -188,6 +188,15 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/naga-games/steampunk-reloaded.webp
       - img: https://l154gamer.github.io/assets/img/naga-games/mermaids-treasure.webp
 
+  - title: Eurasian Gaming
+    url: eagaming
+    images:
+      - img: https://l154gamer.github.io/assets/img/eagaming/thug-life.webp
+      - img: https://l154gamer.github.io/assets/img/eagaming/lady-hawk.webp
+      - img: https://l154gamer.github.io/assets/img/eagaming/mythical-sand.webp
+      - img: https://l154gamer.github.io/assets/img/eagaming/immortals.webp
+      - img: https://l154gamer.github.io/assets/img/eagaming/ancient-rome-deluxe.webp
+
 
 
 
