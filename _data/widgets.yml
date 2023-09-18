@@ -79,4 +79,25 @@ footer:
     height: 120px
 
 
+byprovider:
+  - title: Pragmatic Play
+    url: pragmatic-play
+    images:
+      - img: https://l154gamer.github.io/assets/img/pragmatic-play/olympus-gates.webp
+      - img: https://l154gamer.github.io/assets/img/pragmatic-play/starlight-princess.webp
+      - img: https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-duels.webp
+      - img: https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-gold.webp
+      - img: https://l154gamer.github.io/assets/img/pragmatic-play/gatotkaca.webp
+
+  - title: PG Soft
+    url: pgsoft
+    images:
+      - img: https://l154gamer.github.io/games/assets/img/pgsoft/medusa.webp
+      - img: https://l154gamer.github.io/games/assets/img/pgsoft/mahjong-ways.webp
+      - img: https://l154gamer.github.io/games/assets/img/pgsoft/mahjong-ways2.webp
+      - img: https://l154gamer.github.io/games/assets/img/pgsoft/supermarket-spree.webp
+      - img: https://l154gamer.github.io/games/assets/img/pgsoft/qilim-ways.webp
+
+
+
 
