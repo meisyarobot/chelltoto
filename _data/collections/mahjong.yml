@@ -81,35 +81,53 @@
 - title: Mahjong fortune
   img: 
   url: 
-  type: 
-  provider: Playstar
+  type: nagaganes
+  provider: Naga Games
 
 # Skywind Group
 - title: Mahjong Jinpai
   img: 
   url: 
+  type: skywindgroup
   provider: Skywind Group
 
 # Play'n Go
 - title: Mahjong 88
   img: 
   url: 
+  type: playngo
   provider: Play'n Go
 
 # Evoplay
 - title: Lucky Mahjong Box
   img: 
   url: 
+  type: evoplay
   provider: Evoplay
 
 # Askmeslot
 - title: Mahjong Legend 
   img: 
   url: 
+  type: askmeslot
   provider: Askmebet
 
 # CQ9 Gaming
 - title: Mahjong King 
   img: 
   url: 
+  type: cq9gaming
   provider: CQ9 Gaming
+
+# Top Player
+- title: Fortune Mahjong 
+  img: 
+  url: https://www.topplayer888.com/demo/url.php?i=1739&go=ok
+  type: topplayer
+  provider: Top Player 
+- title: Rich Mahjong
+  img: 
+  url: 
+  type: topplayer
+  provider: Top Player 
+
