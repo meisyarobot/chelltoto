@@ -5,24 +5,24 @@
   type: pragmaticplay
   provider: Pragmatic Play
 - title: Mahjong Bonanza 
-  img: koleksi/mahjomg-bonanza-pragmatic.webp
+  img: koleksi/mahjong-bonanza-pragmatic.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20mahjongbnz
   type: pragmaticplay
   provider: Pragmatic Play
 - title: Mahjong Panda 
-  img: koleksi/mahjomg-panda-pragmatic.webp
+  img: koleksi/mahjong-panda-pragmatic.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20mahjongbnz
   type: pragmaticplay
   provider: Pragmatic Play
 
 # PG Soft
 - title: Mahjong Ways 
-  img: koleksi/mahjomg-ways-pgsoft.webp
+  img: koleksi/mahjong-ways-pgsoft.webp
   url: 
   type: pgsoft
   provider: PG Soft
 - title: Mahjong Ways 2
-  img: koleksi/mahjomg-ways2-pgsoft.webp
+  img: koleksi/mahjong-ways2-pgsoft.webp
   url: 
   type: pgsoft
   provider: PG Soft
@@ -136,7 +136,7 @@
   url: https://www.topplayer888.com/demo/url.php?i=3423&go=ok
 
 - title: Rich Mahjong 
-  img: 
+  img: koleksi/rich-mahjong-rsg.webp
   type: rsg
   provider: Royal Slot Gaming
 
