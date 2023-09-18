@@ -92,11 +92,11 @@ byprovider:
   - title: PG Soft
     url: pgsoft
     images:
-      - img: https://l154gamer.github.io/games/assets/img/pgsoft/medusa.webp
-      - img: https://l154gamer.github.io/games/assets/img/pgsoft/mahjong-ways.webp
-      - img: https://l154gamer.github.io/games/assets/img/pgsoft/mahjong-ways2.webp
-      - img: https://l154gamer.github.io/games/assets/img/pgsoft/supermarket-spree.webp
-      - img: https://l154gamer.github.io/games/assets/img/pgsoft/qilim-ways.webp
+      - img: https://l154gamer.github.io/assets/img/pgsoft/medusa.webp
+      - img: https://l154gamer.github.io/assets/img/pgsoft/mahjong-ways.webp
+      - img: https://l154gamer.github.io/assets/img/pgsoft/mahjong-ways2.webp
+      - img: https://l154gamer.github.io/assets/img/pgsoft/supermarket-spree.webp
+      - img: https://l154gamer.github.io/assets/img/pgsoft/qilim-ways.webp
 
 
 
