@@ -56,15 +56,60 @@
   type: kagaming
   provider: Ka Gaming
 
-# Playtech
+# Playstar
 - title: Mahjong Ways 3
   img: playtech/mahjong-ways2.webp
   url: 
-  type: playtech
-  provider: Playtech
+  type: playstar
+  provider: Playstar
 - title: Mahjong Ways 3+
   img: playtech/mahjong-ways3-plus.webp
   url: 
   type: playtech
-  provider: Playtech
+  provider: Playstar
+- title: What The Fa
+  img: playstar/what-the-fa.webp
+  url: 
+  type: playstar
+  provider: Playstar
+- title: Hand of God
+  img: playstar/hand-of-god.webp
+  url: 
+  type: playstar
+  provider: Playstar
 
+- title: Mahjong fortune
+  img: 
+  url: 
+  type: 
+  provider: Playstar
+
+# Skywind Group
+- title: Mahjong Jinpai
+  img: 
+  url: 
+  provider: Skywind Group
+
+# Play'n Go
+- title: Mahjong 88
+  img: 
+  url: 
+  provider: Play'n Go
+
+# Evoplay
+- title: Lucky Mahjong Box
+  img: 
+  url: 
+  provider: Evoplay
+
+# Askmeslot
+- title: Mahjong Legend 
+  img: 
+  url: 
+  provider: Askmebet
+
+# CQ9 Gaming
+- title: Mahjong King 
+  img: 
+  url: 
+  provider: CQ9 Gaming
