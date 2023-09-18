@@ -105,7 +105,7 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/yggdrasil/vikings-go-berzerk.webp
       - img: https://l154gamer.github.io/assets/img/yggdrasil/armed-bandit.webp
       - img: https://l154gamer.github.io/assets/img/yggdrasil/easter-island2.webp
-      - img: https://l154gamer.github.io/assets/img/yggdradil/beauty-the-beast.webp
+      - img: https://l154gamer.github.io/assets/img/yggdrasil/beauty-the-beast.webp
 
   - title: Nolimit City
     url: nolimit-city
@@ -115,6 +115,15 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/nolimit-city/rock-bottom.webp
       - img: https://l154gamer.github.io/assets/img/nolimit-city/serial.webp
       - img: https://l154gamer.github.io/assets/img/nolimit-city/mental.webp
+
+  - title: Red Tiger
+    url: redtiger
+    images:
+      - img: https://l154gamer.github.io/assets/img/redtiger/24hour-grand-prix.webp
+      - img: https://l154gamer.github.io/assets/img/redtiger/1942-sky-warrior.webp
+      - img: https://l154gamer.github.io/assets/img/redtiger/robin-hoods-wild-forest.webp
+      - img: https://l154gamer.github.io/assets/img/redtiger/ninja-ways.webp
+      - img: https://l154gamer.github.io/assets/img/redtiger/agent-royale.webp
 
 
 
