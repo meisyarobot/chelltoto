@@ -1,0 +1,70 @@
+# Pragmatic Play
+- title: Mahjong Wins 
+  img: pragmatic-play/mahjong-wins.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs1024mahjwins
+  type: pragmaticplay
+  provider: Pragmatic Play
+- title: Mahjong Bonanza 
+  img: pragmatic-play/mahjomg-bonanza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20mahjongbnz
+  type: pragmaticplay
+  provider: Pragmatic Play
+- title: Mahjong Panda 
+  img: pragmatic-play/mahjomg-panda.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20mahjongbnz
+  type: pragmaticplay
+  provider: Pragmatic Play
+
+# PG Soft
+- title: Mahjong Ways 
+  img: pgsoft/mahjomg-ways.webp
+  url: 
+  type: pgsoft
+  provider: PG Soft
+- title: Mahjong Ways 2
+  img: pgsoft/mahjomg-ways2.webp
+  url: 
+  type: pgsoft
+  provider: PG Soft
+
+# Dragoon Soft
+- title: Get Money
+  img: dragoonsoft/get-money.webp
+  url: 
+  type: dragoonsoft
+  provider: Dragoon Soft
+- title: You Will Win
+  img: dragoonsoft/you-will-win.webp
+  url: 
+  type: dragoonsoft
+  provider: Dragoon Soft
+
+# Ka Gaming
+- title: Fa Cai Destiny
+  img: kagaming/facai-destiny.webp
+  url: 
+  type: kagaming
+  provider: Ka Gaming
+- title: Quick Play Mahjong
+  img: kagaming/quick-play-mahjong.webp
+  url: 
+  type: kagaming
+  provider: Ka Gaming
+- title: Mahjong Masters
+  img: kagaming/mahjong-masters.webp
+  url: 
+  type: kagaming
+  provider: Ka Gaming
+
+# Playtech
+- title: Mahjong Ways 3
+  img: playtech/mahjong-ways2.webp
+  url: 
+  type: playtech
+  provider: Playtech
+- title: Mahjong Ways 3+
+  img: playtech/mahjong-ways3-plus.webp
+  url: 
+  type: playtech
+  provider: Playtech
+
