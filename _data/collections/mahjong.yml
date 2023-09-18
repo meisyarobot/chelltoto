@@ -1,133 +1,147 @@
 # Pragmatic Play
 - title: Mahjong Wins 
-  img: pragmatic-play/mahjong-wins.webp
+  img: koleksi/mahjong-wins-pragmatic.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs1024mahjwins
   type: pragmaticplay
   provider: Pragmatic Play
 - title: Mahjong Bonanza 
-  img: pragmatic-play/mahjomg-bonanza.webp
+  img: koleksi/mahjomg-bonanza-pragmatic.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20mahjongbnz
   type: pragmaticplay
   provider: Pragmatic Play
 - title: Mahjong Panda 
-  img: pragmatic-play/mahjomg-panda.webp
+  img: koleksi/mahjomg-panda-pragmatic.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20mahjongbnz
   type: pragmaticplay
   provider: Pragmatic Play
 
 # PG Soft
 - title: Mahjong Ways 
-  img: pgsoft/mahjomg-ways.webp
+  img: koleksi/mahjomg-ways-pgsoft.webp
   url: 
   type: pgsoft
   provider: PG Soft
 - title: Mahjong Ways 2
-  img: pgsoft/mahjomg-ways2.webp
+  img: koleksi/mahjomg-ways2-pgsoft.webp
   url: 
   type: pgsoft
   provider: PG Soft
 
 # Dragoon Soft
 - title: Get Money
-  img: dragoonsoft/get-money.webp
+  img: koleksi/get-money-dragoonsoft.webp
   url: 
   type: dragoonsoft
   provider: Dragoon Soft
 - title: You Will Win
-  img: dragoonsoft/you-will-win.webp
+  img: koleksi/you-will-win-dragoonsoft.webp
   url: 
   type: dragoonsoft
   provider: Dragoon Soft
 
 # Ka Gaming
 - title: Fa Cai Destiny
-  img: kagaming/facai-destiny.webp
+  img: koleksi/facai-destiny-kagaming.webp
   url: 
   type: kagaming
   provider: Ka Gaming
 - title: Quick Play Mahjong
-  img: kagaming/quick-play-mahjong.webp
+  img: koleksi/quick-play-mahjong-kagaming.webp
   url: 
   type: kagaming
   provider: Ka Gaming
 - title: Mahjong Masters
-  img: kagaming/mahjong-masters.webp
+  img: koleksi/mahjong-masters-kagaming.webp
   url: 
   type: kagaming
   provider: Ka Gaming
 
 # Playstar
 - title: Mahjong Ways 3
-  img: playtech/mahjong-ways2.webp
+  img: koleksi/mahjong-ways2-playstar.webp
   url: 
   type: playstar
   provider: Playstar
 - title: Mahjong Ways 3+
-  img: playtech/mahjong-ways3-plus.webp
+  img: koleksi/mahjong-ways3plus-playstar.webp
   url: 
   type: playtech
   provider: Playstar
 - title: What The Fa
-  img: playstar/what-the-fa.webp
+  img: koleksi/what-the-fa-playstar.webp
   url: 
   type: playstar
   provider: Playstar
 - title: Hand of God
-  img: playstar/hand-of-god.webp
+  img: koleksi/hand-of-god-playstar.webp
   url: 
   type: playstar
   provider: Playstar
 
 - title: Mahjong fortune
-  img: 
+  img: koleksi/mahjong-fortune-nagagames.webp
   url: 
   type: nagaganes
   provider: Naga Games
 
 # Skywind Group
 - title: Mahjong Jinpai
-  img: 
+  img: koleksi/mahjong-jinpai-skywind.webp
   url: 
   type: skywindgroup
   provider: Skywind Group
 
 # Play'n Go
 - title: Mahjong 88
-  img: 
+  img: koleksi/mahjong88-playngo.webp
   url: 
   type: playngo
   provider: Play'n Go
 
 # Evoplay
 - title: Lucky Mahjong Box
-  img: 
+  img: koleksi/lucky-mahjong-box-evoplay.webp
   url: 
   type: evoplay
   provider: Evoplay
 
 # Askmeslot
 - title: Mahjong Legend 
-  img: 
+  img: koleksi/mahjong-legend-askmebet.webp
   url: 
   type: askmeslot
   provider: Askmebet
 
 # CQ9 Gaming
 - title: Mahjong King 
-  img: 
+  img: koleksi/mahjong-king-cq9gaming.webp
   url: 
   type: cq9gaming
   provider: CQ9 Gaming
 
 # Top Player
 - title: Fortune Mahjong 
-  img: 
+  img: koleksi/fortune-mahjong-topplayer.webp
   url: https://www.topplayer888.com/demo/url.php?i=1739&go=ok
   type: topplayer
   provider: Top Player 
 - title: Rich Mahjong
-  img: 
-  url: 
+  img: koleksi/rich-mahjong-topplayer.webp
+  url: https://www.topplayer888.com/demo/url.php?i=1702&go=ok
   type: topplayer
   provider: Top Player 
+- title: Rich Mahjong 2
+  img: koleksi/rich-mahjong2-topplayer.webp
+  type: topplayer
+  url: https://www.topplayer888.com/demo/url.php?i=3423&go=ok
+
+- title: Rich Mahjong 
+  img: 
+  type: rsg
+  provider: Royal Slot Gaming
+
+- title: Mahjong Master 
+  img: 
+  type: pinquan
+  provider: PinQuan
 
