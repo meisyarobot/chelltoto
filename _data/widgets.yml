@@ -222,6 +222,15 @@ byprovider:
       - img: https://playson.com/media/cache/game/uploads/games/cropped/d0b1026d8fc33faf110f978c85178044e3e563fb.png
       - img: https://playson.com/media/cache/game/uploads/games/cropped/911bc91a200d462b92bec104d9c4a94458a5342e.png
 
+  - title: Dragoon Soft
+    url: dragoon-soft
+    images:
+      - img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3021_en.jpg
+      - img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3043_en.jpg
+      - img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3041_en.jpg
+      - img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3063_en.jpg
+      - img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3020_en.jpg
+
 
 
 
