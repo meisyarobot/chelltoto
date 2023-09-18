@@ -1,0 +1,60 @@
+# 1.Bahasa Indonesia id_id
+# 2. English en_us
+
+# Bahasa Indonesia
+id_ID:
+  - title: Get Money
+    img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3003_en.jpg
+    url: https://static.dsslot.xyz/h5/3003/?token=guest&host=https://game.dsslot.xyz/3003&lang=id_id
+    type: classic
+    provider: Dragoon Soft
+
+  - title: Grand Sheriff
+    img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3069_en.jpg
+    url: https://static.dsslot.xyz/h5/3069/?token=guest&host=https://game.dsslot.xyz/3069&lang=id_id
+    type: videoslot
+    provider: Dragoon Soft
+
+  - title: Bengal Tiger
+    img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3063_en.jpg
+    url: https://static.dsslot.xyz/h5/3063/?token=guest&host=https://game.dsslot.xyz/3063&lang=id_id
+    type: videoslot
+    provider: Dragoon Soft
+
+  - title: More Beauties
+    img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3041_en.jpg
+    url: https://static.dsslot.xyz/h5/3041/?token=guest&host=https://game.dsslot.xyz/3041&lang=id_id
+    type: videoslot
+    provider: Dragoon Soft
+
+  - title: Coin Cat
+    img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3043_en.jpg
+    url: https://static.dsslot.xyz/h5/3043/?token=guest&host=https://game.dsslot.xyz/3043&lang=id_id
+    type: videoslot
+    provider: Dragoon Soft
+
+  - title: Fruits Bar
+    img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3028_en.jpg
+    url: https://static.dsslot.xyz/h5/3028/?token=guest&host=https://game.dsslot.xyz/3028&lang=id_id
+    type: videoslot
+    provider: Dragoon Soft
+
+  - title: Pirate King
+    img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3021_en.jpg
+    url: https://static.dsslot.xyz/h5/3021/?token=guest&host=https://game.dsslot.xyz/3021&lang=en_us
+    type: videoslot
+    provider: Dragoon Soft
+
+  - title: Zeus
+    img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3019_en.jpg
+    url: https://static.dsslot.xyz/h5/3019/?token=guest&host=https://game.dsslot.xyz/3019&lang=id_id
+    type: videoslot
+    provider: Dragoon Soft
+
+  - title: Dracula
+    img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3020_en.jpg
+    url: https://static.dsslot.xyz/h5/3020/?token=guest&host=https://game.dsslot.xyz/3020&lang=id_id
+    type: videoslot
+    provider: Dragoon Soft
+
+
