@@ -23,8 +23,6 @@ feature:
         url: pgsoft
 
 
-
-
 providers:
   - title: Pragmatic Play
     img: https://l154gamer.github.io/assets/images/providers/pragmatic.svg
@@ -205,6 +203,15 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/megaways/pirates-plenty-megaways.webp
       - img: https://l154gamer.github.io/assets/img/megaways/chilli-heat-megaways.webp
       - img: https://l154gamer.github.io/assets/img/megaways/big-bucks-bandits.webp
+
+  - title: Spadegaming
+    url: spadegaming
+    images:
+      - img: https://l154gamer.github.io/assets/img/spadegaming/royal-katt.webp
+      - img: https://l154gamer.github.io/assets/img/spadegaming/first-love.webp
+      - img: https://l154gamer.github.io/assets/img/spadegaming/gold-rush-cowboys.webp
+      - img: https://l154gamer.github.io/assets/img/spadegaming/gangster-axe.webp
+      - img: https://l154gamer.github.io/assets/img/spadegaming/gold-panther.webp
 
 
 
