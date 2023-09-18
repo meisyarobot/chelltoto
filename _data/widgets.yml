@@ -152,6 +152,15 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/habanero/wild-trucks.webp
       - img: https://l154gamer.github.io/assets/img/habanero/egyptian-dreams-deluxe.webp
 
+  - title: Microgaming
+    url: microgaming
+    images:
+      - img: https://l154gamer.github.io/assets/img/microgaming/sherlock-of-london.webp
+      - img: https://l154gamer.github.io/assets/img/microgaming/break-da-bank-again.webp
+      - img: https://l154gamer.github.io/assets/img/microgaming/a-dark-matter.webp
+      - img: https://l154gamer.github.io/assets/img/microgaming/immortal-romance.webp
+      - img: https://l154gamer.github.io/assets/img/microgaming/jungle-jim.webp
+
 
 
 
