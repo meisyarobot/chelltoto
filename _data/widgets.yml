@@ -96,7 +96,16 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/pgsoft/mahjong-ways.webp
       - img: https://l154gamer.github.io/assets/img/pgsoft/mahjong-ways2.webp
       - img: https://l154gamer.github.io/assets/img/pgsoft/supermarket-spree.webp
-      - img: https://l154gamer.github.io/assets/img/pgsoft/qilim-ways.webp
+      - img: https://l154gamer.github.io/assets/img/pgsoft/qilin-ways.webp
+
+  - title: Yggdrasil
+    url: yggdrasil
+    images:
+      - img: https://l154gamer.github.io/assets/img/yggdrasil/holmes-stolen-stones.webp
+      - img: https://l154gamer.github.io/assets/img/yggdrasil/vikings-go-berzerk.webp
+      - img: https://l154gamer.github.io/assets/img/yggdrasil/armed-bandit.webp
+      - img: https://l154gamer.github.io/assets/img/yggdrasil/easter-island2.webp
+      - img: https://l154gamer.github.io/assets/img/yggdradil/beauty-the-beast.webp
 
 
 
