@@ -17,7 +17,7 @@ permalink: /site/
     </p><!-- card title --> 
    </div>
    <div class="uk-float-right">
-    <a href="{{ item.url | absolute_url }}" class="uk-button uk-button-text uk-text-capitalize">Lihat Semua <span uk-icon="icon: arrow-right"></span></a>
+    <a href="{{ item.url | relative_url }}" class="uk-button uk-button-text uk-text-capitalize">Lihat Semua <span uk-icon="icon: arrow-right"></span></a>
    </div>
   </div>
   <!-- /clearfix -->          
@@ -25,10 +25,10 @@ permalink: /site/
   <!-- begin content -->
   <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slider="center: true">
     <ul class="uk-slider-items uk-grid">
-      {% for item in item.data.images %}
+      {% for item in item.images %}
         <li style="margin: 0px !important; padding: 0px !important" class="uk-width-1-2">
             <div class="uk-panel uk-remove-margin" data-ride="carousel">
-                <img class="uk-border-rounded" src="{{ item.img }}" width="150" height="80" alt="">
+                <img class="uk-border-rounded" src="{{ item.img }}" width="150" height="80" alt="{{ item.title }}">
             </div>
         </li>
        {% endfor %}
