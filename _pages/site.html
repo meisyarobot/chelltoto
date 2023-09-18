@@ -3,24 +3,42 @@ layout: mainpage
 permalink: /site/
 ---
 
-<div id="grid" class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid>
-{% for game in site.data.pgsoft.data.id_ID %}  
- <div data-pilih="{{game.type}}" class="uk-width-1-2 bc item">
-  <div class="uk-card uk-card-default uk-border-rounded"> 
-   <div class="uk-card-media-top">
-    <a href="{{game.url}}" target="modal_iframe" onClick="showModal()"> 
-     <img src="{{site.url}}assets/img/pgsoft/{{game.img}}" width="1800" height="1200" alt="{{game.title}}" class="uk-border-rounded">
-    </a>
-   </div> 
-   <div class="uk-card-body uk-margin-remove-top"> 
-    <p class="uk-margin-remove-bottom">{{game.provider}}</p>
-    <h3 class="uk-link-reset uk-text-small uk-card-title uk-margin-remove-top uk-text-bold">
-    <a href="{{ game.url }}" target="modal_iframe" onClick="showModal()">{{game.title}}</a>
-    </h3>
-   </div> 
+<div class="uk-child-width-expand@s" uk-height-match="target: SELECTOR" uk-grid><!-- grids -->
+
+{% for item in site.data.widgets.byprovider %}  
+<div><!-- grid div -->
+ <div class="uk-card uk-card-default uk-card-body uk-remove-top uk-border-rounded"><!-- card -->
+
+  <!-- clearfix -->
+  <div class="uk-clearfix">
+   <div class="uk-float-left">
+    <p class="uk-text-bold uk-text-uppercase">
+     {{ item.title}} 
+    </p><!-- card title --> 
+   </div>
+   <div class="uk-float-right">
+    <a href="{{ item.url | absolute_url }}" class="uk-button uk-button-text uk-text-capitalize">Lihat Semua <span uk-icon="icon: arrow-right"></span></a>
+   </div>
   </div>
- </div>       
-{% else %}
-<p>{{site.data.settings.menu.page.nodata}}</p>
- {% endfor %}        
+  <!-- /clearfix -->          
+         
+  <!-- begin content -->
+  <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slider="center: true">
+    <ul class="uk-slider-items uk-grid">
+      {% for item in item.data.images %}
+        <li style="margin: 0px !important; padding: 0px !important" class="uk-width-1-2">
+            <div class="uk-panel uk-remove-margin" data-ride="carousel">
+                <img class="uk-border-rounded" src="{{ item.img }}" width="150" height="80" alt="">
+            </div>
+        </li>
+       {% endfor %}
+    </ul>
+  </div>                     
+  <!-- /End content -->
+  
+ </div><!-- /card -->
+</div><!-- /grid div -->
+{% endfor %}
+ 
 </div>
+
