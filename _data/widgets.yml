@@ -213,6 +213,15 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/spadegaming/gangster-axe.webp
       - img: https://l154gamer.github.io/assets/img/spadegaming/gold-panther.webp
 
+  - title: Playson
+    url: playson
+    images:
+      - img: https://playson.com/media/cache/game/uploads/games/cropped/32c5e944823ffc08bfcfe1830cab07599cf916a9.png
+      - img: https://playson.com/media/cache/game/uploads/games/cropped/2a042072e4601c9707efef043c4ba1bed943eb25.png
+      - img: https://playson.com/media/cache/game/uploads/games/cropped/ecf424d59a2e7c8c32df2dbf15bc33805e6442e2.png
+      - img: https://playson.com/media/cache/game/uploads/games/cropped/d0b1026d8fc33faf110f978c85178044e3e563fb.png
+      - img: https://playson.com/media/cache/game/uploads/games/cropped/911bc91a200d462b92bec104d9c4a94458a5342e.png
+
 
 
 
