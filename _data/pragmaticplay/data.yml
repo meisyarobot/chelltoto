@@ -675,6 +675,20 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10bhallbnza
   provider: Pragmatic Play 
 
+- title: Big Bass Hold & Spinner Megaways
+  symbol: vswaysbbhas
+  img: big-bass-hold-spinner-megaways.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysbbhas
+  type: megaways
+  provider: Pragmatic Play
+
+- title: 8 Golden Dragon Challenge
+  symbol: vs10gdchalleng
+  img: 8golden-dragon-challenge.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10gdchalleng
+  type: reelkingdom
+  provider: Pragmatic Play
+
 - title: Slot Mania Big Bass
   symbol: vs10smbigbass
   img: slotmania-bigbass.webp
@@ -800,3 +814,12 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10mayangods
   type: videoslot
   provider: Pragmatic Play
+
+- title: John Hunter & The Book of Tut Megaways
+  symbol: vswaystut
+  img: john-hunter-and-the-book-of-tut-megaways.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaystut
+  type: megaways
+  provider: Pragmatic Play
+
+ 
