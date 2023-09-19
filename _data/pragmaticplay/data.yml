@@ -667,6 +667,14 @@
   type: reelkingdom
   provider: Pragmatic Play - Reel Kingdom
 
+- title: Big Bass Halloween
+  symbol: vs10bhallbnza
+  img: big-bass-halloween.webp
+  type: reelkingdom
+  disable: disable
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10bhallbnza
+  provider: Pragmatic Play 
+
 - title: Slot Mania Big Bass
   symbol: vs10smbigbass
   img: slotmania-bigbass.webp
