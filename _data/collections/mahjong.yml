@@ -62,25 +62,21 @@
   img: koleksi/mahjong-ways3-playstar.webp
   url: https://demo-api.iplaystar.net/launch?game_id=PSS-ON-00141&host_id=6e72982bb3f9da8cce7650cde97b53c1&lang=id-ID
   type: playstar
-  disable: disable
   provider: Playstar
 - title: Mahjong Ways 3+
   img: koleksi/mahjong-ways3plus-playstar.webp
   url: https://demo-api.iplaystar.net/launch?game_id=PSS-ON-00146&host_id=6e72982bb3f9da8cce7650cde97b53c1&lang=id-ID
   type: playtech
-  disable: disable
   provider: Playstar
 - title: What The Fa
   img: koleksi/what-the-fa-playstar.webp
-  url: 
+  url: https://demo-api.iplaystar.net/launch?game_id=PSS-ON-00115&host_id=6e72982bb3f9da8cce7650cde97b53c1&lang=id-ID
   type: playstar
-  disable: disable
   provider: Playstar
 - title: Hand of God
   img: koleksi/hand-of-god-playstar.webp
-  url: 
+  url: https://demo-api.iplaystar.net/launch?game_id=PSS-ON-00095&host_id=6e72982bb3f9da8cce7650cde97b53c1&lang=id-ID
   type: playstar
-  disable: disable
   provider: Playstar
 
 # Naga Games
