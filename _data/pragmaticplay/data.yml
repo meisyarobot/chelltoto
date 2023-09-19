@@ -682,18 +682,18 @@
   type: megaways
   provider: Pragmatic Play
 
-- title: 8 Golden Dragon Challenge
-  symbol: vs10gdchalleng
-  img: 8golden-dragon-challenge.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10gdchalleng
-  type: reelkingdom
-  provider: Pragmatic Play
-
 - title: Slot Mania Big Bass
   symbol: vs10smbigbass
   img: slotmania-bigbass.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10smbigbass
   type: slotmania
+  provider: Pragmatic Play
+
+- title: 8 Golden Dragon Challenge
+  symbol: vs10gdchalleng
+  img: 8golden-dragon-challenge.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10gdchalleng
+  type: reelkingdom
   provider: Pragmatic Play
 
 - title: The Amazing Money Machine
