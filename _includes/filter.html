@@ -43,6 +43,24 @@
          <li><a uk-filter-control="[data-pilih='megaways']" href="#megaways">Megaways</a></li>
          <li><a uk-filter-control="[data-pilih='table']" href="#table">{{site.data.settings.menu.page.table}}</a></li>
         {% endif %}
+        {% if page.active == "mahjong" %}
+        <li><a uk-filter-control="[data-pilih='new']" href="#new">{{site.data.settings.menu.page.new}}</a></li>
+        <li>
+            <a href="#">{{site.data.settings.menu.page.line}} <span uk-drop-parent-icon></span></a>
+            <div class="uk-dropdown">
+              <ul class="uk-nav uk-dropdown-nav">
+                 <li><a uk-filter-control="[data-pilih='pgsoft']" href="#pgsoft">PG Soft</a></li>
+                 <li><a uk-filter-control="[data-pilih='pragmaticplay']" href="#pragmaticplay">Pragmatic Play</a></li>
+                 <li><a uk-filter-control="[data-pilih='kagaming']" href="#kagaming">Ka Gaming</a></li>
+                 <li><a uk-filter-control="[data-pilih='dragoonsoft']" href="#dragoonsoft">Dragoon Soft</a></li>
+                 <li><a uk-filter-control="[data-pilih='nagagames']" href="#nagagames">Naga Games</a></li>
+                 <li><a uk-filter-control="[data-pilih='playstar']" href="#playstar">Playstar</a></li>
+                 <li><a uk-filter-control="[data-pilih='skywind']" href="#skywind">Skywind Group</a></li>
+                 <li><a uk-filter-control="[data-pilih='cq9gaming']" href="#cq9gaming">CQ9 Gaming</a></li>
+              </ul>
+            </div>
+        </li>
+        {% endif %}
     </ul>
 </nav>
 </div>
