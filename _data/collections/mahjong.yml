@@ -58,7 +58,7 @@
 
 # Playstar
 - title: Mahjong Ways 3
-  img: koleksi/mahjong-ways2-playstar.webp
+  img: koleksi/mahjong-ways3-playstar.webp
   url: 
   type: playstar
   provider: Playstar
@@ -78,6 +78,7 @@
   type: playstar
   provider: Playstar
 
+# Naga Games
 - title: Mahjong fortune
   img: koleksi/mahjong-fortune-nagagames.webp
   url: 
@@ -141,7 +142,7 @@
   provider: Royal Slot Gaming
 
 - title: Mahjong Master 
-  img: 
+  img: koleksi/mahjong-master-pinquan.webp
   type: pinquan
   provider: PinQuan
 
