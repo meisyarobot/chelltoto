@@ -41,7 +41,7 @@
 
 # Ka Gaming
 - title: Fa Cai Destiny
-  img: koleksi/facai-destiny-kagaming.webp
+  img: koleksi/fa-cai-destiny-kagaming.webp
   url: 
   type: kagaming
   provider: Ka Gaming
@@ -83,6 +83,7 @@
   img: koleksi/mahjong-fortune-nagagames.webp
   url: 
   type: nagaganes
+  disable: disable
   provider: Naga Games
 
 # Skywind Group
@@ -90,6 +91,7 @@
   img: koleksi/mahjong-jinpai-skywind.webp
   url: 
   type: skywindgroup
+  disable: disable
   provider: Skywind Group
 
 # Play'n Go
@@ -97,6 +99,7 @@
   img: koleksi/mahjong88-playngo.webp
   url: 
   type: playngo
+  disable: disable
   provider: Play'n Go
 
 # Evoplay
@@ -104,6 +107,7 @@
   img: koleksi/lucky-mahjong-box-evoplay.webp
   url: 
   type: evoplay
+  disable: disable
   provider: Evoplay
 
 # Askmeslot
@@ -111,7 +115,8 @@
   img: koleksi/mahjong-legend-askmebet.webp
   url: 
   type: askmeslot
-  provider: Askmebet
+  disable: disable
+  provider: Askmeslot
 
 # CQ9 Gaming
 - title: Mahjong King 
@@ -139,10 +144,12 @@
 - title: Rich Mahjong 
   img: koleksi/rich-mahjong-rsg.webp
   type: rsg
+  disable: disable
   provider: Royal Slot Gaming
 
 - title: Mahjong Master 
   img: koleksi/mahjong-master-pinquan.webp
   type: pinquan
+  disable: disable
   provider: PinQuan
 
