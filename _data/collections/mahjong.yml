@@ -83,7 +83,6 @@
   img: koleksi/mahjong-fortune-nagagames.webp
   url: 
   type: nagaganes
-  disable: disable
   provider: Naga Games
 
 # Skywind Group
@@ -140,6 +139,7 @@
   img: koleksi/rich-mahjong2-topplayer.webp
   type: topplayer
   url: https://www.topplayer888.com/demo/url.php?i=3423&go=ok
+  provider: Top Player
 
 - title: Rich Mahjong 
   img: koleksi/rich-mahjong-rsg.webp
@@ -152,4 +152,3 @@
   type: pinquan
   disable: disable
   provider: PinQuan
-
