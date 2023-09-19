@@ -97,9 +97,8 @@
 # Play'n Go
 - title: Mahjong 88
   img: koleksi/mahjong88-playngo.webp
-  url: 
+  url: https://asccw.playngonetwork.com/casino/ContainerLauncher?pid=2&gid=mahjong88&lang=id_ID&practice=1&channel=mobile&demo=2
   type: playngo
-  disable: disable
   provider: Play'n Go
 
 # Evoplay
