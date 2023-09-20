@@ -212,3 +212,11 @@
   type: simpleplay
   provider: Simple Play
 
+# Aiwin Games
+- title: Mahjong 13 
+  img: koleksi/mahjong13-aiwingames.webp
+  url:
+  type: aiwingames
+  disable: disable
+  provider: Aiwin Games
+
