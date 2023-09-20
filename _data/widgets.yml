@@ -249,4 +249,13 @@ byprovider:
       - img: https://assets.gamemediaworks.com/thumbnail/rectangle/G268.png
       - img: https://assets.gamemediaworks.com/thumbnail/rectangle/G279.png
 
+  - title: Fastspin
+    url: fastspin
+    images:
+      - img: https://l154gamer.github.io/assets/img/fastspin/roma.webp
+      - img: https://l154gamer.github.io/assets/img/fastspin/the-maya-myth.webp
+      - img: https://l154gamer.github.io/assets/img/fastspin/tiki-rush.webp
+      - img: https://l154gamer.github.io/assets/img/fastspin/safar-blitz.webp
+      - img: https://l154gamer.github.io/assets/img/fastspin/royal-katt.webp
+
 
