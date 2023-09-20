@@ -356,7 +356,7 @@ html, body, .uk-section-primary {
     background-color: var(--bg-card) !important;
     color: var(--color-text) !important;
 }
-.uk-subnav a, .uk-active, .uk-navbar-toggle, .uk-heading-line, .uk-offcanvas-bar a, .uk-navbar-dropdown-nav a {
+.uk-subnav a, .uk-active, .uk-navbar-toggle, .uk-heading-line, .uk-offcanvas-bar a, .uk-navbar-dropdown-nav a, .uk-accordion, .uk-accordion-title {
  color: var(--color-text) !important;   
 }
 h1, h2, h3, h4, h5, h6 {
