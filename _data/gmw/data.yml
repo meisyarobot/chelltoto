@@ -1,0 +1,74 @@
+# 1.Bahasa Indonesia IDR
+# 2. English USD
+
+# Bahasa Indonesia
+id_ID:
+  - title: Bald Eagle 
+    img: https://assets.gamemediaworks.com/thumbnail/rectangle/G318.png
+    url: https://www.gamemediaworks.com/loader/index.html?gameid=G318&currency=IDR&token=&mode=fun&locale=id
+    type: videoslot
+    provider: GMW
+    
+  - title: Fantasi Land
+    img: https://assets.gamemediaworks.com/thumbnail/rectangle/G314.png
+    url: https://www.gamemediaworks.com/loader/index.html?gameid=G314&currency=IDR&token=&mode=fun&locale=id
+    type: videoslot
+    provider: GMW
+    
+  - title: Banditres
+    img: https://assets.gamemediaworks.com/thumbnail/rectangle/G325.png
+    url: https://www.gamemediaworks.com/loader/index.html?gameid=G325&currency=IDR&token=&mode=fun&locale=id
+    type: videoslot
+    provider: GMW
+    
+  - title: Black Pearl
+    img: https://assets.gamemediaworks.com/thumbnail/rectangle/G179.png
+    url: https://www.gamemediaworks.com/loader/index.html?gameid=G179&currency=IDR&token=&mode=fun&locale=id
+    type: videoslot
+    provider: GMW
+    
+  - title: Black Panther
+    img: https://assets.gamemediaworks.com/thumbnail/rectangle/G254.png
+    url: https://www.gamemediaworks.com/loader/index.html?gameid=G254&currency=IDR&token=&mode=fun&locale=id
+    type: videoslot
+    provider: GMW
+    
+  - title: Orca
+    img: https://assets.gamemediaworks.com/thumbnail/rectangle/G279.png
+    url: https://www.gamemediaworks.com/loader/index.html?gameid=G279&currency=IDR&token=&mode=fun&locale=id
+    type: videoslot
+    provider: GMW
+    
+  - title: Kassandra
+    img: https://assets.gamemediaworks.com/thumbnail/rectangle/G151.png
+    url: https://www.gamemediaworks.com/loader/index.html?gameid=G151&currency=IDR&token=&mode=fun&locale=id
+    type: videoslot
+    provider: GMW
+    
+  - title: El Patron
+    img: https://assets.gamemediaworks.com/thumbnail/rectangle/G152.png
+    url: https://www.gamemediaworks.com/loader/index.html?gameid=G152&currency=IDR&token=&mode=fun&locale=id
+    type: videoslot
+    provider: GMW
+    
+  - title: Princess of The Deep 
+    img: https://assets.gamemediaworks.com/thumbnail/rectangle/G171.png
+    url: https://www.gamemediaworks.com/loader/index.html?gameid=G171&currency=IDR&token=&mode=fun&locale=id
+    type: videoslot
+    provider: GMW
+    
+  - title: Marie Antoinette's Riches
+    img: https://assets.gamemediaworks.com/thumbnail/rectangle/G124.png
+    url: https://www.gamemediaworks.com/loader/index.html?gameid=G124&currency=IDR&token=&mode=fun&locale=id
+    type: videoslot
+    provider: GMW
+    
+  - title: Arctic Wolf
+    img: https://assets.gamemediaworks.com/thumbnail/rectangle/G128.png
+    url: https://www.gamemediaworks.com/loader/index.html?gameid=G128&currency=IDR&token=&mode=fun&locale=id
+    type: videoslot
+    provider: GMW
+
+
+
+
