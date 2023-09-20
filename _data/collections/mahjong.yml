@@ -122,6 +122,18 @@
   type: cq9gaming
   disable: disable
   provider: CQ9 Gaming
+- title: Da Fa Chai CQ9 Gaming
+  img: koleksi/dafacai-cq9gaming.webp
+  url: 
+  type: cq9gaming
+  disable: disable
+  provider: CQ9 Gaming
+- title: Da Hong Zhonh CQ9 Gaming
+  img: koleksi/dahongzhong-cq9gaming.webp
+  url: 
+  type: cq9gaming
+  disable: disable
+  provider: CQ9 Gaming
 
 # Top Player
 - title: Fortune Mahjong 
@@ -187,4 +199,16 @@
   url: https://wsx.mayousa.com/M/index.html?gameno=%1F%14%01W%5C%00%5D_%1A%0DF%01%00%00%1A%1D%17%0F%5D%00RP%0BU%60%0C%00%5BW%10%09AV%10I%1AP%03%5C%0DZW%1A_%00PTT%1E%40%5BXF%22%13%11%09j%14P%0DD%0CFJ%40W%18%40%12S%5DG%12%03%14%08%00%03%00R%0A%04%5BRVX%05%01T%09SVQ%00TQ%02%0A%05W%00%04W%06%02TUV%03%02%0B%03VT%02%00%03Y%5EQV%5DS%07QWWRP%04P%08%5D%0B%07%0AS%5D%08%06R%0AWT%5B%05Q%01%0F%00%0AQQPST%0B%01T%02SQY%5DR%05V%06P%0B%06%00%5B%06%00%0A%40N&session=Guest&code=161&lang=en&cache=
   type: funtagaming
   provider: Funta Gaming
+
+# Simple Play
+- title: Saint of Mahjong 
+  img: koleksi/saint-of-mahjong-simpleplay.webp
+  url: https://www.simpleplay.com/LaunchGame/EG-SLOT-A022/id-ID/mobile
+  type: simpleplay
+  provider: Simple Play
+- title: Big Three Dragons 
+  img: koleksi/big-three-dragons-simpleplay.webp
+  url: https://www.simpleplay.com/LaunchGame/EG-SLOT-C004/en-US/mobile
+  type: simpleplay
+  provider: Simple Play
 
