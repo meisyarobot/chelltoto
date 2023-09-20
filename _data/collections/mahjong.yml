@@ -154,3 +154,35 @@
   disable: disable
   provider: PinQuan
 
+
+# TPG Triple Profits Games
+- title: Mahjong House 
+  img: koleksi/mahjong-house-tpg.webp
+  url:
+  disable: disable
+  provider: Triple Profits Games
+
+# Cayetano Gaming
+- title: Lucky Mahjong Cayetano Gaming 
+  img: koleksi/lucky-mahjong-cayetanogaming.webp
+  url: 
+  disable: disable
+  provider: Cayetano Gaming
+
+# Funta Gaming
+- title: Niu Niu Mahjong
+  img: koleksi/niu-niu-mahjong-funtagaming.webp
+  url: 
+  disable: disable
+  provider: Funta Gaming
+  
+- title: Gold Mahjong Gold 
+  img: koleksi/gold-mahjonfuntagaming.webp
+  url: https://www.funta-gaming.com/slot_game/M/index.html?gameno=%1F%14%01W%5C%00%5D_%1A%0DF%01%0E%05%1A%1D%17%0F%5D%00RP%0BU%60%0C%00%5BW%10%09AV%10I%1AP%03%5C%0DZW%1A_%00PTT%1E%40%5BXF%22%13%11%09j%14P%0DD%0CFJ%40W%18%40%12S%5DG%12%03%14%01U%04%5C%00%0C%04%08P%03%01U%00S%5D%02%06%06%03S%03P%00QP%01%07SU%03%03RST%05%08%05%07%04%00%00%05%01S%04%00%05%0F%00%04%01%0DW%02%02%0F%02WR%05%5C%06TQR%04%0ESSU%01VR_%06%01QRUT%06P%00Q%03%0A%5DZ%0CR%09WV%00%0D%03%06U%5DW%0A%40N&session&session=Guest&code=184&lang=en&cache=
+  provider: Funta Gaming
+  
+- title: JP Mahjong Funta Gaming
+  img: koleksi/jp-mahjong-funtagaming.webp
+  url: https://wsx.mayousa.com/M/index.html?gameno=%1F%14%01W%5C%00%5D_%1A%0DF%01%00%00%1A%1D%17%0F%5D%00RP%0BU%60%0C%00%5BW%10%09AV%10I%1AP%03%5C%0DZW%1A_%00PTT%1E%40%5BXF%22%13%11%09j%14P%0DD%0CFJ%40W%18%40%12S%5DG%12%03%14%08%00%03%00R%0A%04%5BRVX%05%01T%09SVQ%00TQ%02%0A%05W%00%04W%06%02TUV%03%02%0B%03VT%02%00%03Y%5EQV%5DS%07QWWRP%04P%08%5D%0B%07%0AS%5D%08%06R%0AWT%5B%05Q%01%0F%00%0AQQPST%0B%01T%02SQY%5DR%05V%06P%0B%06%00%5B%06%00%0A%40N&session=Guest&code=161&lang=en&cache=
+  provider: Funta Gaming
+
