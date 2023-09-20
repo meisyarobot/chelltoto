@@ -144,7 +144,7 @@
 - title: Rich Mahjong 
   img: koleksi/rich-mahjong-rsg.webp
   type: rsg
-  disable: disable
+  url: https://www.rsg-games.com/Web/SlotGame3?dir=RichMahjong&wspath=SlotUser
   provider: Royal Slot Gaming
 
 - title: Mahjong Master 
