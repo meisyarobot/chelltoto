@@ -1,3 +1,15 @@
+# PG Soft
+- title: Mahjong Ways 
+  img: koleksi/mahjong-ways-pgsoft.webp
+  url: https://m.pgsoft-games.com/65/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  type: pgsoft
+  provider: PG Soft
+- title: Mahjong Ways 2
+  img: koleksi/mahjong-ways2-pgsoft.webp
+  url: https://m.pgsoft-games.com/74/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  type: pgsoft
+  provider: PG Soft
+
 # Pragmatic Play
 - title: Mahjong Wins 
   img: koleksi/mahjong-wins-pragmatic.webp
@@ -14,18 +26,6 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs1024mahjpanda
   type: pragmaticplay
   provider: Pragmatic Play
-
-# PG Soft
-- title: Mahjong Ways 
-  img: koleksi/mahjong-ways-pgsoft.webp
-  url: https://m.pgsoft-games.com/65/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  type: pgsoft
-  provider: PG Soft
-- title: Mahjong Ways 2
-  img: koleksi/mahjong-ways2-pgsoft.webp
-  url: https://m.pgsoft-games.com/74/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  type: pgsoft
-  provider: PG Soft
 
 # Dragoon Soft
 - title: Get Money
@@ -65,7 +65,7 @@
 - title: Mahjong Ways 3+
   img: koleksi/mahjong-ways3plus-playstar.webp
   url: https://demo-api.iplaystar.net/launch?game_id=PSS-ON-00146&host_id=6e72982bb3f9da8cce7650cde97b53c1&lang=id-ID
-  type: playtech
+  type: playstar
   provider: Playstar
 - title: What The Fa
   img: koleksi/what-the-fa-playstar.webp
@@ -140,14 +140,17 @@
   url: https://www.topplayer888.com/demo/url.php?i=3423&go=ok
   provider: Top Player
 
+# Royal Slot Gaming
 - title: Rich Mahjong 
   img: koleksi/rich-mahjong-rsg.webp
   type: rsg
   url: https://www.rsg-games.com/Web/SlotGame3?dir=RichMahjong&wspath=SlotUser
   provider: Royal Slot Gaming
 
+# PinQuan
 - title: Mahjong Master 
   img: koleksi/mahjong-master-pinquan.webp
   type: pinquan
   disable: disable
   provider: PinQuan
+
