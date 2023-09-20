@@ -26,5 +26,35 @@
   </div>
  </div>
  {% include javascript.html %}
+ 
+<script>
+    const image = document.getElementById('games-img');
+
+    const toDataURL = () => {
+        const canvas = document.createElement('canvas');
+
+        // We use naturalWidth and naturalHeight to get the real image size vs the size at which the image is shown on the page
+        canvas.width = image.naturalWidth;
+        canvas.height = image.naturalHeight;
+
+        // We get the 2d drawing context and draw the image in the top left
+        canvas.getContext('2d').drawImage(image, 0, 0);
+
+        // Convert canvas to DataURL and log to console
+        const dataURL = canvas.toDataURL();
+        console.log(dataURL);
+        // logs data:image/png;base64,wL2dvYWwgbW9yZ...
+
+        // Convert to Base64 string
+        const base64 = getBase64StringFromDataURL(dataURL);
+        console.log(base64);
+        // Logs wL2dvYWwgbW9yZ...
+    };
+
+    // If the image has already loaded, let's go!
+    if (image.complete) toDataURL(image);
+    // Wait for the image to load before converting
+    else image.onload = toDataURL;
+</script>
 </body>
 </html>
