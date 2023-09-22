@@ -71,3 +71,81 @@
   type: videoslot
   provider: Gameart
 
+- title: Captain Candy
+  img: https://gameart.net/wp-content/uploads/2019/05/CC_main_web-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=204
+  type: videoslot
+  provider: Gameart
+  
+- title: Tiger Heart
+  img: https://gameart.net/wp-content/uploads/2018/08/TigerHeart_main_web-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=146
+  type: videoslot
+  provider: Gameart
+
+- title: Caligula
+  img: https://gameart.net/wp-content/uploads/2018/08/Caligula_main_web-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=138
+  type: videoslot
+  provider: Gameart
+
+- title: Dragon Lady
+  img: https://gameart.net/wp-content/uploads/2018/08/DragonLady_main_web-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=113
+  type: videoslot
+  provider: Gameart
+
+- title: African Sunset
+  img: https://gameart.net/wp-content/uploads/2018/08/AfricanSunset_main_web-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=73
+  type: videoslot
+  provider: Gameart
+
+- title: African Sunset 2
+  img: https://gameart.net/wp-content/uploads/2021/07/AS2_main_web-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=296&casino=5444
+  type: videoslot
+  provider: Gameart
+
+- title: Wolf Quest
+  img: https://gameart.net/wp-content/uploads/2018/08/WolfQuest_main_web-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=14
+  type: videoslot
+  provider: Gameart
+
+- title: Jumpin' Pot
+  img: https://gameart.net/wp-content/uploads/2018/08/JumpinPot_main_web-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=71
+  type: videoslot
+  provider: Gameart
+
+- title: Blackjack Side Bets
+  img: https://gameart.net/wp-content/uploads/2022/08/BlackJack_Sidebets_main_web-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=352
+  type: table
+  provider: Gameart
+
+- title: Baccarat
+  img: https://gameart.net/wp-content/uploads/2021/12/Baccarat_main_web-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=321
+  type: table
+  provider: Gameart
+
+- title: Awesome 7's 
+  img: https://gameart.net/wp-content/uploads/2022/10/A7_WebIcon_1300X867-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=354
+  type: videoslot
+  provider: Gameart
+
+- title: Money Farm Megaways
+  img: https://gameart.net/wp-content/uploads/2023/02/MFM_main_web_1300x867-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=373
+  type: megaways
+  provider: Gameart
+
+- titlr: Raiders of The Lost Book
+  img: https://gameart.net/wp-content/uploads/2023/08/RLB_main_web-768x512.jpg
+  url: https://hg4dev.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=386
+  type: videoslot
+  provider: Gameart
+
