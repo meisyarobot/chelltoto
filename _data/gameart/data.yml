@@ -41,4 +41,33 @@
   type: videoslot
   provider: Gameart
 
+- title: Joan of Arc
+  img: https://gameart.net/wp-content/uploads/2018/10/JOFARC_main_web-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=199
+  type: videoslot
+  provider: Gameart
+  
+- title: Circus of Horror
+  img: https://gameart.net/wp-content/uploads/2019/01/COA_main_web-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=201
+  type: videoslot
+  provider: Gameart
+  
+- title: Queen of The Seas
+  img: https://gameart.net/wp-content/uploads/2018/08/QueenOfTheSeas_main_web-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=186
+  type: videoslot
+  provider: Gameart
+  
+- title: Tesla Spark of Genius
+  img: https://gameart.net/wp-content/uploads/2018/08/Tesla_main_web-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=81
+  type: videoslot
+  provider: Gameart
+  
+- title: Dawn of Olympus
+  img: https://gameart.net/wp-content/uploads/2020/05/DOO_main_web-768x512.jpg
+  url: https://ga6.gahypergaming.com/rgs/views/gameart/gameartdemo.js?game=233
+  type: videoslot
+  provider: Gameart
 
