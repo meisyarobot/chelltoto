@@ -201,11 +201,11 @@ byprovider:
   - title: Eurasian Gaming
     url: eagaming
     images:
-      - img: https://l154gamer.github.io/assets/img/eagaming/thug-life.webp
-      - img: https://l154gamer.github.io/assets/img/eagaming/lady-hawk.webp
-      - img: https://l154gamer.github.io/assets/img/eagaming/mythical-sand.webp
-      - img: https://l154gamer.github.io/assets/img/eagaming/immortals.webp
-      - img: https://l154gamer.github.io/assets/img/eagaming/ancient-rome-deluxe.webp
+      - img: https://l154gamer.github.io/assets/images/thumbnail/thug-life-ea.webp
+      - img: https://l154gamer.github.io/assets/images/thumbnail/lady-hawk-ea.webp
+      - img: https://l154gamer.github.io/assets/images/thumbnail/mythical-sand-ea.webp
+      - img: https://l154gamer.github.io/assets/images/thumbnail/immortals-ea.webp
+      - img: https://l154gamer.github.io/assets/images/thumbnail/ancient-rome-deluxe-ea.webp
     desc: Mainkan game dari Eurasian Gaming (Eagaming) dengan uang asli disitus berserver Nexus & UG.
     
   - title: Megaways
