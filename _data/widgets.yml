@@ -258,7 +258,7 @@ byprovider:
       - img: https://rmpiconcdn.kaga88.com/kaga/gameIcon?game=SexyLips&lang=en&type=square
     desc: Mainkan game dari Ka Gaming disitus berserver Nexus & UG.
     
-  - title: GMW
+  - title: GMW (Game Media Works)
     url: gmw
     images:
       - img: https://assets.gamemediaworks.com/thumbnail/rectangle/G152.png
@@ -266,7 +266,7 @@ byprovider:
       - img: https://assets.gamemediaworks.com/thumbnail/rectangle/G171.png
       - img: https://assets.gamemediaworks.com/thumbnail/rectangle/G268.png
       - img: https://assets.gamemediaworks.com/thumbnail/rectangle/G279.png
-    desc: Mainkan game dari GMW disitus berserver IDN, Nexus & UG.
+    desc: Mainkan game dari GMW (Game Media Works) disitus berserver IDN, Nexus & UG.
     
   - title: Fastspin
     url: fastspin
