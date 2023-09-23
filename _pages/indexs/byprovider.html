@@ -55,7 +55,14 @@ permalink: /byprovider/
     </ul>
   </div>                     
   <!-- /End content -->
-  <p class="uk-text-small">{{ item.desc }}</p>
+  <ul uk-accordion>
+    <li>
+        <a class="uk-accordion-title uk-text-small" href="#">Info</a>
+        <div class="uk-accordion-content">
+         <p class="uk-text-small uk-text-mute">{{ item.desc }}</p>
+        </div>
+    </li>
+  </ul>                                                                 
  </div><!-- /card -->
 </div><!-- /grid div -->
 {% endfor %}
