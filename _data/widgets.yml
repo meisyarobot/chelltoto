@@ -86,7 +86,7 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-duels.webp
       - img: https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-gold.webp
       - img: https://l154gamer.github.io/assets/img/pragmatic-play/gatotkaca.webp
-    desc: Engine yang bisa memainkan game dari Pragmatic Play yaitu IDN, NukeGaming, Infini, UG, Nexus, MPO, Pay4D.
+    desc: Mainkan game dari Pragmatic Play disitus berserver IDN, NukeGaming, Infini, UG, Nexus, MPO, Pay4D.
     
   - title: PG Soft
     url: pgsoft
@@ -96,7 +96,7 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/pgsoft/mahjong-ways2.webp
       - img: https://l154gamer.github.io/assets/img/pgsoft/supermarket-spree.webp
       - img: https://l154gamer.github.io/assets/img/pgsoft/qilin-ways.webp
-    desc: Engine yang bisa memainkan game dari PG Soft yaitu IDN, NukeGaming, Infini, UG, Nexus, MPO, Pay4D.
+    desc: Mainkan game dari PG Soft disitus berserver IDN, NukeGaming, Infini, UG, Nexus, MPO, Pay4D.
     
   - title: Yggdrasil
     url: yggdrasil
@@ -106,7 +106,7 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/yggdrasil/armed-bandit.webp
       - img: https://l154gamer.github.io/assets/img/yggdrasil/easter-island2.webp
       - img: https://l154gamer.github.io/assets/img/yggdrasil/beauty-the-beast.webp
-    desc: Engine yang bisa memainkan game dari Yggdrasil yaitu NukeGaming, Infini, UG, Nexus, MPO.
+    desc: Mainkan game dari Yggdrasil disitus berserver NukeGaming, Infini, UG, Nexus, MPO.
     
   - title: Nolimit City
     url: nolimit-city
@@ -116,7 +116,7 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/nolimit-city/rock-bottom.webp
       - img: https://l154gamer.github.io/assets/img/nolimit-city/serial.webp
       - img: https://l154gamer.github.io/assets/img/nolimit-city/mental.webp
-    desc: Engine yang bisa memainkan game dari Nolimit City yaitu IDN, NukeGaming, Infini, UG, Nexus, Pay4D.
+    desc: Mainkan game dari Nolimit City disitus berserver IDN, NukeGaming, Infini, UG, Nexus, Pay4D.
     
   - title: Red Tiger
     url: redtiger
@@ -126,7 +126,7 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/redtiger/robin-hoods-wild-forest.webp
       - img: https://l154gamer.github.io/assets/img/redtiger/ninja-ways.webp
       - img: https://l154gamer.github.io/assets/img/redtiger/agent-royale.webp
-    desc: Engine yang bisa memainkan game dari Red Tiger yaitu NukeGaming, UG, Nexus, MPO.
+    desc: Mainkan game dari Red Tiger disitua berserver NukeGaming, UG, Nexus, MPO.
     
   - title: NetEnt
     url: netent
@@ -154,7 +154,8 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/habanero/return-to-the-feature.webp
       - img: https://l154gamer.github.io/assets/img/habanero/wild-trucks.webp
       - img: https://l154gamer.github.io/assets/img/habanero/egyptian-dreams-deluxe.webp
-
+    desc: Mainkan game dari Habanero disitus berserver IDN, NukeGaming, Infini, UG, Nexus, MPO, Pay4D.
+    
   - title: Microgaming
     url: microgaming
     images:
@@ -271,6 +272,6 @@ byprovider:
       - img: https://gameart.net/wp-content/uploads/2020/04/WWQ_main_web-768x512.jpg
       - img: https://gameart.net/wp-content/uploads/2018/08/Tesla_main_web-768x512.jpg
       - img: https://gameart.net/wp-content/uploads/2021/07/HF_main_web-1-768x512.jpg
-    desc: Engine yang bisa memainkan game dari Gameart yaitu IDN.
+    desc: Mainkan game dari Gameart disitus berserver IDN.
     
 
