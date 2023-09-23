@@ -136,7 +136,8 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/netent/jumanji.webp
       - img: https://l154gamer.github.io/assets/img/netent/drive-multiplier-mayhem.webp
       - img: https://l154gamer.github.io/assets/img/netent/secrets-of-atlantis.webp
-
+    desc: Mainkan game dari NetEnt disitus berserver Nexus, UG, Pay4D, MPO, NukeGaming.
+    
   - title: Bgaming
     url: bgaming
     images:
@@ -145,7 +146,8 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/bgaming/aztec-magic-megaways.webp
       - img: https://l154gamer.github.io/assets/img/bgaming/hit-the-route.webp
       - img: https://l154gamer.github.io/assets/img/bgaming/road-2-riches.webp
-
+    desc: Mainkan game dari Bgaming disitus berserver Nexus & UG.
+    
   - title: Habanero
     url: habanero
     images:
@@ -164,7 +166,8 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/microgaming/a-dark-matter.webp
       - img: https://l154gamer.github.io/assets/img/microgaming/immortal-romance.webp
       - img: https://l154gamer.github.io/assets/img/microgaming/jungle-jim.webp
-
+    desc: Mainkan game dari Microgaming disitus berserver Infini, IDN, Nexus, UG, Pay4D, NukeGaming.
+    
   - title: Advant Play
     url: advant-play
     images:
@@ -173,7 +176,8 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/advant-play/treasure-of-drake.webp
       - img: https://l154gamer.github.io/assets/img/advant-play/anubis.webp
       - img: https://l154gamer.github.io/assets/img/advant-play/infinity-ocean.webp
-
+    desc: Mainkan game dari Advant Play disitus berserver Infini, Nexus, UG, MPO & NukeGaming.
+    
   - title: iSoftBet
     url: isoftbet
     images:
@@ -182,7 +186,8 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/isoftbet/alice-adventure.webp
       - img: https://l154gamer.github.io/assets/img/isoftbet/tyrant-king.webp
       - img: https://l154gamer.github.io/assets/img/isoftbet/tales-of-silver.webp
-
+    desc: Tidak ada data.
+    
   - title: Naga Games
     url: naga-games
     images:
@@ -191,7 +196,8 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/naga-games/wild-west-saloon.webp
       - img: https://l154gamer.github.io/assets/img/naga-games/steampunk-reloaded.webp
       - img: https://l154gamer.github.io/assets/img/naga-games/mermaids-treasure.webp
-
+    desc: Mainkan game dari Naga Games disitus berserver Nexus, UG & MPO.
+    
   - title: Eurasian Gaming
     url: eagaming
     images:
@@ -200,7 +206,8 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/eagaming/mythical-sand.webp
       - img: https://l154gamer.github.io/assets/img/eagaming/immortals.webp
       - img: https://l154gamer.github.io/assets/img/eagaming/ancient-rome-deluxe.webp
-
+    desc: Mainkan game dari Eurasian Gaming (Eagaming) disitus berserver Nexus & UG.
+    
   - title: Megaways
     url: megaways
     images:
@@ -209,7 +216,8 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/megaways/pirates-plenty-megaways.webp
       - img: https://l154gamer.github.io/assets/img/megaways/chilli-heat-megaways.webp
       - img: https://l154gamer.github.io/assets/img/megaways/big-bucks-bandits.webp
-
+    desc: Mainkan game dari PG Soft disitus berserver IDN, NukeGaming, Infini, UG, Nexus, MPO, Pay4D.
+    
   - title: Spadegaming
     url: spadegaming
     images:
@@ -218,7 +226,8 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/spadegaming/gold-rush-cowboys.webp
       - img: https://l154gamer.github.io/assets/img/spadegaming/gangster-axe.webp
       - img: https://l154gamer.github.io/assets/img/spadegaming/gold-panther.webp
-
+    desc: Mainkan game dari Spadegaming disitus berserver Infini, Nexus, UG, Pay4D & NukeGaming.
+    
   - title: Playson
     url: playson
     images:
@@ -227,7 +236,8 @@ byprovider:
       - img: https://playson.com/media/cache/game/uploads/games/cropped/ecf424d59a2e7c8c32df2dbf15bc33805e6442e2.png
       - img: https://playson.com/media/cache/game/uploads/games/cropped/d0b1026d8fc33faf110f978c85178044e3e563fb.png
       - img: https://playson.com/media/cache/game/uploads/games/cropped/911bc91a200d462b92bec104d9c4a94458a5342e.png
-
+    desc: Mainkan game dari Playsn disitus berserver IDN, Nexus & UG.
+    
   - title: Dragoon Soft
     url: dragoon-soft
     images:
@@ -236,7 +246,8 @@ byprovider:
       - img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3041_en.jpg
       - img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3063_en.jpg
       - img: https://lobby.dsdemo.cc/icon/game/dragoonsoft_3020_en.jpg
-
+    desc: Mainkan game dari Dragoon Soft disitus berserver Infini, Nexus & UG.
+    
   - title: Ka Gaming
     url: kagaming
     images:
@@ -245,7 +256,8 @@ byprovider:
       - img: https://rmpiconcdn.kaga88.com/kaga/gameIcon?game=Route66&lang=en&type=square
       - img: https://rmpiconcdn.kaga88.com/kaga/gameIcon?game=AirCombat1942&lang=en&type=square
       - img: https://rmpiconcdn.kaga88.com/kaga/gameIcon?game=SexyLips&lang=en&type=square
-
+    desc: Mainkan game dari Ka Gaming disitus berserver Nexus & UG.
+    
   - title: GMW
     url: gmw
     images:
@@ -254,7 +266,8 @@ byprovider:
       - img: https://assets.gamemediaworks.com/thumbnail/rectangle/G171.png
       - img: https://assets.gamemediaworks.com/thumbnail/rectangle/G268.png
       - img: https://assets.gamemediaworks.com/thumbnail/rectangle/G279.png
-
+    desc: Mainkan game dari GMW disitus berserver IDN, Nexus & UG.
+    
   - title: Fastspin
     url: fastspin
     images:
@@ -263,6 +276,7 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/fastspin/tiki-rush.webp
       - img: https://l154gamer.github.io/assets/img/fastspin/safari-blitz.webp
       - img: https://l154gamer.github.io/assets/img/fastspin/royal-katt.webp
+    desc: Mainkan game dari Fastspin disitus berserver Nexus, UG & Pay4D. 
 
   - title: Gameart
     url: gameart
