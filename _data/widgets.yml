@@ -261,11 +261,11 @@ byprovider:
   - title: GMW (Game Media Works)
     url: gmw
     images:
-      - img: https://assets.gamemediaworks.com/thumbnail/rectangle/G152.png
-      - img: https://assets.gamemediaworks.com/thumbnail/rectangle/G124.png
-      - img: https://assets.gamemediaworks.com/thumbnail/rectangle/G171.png
-      - img: https://assets.gamemediaworks.com/thumbnail/rectangle/G268.png
-      - img: https://assets.gamemediaworks.com/thumbnail/rectangle/G279.png
+      - img: https://l154gamer.github.io/assets/images/thumbnail/el-patron-gmw.webp
+      - img: https://l154gamer.github.io/assets/images/thumbnail/marie-antoinettes-riches-gmw.webp
+      - img: https://l154gamer.github.io/assets/images/thumbnail/princess-of-the-deep-gmw.webp
+      - img: https://l154gamer.github.io/assets/images/thumbnail/jacks-quest-gmw.webp
+      - img: https://l154gamer.github.io/assets/images/thumbnail/orca-gmw.webp
     desc: Mainkan game dari GMW (Game Media Works) dengan uang asli disitus berserver IDN, Nexus & UG.
     
   - title: Fastspin
