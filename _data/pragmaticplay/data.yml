@@ -822,4 +822,45 @@
   type: megaways
   provider: Pragmatic Play
 
- 
+- title: The Tweety House
+  symbol: vs20tweethouse
+  img: tweety-house.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20tweethouse
+  type: videoslot
+  provider: Pragmatic Play 
+
+- title: Chicken Drop
+  symbol: vs20chickdrop
+  img: chicken-drop.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20chickdrop
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Rainbow Gold
+  symbol: vs20rainbowg
+  img: rainbow-gold.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20rainbowg
+  type: videoslot
+  provider: Pragmatic Play 
+  
+- title: Cash Bonanza
+  symbol: vswaysbankbonz
+  img: cash-bonanza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysbankbonz
+  type: videoslot
+  provider: Pragmatic Play
+  
+- title: Bounty Gold
+  symbol: vs10goldfish
+  img: bounty-gold.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs10goldfish
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Fishin Reels
+  symbol: vs25btygold
+  img: fishin-reels.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs25btygold
+  type: videoslot
+  provider: Pragmatic Play
+
