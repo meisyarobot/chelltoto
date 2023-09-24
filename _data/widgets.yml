@@ -23,6 +23,40 @@ feature:
         url: pgsoft
 
 
+gamestudios:
+  - title: Pragmatic Play
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/pragmaticplay.svg
+    url: pragmatic-play
+  - title: PG Soft
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/pgsoft.svg
+    url: pgsoft
+  - title: Red Tiger
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/redtiger.svg
+    url: redtiger
+  - title: NetEnt
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/netent.svg
+    url: netent
+  - title: Nolimit City
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/nolimit.svg
+    url: nolimit-city
+  - title: Yggdrasil
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/yggdrasil.svg
+    url: yggdrasil
+  - title: Habanero
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/habanero.svg
+    url: habanero
+  - title: Mancala Gaming
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/mancala.svg
+    url: mancala-gaming
+    disable: disable
+  - title: AvatarUx
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/avatarux.svg
+    url: avatarux    
+  - title: Megaways
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/megaways.svg
+    url: megaways
+
+
 providers:
   - title: Pragmatic Play
     img: https://l154gamer.github.io/assets/images/providers/pragmatic.svg
