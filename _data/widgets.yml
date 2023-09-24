@@ -52,9 +52,22 @@ gamestudios:
   - title: AvatarUx
     img: https://d1sc13y7hrlskd.cloudfront.net/providers/avatarux.svg
     url: avatarux    
-  - title: Megaways
-    img: https://d1sc13y7hrlskd.cloudfront.net/providers/megaways.svg
-    url: megaways
+    disable: disable
+  - title: Ka Gaming
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/kagaming.svg
+    url: kagaming
+  - title: Playtech
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/playtech.svg
+    url: playtech
+  - title: Microgaming
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/microgaming.svg
+    url: microgaming
+  - title: Playson
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/playson.svg
+    url: playson
+  - title: Gameart
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/gameart.svg
+    url: gameart
 
 
 providers:
