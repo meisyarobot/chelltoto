@@ -4,11 +4,10 @@
 # Bahasa Indonesia
 id_ID:
   - title: Gladiator's Glory
-    gameid: 
+    gameid: 1572362
     img: gladiators-glory.webp
-    url: 
+    url: https://m.pgsoft-games.com/1572362/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
     type: new
-    disable: disable
     provider: PG Soft 
 
   - title: Safari Wilds
