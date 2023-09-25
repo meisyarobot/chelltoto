@@ -75,6 +75,9 @@
          <li><a uk-filter-control="[data-pilih='megaways']" href="#megaways">Megaways</a></li>
          <li><a uk-filter-control="[data-pilih='table']" href="#table">{{site.data.settings.menu.page.table}}</a></li>
         {% endif %}
+        {% if page.active == "evoplay" %}
+         <li><a uk-filter-control="[data-pilih='table']" href="#table">{{site.data.settings.menu.page.table}}</a></li>
+        {% endif %}
     </ul>
 </nav>
 </div>
