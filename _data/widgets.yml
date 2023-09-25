@@ -96,7 +96,10 @@ gamestudios:
     img: https://d1sc13y7hrlskd.cloudfront.net/providers/playngo.svg
     url: playngo
     disable: disable
-
+  - title: Big Time Gaming
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/bigtimegaming.svg
+    url: btg
+    disable: disable
 
 
 
