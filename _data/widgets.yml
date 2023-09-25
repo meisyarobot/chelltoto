@@ -68,6 +68,26 @@ gamestudios:
   - title: Gameart
     img: https://d1sc13y7hrlskd.cloudfront.net/providers/gameart.svg
     url: gameart
+  - title: Bgaming
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/bgaming.svg
+    url: bgaming
+  - title: Skywind Group
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/skywind.svg
+    url: skywind-group    
+    disable: disable
+  - title: Spinomenal
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/spinomenal.svg
+    url: spinomenal
+    disable: disable
+  - title: Peter & Sons
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/petersons.svg
+    url: petersons
+    disable: disable
+  - title: Booming Games
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/booming.svg
+    url: booming-games
+    disable: disable
+
 
 
 providers:
