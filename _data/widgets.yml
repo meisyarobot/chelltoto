@@ -23,6 +23,7 @@ feature:
         url: pgsoft
 
 
+
 gamestudios:
   - title: Pragmatic Play
     img: https://d1sc13y7hrlskd.cloudfront.net/providers/pragmaticplay.svg
@@ -87,6 +88,15 @@ gamestudios:
     img: https://d1sc13y7hrlskd.cloudfront.net/providers/booming.svg
     url: booming-games
     disable: disable
+  - title: Evoplay
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/evoplay.svg
+    url: evoplay
+    disable: disable
+  - title: Play'n Go
+    img: https://d1sc13y7hrlskd.cloudfront.net/providers/playngo.svg
+    url: playngo
+    disable: disable
+
 
 
 
