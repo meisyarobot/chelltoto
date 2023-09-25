@@ -8,8 +8,8 @@ active: gamestudios
 <div id="grid" class="uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid>
 {% for item in site.data.widgets.gamestudios %}
 <div class="uk-width-1-2 bc {{ item.disable }}">
- <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-margin uk-text-center">
-  <a href="{{ item.url | absolute_url }}"><img src="{{ item.img }}" width="120px" height="120px" alt="{{ item.title }}" uk-svg></a>
+ <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-margin uk-text-center uk-flex uk-flex-center">
+  <a href="{{ item.url | relative_url }}"><img src="{{ item.img }}" width="100px" height="100px" alt="{{ item.title }}" uk-svg></a>
  </div>
 </div>
 {% endfor %}
