@@ -68,7 +68,14 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20piggybank
   type: videoslot
   provider: Pragmatic Play
-  
+
+- title: Piggy Bank Bills 
+  symbol: vs9piggybank
+  img: piggy-bank-bills.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs9piggybank
+  type: videoslot
+  provider: Pragmatic Play
+
 - title: Gold Oasis
   symbol: vswaysincwnd
   img: gold-oasis.webp
@@ -938,6 +945,27 @@
   symbol: vs5tucanito
   img: tucanito.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs5tucanito
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Racing Joker 
+  symbol: vs25rjoker
+  img: racing-joker.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs25rjoker
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Oishii Bonanza 
+  symbol: vs20pombnnz
+  img: oishii-bonanza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20pombnnz
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Fat Panda 
+  symbol: vs20beefed
+  img: fat-panda.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20beefed
   type: videoslot
   provider: Pragmatic Play
 
