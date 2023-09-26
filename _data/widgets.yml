@@ -131,6 +131,46 @@ providers:
   - title: Play'n Go
     img: https://l154gamer.github.io/assets/images/providers/playngo-logo.svg
     url: playngo
+  - title: Microgaming
+    img: 
+    url: microgaming
+  - title: Advant Play
+    img: 
+    url: advant-play
+  - title: iSoftBet
+    img: 
+    url: isoftbet
+  - title: Naga Games
+    img: 
+    url: naga-games
+  - title: Eurasian Gaming
+    img: 
+    url: eagaming
+  - title: Spadegaming
+    img: 
+    url: spadegaming
+  - title: Playson
+    img: 
+    url: playson
+  - title: Dragoon Soft
+    img: 
+    url: dragoon-soft
+  - title: Ka Gaming
+    img: 
+    url: kagaming
+  - title: GMW (Game Media Works)
+    img: 
+    url: gmw
+  - title: Fastspin
+    img: 
+    url: fastspin
+  - title: Gameart
+    img: 
+    url: gameart
+  - title: Evoplay
+    img: 
+    url: evoplay
+
 
 
 donasi:
@@ -142,6 +182,7 @@ donasi:
      desc: 
    - img: Bank Raya / BRI Agroniaga
      desc: 
+
 
 
 footer:
