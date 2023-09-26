@@ -20,7 +20,28 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20dhcluster
   type: new
   provider: Pragmatic Play
-  
+
+- title: Tundra's Fortune
+  symbol: vswaysraghex
+  img: tundras-fortune.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysraghex
+  type: new
+  provider: Pragmatic Play
+
+- title: Infective Wild 
+  symbol: vs40infwild
+  img: infective-wild.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs40infwild
+  type: new
+  provider: Pragmatic Play
+
+- title: Yi Sun Shin 
+  symbol: vs20yisunshin
+  img: yi-sun-shin.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20yisunshin
+  type: new
+  provider: Pragmatic Play
+
 - title: Mahjong Wins 
   symbol: vs1024mahjwins
   img: mahjong-wins.webp
@@ -886,24 +907,10 @@
   type: videoslot
   provider: Pragmatic Play
 
-- title: Infective Wild 
-  symbol: vs40infwild
-  img: infective-wild.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs40infwild
-  type: videoslot
-  provider: Pragmatic Play
-  
 - title: Demon Pots 
   symbol: vs40demonpots
   img: demon-pots.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs40demonpots
-  type: videoslot
-  provider: Pragmatic Play
-  
-- title: Yi Sun Shin 
-  symbol: vs20yisunshin
-  img: yi-sun-shin.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20yisunshin
   type: videoslot
   provider: Pragmatic Play
   
