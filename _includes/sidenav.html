@@ -1,60 +1,31 @@
-  <ul id="slide-out" class="sidenav">
+<!-- Sidenav -->
+<div id="offcanvas-reveal" uk-offcanvas="mode: reveal; overlay: true">
+    <div class="uk-offcanvas-bar uk-text-large">
 
-    <li>
-    <div class="user-view">
-     <h5 class="branded">{{ site.title }}</h5>
+        <button class="uk-offcanvas-close" type="button" uk-close></button>
+
+        <h3>{{ site.title }}</h3>
+
+        <ul class="uk-nav uk-nav-primary">
+            <li class="uk-nav-header">Menu</li>
+            <li><a href="{{ site.url }}"><span class="uk-margin-small-right" uk-icon="icon: home"></span> Beranda</a></li>
+            <li><a href="/about"><span class="uk-margin-small-right" uk-icon="icon: info"></span> Penafian</a></li>                  
+            <li class="uk-nav-divider"></li>
+            <li class="uk-nav-header">
+             <div class="uk-clearfix">
+              <div class="uk-float-left">
+               <span class="uk-nav-header">Providers</span>
+              </div>
+              <div class="uk-float-right">
+               <a href="{{ "byprovider" | absolute_url }}" class="uk-button uk-button-text uk-text-capitalize">Lihat Semua <span uk-icon="icon: chevron-right"></span></a>
+              </div>
+             </div>    
+            </li>             
+            <li><a href="{{ "pragmatic-play" | absolute_url }}">Pragmatic Play</a></li>
+            <li><a href="{{ "pgsoft" | absolute_url }}">PG Soft</a></li>
+            <li><a href="{{ "netent" | absolute_url }}">NetEnt</a></li>
+        </ul>
+
     </div>
-    </li>
-
-    <li>
-     <div class="desc">
-     <p>
-      Mainkan permainan secara gratis disini tanpa deposit atau memakai uang asli.   
-     </p>
-     </div>
-    </li>
-
-    <li>
-     <div class="divider"></div>
-    </li>
-    
-    <li>
-     <a class="waves-effect waves-yellow" href="{{ site.url }}">
-      <i class="material-icons white-text">home</i> Beranda
-     </a>
-     </li>
-	  
-       <li>
-     <a class="waves-effect waves-yellow" href="{{ "providers" | relative_url }}">
-      <i class="material-icons white-text">casino</i> Providers
-     </a>
-     </li>
-
-    <li>
-     <a class="waves-effect waves-yellow" href="https://as-saadah.github.io/games/about/">
-      <i class="material-icons white-text">report_problem</i> Penafian (Disclaimer)
-     </a>
-    </li>
-    <li>
-     <a class="waves-effect waves-yellow" href="https://pffgame.github.io/app/android/play-for-fun.apk">
-      <i class="material-icons white-text">phone_android</i> Unduh APK Android
-     </a>
-    </li>
-    <li>
-     <div class="divider"></div>
-    </li>    
-    <li style="padding-left: 30px;">
-  <div class="switch">
-    <label>
-      Gelap
-      <button 
-    		class="light-mode-button" aria-label="Toggle Light Mode" onclick="toggle_light_mode()">
-	    	<span></span>
-	    	<span></span>
-	    </button> 
-      Terang
-    </label>
-  </div>      
-    </li>
-  </ul>
-
+</div>
+<!-- /Sidenav -->
