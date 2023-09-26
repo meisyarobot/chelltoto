@@ -21,48 +21,6 @@
   type: new
   provider: Pragmatic Play
   
-- title: Infective Wild 
-  symbol: vs40infwild
-  img: infective-wild.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs40infwild
-  type: new
-  provider: Pragmatic Play
-  
-- title: Demon Pots 
-  symbol: vs40demonpots
-  img: demon-pots.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs40demonpots
-  type: new
-  provider: Pragmatic Play
-  
-- title: Yi Sun Shin 
-  symbol: vs20yisunshin
-  img: yi-sun-shin.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20yisunshin
-  type: new
-  provider: Pragmatic Play
-  
-- title: Runaway 7s 
-  symbol: vs17runaway7
-  img: runaway-7s.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs17runaway7
-  type: new
-  provider: Pragmatic Play
-  
-- title: The Money Men Megaways 
-  symbol: vswaysmoneyman
-  img: the-money-men-megaways.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysmoneyman
-  type: new
-  provider: Pragmatic Play
-  
-- title: Tucanito 
-  symbol: vs5tucanito
-  img: tucanito.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs5tucanito
-  type: new
-  provider: Pragmatic Play
-  
 - title: Mahjong Wins 
   symbol: vs1024mahjwins
   img: mahjong-wins.webp
@@ -926,5 +884,47 @@
   img: fishin-reels.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs25btygold
   type: videoslot
+  provider: Pragmatic Play
+
+- title: Infective Wild 
+  symbol: vs40infwild
+  img: infective-wild.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs40infwild
+  type: new
+  provider: Pragmatic Play
+  
+- title: Demon Pots 
+  symbol: vs40demonpots
+  img: demon-pots.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs40demonpots
+  type: new
+  provider: Pragmatic Play
+  
+- title: Yi Sun Shin 
+  symbol: vs20yisunshin
+  img: yi-sun-shin.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20yisunshin
+  type: new
+  provider: Pragmatic Play
+  
+- title: Runaway 7s 
+  symbol: vs17runaway7
+  img: runaway-7s.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs17runaway7
+  type: new
+  provider: Pragmatic Play
+  
+- title: The Money Men Megaways 
+  symbol: vswaysmoneyman
+  img: the-money-men-megaways.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysmoneyman
+  type: new
+  provider: Pragmatic Play
+  
+- title: Tucanito 
+  symbol: vs5tucanito
+  img: tucanito.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs5tucanito
+  type: new
   provider: Pragmatic Play
 
