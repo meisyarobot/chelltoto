@@ -9,7 +9,7 @@
         <ul class="uk-nav uk-nav-primary">
             <li class="uk-nav-header">Menu</li>
             <li><a href="{{ site.url }}"><span class="uk-margin-small-right" uk-icon="icon: home"></span> Beranda</a></li>
-            <li><a href="/about"><span class="uk-margin-small-right" uk-icon="icon: info"></span> Penafian</a></li>                  
+            <li><a href="#!"><span class="uk-margin-small-right" uk-icon="icon: info"></span> Penafian</a></li>                  
             <li class="uk-nav-divider"></li>
             <li class="uk-nav-header">
              <div class="uk-clearfix">
@@ -17,13 +17,13 @@
                <span class="uk-nav-header">Providers</span>
               </div>
               <div class="uk-float-right">
-               <a href="{{ "byprovider" | absolute_url }}" class="uk-button uk-button-text uk-text-capitalize">Lihat Semua <span uk-icon="icon: chevron-right"></span></a>
+               <a href="{{ "byprovider" | relative_url }}" class="uk-button uk-button-text uk-text-capitalize">Lihat Semua <span uk-icon="icon: chevron-right"></span></a>
               </div>
              </div>    
-            </li>             
-            <li><a href="{{ "pragmatic-play" | absolute_url }}">Pragmatic Play</a></li>
-            <li><a href="{{ "pgsoft" | absolute_url }}">PG Soft</a></li>
-            <li><a href="{{ "netent" | absolute_url }}">NetEnt</a></li>
+            </li>       
+            {% for item in site.data.widgets.providers %}
+            <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
+            {% endfor %}            
         </ul>
 
     </div>
