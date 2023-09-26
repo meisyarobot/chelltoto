@@ -2,13 +2,13 @@
 <nav class="uk-navbar-container uk-navbar-transparent uk-fixed-navigation uk-navbar="mode: click"">
  <div uk-navbar>
   <div class="uk-navbar-left">                
-   <a class="uk-logo uk-navbar-item" href="{{site.url}}">
+   <a class="uk-logo uk-navbar-item" href="{{ site.url }}">
     <img src="{{ "/assets/logo.svg" | absolute_url }}" width="40" height="40" alt="{{ site.title }}">
    </a>  
   </div>
   <div class="uk-navbar-right">
-    <a href="https://l154gamer.github.io/byprovider/" class="uk-button uk-button-default uk-button-small uk-margin-small-right" type="button">Games</a>
-    <a href="{{relative_url}}" uk-icon="icon:refresh"></a>  
+    <a uk-toggle="target: #offcanvas-reveal" class="uk-button uk-button-default uk-button-small uk-margin-small-right" type="button">Games</a>
+    <a href="{{ relative_url }}" uk-icon="icon:refresh"></a>  
     <button class="theme-toggle" id="theme-toggle" title="Toggles light & dark" aria-label="auto" aria-live="polite">
       <svg class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24">
         <mask class="moon" id="moon-mask">
