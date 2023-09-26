@@ -41,6 +41,13 @@
   type: new
   provider: Pragmatic Play
 
+- title: Cash Chips
+  symbol: vs20maskgame
+  img: cash-chips.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20maskgame
+  type: new
+  provider: Pragmatic Play
+
 - title: Mahjong Wins 
   symbol: vs1024mahjwins
   img: mahjong-wins.webp
