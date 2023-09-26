@@ -102,75 +102,51 @@ gamestudios:
     disable: disable
 
 
-
 providers:
-  - title: Pragmatic Play
-    img: https://l154gamer.github.io/assets/images/providers/pragmatic.svg
+  - title: Pragmatic Play  
     url: pragmatic-play
   - title: PG Soft
-    img: https://l154gamer.github.io/assets/images/providers/pgsoft.svg
     url: pgsoft
   - title: Yggdrasil
-    img: https://l154gamer.github.io/assets/images/providers/yggdrasil.svg
     url: yggdrasil
   - title: Nolimit City
-    img: https://l154gamer.github.io/assets/images/providers/nolimitcity.svg
     url: nolimit-city
   - title: Habanero
-    img: https://l154gamer.github.io/assets/images/providers/habanero.svg
     url: habanero
   - title: Red Tiger
-    img: https://l154gamer.github.io/assets/images/providers/redtiger.svg
     url: redtiger
   - title: NetEnt
-    img: https://l154gamer.github.io/assets/images/providers/netentlogo.svg
     url: netent
   - title: Bgaming
-    img: https://l154gamer.github.io/assets/images/providers/bgaming.svg
     url: bgaming
   - title: Play'n Go
-    img: https://l154gamer.github.io/assets/images/providers/playngo-logo.svg
     url: playngo
   - title: Microgaming
-    img: 
     url: microgaming
   - title: Advant Play
-    img: 
     url: advant-play
   - title: iSoftBet
-    img: 
     url: isoftbet
   - title: Naga Games
-    img: 
     url: naga-games
   - title: Eurasian Gaming
-    img: 
     url: eagaming
   - title: Spadegaming
-    img: 
     url: spadegaming
   - title: Playson
-    img: 
     url: playson
   - title: Dragoon Soft
-    img: 
     url: dragoon-soft
   - title: Ka Gaming
-    img: 
     url: kagaming
-  - title: GMW (Game Media Works)
-    img: 
+  - title: GMW
     url: gmw
   - title: Fastspin
-    img: 
     url: fastspin
   - title: Gameart
-    img: 
     url: gameart
-  - title: Evoplay
-    img: 
+  - title: Evoplay 
     url: evoplay
-
 
 
 donasi:
