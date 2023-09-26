@@ -22,7 +22,7 @@
              </div>    
             </li>       
             {% for item in site.data.widgets.providers %}
-            <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
+            <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
             {% endfor %}            
         </ul>
 
