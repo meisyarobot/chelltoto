@@ -1,10 +1,9 @@
 # New games 
 - title: Gravity Bonanza 
-  symbol: 
+  symbol: vs20gravity
   img: gravity-bonanza.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20gravity
   type: new
-  disable: disable
   provider: Pragmatic Play
 
 - title: Rainbow Reels 
@@ -53,7 +52,7 @@
   symbol: vs20mahjongbnz
   img: mahjomg-bonanza.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20mahjongbnz
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Piggy Bankers 
@@ -67,21 +66,21 @@
   symbol: vswaysincwnd
   img: gold-oasis.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysincwnd
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Frozen Tropics 
   symbol: vswaysftropics
   img: frozen-tropics.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vswaysftropics
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Forge of Olympus
   symbol: vs20forge
   img: forge-of-olympus.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?extGame=1&?lang=en&cur=IDR&jurisdiction=99&gameSymbol=vs20forge
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Pub Kings
