@@ -160,3 +160,6 @@ iframe {
 .hide {
 display: none !important;
 }
+ .border-0 {
+       border: 0px !important
+    }
