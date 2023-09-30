@@ -1,17 +1,19 @@
 ---
 layout: mainpage
-title: Yggdrasil
-permalink: /yggdrasil/
-active: yggdrasil
+title: Playson
+permalink: /playson/
+active: playson
+uid: playson
+locale: id
 ---
 
 <div id="grid" class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid>
-{% for game in site.data.yggdrasil %}  
+{% for game in site.data.playson.data.id_ID %}  
  <div data-pilih="{{game.type}}" class="uk-width-1-2 bc {{game.disable}}">
   <div class="uk-card uk-card-default uk-border-rounded"> 
    <div class="uk-card-media-top">
-    <a href="{{game.permalink}}" target="modal_iframe" onClick="showModal()"> 
-     <img src="{{site.url}}assets/img/yggdrasil/{{game.img}}" width="1800" height="1200" alt="{{game.title}}" class="uk-border-rounded">
+    <a href="{{ game.url }}" target="modal_iframe" onClick="showModal()"> 
+     <img id="games-img" src="{{game.img}}" width="1800" height="1200" alt="{{game.title}}" class="uk-border-rounded">
     </a>
    </div> 
    <div class="uk-card-body uk-margin-remove-top"> 

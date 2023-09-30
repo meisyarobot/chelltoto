@@ -1,17 +1,19 @@
 ---
 layout: mainpage
-title: Playson
-permalink: /playson/
-active: playson
+title: Game Media Works
+permalink: /gmw/
+active: gmw
+uid: gmw
+locale: id
 ---
 
 <div id="grid" class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid>
-{% for game in site.data.playson.data.id_ID %}  
+{% for game in site.data.gmw.data.id_ID %}  
  <div data-pilih="{{game.type}}" class="uk-width-1-2 bc {{game.disable}}">
   <div class="uk-card uk-card-default uk-border-rounded"> 
    <div class="uk-card-media-top">
     <a href="{{ game.url }}" target="modal_iframe" onClick="showModal()"> 
-     <img id="games-img" src="{{game.img}}" width="1800" height="1200" alt="{{game.title}}" class="uk-border-rounded">
+     <img src="{{game.img}}" width="1800" height="1200" alt="{{game.title}}" class="uk-border-rounded">
     </a>
    </div> 
    <div class="uk-card-body uk-margin-remove-top"> 
