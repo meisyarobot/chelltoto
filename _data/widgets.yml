@@ -1,15 +1,15 @@
 feature:
   - title: Pragmatic Play
-    url: pragmatic-play
+    url: pragmaticplay
     images:
       - img: https://l154gamer.github.io/assets/feature/peaky-blinders.webp
-        url: pragmatic-play
+        url: pragmaticplay
       - img: https://l154gamer.github.io/assets/feature/cowboys-gold.webp
-        url: pragmatic-play
+        url: pragmaticplay
       - img: https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-duels.webp
-        url: pragmatic-play
+        url: pragmaticplay
       - img: https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-gold.webp
-        url: pragmatic-play
+        url: pragmaticplay
   - title: PG Soft
     url: pgsoft
     images:
@@ -27,7 +27,7 @@ feature:
 gamestudios:
   - title: Pragmatic Play
     img: https://d1sc13y7hrlskd.cloudfront.net/providers/pragmaticplay.svg
-    url: pragmatic-play
+    url: pragmaticplay
   - title: PG Soft
     img: https://d1sc13y7hrlskd.cloudfront.net/providers/pgsoft.svg
     url: pgsoft
@@ -39,7 +39,7 @@ gamestudios:
     url: netent
   - title: Nolimit City
     img: https://d1sc13y7hrlskd.cloudfront.net/providers/nolimit.svg
-    url: nolimit-city
+    url: nolimitcity
   - title: Yggdrasil
     img: https://d1sc13y7hrlskd.cloudfront.net/providers/yggdrasil.svg
     url: yggdrasil
@@ -48,7 +48,7 @@ gamestudios:
     url: habanero
   - title: Mancala Gaming
     img: https://d1sc13y7hrlskd.cloudfront.net/providers/mancala.svg
-    url: mancala-gaming
+    url: mancalagaming
     disable: disable
   - title: AvatarUx
     img: https://d1sc13y7hrlskd.cloudfront.net/providers/avatarux.svg
@@ -74,7 +74,7 @@ gamestudios:
     url: bgaming
   - title: Skywind Group
     img: https://d1sc13y7hrlskd.cloudfront.net/providers/skywind.svg
-    url: skywind-group    
+    url: skywindgroup    
     disable: disable
   - title: Spinomenal
     img: https://d1sc13y7hrlskd.cloudfront.net/providers/spinomenal.svg
@@ -86,7 +86,7 @@ gamestudios:
     disable: disable
   - title: Booming Games
     img: https://d1sc13y7hrlskd.cloudfront.net/providers/booming.svg
-    url: booming-games
+    url: boominggames
     disable: disable
   - title: Evoplay
     img: https://d1sc13y7hrlskd.cloudfront.net/providers/evoplay.svg
@@ -104,13 +104,13 @@ gamestudios:
 
 providers:
   - title: Pragmatic Play  
-    url: pragmatic-play
+    url: pragmaticplay
   - title: PG Soft
     url: pgsoft
   - title: Yggdrasil
     url: yggdrasil
   - title: Nolimit City
-    url: nolimit-city
+    url: nolimitcity
   - title: Habanero
     url: habanero
   - title: Red Tiger
@@ -124,7 +124,7 @@ providers:
   - title: Microgaming
     url: microgaming
   - title: Advant Play
-    url: advant-play
+    url: advantplay
   - title: iSoftBet
     url: isoftbet
   - title: Naga Games
@@ -136,7 +136,7 @@ providers:
   - title: Playson
     url: playson
   - title: Dragoon Soft
-    url: dragoon-soft
+    url: dragoonsoft
   - title: Ka Gaming
     url: kagaming
   - title: GMW
@@ -176,7 +176,7 @@ footer:
 
 byprovider:
   - title: Pragmatic Play
-    url: pragmatic-play
+    url: pragmaticplay
     images:
       - img: https://l154gamer.github.io/assets/img/pragmatic-play/olympus-gates.webp
       - img: https://l154gamer.github.io/assets/img/pragmatic-play/starlight-princess.webp
@@ -206,7 +206,7 @@ byprovider:
     desc: Game Yggdrasil tersedia disitus berserver NukeGaming, Infini, UG, Nexus, MPO.
     
   - title: Nolimit City
-    url: nolimit-city
+    url: nolimitcity
     images:
       - img: https://l154gamer.github.io/assets/images/thumbnail/folsom-prison-nl.webp
       - img: https://l154gamer.github.io/assets/images/thumbnail/punk-rocker-nl.webp
@@ -266,7 +266,7 @@ byprovider:
     desc: Game Microgaming tersedia disitus berserver Infini, IDN, Nexus, UG, Pay4D, NukeGaming.
     
   - title: Advant Play
-    url: advant-play
+    url: advantplay
     images:
       - img: https://l154gamer.github.io/assets/img/advant-play/racing-for-luck.webp
       - img: https://l154gamer.github.io/assets/img/advant-play/road-to-uefa.webp
@@ -286,7 +286,7 @@ byprovider:
     desc: Tidak ada data.
     
   - title: Naga Games
-    url: naga-games
+    url: nagagames
     images:
       - img: https://l154gamer.github.io/assets/images/thumbnail/aphrodite-ng.webp
       - img: https://l154gamer.github.io/assets/images/thumbnail/mahjong-fortune-ng.webp
@@ -336,7 +336,7 @@ byprovider:
     desc: Game Playson tersedia disitus berserver IDN, Nexus, UG.
     
   - title: Dragoon Soft
-    url: dragoon-soft
+    url: dragoonsoft
     images:
       - img: https://l154gamer.github.io/assets/images/thumbnail/more-beauties-ds.webp
       - img: https://l154gamer.github.io/assets/images/thumbnail/pirate-king-ds.webp
