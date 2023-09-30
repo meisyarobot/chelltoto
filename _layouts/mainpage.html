@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html data-theme="light">
 {% include head.html %}
-<body>
+<body data-uk-filter=".js-filter">
  {% include navbar.html %}
  <div class="uk-section uk-margin-xlarge-top"><!-- Section -->
-  <div data-uk-filter=".js-filter" class="uk-container"><!-- Container -->
+  <div class="uk-container"><!-- Container -->
    <h3 class="uk-heading-line uk-text-center"><span>{{ page.title }}</span></h3>
    {% include filter.html %}
+   {% include settings.html %}
    {{ content }}
   </div>
  </div>
