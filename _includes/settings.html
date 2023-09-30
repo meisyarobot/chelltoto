@@ -1,36 +1,128 @@
-<!--settings-->
- <ul id="settings" class="sidenav">
-  <div class="desc">   
-  <li>Pengaturan</li>
-  <hr/>	  
-  <li>Lines</li>
-  <li><a class="waves-effect" href="{{ "megaways" | relative_url }}">Megaways</a></li>	  
-  <li><a class="waves-effect" href="{{ "reel-kingdom" | relative_url }}">Reel Kindom</a></li>	  
-  <li><a class="waves-effect" href="{{ "pragmatic-play/wild-streak-gaming" | relative_url }}">Wild Streak Gaming</a></li>	  	  
-  <li><hr/> Tampilan
-  <p><a id="grid" class="waves-effect waves-light btn btn-small grey darken-3"><i class="material-icons">view_module</i> Grid</a>
-  <button id="list" class="waves-effect waves-light btn btn-small grey darken-3"><i class="material-icons">view_list</i> List</button></p>
-  <div class="switch">
-    <label>
-      Gelap
-      <button 
-    		class="light-mode-button" aria-label="Toggle Light Mode" onclick="toggle_light_mode()">
-	    	<span></span>
-	    	<span></span>
-	    </button> 
-      Terang
-    </label>
-  </div>      
-  </li>
-  <li class="grey lighten-2 black-text"> Bahasa
-   <form>
-    <p> 
-     <label> 
-      <input class="js-check" type="checkbox" checked="checked" disabled="disabled"/> <span>Bahasa Indonesia</span> 
-      </label> 
-      </p>     
-    <p> <label> <input type="checkbox" disabled="disabled"/> <span>English</span> </label> </p> </form>   
-  </li>  
-  </div>
+<!-- Settings -->
+<div id="offcanvas-flip" uk-offcanvas="flip: true; overlay: true">
+ <div class="uk-offcanvas-bar">
+  <button class="uk-offcanvas-close" type="button" uk-close></button>
+  <h4>{{ site.data.locales[page.locale].settings.settings }}</h4>
+
+<hr>
+
+<!-- Game Filter --> 
+<div class="uk-width-1-2@s uk-width-2-5@m">
+    <ul class="uk-nav uk-nav-default">        
+     <li class="uk-nav-header">{{ site.data.locales[page.locale].settings.filter }}</li>
+     <li uk-filter-control><a href="#">{{ site.data.locales[page.locale].settings.all_games }}</a></li>
+     <li uk-filter-control="[data-pilih='new']"><a href="#new">{{ site.data.locales[page.locale].settings.new_games }}</a></li>
+     <li uk-filter-control="[data-pilih='table']"><a href="#table">{{ site.data.locales[page.locale].settings.table_games }}</a></li>
+     <li uk-filter-control="[data-pilih='classic']"><a href="#classic">{{ site.data.locales[page.locale].settings.classic_games }}</a></li>
+    </ul>
+</div>
+<!-- /Game Filter --> 
+
+<hr>
+
+<!-- Mata Uang & Bahasa --> 
+<div class="uk-width-1-2@s uk-width-2-5@m">
+<ul class="uk-nav uk-nav-default">
+ <li class="uk-nav-header">{{ site.data.locales[page.locale].settings.lang-cur }}</li> 
+ {% if page.locale == 'id' %}
+  {% assign postsOrPages = site.pages 
+    | concat: site.pages 
+    | concat: site.en
+    | where: "uid", page.uid 
+    | sort: "locale" %}
+  {% for item in postsOrPages %}
+   {% unless item.url contains '/page/' %}
+    <li>
+     <div class="uk-form-controls">
+     <label><input class="uk-radio" type="radio" name="radio1" checked>     
+      {{ site.data.locales[page.locale].settings.indonesian }}</label><br>
+     <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
+      {{ site.data.locales[item.locale].name }}</label>     
+     </div>
+    </li>
+   {% endunless %}
+  {% endfor %}
  </ul>
-<!--/settings-->
+ {% elsif page.locale == 'en' %}
+  <ul class="uk-nav uk-nav-default">
+  {% assign postsOrPages = site.pages 
+    | concat: site.pages 
+    | concat: site.id
+    | where: "uid", page.uid 
+    | sort: "locale" %}
+  {% for item in postsOrPages %}
+   {% unless item.url contains '/page/' %}
+    <li>
+     <div class="uk-form-controls">
+     <label><input class="uk-radio" type="radio" name="radio1" checked>     
+      {{ site.data.locales[page.locale].settings.english }}</label><br>
+     <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
+      {{ site.data.locales[item.locale].name }}</label>     
+     </div>
+    </li>
+   {% endunless %}
+  {% endfor %}
+ {% endif%}
+</ul>
+</div>       
+<!-- /Mata Uang & Bahasa --> 
+
+{% if page.active == "pragmaticplay" %}
+<hr>  
+<!-- Line/Game Themes --> 
+<div class="uk-width-1-2@s uk-width-2-5@m">
+    <ul class="uk-nav uk-nav-default">
+        <li class="uk-nav-header">{{ site.data.locales[page.locale].settings.providers }}</li>
+        <li><a uk-filter-control="[data-pilih='megaways']" href="#megaways">Megaways</a></li>
+        <li><a uk-filter-control="[data-pilih='slotmania']" href="#slotmania">Slot Mania</a></li>
+        <li><a uk-filter-control="[data-pilih='nexus']" href="#nexus">Nexus</a></li>
+        <li><a uk-filter-control="[data-pilih='infini']" href="#infini">Infini</a></li>                
+        <li><a uk-filter-control="[data-pilih='reelkingdom']" href="#reelkingdom">Reel Kingdom</a></li>
+        <li><a uk-filter-control="[data-pilih='wsg']" href="#wsg">Wild Streak Gaming</a></li>
+    </ul>
+</div>
+<!-- /Line/Game Themes -->
+{% endif %}
+  
+{% if page.active == "mahjong" %}
+<hr>  
+<div class="uk-width-1-2@s uk-width-2-5@m">
+ <ul class="uk-nav uk-nav-default">  
+  <li class="uk-nav-header">{{ site.data.locales[page.locale].settings.providers }}</li>
+  <li><a uk-filter-control="[data-pilih='pgsoft']" href="#pgsoft">PG Soft</a></li>
+  <li><a uk-filter-control="[data-pilih='pragmaticplay']" href="#pragmaticplay">Pragmatic Play</a></li>
+  <li><a uk-filter-control="[data-pilih='kagaming']" href="#kagaming">Ka Gaming</a></li>
+  <li><a uk-filter-control="[data-pilih='dragoonsoft']" href="#dragoonsoft">Dragoon Soft</a></li>
+  <li><a uk-filter-control="[data-pilih='nagagames']" href="#nagagames">Naga Games</a></li>
+  <li><a uk-filter-control="[data-pilih='playstar']" href="#playstar">Playstar</a></li>
+  <li><a uk-filter-control="[data-pilih='skywindgroup']" href="#skywindgroup">Skywind Group</a></li>
+  <li><a uk-filter-control="[data-pilih='cq9gaming']" href="#cq9gaming">CQ9 Gaming</a></li>
+  <li><a uk-filter-control="[data-pilih='topplayer']" href="#topplayer">Top Player</a></li>
+  <li><a uk-filter-control="[data-pilih='askmeslot']" href="#askmeslot">Askmeslot</a></li>
+  <li><a uk-filter-control="[data-pilih='evoplay']" href="#evoplay">Evoplay</a></li>
+  <li><a uk-filter-control="[data-pilih='playngo']" href="#playngo">Play'n Go</a></li>
+  <li><a uk-filter-control="[data-pilih='pinquan']" href="#pinquan">PinQuan</a></li>
+  <li><a uk-filter-control="[data-pilih='rsg']" href="#rsg">Royal Slot Gaming</a></li>
+  <li><a uk-filter-control="[data-pilih='funtagaming']" href="#funtagaming">Funta Gaming</a></li>
+  <li><a uk-filter-control="[data-pilih='cayetanogaming']" href="#cayetanogaming">Cayetano Gaming</a></li>
+  <li><a uk-filter-control="[data-pilih='tpg']" href="#tpg">Triple Profits Games</a></li>
+  <li><a uk-filter-control="[data-pilih='aiwingames']" href="#aiwingames">Aiwin Games</a></li>
+  <li><a uk-filter-control="[data-pilih='simpleplay']" href="#simpleplay">Simple Play</a></li>
+ </ul>
+</div>
+{% endif %}
+  
+<hr>
+
+<!-- Theme Setting -->
+<div class="uk-width-1-2@s uk-width-2-5@m">
+         <ul class="uk-nav uk-iconnav uk-iconnav-vertical">
+          <li class="uk-nav-header">{{ site.data.locales[page.locale].settings.display }}</li>
+          <li id="grid"><a id="grid"><span uk-icon="icon: thumbnails"></span>GRID</a></li>
+          <li id="list"><a id="list"><span uk-icon="icon: list"></span>LIST</a></li>
+         </ul>
+</div>
+<!-- /Theme Setting -->
+
+ </div>
+</div><!-- /Settings -->
