@@ -1,0 +1,98 @@
+name: Bahasa Indonesia (IDR)
+site_url: /
+
+site:
+  title: L154 Gamer
+
+menu:
+  - title: Beranda
+    url: /
+    icon: home
+  - title: Penafian
+    url: /about
+    icon: info
+  - title: Situs Sedot WC
+    url: /bo
+    icon: trash
+
+page:
+  menu: Menu
+  home: Beranda
+  disclaimer: Penafian
+  search: Cari
+  view_all: Lihat Semua
+  all: Semua
+  games: Games
+  line: Line
+  table_games: Table Games
+  egypt: Mesir
+  mahjong: Mahyong
+  classic: Klasik
+  table: Tabel
+  new: Terbaru
+  nodata: Tidak ada game data
+  providers: Providers
+  language: Bahasa
+
+
+settings:
+  settings: Pengaturan
+  filter: Filter
+  all_games: Semua Game
+  new_games: Game Terbaru
+  classic_games: Game Klasik
+  table_games: Game Tabel
+  lang-cur: Mata Uang & Bahasa
+  providers: Providers
+  display: Tampilan
+  english: Bahasa Inggris (USD)
+  indonesian: Bahasa Indonesia (IDR/Rupiah)
+
+
+providers:
+  - title: Pragmatic Play  
+    url: pragmaticplay
+  - title: PG Soft
+    url: pgsoft
+  - title: Yggdrasil
+    url: yggdrasil
+  - title: Nolimit City
+    url: nolimitcity
+  - title: Habanero
+    url: habanero
+  - title: Red Tiger
+    url: redtiger
+  - title: NetEnt
+    url: netent
+  - title: Bgaming
+    url: bgaming
+  - title: Play'n Go
+    url: playngo
+  - title: Microgaming
+    url: microgaming
+  - title: Advant Play
+    url: advantplay
+  - title: iSoftBet
+    url: isoftbet
+  - title: Naga Games
+    url: nagagames
+  - title: Eurasian Gaming
+    url: eagaming
+  - title: Spadegaming
+    url: spadegaming
+  - title: Playson
+    url: playson
+  - title: Dragoon Soft
+    url: dragoonsoft
+  - title: Ka Gaming
+    url: kagaming
+  - title: GMW
+    url: gmw
+  - title: Fastspin
+    url: fastspin
+  - title: Gameart
+    url: gameart
+  - title: Evoplay 
+    url: evoplay
+  - title: AvatarUX 
+    url: avatarux
