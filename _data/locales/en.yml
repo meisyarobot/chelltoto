@@ -1,0 +1,117 @@
+name: English (USD)
+site_url: /en/
+
+site:
+  title: L154 Gamer
+
+menu:
+  - title: Lobby
+    url: /en
+    icon: home
+  - title: Disclaimer
+    url: /en/about
+    icon: info
+
+page:
+  menu: Menu
+  home: Lobby
+  disclaimer: Disclaimer
+  search: Search
+  view_all: Show All
+  all: All Games
+  games: Games
+  line: Line
+  table_games: Table Games
+  egypt: Egypt
+  mahjong: Mahjong
+  classic: Classic Games
+  table: Table Games
+  new: New Games
+  nodata: No game data
+  providers: Providers
+  language: Language
+
+
+settings:
+  settings: Settings
+  filter: Filter
+  all_games: All Games
+  new_games: New Games
+  classic_games: Classic Games
+  table_games: Table Games
+  lang-cur: Currency & Language
+  providers: Providers
+  display: Display
+  english: English (USD)
+  indonesian: Indonesian (IDR)
+
+
+providers:
+  - title: Pragmatic Play  
+    url: en/pragmaticplay
+    
+  - title: PG Soft
+    url: en/pgsoft
+    
+  - title: Yggdrasil
+    url: en/yggdrasil
+    
+  - title: Nolimit City
+    url: en/nolimitcity
+    
+  - title: Habanero
+    url: en/habanero
+    
+  - title: Red Tiger
+    url: en/redtiger
+    
+  - title: NetEnt
+    url: en/netent
+    
+  - title: Bgaming
+    url: en/bgaming
+    
+  - title: Play'n Go
+    url: en/playngo
+    
+  - title: Microgaming
+    url: en/microgaming
+    
+  - title: Advant Play
+    url: en/advantplay
+    
+  - title: iSoftBet
+    url: en/isoftbet
+    
+  - title: Naga Games
+    url: en/nagagames
+    
+  - title: Eurasian Gaming
+    url: en/eagaming
+    
+  - title: Spadegaming
+    url: en/spadegaming
+    
+  - title: Playson
+    url: en/playson
+    
+  - title: Dragoon Soft
+    url: en/dragoonsoft
+    
+  - title: Ka Gaming
+    url: en/kagaming
+    
+  - title: GMW
+    url: en/gmw
+    
+  - title: Fastspin
+    url: en/fastspin
+    
+  - title: Gameart
+    url: en/gameart
+    
+  - title: Evoplay 
+    url: en/evoplay
+    
+  - title: AvatarUX 
+    url: en/avatarux
