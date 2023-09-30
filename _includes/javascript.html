@@ -139,4 +139,15 @@ window
     setPreference()
   })  
 </script>
+<script>
+$('select').change(function(){
+    var url = $(this).val();
+    window.location = url;
+});
+</script>
+<script>
+function openLink(radio){
+ window.open(radio.value,'_self');
+}
+</script>
 <!-- /Scripts -->
