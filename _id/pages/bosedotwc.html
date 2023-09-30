@@ -1,0 +1,27 @@
+---
+layout: page
+title: Bo Sedot Wc
+permalink: /bo/
+locale: id
+uid: bo
+---
+
+<p>Berikut adalah daftar situs slot sedot & penipu/bodong.</p>
+<table class="uk-table uk-table-divider">
+    <thead>
+        <tr>
+            <th>Nama Situs</th>
+            <th>Server</th>
+        </tr>
+    </thead>
+    <tbody>
+       {% for item in site.data.settings.bosedotwc %}  
+        <tr>
+            <td>{{ item.title }}</td>
+            <td>{{ item.server }}</td>
+        </tr>
+      {% else %}
+      {% if page.locale %}<p>{{ site.data.locales[page.locale].page.nodata }}{% else %}{{ site.data.settings.page.nodata }}</p>{% endif %} 
+      {% endfor %}
+  </tbody>
+</table>
