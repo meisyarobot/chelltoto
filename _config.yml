@@ -5,16 +5,38 @@ url:            "https://l154gamer.github.io/"
 markdown: kramdown
 future: true
 encoding: UTF-8
+locales: ["id", "en"]
+language_default: id
 include:
   - _pages
-  - _posts
+
+collections:
+  id:
+    output: true
+    permalink: /:collection/:slug
+  en:
+    output: true
+    permalink: /:collection/:slug
+
 defaults:
-  - scope:
-      path: "_posts"
-      type: "posts"
-    values:
-      layout: post
-      permalink: /news/:title
-  - scope:
-      path: "_pages"
+  -
+    scope:
+      path: ""
       type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "id"
+    values:
+      layout: "page"
+      locale: id
+  -
+    scope:
+      path: ""
+      type: "en"
+    values:
+      layout: "page"
+      locale: en
+
