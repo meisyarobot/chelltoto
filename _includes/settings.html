@@ -17,9 +17,8 @@
     </ul>
 </div>
 <!-- /Game Filter --> 
-
 <hr>
-
+{% if page.uid %}  
 <!-- Mata Uang & Bahasa --> 
 <div class="uk-width-1-2@s uk-width-2-5@m">
 <ul class="uk-nav uk-nav-default">
@@ -66,7 +65,8 @@
 </ul>
 </div>       
 <!-- /Mata Uang & Bahasa --> 
-
+{% endif%}
+  
 {% if page.active == "pragmaticplay" %}
 <hr>  
 <!-- Line/Game Themes --> 
