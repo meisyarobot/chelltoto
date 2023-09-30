@@ -9,7 +9,7 @@
      <p class="as_provider_icon uk-text-bold uk-text-uppercase"><span class="icon-pragmatic"></span> {{ item.title }}</p><!-- card title --> 
    </div>
    <div class="uk-float-right">
-     <a href="{{ item.url | relative_url }}" class="uk-button uk-button-text uk-text-capitalize">Lihat Semua <span uk-icon="icon: arrow-right"></span></a>
+     <a href="{{ item.url | relative_url }}" class="uk-button uk-button-text uk-text-capitalize">{{ site.data.locales[page.locale].page.view_all }} <span uk-icon="icon: arrow-right"></span></a>
     </div>
    </div>
    <!-- /clearfix -->                 
@@ -31,9 +31,11 @@
 </div><!-- /Grids -->
 
 <div class="uk-text-center uk-margin">
-<a href="https://l154gamer.github.io/byprovider/" class="uk-button uk-button-default uk-width-1-1 uk-margin-small-bottom">Lihat Semua Game</a>
+ <a href="https://l154gamer.github.io/byprovider/" class="uk-button uk-button-default uk-width-1-1 uk-margin-small-bottom">Lihat Semua Game</a>
 </div>
 
+{% if page.locale == 'en' %}
+{% else %}
 <div class="uk-card uk-card-default uk-margin uk-border-rounded">
  <div class="uk-border-rounded uk-card-header">
   <div class="uk-grid-small uk-flex-middle" uk-grid>
@@ -91,8 +93,17 @@
     </li>    
 </ul>
 </div>      
+{% endif %}
 
 <div class="uk-position-relative uk-light uk-margin uk-text-center">
  <img src="https://l154gamer.github.io/assets/18plus.svg" alt="18 Plus Web Akses" width="25" height="25" uk-svg>
  <a href="https://l154gamer.github.io/app/android/L154Gamer_AndroidApp.apk"><img src="https://l154gamer.github.io/assets/download-app.svg" alt="Download Apk Android" width="120" height="120"></a>
+ <div uk-form-custom="target: true">
+  <select id="lang" aria-label="Custom controls">
+   <option selected disabled>{{ site.data.settings.page.language }}</option>
+   <option value="https://l154gamer.github.io/">Indonesia (IDR)</option>
+   <option value="https://l154gamer.github.io/en/">English (USD)</option>
+  </select>
+ <span></span>
+ </div> 
 </div>
