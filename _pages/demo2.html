@@ -1,5 +1,5 @@
 ---
-layout: mainpage
+layout: singlepage
 title: Demo
 active: demo2
 permalink: /demo2/
@@ -13,11 +13,11 @@ permalink: /demo2/
     <span class="uk-nav-header">{{ item.title }}</span>
    </div>
    <div class="uk-float-right">               
-    <a href="{{ item.url }}">{{ site.data.locales[page.locale].page.view_all }} <span uk-drop-parent-icon></span></a>
+    <a class="uk-button uk-button-text uk-text-capitalize" href="{{ item.url }}">{{ site.data.locales[page.locale].page.view_all }} <span uk-icon="icon: chevron-right"></span></a>
    </div>
   </div>    
  </div>	
-{% for entry in item.items %}	
+{% for item in item.items %}	
  <ul class="uk-nav uk-nav-primary">
   <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
