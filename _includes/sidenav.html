@@ -23,7 +23,7 @@
              </div>    
             </li>       
             {% for item in site.data.locales[page.locale].providers %}
-            <li><a href="{{ item.url | site.url }}">{{ item.title }}</a></li>
+            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
             {% endfor %}            
         </ul>
 
