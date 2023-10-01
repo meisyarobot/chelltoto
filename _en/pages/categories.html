@@ -1,0 +1,64 @@
+---
+layout: singlepage
+title: Categories
+permalink: /en/categories/
+locale: en
+uid: categories
+---
+
+<h3 class="uk-heading-line uk-text-center"><span>{{ site.data.locales[page.locale].page.games_by_theme }}</span></h3>
+
+<div class="uk-card uk-card-default uk-border-rounded uk-margin">
+ <a href="https://l154gamer.github.io/koleksi/mahjong/" class="uk-border-rounded uk-card-header uk-link-heading">
+  <div class="uk-grid-small uk-flex-middle" uk-grid>   
+   <div class="uk-width-auto uk-flex-middle">
+    <img src="https://l154gamer.github.io/assets/images/kits/mahjong.svg" alt="Koleksi Mahyong" style="width:70px !important; height: 70px !important" uk-svg>
+   </div>
+   <div class="uk-width-expand uk-flex-middle">
+    <h3 class="uk-card-title uk-margin-remove-bottom">{{ site.data.locales[page.locale].page.mahjong }}</h3>
+    <p class="uk-text-meta uk-text uk-margin-remove"><span>Koleksi game mahyong</span></p>
+    </div>
+  </div>
+ </a>
+</div>
+
+
+<h3 class="uk-margin uk-heading-line uk-text-center"><span>{{ site.data.locales[page.locale].page.games_by_provider }}</span></h3>
+
+<div class="uk-child-width-expand@s" uk-height-match="target: SELECTOR" uk-grid><!-- grids -->
+
+{% for item in site.data.widgets.byprovider %}  
+<div><!-- grid div -->
+ <div class="uk-card uk-card-default uk-card-body uk-remove-top uk-border-rounded"><!-- card -->
+
+  <!-- clearfix -->
+  <div class="uk-clearfix">
+   <div class="uk-float-left">
+    <p class="uk-text-bold uk-text-small">
+     {{ item.title }} 
+    </p><!-- card title --> 
+   </div>
+   <div class="uk-float-right">
+    <a href="{{ item.url | relative_url }}" class="uk-button uk-button-text uk-text-capitalize">{{ site.data.locales[page.locale].page.view_all }} <span uk-icon="icon: arrow-right"></span></a>
+   </div>
+  </div>
+  <!-- /clearfix -->          
+         
+  <!-- begin content -->
+  <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slider="center: true">
+    <ul class="uk-slider-items uk-grid">
+      {% for item in item.images %}
+        <li style="margin: 0px !important; padding: 0px !important" class="uk-width-1-2">
+            <div class="uk-panel uk-remove-margin" data-ride="carousel">
+                <img class="uk-border-rounded" src="{{ item.img }}" width="150" height="80" alt="{{ item.title }}">
+            </div>
+        </li>
+       {% endfor %}
+    </ul>
+  </div>                     
+  <!-- /End content -->                                                                 
+ </div><!-- /card -->
+</div><!-- /grid div -->
+{% endfor %}
+ 
+</div>
