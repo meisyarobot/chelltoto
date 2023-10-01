@@ -15,6 +15,51 @@ menu:
     url: /bo
     icon: trash
 
+sidenav:
+- title: Bahasa
+  items:
+   - Indonesia
+     url: /
+   - English
+     url: /en
+- title: Menu
+  items:
+   - Beranda
+     url: /
+   - Penafian
+     url: /about
+   - Situs Sedot Wc
+     url: /bo
+   - Faq
+     url: faq
+- title: Providers
+  desc: Game berdasarkan provider
+  url: /categories
+  items:
+   - Pragmatic Play
+     url: /pragmaticplay
+   - PG Soft
+     url: /pgsoft
+   - Nolimit City
+     url: /nolimitcity
+   - NetEnt
+     url: /netent
+   - Microgaming
+     url: /microgaming
+- title: Tema
+  desc: Game berdasarkan tema
+  url: /koleksi
+  items:
+   - Mahyong
+     url: /mahjong
+   - Mesir
+     url: /egypt
+   - Game Tabel
+     url: /tablegames
+   - Megaways
+     url: /megaways
+
+
 page:
   menu: Menu
   home: Beranda
