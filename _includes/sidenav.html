@@ -5,9 +5,26 @@
         <button class="uk-offcanvas-close" type="button" uk-close></button>
 
         <h3>{{ site.title }}</h3>
-
+        
+            <div class="uk-nav-header">
+             <div class="uk-clearfix">
+              <div class="uk-float-left">
+               <span class="uk-nav-header">{{ site.data.locales[page.locale].page.menu }}</span>
+              </div>
+              <div class="uk-float-right">               
+                <a href="#">{{ site.data.locales[page.locale].page.language }} <span uk-drop-parent-icon></span></a>
+                 <div uk-dropdown="mode: click">
+                  <ul class="uk-nav" uk-nav>
+                   <li><a href="/">Indonesia</a></li>
+                   <li><a href="/en">English</a></li>
+                  </ul>
+                 </div>               
+              </div>
+             </div>    
+            </div>
+        
         <ul class="uk-nav uk-nav-primary">
-            <li class="uk-nav-header">{{ site.data.locales[page.locale].page.menu }}</li>
+            
             {% for item in site.data.locales[page.locale].menu %}
             <li><a href="{{ item.url }}"><span class="uk-margin-small-right" uk-icon="icon: {{ item.icon }}"></span> {{ item.title }}</a></li>
             {% endfor %}                  
