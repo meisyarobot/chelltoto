@@ -102,24 +102,24 @@ feature:
   - title: Pragmatic Play
     url: pragmaticplay
     images:
-      - img: https://l154gamer.github.io/assets/img/features/peaky-blinders.webp
+      - img: assets/feature/peaky-blinders.webp
         url: pragmaticplay
-      - img: https://l154gamer.github.io/assets/img/features/cowboys-gold.webp
+      - img: assets/feature/cowboys-gold.webp
         url: pragmaticplay
-      - img: https://l154gamer.github.io/assets/img/features/wild-west-duels.webp
+      - img: assets/feature/wild-west-duels.webp
         url: pragmaticplay
-      - img: https://l154gamer.github.io/assets/img/features/wild-west-gold.webp
+      - img: assets/feature/wild-west-gold.webp
         url: pragmaticplay
   - title: PG Soft
     url: pgsoft
     images:
-      - img: https://l154gamer.github.io/assets/img/features/wild-bounty-showdown.webp
+      - img: assets/feature/wild-bounty-showdown.webp
         url: pgsoft
-      - img: https://l154gamer.github.io/assets/img/features/medusa.webp
+      - img: assets/feature/medusa.webp
         url: pgsoft
-      - img: https://l154gamer.github.io/assets/img/features/mahjong-ways2.webp
+      - img: assets/feature/mahjong-ways2.webp
         url: pgsoft
-      - img: https://l154gamer.github.io/assets/img/features/supermarket-spree.webp
+      - img: assets/feature/supermarket-spree.webp
         url: pgsoft
 
 
