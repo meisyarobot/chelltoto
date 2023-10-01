@@ -33,6 +33,9 @@ page:
   nodata: Tidak ada game data
   providers: Providers
   language: Bahasa
+  games_by_theme: Game Berdasarkan Tema
+  games_by_provider: Game Berdasarkan Provider
+  
 
 
 settings:
