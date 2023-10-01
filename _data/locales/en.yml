@@ -115,3 +115,31 @@ providers:
     
   - title: AvatarUX 
     url: en/avatarux
+
+
+
+
+feature:
+  - title: Pragmatic Play
+    url: en/pragmaticplay
+    images:
+      - img: assets/img/features/peaky-blinders.webp
+        url: en/pragmaticplay
+      - img: assets/img/features/cowboys-gold.webp
+        url: en/pragmaticplay
+      - img: assets/img/features/wild-west-duels.webp
+        url: en/pragmaticplay
+      - img: assets/img/features/wild-west-gold.webp
+        url: en/pragmaticplay
+  - title: PG Soft
+    url: en/pgsoft
+    images:
+      - img: assets/img/features/wild-bounty-showdown.webp
+        url: en/pgsoft
+      - img: assets/img/features/medusa.webp
+        url: en/pgsoft
+      - img: assets/img/features/mahjong-ways2.webp
+        url: en/pgsoft
+      - img: assets/img/features/supermarket-spree.webp
+        url: en/pgsoft
+
