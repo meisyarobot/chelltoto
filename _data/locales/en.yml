@@ -117,8 +117,6 @@ providers:
     url: en/avatarux
 
 
-
-
 feature:
   - title: Pragmatic Play
     url: en/pragmaticplay
@@ -127,9 +125,9 @@ feature:
         url: en/pragmaticplay
       - img: assets/feature/cowboys-gold.webp
         url: en/pragmaticplay
-      - img: assets/feature/wild-west-duels.webp
+      - img: assets/img/pragmatic-play/wild-west-duels.webp
         url: en/pragmaticplay
-      - img: assets/feature/wild-west-gold.webp
+      - img: assets/img/pragmatic-play/wild-west-gold.webp
         url: en/pragmaticplay
   - title: PG Soft
     url: en/pgsoft
@@ -138,8 +136,9 @@ feature:
         url: en/pgsoft
       - img: assets/feature/medusa.webp
         url: en/pgsoft
-      - img: assets/feature/mahjong-ways2.webp
+      - img: assets/img/pgsoft/mahjong-ways2.webp
         url: en/pgsoft
-      - img: assets/feature/supermarket-spree.webp
+      - img: assets/img/pgsoft/supermarket-spree.webp
         url: en/pgsoft
+
 
