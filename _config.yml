@@ -19,27 +19,20 @@ collections:
     permalink: /:collection/:slug
 
 defaults:
-  -
-    values:
+  # default id
+  - values:
       locale: id
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "id"
-    values:
-      layout: "page"
+      layout: "page"      
+  - scope: 
+      path: _id/**
+    values: 
       locale: id
-  -
-    scope:
-      path: ""
-      type: "en"
-    values:
-      layout: "page"
+  - scope: 
+      path: _en/**
+    values: 
       locale: en
-
+      
