@@ -17,12 +17,6 @@ menu:
 
 
 sidenav:
-  - title: Bahasa
-    items:
-      - title: Indonesia
-        url: /
-      - title: English
-        url: /en
   - title: Menu
     items:
       - title: Beranda
@@ -33,9 +27,12 @@ sidenav:
         url: /bo
       - title: Faq
         url: faq
+    bahasa:
+      - title: Indonesia
+        Url: /
+      - title: English
+        Url: /en
   - title: Providers
-    desc: Game berdasarkan provider
-    url: /categories
     items:
       - title: Pragmatic Play
         url: /pragmaticplay
@@ -47,9 +44,10 @@ sidenav:
         url: /netent
       - title: Microgaming
         url: /microgaming
+    all:
+      - title: Lihat semua
+        Url: /
   - title: Tema
-    desc: Game berdasarkan tema
-    url: /koleksi
     items:
       - title: Mahyong
         url: /mahjong
@@ -59,6 +57,9 @@ sidenav:
         url: /tablegames
       - title: Megaways
         url: /megaways
+    all:
+      - title: Lihat semua
+        Url: /koleksi
 
 
 page:
