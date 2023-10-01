@@ -20,6 +20,9 @@ collections:
 
 defaults:
   -
+    values:
+      locale: id
+  -
     scope:
       path: ""
       type: "pages"
