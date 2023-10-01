@@ -102,24 +102,24 @@ feature:
   - title: Pragmatic Play
     url: pragmaticplay
     images:
-      - img: assets/img/features/peaky-blinders.webp
+      - img: https://l154gamer.github.io/assets/img/features/peaky-blinders.webp
         url: pragmaticplay
-      - img: assets/img/features/cowboys-gold.webp
+      - img: https://l154gamer.github.io/assets/img/features/cowboys-gold.webp
         url: pragmaticplay
-      - img: assets/img/features/wild-west-duels.webp
+      - img: https://l154gamer.github.io/assets/img/features/wild-west-duels.webp
         url: pragmaticplay
-      - img: assets/img/features/wild-west-gold.webp
+      - img: https://l154gamer.github.io/assets/img/features/wild-west-gold.webp
         url: pragmaticplay
   - title: PG Soft
     url: pgsoft
     images:
-      - img: assets/img/features/wild-bounty-showdown.webp
+      - img: https://l154gamer.github.io/assets/img/features/wild-bounty-showdown.webp
         url: pgsoft
-      - img: assets/img/features/medusa.webp
+      - img: https://l154gamer.github.io/assets/img/features/medusa.webp
         url: pgsoft
-      - img: assets/img/features/mahjong-ways2.webp
+      - img: https://l154gamer.github.io/assets/img/features/mahjong-ways2.webp
         url: pgsoft
-      - img: assets/img/features/supermarket-spree.webp
+      - img: https://l154gamer.github.io/assets/img/features/supermarket-spree.webp
         url: pgsoft
 
 
