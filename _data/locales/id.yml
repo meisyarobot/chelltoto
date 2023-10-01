@@ -15,49 +15,50 @@ menu:
     url: /bo
     icon: trash
 
+
 sidenav:
-- title: Bahasa
-  items:
-   - title: Indonesia
-     url: /
-   - title: English
-     url: /en
-- title: Menu
-  items:
-   - title: Beranda
-     url: /
-   - title: Penafian
-     url: /about
-   - title: Situs Sedot Wc
-     url: /bo
-   - title: Faq
-     url: faq
-- title: Providers
-  desc: Game berdasarkan provider
-  url: /categories
-  items:
-   - title: Pragmatic Play
-     url: /pragmaticplay
-   - title: PG Soft
-     url: /pgsoft
-   - title: Nolimit City
-     url: /nolimitcity
-   - title: NetEnt
-     url: /netent
-   - title: Microgaming
-     url: /microgaming
-- title: Tema
-  desc: Game berdasarkan tema
-  url: /koleksi
-  items:
-   - title: Mahyong
-     url: /mahjong
-   - title: Mesir
-     url: /egypt
-   - title: Game Tabel
-     url: /tablegames
-   - title: Megaways
-     url: /megaways
+  - title: Bahasa
+    items:
+      - title: Indonesia
+        url: /
+      - title: English
+        url: /en
+  - title: Menu
+    items:
+      - title: Beranda
+        url: /
+      - title: Penafian
+        url: /about
+      - title: Situs Sedot Wc
+        url: /bo
+      - title: Faq
+        url: faq
+  - title: Providers
+    desc: Game berdasarkan provider
+    url: /categories
+    items:
+      - title: Pragmatic Play
+        url: /pragmaticplay
+      - title: PG Soft
+        url: /pgsoft
+      - title: Nolimit City
+        url: /nolimitcity
+      - title: NetEnt
+        url: /netent
+      - title: Microgaming
+        url: /microgaming
+  - title: Tema
+    desc: Game berdasarkan tema
+    url: /koleksi
+    items:
+      - title: Mahyong
+        url: /mahjong
+      - title: Mesir
+        url: /egypt
+      - title: Game Tabel
+        url: /tablegames
+      - title: Megaways
+        url: /megaways
 
 
 page:
