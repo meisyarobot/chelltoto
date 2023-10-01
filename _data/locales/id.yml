@@ -18,45 +18,45 @@ menu:
 sidenav:
 - title: Bahasa
   items:
-   - Indonesia
+   - title: Indonesia
      url: /
-   - English
+   - title: English
      url: /en
 - title: Menu
   items:
-   - Beranda
+   - title: Beranda
      url: /
-   - Penafian
+   - title: Penafian
      url: /about
-   - Situs Sedot Wc
+   - title: Situs Sedot Wc
      url: /bo
-   - Faq
+   - title: Faq
      url: faq
 - title: Providers
   desc: Game berdasarkan provider
   url: /categories
   items:
-   - Pragmatic Play
+   - title: Pragmatic Play
      url: /pragmaticplay
-   - PG Soft
+   - title: PG Soft
      url: /pgsoft
-   - Nolimit City
+   - title: Nolimit City
      url: /nolimitcity
-   - NetEnt
+   - title: NetEnt
      url: /netent
-   - Microgaming
+   - title: Microgaming
      url: /microgaming
 - title: Tema
   desc: Game berdasarkan tema
   url: /koleksi
   items:
-   - Mahyong
+   - title: Mahyong
      url: /mahjong
-   - Mesir
+   - title: Mesir
      url: /egypt
-   - Game Tabel
+   - title: Game Tabel
      url: /tablegames
-   - Megaways
+   - title: Megaways
      url: /megaways
 
 
