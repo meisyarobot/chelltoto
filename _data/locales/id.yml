@@ -10,7 +10,7 @@ sidenav:
       - title: Beranda
         url: /
       - title: Penafian
-        url: /about
+        url: /disclaimer
       - title: Situs Scam
         url: /bo
       - title: Faq
@@ -72,7 +72,6 @@ page:
   games_by_provider: Game Berdasarkan Provider
   comingsoon: Halaman ini sedang dalam pembuatan atau pengembangan. Maaf atas ketidaknyamanannya.
   
-
 
 settings:
   settings: Pengaturan
