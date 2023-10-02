@@ -46,20 +46,20 @@ sidenav:
         url: /microgaming
     all:
       - title: Lihat semua
-        url: /
+        url: /categories
   - title: Tema
     items:
       - title: Mahyong
         url: /mahjong
       - title: Mesir
         url: /egypt
-      - title: Game Tabel
+      - title: Tabel Game
         url: /tablegames
       - title: Megaways
         url: /megaways
     all:
       - title: Lihat semua
-        url: /koleksi
+        url: /collections
 
 
 page:
