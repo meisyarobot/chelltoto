@@ -4,18 +4,6 @@ site_url: /
 site:
   title: L154 Gamer
 
-menu:
-  - title: Beranda
-    url: /
-    icon: home
-  - title: Penafian
-    url: /about
-    icon: info
-  - title: Situs Sedot WC
-    url: /bo
-    icon: trash
-
-
 sidenav:
   - title: Menu
     items:
@@ -23,10 +11,10 @@ sidenav:
         url: /
       - title: Penafian
         url: /about
-      - title: Situs Sedot Wc
+      - title: Situs Scam
         url: /bo
       - title: Faq
-        url: faq
+        url: /faq
     bahasa:
       - title: Indonesia
         url: /
@@ -45,7 +33,7 @@ sidenav:
       - title: Microgaming
         url: /microgaming
     all:
-      - title: Lihat semua
+      - title: Semua
         url: /categories
   - title: Tema
     items:
@@ -58,7 +46,7 @@ sidenav:
       - title: Megaways
         url: /megaways
     all:
-      - title: Lihat semua
+      - title: Semua
         url: /collections
 
 
