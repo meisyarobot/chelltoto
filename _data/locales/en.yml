@@ -68,6 +68,8 @@ page:
   nodata: No game data
   providers: Providers
   language: Language
+  games_by_theme: Games By Theme
+  games_by_provider: Games By Providers
 
 
 settings:
