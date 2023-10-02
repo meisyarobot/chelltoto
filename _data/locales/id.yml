@@ -35,7 +35,7 @@ sidenav:
     all:
       - title: Semua
         url: /categories
-  - title: Tema
+  - title: Koleksi
     items:
       - title: Mahyong
         url: /mahjong
