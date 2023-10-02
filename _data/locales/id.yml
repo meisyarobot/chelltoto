@@ -1,4 +1,4 @@
-name: Bahasa Indonesia (IDR)
+name: Indonesia (IDR)
 site_url: /
 
 site:
@@ -41,7 +41,7 @@ sidenav:
         url: /mahjong
       - title: Mesir
         url: /egypt
-      - title: Tabel Game
+      - title: Game Tabel
         url: /tablegames
       - title: Megaways
         url: /megaways
@@ -87,55 +87,6 @@ settings:
   indonesian: Bahasa Indonesia (IDR/Rupiah)
 
 
-providers:
-  - title: Pragmatic Play  
-    url: pragmaticplay
-  - title: PG Soft
-    url: pgsoft
-  - title: Yggdrasil
-    url: yggdrasil
-  - title: Nolimit City
-    url: nolimitcity
-  - title: Habanero
-    url: habanero
-  - title: Red Tiger
-    url: redtiger
-  - title: NetEnt
-    url: netent
-  - title: Bgaming
-    url: bgaming
-  - title: Play'n Go
-    url: playngo
-  - title: Microgaming
-    url: microgaming
-  - title: Advant Play
-    url: advantplay
-  - title: iSoftBet
-    url: isoftbet
-  - title: Naga Games
-    url: nagagames
-  - title: Eurasian Gaming
-    url: eagaming
-  - title: Spadegaming
-    url: spadegaming
-  - title: Playson
-    url: playson
-  - title: Dragoon Soft
-    url: dragoonsoft
-  - title: Ka Gaming
-    url: kagaming
-  - title: GMW
-    url: gmw
-  - title: Fastspin
-    url: fastspin
-  - title: Gameart
-    url: gameart
-  - title: Evoplay 
-    url: evoplay
-  - title: AvatarUX 
-    url: avatarux
-
-
 feature:
   - title: Pragmatic Play
     url: pragmaticplay
@@ -159,5 +110,4 @@ feature:
         url: pgsoft
       - img: assets/img/pgsoft/supermarket-spree.webp
         url: pgsoft
-
 
