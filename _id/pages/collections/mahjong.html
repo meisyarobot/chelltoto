@@ -1,7 +1,7 @@
 ---
-layout: mainpage
+layout: main
 title: Koleksi Mahyong
-permalink: /koleksi/mahjong/
+permalink: /collections/mahjong/
 active: mahjong
 locale: id
 uid: mahjong
@@ -25,6 +25,6 @@ uid: mahjong
   </div>
  </div>       
 {% else %}
-<p>{{site.data.settings.menu.page.nodata}}</p>
+<p>{{ site.data.locales[page.locale].page.nodata }}</p>
  {% endfor %}        
 </div>
