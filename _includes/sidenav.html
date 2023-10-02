@@ -11,7 +11,7 @@
    {% for item in item.all %}  
     <a class="uk-button uk-button-text uk-text-capitalize" href="{{ item.url }}">{{ item.title }} <span uk-icon="icon: chevron-right"></span></a>
     {% else %}
-    <a href="#">{{ site.data.locales[page.locale].page.language }} <span uk-drop-parent-icon></span></a>
+    <a href="#"><span uk-icon="icon: world"></span> {{ site.data.locales[page.locale].page.language }} <span uk-drop-parent-icon></span></a>
      <div uk-dropdown="mode: click">
       <ul class="uk-nav" uk-nav>
        {% for item in item.bahasa %}
