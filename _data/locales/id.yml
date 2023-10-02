@@ -29,9 +29,9 @@ sidenav:
         url: faq
     bahasa:
       - title: Indonesia
-        Url: /
+        url: /
       - title: English
-        Url: /en
+        url: /en
   - title: Providers
     items:
       - title: Pragmatic Play
@@ -46,7 +46,7 @@ sidenav:
         url: /microgaming
     all:
       - title: Lihat semua
-        Url: /
+        url: /
   - title: Tema
     items:
       - title: Mahyong
@@ -59,7 +59,7 @@ sidenav:
         url: /megaways
     all:
       - title: Lihat semua
-        Url: /koleksi
+        url: /koleksi
 
 
 page:
