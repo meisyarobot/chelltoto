@@ -35,7 +35,7 @@ sidenav:
     all:
       - title: All
         url: /en/categories
-  - title: Tema
+  - title: Collections
     items:
       - title: Mahyong
         url: /en/mahjong
