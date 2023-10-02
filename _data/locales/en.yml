@@ -12,6 +12,53 @@ menu:
     url: /en/about
     icon: info
 
+
+sidenav:
+  - title: Menu
+    items:
+      - title: Lobby
+        url: /
+      - title: Disclaimer
+        url: /about
+      - title: Scam Sites
+        url: /bo
+      - title: Faq
+        url: faq
+    bahasa:
+      - title: Indonesian
+        url: /
+      - title: English
+        url: /en
+  - title: Providers
+    items:
+      - title: Pragmatic Play
+        url: /pragmaticplay
+      - title: PG Soft
+        url: /pgsoft
+      - title: Nolimit City
+        url: /nolimitcity
+      - title: NetEnt
+        url: /netent
+      - title: Microgaming
+        url: /microgaming
+    all:
+      - title: All
+        url: /categories
+  - title: Tema
+    items:
+      - title: Mahyong
+        url: /mahjong
+      - title: Mesir
+        url: /egypt
+      - title: Tabel Game
+        url: /tablegames
+      - title: Megaways
+        url: /megaways
+    all:
+      - title: All
+        url: /collections
+
+
 page:
   menu: Menu
   home: Lobby
