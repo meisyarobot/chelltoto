@@ -69,7 +69,7 @@ page:
   providers: Providers
   language: Language
   games_by_theme: Games By Theme
-  games_by_provider: Games By Providers
+  games_by_provider: Games By Provider
 
 
 settings:
@@ -84,77 +84,6 @@ settings:
   display: Display
   english: English (USD)
   indonesian: Indonesian (IDR)
-
-
-providers:
-  - title: Pragmatic Play  
-    url: en/pragmaticplay
-    
-  - title: PG Soft
-    url: en/pgsoft
-    
-  - title: Yggdrasil
-    url: en/yggdrasil
-    
-  - title: Nolimit City
-    url: en/nolimitcity
-    
-  - title: Habanero
-    url: en/habanero
-    
-  - title: Red Tiger
-    url: en/redtiger
-    
-  - title: NetEnt
-    url: en/netent
-    
-  - title: Bgaming
-    url: en/bgaming
-    
-  - title: Play'n Go
-    url: en/playngo
-    
-  - title: Microgaming
-    url: en/microgaming
-    
-  - title: Advant Play
-    url: en/advantplay
-    
-  - title: iSoftBet
-    url: en/isoftbet
-    
-  - title: Naga Games
-    url: en/nagagames
-    
-  - title: Eurasian Gaming
-    url: en/eagaming
-    
-  - title: Spadegaming
-    url: en/spadegaming
-    
-  - title: Playson
-    url: en/playson
-    
-  - title: Dragoon Soft
-    url: en/dragoonsoft
-    
-  - title: Ka Gaming
-    url: en/kagaming
-    
-  - title: GMW
-    url: en/gmw
-    
-  - title: Fastspin
-    url: en/fastspin
-    
-  - title: Gameart
-    url: en/gameart
-    
-  - title: Evoplay 
-    url: en/evoplay
-    
-  - title: AvatarUX 
-    url: en/avatarux
 
 
 feature:
