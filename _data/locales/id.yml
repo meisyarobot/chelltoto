@@ -38,11 +38,11 @@ sidenav:
   - title: Koleksi
     items:
       - title: Mahyong
-        url: /mahjong
+        url: /collections/mahjong
       - title: Mesir
-        url: /egypt
+        url: /collections/egypt
       - title: Game Tabel
-        url: /tablegames
+        url: /collections/tablegames
       - title: Megaways
         url: /megaways
     all:
