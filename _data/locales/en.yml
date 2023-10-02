@@ -38,11 +38,11 @@ sidenav:
   - title: Collections
     items:
       - title: Mahjong
-        url: /en/mahjong
+        url: /en/collections/mahjong
       - title: Egypt
-        url: /en/egypt
+        url: /en/collections/egypt
       - title: Table Games
-        url: /en/tablegames
+        url: /en/collections/tablegames
       - title: Megaways
         url: /en/megaways
     all:
