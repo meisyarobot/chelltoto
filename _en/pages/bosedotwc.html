@@ -1,0 +1,27 @@
+---
+layout: singlepage
+title: Online Casino Blacklist
+permalink: /en/bo/
+locale: en
+uid: bo
+---
+
+<p>This is a list of online casino scams you need to avoid and to be aware of.</p>
+<table class="uk-table uk-table-divider">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Server</th>
+        </tr>
+    </thead>
+    <tbody>
+       {% for item in site.data.settings.bosedotwc %}  
+        <tr>
+            <td>{{ item.title }}</td>
+            <td>{{ item.server }}</td>
+        </tr>
+      {% else %}
+      {% if page.locale %}<p>{{ site.data.locales[page.locale].page.nodata }}{% else %}{{ site.data.settings.page.nodata }}</p>{% endif %} 
+      {% endfor %}
+  </tbody>
+</table>
