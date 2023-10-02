@@ -1,15 +1,14 @@
-<!doctype html>
-<html lang="id">
- <head>
-  {% include head.html %}
- </head>
+<!DOCTYPE html>
+<html lang="{{ page.locale }}" data-theme="light">
+{% include head.html %}
 <body>
- {% include navbar.html %}
- {% include grid-list.html %}
-  <div class="container" style="width: 97% !important;">
-   {{ content }}
-  </div>
- {% include modal.html %}
- {% include scripts.html %}
+{% include navbar.html %}
+<div class="uk-section uk-margin-xlarge-top">
+ <div class="uk-container">
+  {{ content }}
+ </div>
+</div>
+{% include sidenav.html %} 
+{% include javascript.html %}
 </body>
 </html>
