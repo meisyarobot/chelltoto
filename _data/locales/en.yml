@@ -4,26 +4,17 @@ site_url: /en/
 site:
   title: L154 Gamer
 
-menu:
-  - title: Lobby
-    url: /en
-    icon: home
-  - title: Disclaimer
-    url: /en/about
-    icon: info
-
-
 sidenav:
   - title: Menu
     items:
       - title: Lobby
-        url: /
+        url: /en
       - title: Disclaimer
-        url: /about
-      - title: Scam Sites
-        url: /bo
+        url: /en/about
+      - title: Scam Websites
+        url: /en/bo
       - title: Faq
-        url: faq
+        url: /en/faq
     bahasa:
       - title: Indonesian
         url: /
@@ -32,31 +23,31 @@ sidenav:
   - title: Providers
     items:
       - title: Pragmatic Play
-        url: /pragmaticplay
+        url: /en/pragmaticplay
       - title: PG Soft
-        url: /pgsoft
+        url: /en/pgsoft
       - title: Nolimit City
-        url: /nolimitcity
+        url: /en/nolimitcity
       - title: NetEnt
-        url: /netent
+        url: /en/netent
       - title: Microgaming
-        url: /microgaming
+        url: /en/microgaming
     all:
       - title: All
-        url: /categories
+        url: /en/categories
   - title: Tema
     items:
       - title: Mahyong
-        url: /mahjong
+        url: /en/mahjong
       - title: Mesir
-        url: /egypt
+        url: /en/egypt
       - title: Tabel Game
-        url: /tablegames
+        url: /en/tablegames
       - title: Megaways
-        url: /megaways
+        url: /en/megaways
     all:
       - title: All
-        url: /collections
+        url: /en/collections
 
 
 page:
