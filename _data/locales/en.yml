@@ -73,6 +73,22 @@ page:
   comingsoon: This page is under construction. Sorry for inconvenience caused.
 
 
+# Collections
+collections:
+ - title: Mahjong
+   img: https://l154gamer.github.io/assets/images/kits/mahjong.svg
+   desc: Mahjong collection
+ - title: Table Games
+   img: https://l154gamer.github.io/assets/images/kits/table_games.svg
+   desc: Table games collection
+ - title: Egypt
+   img: https://l154gamer.github.io/assets/images/kits/egyptian.svg
+   desc: Egypt collections
+ - title: Megaways
+   img: https://l154gamer.github.io/assets/images/kits/megaways.svg
+   desc: Megaways games collection
+
+
 settings:
   settings: Settings
   filter: Filter
