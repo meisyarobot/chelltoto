@@ -4,6 +4,7 @@
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit-icons.min.js"></script>     
 <script src="https://unpkg.com/infinite-scroll@4/dist/infinite-scroll.pkgd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.27.2/js/core/modal.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 <script>
 function showModal()
 {
@@ -228,5 +229,10 @@ $("#pagin li a").click(function() {
 	 $(this).addClass("current");
 	 showPage(parseInt($(this).text()));
 });      
+</script>
+<script>
+new DataTable('#datatable', {
+    pagingType: 'full_numbers'
+});	
 </script>
 <!-- /Scripts -->
