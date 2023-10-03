@@ -31,7 +31,7 @@
 </div><!-- /Grids -->
 
 <div class="uk-text-center uk-margin">
- <a href="{% if page.locale == 'en' %}en/categories{% elseif page.locale == 'id' %}/categories{% endif %}" class="uk-button uk-button-default uk-width-1-1 uk-margin-small-bottom">{{ site.data.locales[page.locale].page.show_all }}</a>
+ <a href="{% if page.locale == 'en' %}en/categories{% elsif page.locale == 'id' %}/categories{% endif %}" class="uk-button uk-button-default uk-width-1-1 uk-margin-small-bottom">{{ site.data.locales[page.locale].page.show_all }}</a>
 </div> 
 
 {% if page.locale == 'en' %}
