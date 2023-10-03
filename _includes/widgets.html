@@ -26,13 +26,13 @@
   </div><!-- /End content grids -->
  </div><!-- /card -->
 </div><!-- /grid div -->
+{% else %}
+<div class="uk-text-center uk-margin">
+ <a href="{{ item.url }}" class="uk-button uk-button-default uk-width-1-1 uk-margin-small-bottom">{{ item.title }}</a>
+</div> 
 {% endfor %} 
 
 </div><!-- /Grids -->
-
-<div class="uk-text-center uk-margin">
- <a href="https://l154gamer.github.io/categories" class="uk-button uk-button-default uk-width-1-1 uk-margin-small-bottom">{{ site.data.locales[page.locale].page.view_all }}</a>
-</div>
 
 {% if page.locale == 'en' %}
 {% else %}
