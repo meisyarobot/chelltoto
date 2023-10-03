@@ -99,8 +99,8 @@ settings:
   lang-cur: Mata Uang & Bahasa
   providers: Providers
   display: Tampilan
-  english: Bahasa Inggris (USD)
-  indonesian: Bahasa Indonesia (IDR/Rupiah)
+  english: English (USD)
+  indonesian: Indonesia (IDR)
 
 
 feature:
