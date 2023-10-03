@@ -126,6 +126,6 @@ feature:
         url: en/pgsoft
       - img: assets/img/pgsoft/supermarket-spree.webp
         url: en/pgsoft
-   - button: Show All
-     url: en/categories
+  - title: Show All
+    url: /en/categories
 
