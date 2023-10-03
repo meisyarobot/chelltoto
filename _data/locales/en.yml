@@ -211,7 +211,7 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/microgaming/jungle-jim.webp
         
   - title: Advant Play
-    url: /en/advant-play
+    url: /en/advantplay
     images:
       - img: https://l154gamer.github.io/assets/img/advant-play/racing-for-luck.webp
       - img: https://l154gamer.github.io/assets/img/advant-play/road-to-uefa.webp
@@ -274,7 +274,7 @@ byprovider:
       - img: https://l154gamer.github.io/assets/images/thumbnail/pirate-sharky.webp
         
   - title: Dragoon Soft
-    url: /en/dragoon-soft
+    url: /en/dragoonsoft
     images:
       - img: https://l154gamer.github.io/assets/images/thumbnail/more-beauties-ds.webp
       - img: https://l154gamer.github.io/assets/images/thumbnail/pirate-king-ds.webp
@@ -310,7 +310,7 @@ byprovider:
       - img: https://l154gamer.github.io/assets/img/fastspin/royal-katt.webp
 
   - title: Gameart
-    url: gameart
+    url: /en/gameart
     images:
       - img: https://l154gamer.github.io/assets/images/thumbnail/wwq-ga.webp
       - img: https://l154gamer.github.io/assets/images/thumbnail/chili-quest-ga.webp
