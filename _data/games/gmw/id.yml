@@ -1,8 +1,4 @@
-# 1.Bahasa Indonesia IDR
-# 2. English USD
-
-# Bahasa Indonesia
-id_ID:
+id_IDR:
   - title: Bald Eagle 
     img: https://assets.gamemediaworks.com/thumbnail/rectangle/G318.png
     url: https://www.gamemediaworks.com/loader/index.html?gameid=G318&currency=IDR&token=&mode=fun&locale=id
