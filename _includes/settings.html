@@ -83,7 +83,22 @@
 </div>
 <!-- /Line/Game Themes -->
 {% endif %}
-  
+
+{% if page.active == "indocultures" %}
+<hr>  
+<!-- Line/Game Themes --> 
+<div class="uk-width-1-2@s uk-width-2-5@m">
+    <ul class="uk-nav uk-nav-default">
+        <li class="uk-nav-header">{{ site.data.locales[page.locale].settings.providers }}</li>
+        <li><a uk-filter-control="[data-pilih='pgsoft']" href="#pgsoft">PG Soft</a></li>
+        <li><a uk-filter-control="[data-pilih='pragmaticplay']" href="#pragmaticplay">Pragmatic Play</a></li>
+        <li><a uk-filter-control="[data-pilih='eagaming']" href="#eagaming">Eagaming</a></li>
+        <li><a uk-filter-control="[data-pilih='idnplay']" href="#idnplay">IDN Play</a></li>                        
+    </ul>
+</div>
+<!-- /Line/Game Themes -->
+{% endif %}
+
 {% if page.active == "mahjong" %}
 <hr>  
 <div class="uk-width-1-2@s uk-width-2-5@m">
