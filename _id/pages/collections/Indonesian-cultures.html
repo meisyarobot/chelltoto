@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Tema Budaya Indonesia
-permalink: /indonesian-cultures/
+permalink: /collections/indonesian-cultures/
 active: indonesiancultures
 locale: id
 uid: indonesiancultures
@@ -16,10 +16,11 @@ uid: indonesiancultures
      <img src="{{site.url}}assets/img/{{game.img}}" width="1800" height="1200" alt="{{game.title}}" class="uk-border-rounded">
     </a>
    </div> 
-   <div class="uk-card-body uk-margin-remove-top"> 
+   <div class="uk-card-body uk-margin-remove-top uk-margin-remove-bottom"> 
     <h3 class="uk-link-reset uk-text-small uk-card-title uk-text-bold">
     <a href="{{ game.url }}" target="modal_iframe" onClick="showModal()">{{game.title}}</a>
     </h3>
+    <p class="uk-margin-remove-top">{{ game.provider }}</p>
    </div> 
   </div>
  </div>       
