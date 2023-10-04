@@ -41,10 +41,10 @@ sidenav:
         url: /collections/mahjong
       - title: Mesir
         url: /collections/egypt
-      - title: Game Tabel
+      - title: Tabel Game
         url: /collections/tablegames
-      - title: Megaways
-        url: /megaways
+      - title: Budaya Indonesia
+        url: /collections/indonesian-cultures
     all:
       - title: Semua
         url: /collections
