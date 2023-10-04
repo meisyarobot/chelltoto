@@ -78,15 +78,23 @@ collections:
  - title: Mahyong
    img: https://l154gamer.github.io/assets/images/kits/mahjong.svg
    desc: Koleksi game tema mahyong
+   url: /collections/mahjong
  - title: Game Tabel
    img: https://l154gamer.github.io/assets/images/kits/table_games.svg
    desc: Koleksi game tabel.
+   url: /collections/table-games
  - title: Mesir
    img: https://l154gamer.github.io/assets/images/kits/egyptian.svg
    desc: Koleksi game tema mesir.
+   url: /collections/egypt
  - title: Megaways
    img: https://l154gamer.github.io/assets/images/kits/megaways.svg
    desc: Koleksi game megaways
+   url: /megaways
+ - title: Budaya Indonesia
+   img: https://l154gamer.github.io/assets/images/kits/wayang.webp
+   desc: Koleksi game tema kebudayaan Indonesia
+   url: /collections/indonesian-cultures
 
 
 settings:
