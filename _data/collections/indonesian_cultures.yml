@@ -50,3 +50,17 @@
   type: idnplay
   provider: IDN Play
 
+- title: Adat Nusantara
+  img: idnplay/adat-nusantara-idn.webp
+  url: 
+  disable: disable
+  type: idnplay
+  provider: IDN Play
+
+- title: Sejarah Proklamasi
+  img: idnplay/sejarah-proklamasi-idn.webp
+  url: 
+  disable: disable
+  type: idnplay
+  provider: IDN Play
+
