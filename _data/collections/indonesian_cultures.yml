@@ -1,18 +1,52 @@
 - title: Gates of Gatotkaca
   img: pragmatic-play/gatotkaca.webp
-  url: 
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20gatotgates
   type: pragmaticplay
   provider: Pragmatic Play
 
 - title: Bali Vacation
   img: pgsoft/bali-vacation.webp
-  url: 
+  url: https://m.pgsoft-games.com/94/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  type: pgsoft
+  provider: PG Soft
+
+- title: Garuda Gems
+  img: pgsoft/garuda-gems.webp
+  url: https://m.pgsoft-games.com/122/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   type: pgsoft
   provider: PG Soft
 
 - title: Majapahit
   img: eagaming/majapahit-eagaming.webp
-  url: 
+  url: https://www.eagames-eu.com/rgs/views/eanew/embed.html?sid=S6cdaee2cf&brandName=eagaming&locale=id
   type: eagaming
   provider: Eagaming
+
+- title: Legenda Gatotkaca
+  img: idnplay/legenda-gatotkaca-idn.webp
+  url: 
+  disable: disable
+  type: idnplay
+  provider: IDN Play
+
+- title: Djakarta
+  img: idnplay/djakarta-idn.webp
+  url: 
+  disable: disable
+  type: idnplay
+  provider: IDN Play
+
+- title: Kisah Malin Kundang
+  img: idnplay/kisah-malin-kundang-idn.webp
+  url: 
+  disable: disable
+  type: idnplay
+  provider: IDN Play
+
+- title: Keliling Jakarta
+  img: idnplay/keliling-jakarta-idn.webp
+  url: 
+  disable: disable
+  type: idnplay
+  provider: IDN Play
 
