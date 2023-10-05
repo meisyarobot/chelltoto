@@ -64,3 +64,38 @@
   type: idnplay
   provider: IDN Play
 
+- title: Kisah Kartini
+  img: idnplay/kisah-kartini-idn.webp
+  url: 
+  disable: disable
+  type: idnplay
+  provider: IDN Play
+
+- title: Beauty of Raja Ampat
+  img: idnplay/beauty-of-rajaampat-idn.webp
+  url: 
+  disable: disable
+  type: idnplay
+  provider: IDN Play
+
+- title: Sejarah Kemerdekaaan
+  img: idnplay/sejarah-kemerdekaan-idn.webp
+  url: 
+  disable: disable
+  type: idnplay
+  provider: IDN Play
+
+- title: Pendekar Kapak
+  img: idnplay/pendekar-kapak-idn.webp
+  url: 
+  disable: disable
+  type: idnplay
+  provider: IDN Play
+
+- title: Bali Surga Dunia
+  img: idnplay/bali-surga-dunia-idn.webp
+  url: 
+  disable: disable
+  type: idnplay
+  provider: IDN Play
+
