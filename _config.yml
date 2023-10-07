@@ -5,7 +5,7 @@ url:            "https://l154gamer.github.io/"
 markdown: kramdown
 future: true
 encoding: UTF-8
-locales: ["id", "en"]
+locales: ["id", "en", "ru"]
 language_default: id
 include:
   - _pages
@@ -15,6 +15,9 @@ collections:
     output: true
     permalink: /:collection/:slug
   en:
+    output: true
+    permalink: /:collection/:slug
+  ru:
     output: true
     permalink: /:collection/:slug
 
@@ -35,4 +38,8 @@ defaults:
       path: _en/**
     values: 
       locale: en
-      
+  - scope: 
+      path: _ru/**
+    values: 
+      locale: ru
+
