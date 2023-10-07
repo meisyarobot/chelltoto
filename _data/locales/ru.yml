@@ -1,4 +1,4 @@
-name: Russian (Ruble)
+name: Russian (Rub)
 site_url: /ru
 
 site:
@@ -8,13 +8,13 @@ sidenav:
   - title: Menu
     items:
       - title: Лобби
-        url: /
+        url: /ru
       - title: Penafian
-        url: /disclaimer
+        url: /ru/disclaimer
       - title: Situs Scam
-        url: /bo
+        url: /ru/bo
       - title: Faq
-        url: /faq
+        url: /ru/faq
     bahasa:
       - title: Indonesia
         url: /
@@ -22,7 +22,7 @@ sidenav:
         url: /en
       - title: Russian
         url: /ru
-  - title: Providers
+  - title: Провайдеры
     items:
       - title: Pragmatic Play
         url: /ru/pragmaticplay
