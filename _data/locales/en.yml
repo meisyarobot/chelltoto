@@ -104,6 +104,8 @@ settings:
   display: Display
   english: English (USD)
   indonesian: Indonesian (IDR)
+  russian: Russian (Ruble)
+  new: New
 
 
 feature:
