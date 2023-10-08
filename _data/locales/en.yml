@@ -20,6 +20,8 @@ sidenav:
         url: /
       - title: English
         url: /en
+      - title: Russian
+        url: /ru
   - title: Providers
     items:
       - title: Pragmatic Play
