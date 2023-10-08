@@ -23,7 +23,9 @@
 <div class="uk-width-1-2@s uk-width-2-5@m">
 <ul class="uk-nav uk-nav-default">
  <li class="uk-nav-header">{{ site.data.locales[page.locale].settings.lang-cur }}</li> 
+ 
  {% if page.locale == 'id' %}
+ 
   {% assign postsOrPages = site.pages 
     | concat: site.pages 
     | concat: site.en
@@ -37,13 +39,14 @@
       {{ site.data.locales[page.locale].settings.indonesian }}</label><br>
      <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
       {{ site.data.locales[item.locale].name }}</label>     
+     <label><input class="uk-radio" type="radio" name="radio1">     
+      {{ site.data.locales[page.locale].settings.russian }}</label>  
      </div>
     </li>
    {% endunless %}
   {% endfor %}
- </ul>
+ 
  {% elsif page.locale == 'en' %}
-  <ul class="uk-nav uk-nav-default">
   {% assign postsOrPages = site.pages 
     | concat: site.pages 
     | concat: site.id
@@ -56,13 +59,37 @@
      <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
       {{ site.data.locales[item.locale].name }}</label><br>
      <label><input class="uk-radio" type="radio" name="radio1" checked>     
-      {{ site.data.locales[page.locale].settings.english }}</label>          
+      {{ site.data.locales[page.locale].settings.english }}</label>         
+     <label><input class="uk-radio" type="radio" name="radio1">     
+      {{ site.data.locales[page.locale].settings.russian }}</label>  
      </div>
     </li>
    {% endunless %}
   {% endfor %}
- {% endif%}
+  
+ {% elsif page.locale == 'ru' %}
+   {% assign postsOrPages = site.pages 
+    | concat: site.pages 
+    | concat: site.ru
+    | where: "uid", page.uid 
+    | sort: "locale" %}
+  {% for item in postsOrPages %}
+   {% unless item.url contains '/page/' %}
+    <li>
+     <div class="uk-form-controls">
+     <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
+      {{ site.data.locales[item.locale].name }}</label><br>
+     <label><input class="uk-radio" type="radio" name="radio1">     
+      {{ site.data.locales[page.locale].settings.english }}</label>   
+     <label><input class="uk-radio" type="radio" name="radio1" checked>     
+      {{ site.data.locales[page.locale].settings.russian }}</label> 
+     </div>
+    </li>
+   {% endunless %}
+  {% endfor %}
+ 
 </ul>
+ {% endif%}
 </div>       
 <!-- /Mata Uang & Bahasa --> 
 {% endif%}
