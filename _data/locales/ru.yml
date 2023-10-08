@@ -5,7 +5,7 @@ site:
   title: L154 Gamer
 
 sidenav:
-  - title: Menu
+  - title: Меню
     items:
       - title: Лобби
         url: /ru
@@ -13,7 +13,7 @@ sidenav:
         url: /ru/disclaimer
       - title: Situs Scam
         url: /ru/bo
-      - title: Faq
+      - title: Часто задаваемые вопросы
         url: /ru/faq
     bahasa:
       - title: Indonesia
@@ -69,7 +69,7 @@ page:
   new: Terbaru
   nodata: Tidak ada game data
   providers: Providers
-  language: Bahasa
+  language: Язык
   games_by_theme: Game Berdasarkan Tema
   games_by_provider: Game Berdasarkan Provider
   comingsoon: Halaman ini sedang dalam pembuatan atau pengembangan. Maaf atas ketidaknyamanannya.
