@@ -39,13 +39,13 @@ sidenav:
         url: /ru/categories
   - title: Коллекции
     items:
-      - title: Mahyong
+      - title: Маджонг
         url: /ru/collections/mahjong
-      - title: Mesir
+      - title: Египет
         url: /ru/collections/egypt
-      - title: Tabel Game
+      - title: Настольные игры
         url: /ru/collections/tablegames
-      - title: Budaya Indonesia
+      - title: Культура Индонезии
         url: /ru/collections/indonesian-cultures
     all:
       - title: Показать все
