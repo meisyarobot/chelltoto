@@ -36,6 +36,8 @@
 
 {% if page.locale == 'en' %}
 {% else %}
+{% if page.locale == 'ru' %}
+{% else %}
 <div class="uk-card uk-card-default uk-margin uk-border-rounded">
  <div class="uk-border-rounded uk-card-header">
   <div class="uk-grid-small uk-flex-middle" uk-grid>
@@ -73,6 +75,7 @@
     </li>
 </ul>
 </div>      
+{% endif %}
 {% endif %}
 
 <div class="uk-position-relative uk-light uk-margin uk-text-center">
