@@ -72,7 +72,8 @@ page:
   games_by_provider: Game Berdasarkan Provider
   comingsoon: Halaman ini sedang dalam pembuatan atau pengembangan. Maaf atas ketidaknyamanannya.
   error_404: Halaman yang sedang anda cari untuk sementara tidak tersedia. Silakan coba lagi nanti.
-  
+  list: List
+  grid: Grid
 
 # Collections
 collections:
