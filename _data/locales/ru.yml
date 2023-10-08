@@ -9,7 +9,7 @@ sidenav:
     items:
       - title: Лобби
         url: /ru
-      - title: Penafian
+      - title: Дисклеймер
         url: /ru/disclaimer
       - title: Situs Scam
         url: /ru/bo
