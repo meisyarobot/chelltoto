@@ -77,6 +77,7 @@ page:
   list: Список
   grid: Сетка
 
+
 # Collections
 collections:
  - title: Mahyong
@@ -105,16 +106,16 @@ settings:
   settings: Настройки
   filter: Filter
   all_games: Все игры
-  new_games: Game Terbaru
+  new_games: Новые игры
   classic_games: Классические слоты
   table_games: Настольные игры
   lang-cur: валюты & Язык
   providers: Провайдеры
-  display: Tampilan
+  display: Display
   english: English (USD)
   indonesian: Indonesia (IDR)
   russian: Russian (Rub)
-
+  new: Новая
 
 feature:
   - title: Pragmatic Play
