@@ -37,9 +37,9 @@
      <div class="uk-form-controls">
      <label><input class="uk-radio" type="radio" name="radio1" checked>     
       {{ site.data.locales[page.locale].settings.indonesian }}</label><br>
-     <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
-      {{ site.data.locales[item.locale].name }}</label>     
-     <label><input class="uk-radio" type="radio" name="radio1">     
+     <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio2" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
+      {{ site.data.locales[item.locale].settings.english }}</label>     
+     <label><input class="uk-radio" type="radio" name="radio3" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
       {{ site.data.locales[page.locale].settings.russian }}</label>  
      </div>
     </li>
@@ -57,10 +57,10 @@
     <li>
      <div class="uk-form-controls">
      <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
-      {{ site.data.locales[item.locale].name }}</label><br>
-     <label><input class="uk-radio" type="radio" name="radio1" checked>     
+      {{ site.data.locales[item.locale].settings.indonesian }}</label><br>
+     <label><input class="uk-radio" type="radio" name="radio2" checked>     
       {{ site.data.locales[page.locale].settings.english }}</label>         
-     <label><input class="uk-radio" type="radio" name="radio1">     
+     <label><input class="uk-radio" type="radio" name="radio3" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
       {{ site.data.locales[page.locale].settings.russian }}</label>  
      </div>
     </li>
@@ -78,8 +78,8 @@
     <li>
      <div class="uk-form-controls">
      <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
-      {{ site.data.locales[item.locale].name }}</label><br>
-     <label><input class="uk-radio" type="radio" name="radio1">     
+      {{ site.data.locales[item.locale].settings.indonesian }}</label><br>
+     <label><input class="uk-radio" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
       {{ site.data.locales[page.locale].settings.english }}</label>   
      <label><input class="uk-radio" type="radio" name="radio1" checked>     
       {{ site.data.locales[page.locale].settings.russian }}</label> 
