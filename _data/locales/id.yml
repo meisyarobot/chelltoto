@@ -111,6 +111,8 @@ settings:
   display: Tampilan
   english: English (USD)
   indonesian: Indonesia (IDR)
+  russian: Russian (Rubel)
+  new: Baru
 
 
 feature:
