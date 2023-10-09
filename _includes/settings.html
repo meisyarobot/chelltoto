@@ -68,22 +68,13 @@
   {% endfor %}
   
  {% elsif page.locale == 'ru' %}
-   {% assign postsOrPages = site.pages 
-    | concat: site.pages 
-    | concat: site.id
-    | where: "uid", page.uid 
-    | sort: "locale" %}
+ 
   {% for item in postsOrPages %}
    {% unless item.url contains '/page/' %}
     <li>
      <div class="uk-form-controls">
      <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
       {{ site.data.locales[item.locale].settings.indonesian }}</label><br>
-   {% assign postsOrPages = site.pages 
-    | concat: site.pages 
-    | concat: site.en
-    | where: "uid", page.uid 
-    | sort: "locale" %} 
      <label><input class="uk-radio" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
       {{ site.data.locales[page.locale].settings.english }}</label><br>   
      <label><input class="uk-radio" type="radio" name="radio1" checked>     
@@ -120,13 +111,13 @@
 <hr>  
 <!-- Line/Game Themes --> 
 <div class="uk-width-1-2@s uk-width-2-5@m">
-    <ul class="uk-nav uk-nav-default">
-        <li class="uk-nav-header">{{ site.data.locales[page.locale].settings.providers }}</li>
-        <li><a uk-filter-control="[data-pilih='pgsoft']" href="#pgsoft">PG Soft</a></li>
-        <li><a uk-filter-control="[data-pilih='pragmaticplay']" href="#pragmaticplay">Pragmatic Play</a></li>
-        <li><a uk-filter-control="[data-pilih='eagaming']" href="#eagaming">Eagaming</a></li>
-        <li><a uk-filter-control="[data-pilih='idnplay']" href="#idnplay">IDN Play</a></li>                        
-    </ul>
+ <ul class="uk-nav uk-nav-default">
+  <li class="uk-nav-header">{{ site.data.locales[page.locale].settings.providers }}</li>
+  <li><a uk-filter-control="[data-pilih='pgsoft']" href="#pgsoft">PG Soft</a></li>
+  <li><a uk-filter-control="[data-pilih='pragmaticplay']" href="#pragmaticplay">Pragmatic Play</a></li>
+  <li><a uk-filter-control="[data-pilih='eagaming']" href="#eagaming">Eagaming</a></li>
+  <li><a uk-filter-control="[data-pilih='idnplay']" href="#idnplay">IDN Play</a></li>                        
+ </ul>
 </div>
 <!-- /Line/Game Themes -->
 {% endif %}
@@ -161,15 +152,15 @@
   
 <hr>
 
-<!-- Theme Setting -->
+<!-- Display Setting -->
 <div class="uk-width-1-2@s uk-width-2-5@m">
-         <ul class="uk-nav uk-iconnav uk-iconnav-vertical">
-          <li class="uk-nav-header">{{ site.data.locales[page.locale].settings.display }}</li>
-          <li id="grid"><a id="grid"><span uk-icon="icon: thumbnails"></span>{{ site.data.locales[page.locale].page.grid }}</a></li>
-          <li id="list"><a id="list"><span uk-icon="icon: list"></span>{{ site.data.locales[page.locale].page.list }}</a></li>
-         </ul>
+ <ul class="uk-nav uk-iconnav uk-iconnav-vertical">
+  <li class="uk-nav-header">{{ site.data.locales[page.locale].settings.display }}</li>
+  <li id="grid"><a id="grid"><span uk-icon="icon: thumbnails"></span>{{ site.data.locales[page.locale].page.grid }}</a></li>
+  <li id="list"><a id="list"><span uk-icon="icon: list"></span>{{ site.data.locales[page.locale].page.list }}</a></li>
+ </ul>
 </div>
-<!-- /Theme Setting -->
+<!-- /Display Setting -->
 
  </div>
 </div><!-- /Settings -->
