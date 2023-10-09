@@ -70,7 +70,7 @@
  {% elsif page.locale == 'ru' %}
    {% assign postsOrPages = site.pages 
     | concat: site.pages 
-    | concat: site.en
+    | concat: site.id
     | where: "uid", page.uid 
     | sort: "locale" %}
   {% for item in postsOrPages %}
@@ -79,6 +79,11 @@
      <div class="uk-form-controls">
      <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
       {{ site.data.locales[item.locale].settings.indonesian }}</label><br>
+   {% assign postsOrPages = site.pages 
+    | concat: site.pages 
+    | concat: site.en
+    | where: "uid", page.uid 
+    | sort: "locale" %} 
      <label><input class="uk-radio" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
       {{ site.data.locales[page.locale].settings.english }}</label><br>   
      <label><input class="uk-radio" type="radio" name="radio1" checked>     
