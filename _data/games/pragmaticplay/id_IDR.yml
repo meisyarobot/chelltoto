@@ -169,6 +169,13 @@
   type: infini
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olginf88
   provider: Pragmatic Play
+  
+- title: Gates of Partycasino
+  symbol: vs20partygates
+  img: gates-of-partycasino.webp
+  type: partycasino
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20partygates
+  provider: Pragmatic Play
 
 - title: Starlight Princess
   symbol: vs20starlight
@@ -261,6 +268,13 @@
   type: videoslot
   provider: Pragmatic Play
 
+- title: Snabbare Bonanza 
+  symbol: vs20snabbare
+  img: snabbare-bonanza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20snabbare
+  type: videoslot
+  provider: Pragmatic Play
+  
 - title: Sweet Slot Mania
   symbol: vs20fruitmania
   img: slotmania-sweet.webp
@@ -435,7 +449,14 @@
   type: slotmania
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slotmanar
   provider: Pragmatic Play
-
+  
+- title: Sword of Partycasino
+  symbol: vs20swordparty
+  img: sword-of-partycasino.webp
+  type: partycasino
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20swordparty
+  provider: Pragmatic Play
+ 
 - title: Rise Samurai
   symbol: vs25samurai
   img: risesamurai.webp
