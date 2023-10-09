@@ -1,4 +1,12 @@
 # New games 
+
+- title: Gates of Heaven 
+  symbol: vs20olympgateh
+  img: gates-of-heaven.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympgateh
+  type: new
+  provider: Pragmatic Play
+  
 - title: Gravity Bonanza 
   symbol: vs20gravity
   img: gravity-bonanza.webp
@@ -225,6 +233,13 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smgatot
   provider: Pragmatic Play
 
+- title: Infini88 Gates of Gatotkaca 
+  symbol: vs20infini88ggk
+  img: infini88-gates-of-gatotkaca.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20infini88ggk
+  type: infini
+  provider: Pragmatic Play
+
 - title: Sweet Bonanza
   symbol: vs20fruitsw
   img: sweet-bonanza.webp
@@ -266,7 +281,15 @@
   type: infini
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20swbinf88
   provider: Pragmatic Play
-  
+
+- title: Vbet Sweet Bonanza 
+  symbol: vs20infini88ggk
+  img: vbet-sweet-bonanza.webp
+  url: 
+  disable: disable
+  type: vbet
+  provider: Pragmatic Play
+
 - title: Aztec Gems
   symbol: vs5aztecgems
   img: aztec-gems.webp
