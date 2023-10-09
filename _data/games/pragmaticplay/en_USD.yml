@@ -1,4 +1,12 @@
 # New games 
+
+- title: Gates of Heaven 
+  symbol: vs20olympgateh
+  img: gates-of-heaven.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=en&cur=USD&jurisdiction=99&gameSymbol=vs20olympgateh
+  type: new
+  provider: Pragmatic Play
+  
 - title: Gravity Bonanza 
   symbol: vs20gravity
   img: gravity-bonanza.webp
@@ -204,7 +212,7 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=en&cur=USD&jurisdiction=99&gameSymbol=vs20nexussp
   provider: Pragmatic Play 
 
-- title: Gates of Gatot Kaca
+- title: Gates of Gatotkaca
   symbol: vs20gatotgates
   img: gatotkaca.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=en&cur=USD&jurisdiction=99&gameSymbol=vs20gatotgates
@@ -225,6 +233,13 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=en&cur=USD&jurisdiction=99&gameSymbol=vs20smgatot
   provider: Pragmatic Play
 
+- title: Infini88 Gates of Gatotkaca 
+  symbol: vs20infini88ggk
+  img: infini88-gatotkaca.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=en&cur=USD&jurisdiction=99&gameSymbol=vs20infini88ggk
+  type: infini
+  provider: Pragmatic Play
+
 - title: Sweet Bonanza
   symbol: vs20fruitsw
   img: sweet-bonanza.webp
@@ -243,7 +258,7 @@
   symbol: vs20bnnzdice
   img: sweet-bonanza-dice.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=en&cur=USD&jurisdiction=99&gameSymbol=vs20bnnzdice
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Sweet Slot Mania
@@ -266,7 +281,14 @@
   type: infini
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=en&cur=USD&jurisdiction=99&gameSymbol=vs20swbinf88
   provider: Pragmatic Play
-  
+
+- title: Vbet Sweet Bonanza 
+  symbol: vs20fruitswvbet
+  img: vbet-sweet-bonanza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=en&cur=USD&jurisdiction=99&gameSymbol=vs20fruitswvbet
+  type: vbet
+  provider: Pragmatic Play
+
 - title: Aztec Gems
   symbol: vs5aztecgems
   img: aztec-gems.webp
@@ -536,7 +558,7 @@
 - title: Peaky Blinders 2
   symbol: 
   img: peaky-blinders2.webp
-  type: videoslot
+  type: new
   url: 
   disable: game_disable
   provider: Pragmatic Play
@@ -727,7 +749,6 @@
   symbol: vs10bhallbnza
   img: big-bass-halloween.webp
   type: reelkingdom
-  disable: disable
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=en&cur=USD&jurisdiction=99&gameSymbol=vs10bhallbnza
   provider: Pragmatic Play 
 
