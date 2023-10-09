@@ -212,7 +212,7 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20nexussp
   provider: Pragmatic Play 
 
-- title: Gates of Gatot Kaca
+- title: Gates of Gatotkaca
   symbol: vs20gatotgates
   img: gatotkaca.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20gatotgates
@@ -283,10 +283,9 @@
   provider: Pragmatic Play
 
 - title: Vbet Sweet Bonanza 
-  symbol: vs20infini88ggk
+  symbol: vs20fruitswvbet
   img: vbet-sweet-bonanza.webp
-  url: 
-  disable: disable
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitswvbet
   type: vbet
   provider: Pragmatic Play
 
@@ -559,7 +558,7 @@
 - title: Peaky Blinders 2
   symbol: 
   img: peaky-blinders2.webp
-  type: videoslot
+  type: new
   url: 
   disable: game_disable
   provider: Pragmatic Play
@@ -750,7 +749,6 @@
   symbol: vs10bhallbnza
   img: big-bass-halloween.webp
   type: reelkingdom
-  disable: disable
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bhallbnza
   provider: Pragmatic Play 
 
