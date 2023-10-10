@@ -50,10 +50,9 @@
 </div>
 <!-- /Engine -->  
 {% endif %}
-
-<div class="hide">
-<hr> 
+ 
 {% if page.uid %}  
+<hr>  
 <!-- Mata Uang & Bahasa --> 
 <div class="uk-width-1-2@s uk-width-2-5@m">
 <ul class="uk-nav uk-nav-default">
@@ -101,30 +100,12 @@
     </li>
    {% endunless %}
   {% endfor %}
-  
- {% elsif page.locale == 'ru' %}
- 
-  {% for item in postsOrPages %}
-   {% unless item.url contains '/page/' %}
-    <li>
-     <div class="uk-form-controls">
-     <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
-      {{ site.data.locales[item.locale].settings.indonesian }}</label><br>
-     <label><input class="uk-radio" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
-      {{ site.data.locales[page.locale].settings.english }}</label><br>   
-     <label><input class="uk-radio" type="radio" name="radio1" checked>     
-      {{ site.data.locales[page.locale].settings.russian }}</label> 
-     </div>
-    </li>
-   {% endunless %}
-  {% endfor %}
- 
+
 </ul>
  {% endif%}
 </div>       
 <!-- /Mata Uang & Bahasa --> 
 {% endif%}
-</div>
   
 {% if page.active == "indocultures" %}
 <hr>  
