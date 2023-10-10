@@ -10,10 +10,10 @@
 <div class="uk-width-1-2@s uk-width-2-5@m">
     <ul class="uk-nav uk-nav-default">        
      <li class="uk-nav-header">{{ site.data.locales[page.locale].settings.filter }}</li>
-     <li uk-filter-control><a href="#">{{ site.data.locales[page.locale].settings.all_games }}</a></li>
-     <li uk-filter-control="[data-pilih='new']"><a href="#new">{{ site.data.locales[page.locale].settings.new_games }}</a></li>
-     <li uk-filter-control="[data-pilih='table']"><a href="#table">{{ site.data.locales[page.locale].settings.table_games }}</a></li>
-     <li uk-filter-control="[data-pilih='classic']"><a href="#classic">{{ site.data.locales[page.locale].settings.classic_games }}</a></li>
+     <li uk-filter-control><a href="#"><span uk-icon="icon: chevron-double-right"></span>{{ site.data.locales[page.locale].settings.all_games }}</a></li>
+     <li uk-filter-control="[data-pilih='new']"><a href="#new"><span uk-icon="icon: chevron-double-right"></span>{{ site.data.locales[page.locale].settings.new_games }}</a></li>
+     <li uk-filter-control="[data-pilih='table']"><a href="#table"><span uk-icon="icon: chevron-double-right"></span>{{ site.data.locales[page.locale].settings.table_games }}</a></li>
+     <li uk-filter-control="[data-pilih='classic']"><a href="#classic"><span uk-icon="icon: chevron-double-right"></span>{{ site.data.locales[page.locale].settings.classic_games }}</a></li>
     </ul>
 </div>
 <!-- /Game Filter --> 
@@ -24,9 +24,9 @@
 <div class="uk-width-1-2@s uk-width-2-5@m">
     <ul class="uk-nav uk-nav-default">
      <li class="uk-nav-header">Line</li>
-     <li><a uk-filter-control="[data-pilih='megaways']" href="#megaways">Megaways</a></li>
-     <li><a uk-filter-control="[data-pilih='reelkingdom']" href="#reelkingdom">Reel Kingdom</a></li>
-     <li><a uk-filter-control="[data-pilih='wsg']" href="#wsg">Wild Streak Gaming</a></li>
+     <li><a uk-filter-control="[data-pilih='megaways']" href="#megaways"><span uk-icon="icon: chevron-double-right"></span>Megaways</a></li>
+     <li><a uk-filter-control="[data-pilih='reelkingdom']" href="#reelkingdom"><span uk-icon="icon: chevron-double-right"></span>Reel Kingdom</a></li>
+     <li><a uk-filter-control="[data-pilih='wsg']" href="#wsg"><span uk-icon="icon: chevron-double-right"></span>Wild Streak Gaming</a></li>
     </ul>
 </div>
 <!-- /Line -->
@@ -37,11 +37,13 @@
 <div class="uk-width-1-2@s uk-width-2-5@m">
     <ul class="uk-nav uk-nav-default">
      <li class="uk-nav-header">Engine</li>     
-     <li><a uk-filter-control="[data-pilih='slotmania']" href="#slotmania">Slotmania</a></li>
-     <li><a uk-filter-control="[data-pilih='nexus']" href="#nexus">Nexus</a></li>
-     <li><a uk-filter-control="[data-pilih='infini']" href="#infini">Infini88</a></li>
-     <li><a uk-filter-control="[data-pilih='vbet']" href="#vbet">Vbet</a></li>
-     <li><a uk-filter-control="[data-pilih='partycasino']" href="#partycasino">Partycasino</a></li>
+     <li><a uk-filter-control="[data-pilih='slotmania']" href="#slotmania"><span uk-icon="icon: chevron-double-right"></span>Slotmania</a></li>
+     <li><a uk-filter-control="[data-pilih='nexus']" href="#nexus"><span uk-icon="icon: chevron-double-right"></span>Nexus</a></li>
+     <li><a uk-filter-control="[data-pilih='infini']" href="#infini"><span uk-icon="icon: chevron-double-right"></span>Infini88</a></li>
+     <li><a uk-filter-control="[data-pilih='vbet']" href="#vbet"><span uk-icon="icon: chevron-double-right"></span>Vbet</a></li>
+     <li><a uk-filter-control="[data-pilih='partycasino']" href="#partycasino"><span uk-icon="icon: chevron-double-right"></span>Partycasino</a></li>
+     <li><a uk-filter-control="[data-pilih='casumo']" href="#casumo"><span uk-icon="icon: chevron-double-right"></span>Casumo</a></li>
+     <li><a uk-filter-control="[data-pilih='stoiximan']" href="#stoiximan"><span uk-icon="icon: chevron-double-right"></span>Stoiximan</a></li>
     </ul>
 </div>
 <!-- /Engine -->  
@@ -126,10 +128,10 @@
 <div class="uk-width-1-2@s uk-width-2-5@m">
  <ul class="uk-nav uk-nav-default">
   <li class="uk-nav-header">{{ site.data.locales[page.locale].settings.providers }}</li>
-  <li><a uk-filter-control="[data-pilih='pgsoft']" href="#pgsoft">PG Soft</a></li>
-  <li><a uk-filter-control="[data-pilih='pragmaticplay']" href="#pragmaticplay">Pragmatic Play</a></li>
-  <li><a uk-filter-control="[data-pilih='eagaming']" href="#eagaming">Eagaming</a></li>
-  <li><a uk-filter-control="[data-pilih='idnplay']" href="#idnplay">IDN Play</a></li>                        
+  <li><a uk-filter-control="[data-pilih='pgsoft']" href="#pgsoft"><span uk-icon="icon: chevron-double-right"></span>PG Soft</a></li>
+  <li><a uk-filter-control="[data-pilih='pragmaticplay']" href="#pragmaticplay"><span uk-icon="icon: chevron-double-right"></span>Pragmatic Play</a></li>
+  <li><a uk-filter-control="[data-pilih='eagaming']" href="#eagaming"><span uk-icon="icon: chevron-double-right"></span>Eagaming</a></li>
+  <li><a uk-filter-control="[data-pilih='idnplay']" href="#idnplay"><span uk-icon="icon: chevron-double-right"></span>IDN Play</a></li>                        
  </ul>
 </div>
 <!-- /Line/Game Themes -->
@@ -140,25 +142,25 @@
 <div class="uk-width-1-2@s uk-width-2-5@m">
  <ul class="uk-nav uk-nav-default">  
   <li class="uk-nav-header">{{ site.data.locales[page.locale].settings.providers }}</li>
-  <li><a uk-filter-control="[data-pilih='pgsoft']" href="#pgsoft">PG Soft</a></li>
-  <li><a uk-filter-control="[data-pilih='pragmaticplay']" href="#pragmaticplay">Pragmatic Play</a></li>
-  <li><a uk-filter-control="[data-pilih='kagaming']" href="#kagaming">Ka Gaming</a></li>
-  <li><a uk-filter-control="[data-pilih='dragoonsoft']" href="#dragoonsoft">Dragoon Soft</a></li>
-  <li><a uk-filter-control="[data-pilih='nagagames']" href="#nagagames">Naga Games</a></li>
-  <li><a uk-filter-control="[data-pilih='playstar']" href="#playstar">Playstar</a></li>
-  <li><a uk-filter-control="[data-pilih='skywindgroup']" href="#skywindgroup">Skywind Group</a></li>
-  <li><a uk-filter-control="[data-pilih='cq9gaming']" href="#cq9gaming">CQ9 Gaming</a></li>
-  <li><a uk-filter-control="[data-pilih='topplayer']" href="#topplayer">Top Player</a></li>
-  <li><a uk-filter-control="[data-pilih='askmeslot']" href="#askmeslot">Askmeslot</a></li>
-  <li><a uk-filter-control="[data-pilih='evoplay']" href="#evoplay">Evoplay</a></li>
-  <li><a uk-filter-control="[data-pilih='playngo']" href="#playngo">Play'n Go</a></li>
-  <li><a uk-filter-control="[data-pilih='pinquan']" href="#pinquan">PinQuan</a></li>
-  <li><a uk-filter-control="[data-pilih='rsg']" href="#rsg">Royal Slot Gaming</a></li>
-  <li><a uk-filter-control="[data-pilih='funtagaming']" href="#funtagaming">Funta Gaming</a></li>
-  <li><a uk-filter-control="[data-pilih='cayetanogaming']" href="#cayetanogaming">Cayetano Gaming</a></li>
-  <li><a uk-filter-control="[data-pilih='tpg']" href="#tpg">Triple Profits Games</a></li>
-  <li><a uk-filter-control="[data-pilih='aiwingames']" href="#aiwingames">Aiwin Games</a></li>
-  <li><a uk-filter-control="[data-pilih='simpleplay']" href="#simpleplay">Simple Play</a></li>
+  <li><a uk-filter-control="[data-pilih='pgsoft']" href="#pgsoft"><span uk-icon="icon: chevron-double-right"></span>PG Soft</a></li>
+  <li><a uk-filter-control="[data-pilih='pragmaticplay']" href="#pragmaticplay"><span uk-icon="icon: chevron-double-right"></span>Pragmatic Play</a></li>
+  <li><a uk-filter-control="[data-pilih='kagaming']" href="#kagaming"><span uk-icon="icon: chevron-double-right"></span>Ka Gaming</a></li>
+  <li><a uk-filter-control="[data-pilih='dragoonsoft']" href="#dragoonsoft"><span uk-icon="icon: chevron-double-right"></span>Dragoon Soft</a></li>
+  <li><a uk-filter-control="[data-pilih='nagagames']" href="#nagagames"><span uk-icon="icon: chevron-double-right"></span>Naga Games</a></li>
+  <li><a uk-filter-control="[data-pilih='playstar']" href="#playstar"><span uk-icon="icon: chevron-double-right"></span>Playstar</a></li>
+  <li><a uk-filter-control="[data-pilih='skywindgroup']" href="#skywindgroup"><span uk-icon="icon: chevron-double-right"></span>Skywind Group</a></li>
+  <li><a uk-filter-control="[data-pilih='cq9gaming']" href="#cq9gaming"><span uk-icon="icon: chevron-double-right"></span>CQ9 Gaming</a></li>
+  <li><a uk-filter-control="[data-pilih='topplayer']" href="#topplayer"><span uk-icon="icon: chevron-double-right"></span>Top Player</a></li>
+  <li><a uk-filter-control="[data-pilih='askmeslot']" href="#askmeslot"><span uk-icon="icon: chevron-double-right"></span>Askmeslot</a></li>
+  <li><a uk-filter-control="[data-pilih='evoplay']" href="#evoplay"><span uk-icon="icon: chevron-double-right"></span>Evoplay</a></li>
+  <li><a uk-filter-control="[data-pilih='playngo']" href="#playngo"><span uk-icon="icon: chevron-double-right"></span>Play'n Go</a></li>
+  <li><a uk-filter-control="[data-pilih='pinquan']" href="#pinquan"><span uk-icon="icon: chevron-double-right"></span>PinQuan</a></li>
+  <li><a uk-filter-control="[data-pilih='rsg']" href="#rsg"><span uk-icon="icon: chevron-double-right"></span>Royal Slot Gaming</a></li>
+  <li><a uk-filter-control="[data-pilih='funtagaming']" href="#funtagaming"><span uk-icon="icon: chevron-double-right"></span>Funta Gaming</a></li>
+  <li><a uk-filter-control="[data-pilih='cayetanogaming']" href="#cayetanogaming"><span uk-icon="icon: chevron-double-right"></span>Cayetano Gaming</a></li>
+  <li><a uk-filter-control="[data-pilih='tpg']" href="#tpg"><span uk-icon="icon: chevron-double-right"></span>Triple Profits Games</a></li>
+  <li><a uk-filter-control="[data-pilih='aiwingames']" href="#aiwingames"><span uk-icon="icon: chevron-double-right"></span>Aiwin Games</a></li>
+  <li><a uk-filter-control="[data-pilih='simpleplay']" href="#simpleplay"><span uk-icon="icon: chevron-double-right"></span>Simple Play</a></li>
  </ul>
 </div>
 {% endif %}
