@@ -35,8 +35,11 @@
 </div> 
 
 {% if page.locale == 'en' %}
-{% else %}
-{% if page.locale == 'ru' %}
+<div class="uk-card uk-card-default uk-border-rounded uk-margin">
+ <p>
+  The content on "<b>{{ site.title }}</b>" is intended for entertainment purposes only and is not meant to promote gambling. It is also important to note that all users of "<b>{{ site.title }}</b>"must be over 18 years of age and comply with all applicable laws and regulations. By using our website, you acknowledge that you have read and understood this disclaimer and agree to abide by our terms and conditions.
+ </p>
+</div>      
 {% else %}
 <div class="uk-card uk-card-default uk-margin uk-border-rounded">
  <div class="uk-border-rounded uk-card-header">
@@ -54,28 +57,10 @@
 </div>
 
 <div class="uk-card uk-card-default uk-border-rounded uk-margin">
-<ul class="uk-padding uk-accordion" uk-accordion>
-    <li>
-        <a class="uk-accordion-title" href="#">Apakah saya bisa mengklaim kemenangan?</a>
-        <div class="uk-accordion-content">
-            <p>Tidak. Anda tidak dapat mengklaim, atau mencairkan kemenangan JP atau Maxwin dari permainan demo.</p>
-        </div>
-    </li>
-    <li>
-        <a class="uk-accordion-title" href="#">Apakah saya dapat memutar ulang game yang pernah saya mainkan?</a>
-        <div class="uk-accordion-content">
-            <p>Tidak.</p>
-        </div>
-    </li>
-    <li>
-        <a class="uk-accordion-title" href="#">Game tidak bisa dimainkan</a>
-        <div class="uk-accordion-content">
-            <p>Mohon dimaklum, karena perjudian termasuk game slot dilarang oleh pemerintah Indonesia, jadi bisa saja diblokir, oleh karena itu game tidak dapat dimainkan. Silahkan laporkan melalui whatsapp: 0881024240202. Kami akan memperbaikinya dengan mengupdate link terbaru agar anda dapat bermain kembali.</p>
-        </div>
-    </li>
-</ul>
+ <p>
+  Konten di "<b>{{ site.title }}</b>" dimaksudkan untuk tujuan hiburan saja dan tidak dimaksudkan untuk mempromosikan perjudian. Perlu dicatat bahwa semua pengguna "<b>{{ site.title }}</b>" harus berusia di atas 18 tahun dan mematuhi semua hukum dan peraturan yang berlaku. Dengan menggunakan situs web kami, anda mengakui bahwa anda telah membaca dan memahami penafian ini dan setuju untuk mematuhi syarat dan ketentuan kami.
+ </p>
 </div>      
-{% endif %}
 {% endif %}
 
 <div class="uk-position-relative uk-light uk-margin uk-text-center">
