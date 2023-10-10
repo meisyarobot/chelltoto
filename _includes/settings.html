@@ -35,8 +35,9 @@
   
 <!-- Engine --> 
 <div class="uk-width-1-2@s uk-width-2-5@m">
-    <ul class="uk-nav uk-nav-default">
-     <li class="uk-nav-header">Engine</li>     
+<h6 class="uk-nav-header uk-margin-remove-bottom">Engine</h6>    
+ <div class="uk-column-1-2 uk-margin-remove-top"> 
+    <ul class="uk-nav uk-nav-default">     
      <li><a uk-filter-control="[data-pilih='slotmania']" href="#slotmania"><span uk-icon="icon: chevron-double-right"></span>Slotmania</a></li>
      <li><a uk-filter-control="[data-pilih='nexus']" href="#nexus"><span uk-icon="icon: chevron-double-right"></span>Nexus</a></li>
      <li><a uk-filter-control="[data-pilih='infini']" href="#infini"><span uk-icon="icon: chevron-double-right"></span>Infini88</a></li>
@@ -45,6 +46,7 @@
      <li><a uk-filter-control="[data-pilih='casumo']" href="#casumo"><span uk-icon="icon: chevron-double-right"></span>Casumo</a></li>
      <li><a uk-filter-control="[data-pilih='stoiximan']" href="#stoiximan"><span uk-icon="icon: chevron-double-right"></span>Stoiximan</a></li>
     </ul>
+ </div>
 </div>
 <!-- /Engine -->  
 {% endif %}
@@ -169,11 +171,11 @@
 
 <!-- Display Setting -->
 <div class="uk-width-1-2@s uk-width-2-5@m">
- <ul class="uk-nav uk-iconnav uk-iconnav-vertical">
-  <li class="uk-nav-header">{{ site.data.locales[page.locale].settings.display }}</li>
-  <li id="grid"><a id="grid"><span uk-icon="icon: thumbnails"></span>{{ site.data.locales[page.locale].page.grid }}</a></li>
-  <li id="list"><a id="list"><span uk-icon="icon: list"></span>{{ site.data.locales[page.locale].page.list }}</a></li>
- </ul>
+<h6 class="uk-text-uppercase uk-margin-remove-bottom">{{ site.data.locales[page.locale].settings.display }}</h6>
+<ul class="uk-iconnav">
+    <li id="grid"><a class="uk-text-uppercase" href="#"><span uk-icon="icon: thumbnails"></span>Grid</a></li>
+    <li id="list"><a class="uk-text-uppercase" href="#"><span uk-icon="icon: list"></span>List</a></li>
+</ul>    
 </div>
 <!-- /Display Setting -->
 
