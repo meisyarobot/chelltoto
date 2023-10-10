@@ -14,6 +14,13 @@
   type: new
   provider: Pragmatic Play
 
+- title: Timber Stacks
+  symbol: vswaystimber
+  img: timber-stacks.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaystimber
+  type: new
+  provider: Pragmatic Play
+
 - title: Gravity Bonanza 
   symbol: vs20gravity
   img: gravity-bonanza.webp
@@ -308,6 +315,20 @@
   img: vbet-sweet-bonanza.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitswvbet
   type: vbet
+  provider: Pragmatic Play
+
+- title: Stoiximan Bonanza 
+  symbol: vs20fruitstoix
+  img: stoiximan-bonanza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitstoix
+  type: stoiximan
+  provider: Pragmatic Play
+
+- title: Casumo Bonanza
+  symbol: vs20casumob
+  img: casumo-bonanza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20casumob
+  type: casumo
   provider: Pragmatic Play
 
 - title: Aztec Gems
