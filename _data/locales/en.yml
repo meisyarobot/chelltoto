@@ -19,9 +19,7 @@ sidenav:
       - title: Indonesian
         url: /
       - title: English
-        url: /en
-      - title: Russian
-        url: /ru
+        url: /en         
   - title: Providers
     items:
       - title: Pragmatic Play
