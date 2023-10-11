@@ -73,9 +73,7 @@
      <label><input class="uk-radio" type="radio" name="radio1" checked>     
       {{ site.data.locales[page.locale].settings.indonesian }}</label><br>
      <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio2" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
-      {{ site.data.locales[item.locale].settings.english }}</label><br>     
-     <label><input class="uk-radio" type="radio" name="radio3" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
-      {{ site.data.locales[page.locale].settings.russian }}</label>  
+      {{ site.data.locales[item.locale].settings.english }}</label>   
      </div>
     </li>
    {% endunless %}
@@ -94,9 +92,7 @@
      <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
       {{ site.data.locales[item.locale].settings.indonesian }}</label><br>
      <label><input class="uk-radio" type="radio" name="radio2" checked>     
-      {{ site.data.locales[page.locale].settings.english }}</label><br>         
-     <label><input class="uk-radio" type="radio" name="radio3" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
-      {{ site.data.locales[page.locale].settings.russian }}</label>  
+      {{ site.data.locales[page.locale].settings.english }}</label>       
      </div>
     </li>
    {% endunless %}
