@@ -261,6 +261,13 @@
   type: infini
   provider: Pragmatic Play
 
+- title: Slotmania Gatotkaca's Fury 
+  symbol: vs20gatotslot
+  img: slotmania-gatotkacas-fury.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20gatotslot
+  type: slotmania
+  provider: Pragmatic Play
+
 - title: Sweet Bonanza
   symbol: vs20fruitsw
   img: sweet-bonanza.webp
@@ -1038,3 +1045,10 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20pombnnz
   type: videoslot
   provider: Pragmatic Play
+
+- title: Slotmania Supermania 
+  symbol: vs20slmsupman
+  img: slotmania-supermania.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slmsupman
+  type: slotmania
+  provider: Pragmatic Play 
