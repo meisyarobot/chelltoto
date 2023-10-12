@@ -1052,3 +1052,24 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slmsupman
   type: slotmania
   provider: Pragmatic Play 
+
+- title: Joker's Jewel
+  symbol: vs5joker
+  img: jokers-jewels.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5joker
+  type: classic
+  provider: Pragmatic Play
+
+- title: Joker's Jewels Dice 
+  symbol: vs5jokerdice
+  img: jokers-jewels-dice.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5jokerdice
+  type: classic
+  provider: Pragmatic Play
+
+- title: Joker King
+  symbol: vs25jokerking
+  img: joker-king.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25jokerking
+  type: classic
+  provider: Pragmatic Play 
