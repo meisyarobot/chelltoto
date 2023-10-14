@@ -56,17 +56,18 @@ page:
   disclaimer: Penafian
   search: Cari
   view_all: Lihat Semua
-  all: Semua
-  games: Games
+  show_all: Tampilkan Semua
+  all: Semua Game
+  games: Permainan
   line: Line
   table_games: Game Tabel
   egypt: Mitologi Mesir
   mahjong: Mahyong
   indonesian_cultures: Kebudayaan Indonesia
   megaways: Megaways
-  classic: Klasik
+  classic: Game Klasik
   table: Tabel
-  new: Terbaru
+  new: Game Terbaru
   nodata: Tidak ada game data
   providers: Providers
   language: Bahasa
@@ -76,6 +77,13 @@ page:
   error_404: Halaman yang sedang anda cari untuk sementara tidak tersedia. Silakan coba lagi nanti.
   list: List
   grid: Grid
+  settings: Pengaturan
+  filter: Filter
+  lang-cur: Mata Uang & Bahasa
+  display: Tampilan
+  english: English (USD)
+  indonesian: Indonesia (IDR)
+
 
 # Collections
 collections:
