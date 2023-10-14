@@ -55,15 +55,18 @@ page:
   home: Lobby
   disclaimer: Disclaimer
   search: Search
-  view_all: Show All
+  view_all: View All
+  show_all: Show All
   all: All Games
   games: Games
   line: Line
   table_games: Table Games
-  egypt: Egypt
+  egypt: Egyptian Mythology
   mahjong: Mahjong
+  indonesian_cultures: Indonesian Cultures
+  megaways: Megaways
   classic: Classic Games
-  table: Table Games
+  table: Table
   new: New Games
   nodata: No game data
   providers: Providers
@@ -74,6 +77,12 @@ page:
   error_404: The page you are looking for is temporarily unavailable. Please try again later.
   list: List
   grid: Grid
+  settings: Settings
+  filter: Filter
+  lang-cur: Currency & Language
+  display: Appearance
+  english: English (USD)
+  indonesian: Indonesian (IDR)
 
 
 # Collections
@@ -101,12 +110,11 @@ settings:
   table_games: Table Games
   lang-cur: Currency & Language
   providers: Providers
-  display: Display
+  display: Appearance
   english: English (USD)
   indonesian: Indonesian (IDR)
   russian: Russian (Ruble)
   new: New
-
 
 feature:
   - title: Pragmatic Play
