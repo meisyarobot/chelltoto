@@ -83,6 +83,7 @@ page:
   display: Tampilan
   english: English (USD)
   indonesian: Indonesia (IDR)
+  engine: Engine
 
 
 # Collections
@@ -109,22 +110,7 @@ collections:
    url: /collections/indonesian-cultures
 
 
-settings:
-  settings: Pengaturan
-  filter: Filter
-  all_games: Semua Game
-  new_games: Game Terbaru
-  classic_games: Game Klasik
-  table_games: Game Tabel
-  lang-cur: Mata Uang & Bahasa
-  providers: Providers
-  display: Tampilan
-  english: English (USD)
-  indonesian: Indonesia (IDR)
-  russian: Russian (Rubel)
-  new: Baru
-
-
+# Featured
 feature:
   - title: Pragmatic Play
     url: pragmaticplay
