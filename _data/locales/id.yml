@@ -39,7 +39,7 @@ sidenav:
     items:
       - title: Mahyong
         url: /collections/mahjong
-      - title: Mesir
+      - title: Mitologi Mesir
         url: /collections/egypt
       - title: Tabel Game
         url: /collections/tablegames
@@ -84,6 +84,7 @@ page:
   english: English (USD)
   indonesian: Indonesia (IDR)
   engine: Engine
+  load_more: Tampilan lebih banyak
 
 
 # Collections
