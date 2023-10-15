@@ -6,17 +6,8 @@ locale: en
 uid: faq
 ---
 
-{% for item in site.data.locales[page.locale].faq %}
-<nav aria-label="Breadcrumb">
- <ul class="uk-breadcrumb">
-  {% for item in items %}
-   <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-  {% endfor %}
- </ul>
-</nav>
-{% else %}
 <ul class="uk-padding uk-accordion" uk-accordion>
- {% for item in items %}    
+  {% for item in site.data.locales[page.locale].faq %}    
     <li>
         <a class="uk-accordion-title" href="#">
          {{ item.q }}
@@ -29,4 +20,3 @@ uid: faq
   <p>{{ site.data.locales[page.locale].page.comingsoon }}</p>
  {% endfor %}
 </ul>
-{% endfor %}
