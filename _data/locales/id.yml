@@ -87,6 +87,22 @@ page:
   load_more: Tampilan lebih banyak
 
 
+
+# Faq
+faq:
+  - q: Apakah saya bisa mengklaim kemenangan?
+    a: Tidak. Anda tidak dapat mengklaim hasil kemenangan JP atau Maxwin dari permainan demo.
+  - q: Apakah saya dapat memutar ulang game yang pernah saya mainkan?
+    a: Tidak.
+  - q: Apakah saya perlu mengunduh game untuk memainkan versi demo?
+    a: Tidak, anda tidak perlu mengunduh apa pun.
+  - q: Apakah saya perlu membuat akun untuk memainkan versi demo?
+    a: Tidak, Anda tidak perlu membuat akun untuk memainkan game slot versi demo.
+  - q: Mengapa game tidak bisa dimainkan
+    a: Mohon dimaklum, karena perjudian termasuk game slot dilarang oleh pemerintah Indonesia, jadi bisa saja diblokir, oleh karena itu game tidak dapat dimainkan. Silahkan laporkan melalui whatsapp 0881024240202. Kami akan memperbaikinya dengan mengupdate link terbaru agar anda dapat bermain kembali.
+
+
+
 # Collections
 collections:
  - title: Mahyong
