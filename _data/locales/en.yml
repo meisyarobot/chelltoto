@@ -1,6 +1,5 @@
 name: English
 site_url: /en/
-
 site:
   title: L154 Gamer
 
@@ -101,11 +100,13 @@ collections:
    url: /en/collections/tablegames
    width: 50px
    height: 50px
+   disable: disable
  - title: Egypt Mythology
    img: assets/images/kits/egyptian.svg
    url: /en/collections/egypt
    width: 50px
    height: 50px
+   disable: disable
  - title: Indonesian Cultures
    img: assets/images/kits/gatotkaca.svg
    url: /en/collections/indonesian-cultures
