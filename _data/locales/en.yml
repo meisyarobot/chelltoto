@@ -87,6 +87,15 @@ page:
   load_more: Load more
 
 
+# faq
+faq:
+  - q: Do I need to download anything to play the demo version?
+    a: No, you don’t need to download anything.
+  - q: Do I need to create an account to play the demo version?
+    a: No, you don’t need to create an account to play the demo version.
+  - q: Is the demo version the same as the real version?
+    a: Yes, the demo version has the same graphics, and features as the real version. The only difference is that you can’t win real money in the demo version. 
+
 
 # Collections
 collections:
