@@ -90,25 +90,33 @@ page:
 # Collections
 collections:
  - title: Mahyong
-   img: https://l154gamer.github.io/assets/images/kits/mahjong.svg
-   desc: Koleksi game tema mahyong
+   img: assets/images/kits/mahjong.svg
    url: /collections/mahjong
+   width: 58px
+   height: 58px
  - title: Game Tabel
-   img: https://l154gamer.github.io/assets/images/kits/table_games.svg
-   desc: Koleksi game tabel.
-   url: /collections/table-games
- - title: Mesir
-   img: https://l154gamer.github.io/assets/images/kits/egyptian.svg
-   desc: Koleksi game tema mesir.
+   img: assets/images/kits/table_games.svg
+   url: /collections/tablegames
+   width: 50px
+   height: 50px
+   disable: disable
+ - title: Mesir Mitologi
+   img: assets/images/kits/egyptian.svg
    url: /collections/egypt
- - title: Megaways
-   img: https://l154gamer.github.io/assets/images/kits/megaways.svg
-   desc: Koleksi game megaways
-   url: /megaways
- - title: Budaya Indonesia
-   img: https://l154gamer.github.io/assets/images/kits/wayang.webp
-   desc: Koleksi game tema kebudayaan Indonesia
+   width: 50px
+   height: 50px
+   disable: disable
+ - title: Kebudayaan Indonesia
+   img: assets/images/kits/gatotkaca.svg
    url: /collections/indonesian-cultures
+   width: 50px
+   height: 50px
+ - title: Megaways
+   img: assets/images/kits/megaways.svg
+   url: /megaways
+   width: 36px
+   height: 36px
+
 
 
 # Featured
