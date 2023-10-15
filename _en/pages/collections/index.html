@@ -7,7 +7,7 @@ uid: collections
 ---
 <h3 class="uk-heading-line uk-text-center"><span>{{ site.data.locales[page.locale].page.games_by_theme }}</span></h3>
 {% for item in site.data.locales[page.locale].collections %} 
-<div class="uk-card uk-card-default uk-border-rounded uk-margin">
+<div class="uk-card uk-card-default uk-border-rounded uk-margin {{ item.disable }}">
  <a href="{{ item.url }}" class="uk-border-rounded uk-card-header uk-link-heading">
   <div class="uk-grid-small uk-flex-middle" uk-grid>   
    <div class="uk-width-auto uk-flex-middle">
