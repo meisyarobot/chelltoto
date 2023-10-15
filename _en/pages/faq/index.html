@@ -5,8 +5,16 @@ permalink: /en/faq/
 locale: en
 uid: faq
 ---
+
+{% for item in site.data.locales[page.locale].faq %}
+<nav aria-label="Breadcrumb">
+ <ul class="uk-breadcrumb">
+  <li><a href="{{ item.url }}">{{ item.home }}</a></li>
+  <li><a href="{{ item.url }}">{{ item.faq }}</a></li>
+ </ul>
+</nav>
 <ul class="uk-padding uk-accordion" uk-accordion>
- {% for item in site.data.locales[page.locale].faq %}    
+ {% for item in item.qa %}    
     <li>
         <a class="uk-accordion-title" href="#">
          {{ item.q }}
@@ -19,3 +27,4 @@ uid: faq
   <p>{{ site.data.locales[page.locale].page.comingsoon }}</p>
  {% endfor %}
 </ul>
+{% endfor %}
