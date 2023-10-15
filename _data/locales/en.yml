@@ -1,9 +1,10 @@
-name: English (USD)
+name: English
 site_url: /en/
 
 site:
   title: L154 Gamer
 
+# Sidenav menu
 sidenav:
   - title: Menu
     items:
@@ -39,7 +40,7 @@ sidenav:
     items:
       - title: Mahjong
         url: /en/collections/mahjong
-      - title: Egypt
+      - title: Egypt Mythology
         url: /en/collections/egypt
       - title: Table Games
         url: /en/collections/tablegames
@@ -49,7 +50,7 @@ sidenav:
       - title: All
         url: /en/collections
 
-
+# Settings
 page:
   menu: Menu
   home: Lobby
@@ -84,22 +85,39 @@ page:
   english: English (USD)
   indonesian: Indonesian (IDR)
   engine: Engine
+  load_more: Load more
+
 
 
 # Collections
 collections:
  - title: Mahjong
-   img: https://l154gamer.github.io/assets/images/kits/mahjong.svg
-   desc: Mahjong collection
+   img: assets/images/kits/mahjong.svg
+   url: /en/collections/mahjong
+   width: 58px
+   height: 58px
  - title: Table Games
-   img: https://l154gamer.github.io/assets/images/kits/table_games.svg
-   desc: Table games collection
- - title: Egypt
-   img: https://l154gamer.github.io/assets/images/kits/egyptian.svg
-   desc: Egypt collections
+   img: assets/images/kits/table_games.svg
+   url: /en/collections/tablegames
+   width: 50px
+   height: 50px
+ - title: Egypt Mythology
+   img: assets/images/kits/egyptian.svg
+   url: /en/collections/egypt
+   width: 50px
+   height: 50px
+ - title: Indonesian Cultures
+   img: assets/images/kits/egyptian.svg
+   url: /en/collections/indonesian-cultures
+   width: 50px
+   height: 50px
  - title: Megaways
-   img: https://l154gamer.github.io/assets/images/kits/megaways.svg
-   desc: Megaways games collection
+   img: assets/images/kits/megaways.svg
+   url: /en/megaways
+   width: 36px
+   height: 36px
+
+
 
 # Featured
 feature:
