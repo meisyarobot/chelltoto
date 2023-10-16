@@ -55,7 +55,7 @@
 <div class="uk-position-relative uk-light uk-margin uk-text-center">
  {% for item in site.data.locales[page.locale].footer %}
   <a href="{{ item.url }}">
-   <img src="{{ item.img }}" alt="{{ item.title }}" width="120px" height="120px">
+   <img src="{{ site.url}}{{ item.img }}" alt="{{ item.title }}" width="120px" height="120px">
   </a>
  {% endfor %} 
 </div>
