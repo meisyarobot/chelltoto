@@ -53,6 +53,9 @@
 {% endif %}
 
 <div class="uk-position-relative uk-light uk-margin uk-text-center">
- <img src="https://l154gamer.github.io/assets/18plus.svg" alt="18 Plus Web Akses" width="25" height="25" uk-svg>
- <a href="https://l154gamer.github.io/app/android/L154Gamer_AndroidApp.apk"><img src="https://l154gamer.github.io/assets/download-app.svg" alt="Download Apk Android" width="120" height="120"></a>
+ {% for item in site.data.locales[page.locale].footer %}
+  <a href="{{ item.url }}">
+   <img src="{{ item.img }}" alt="{{ item.title }}" width="120px" height="120px">
+  </a>
+ {% endfor %} 
 </div>
