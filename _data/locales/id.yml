@@ -1,9 +1,11 @@
+# Basic
 name: Indonesia
 site_url: /
-
 site:
   title: L154 Gamer
 
+
+# Sidenav
 sidenav:
   - title: Menu
     items:
@@ -50,6 +52,8 @@ sidenav:
         url: /collections
 
 
+
+# Page Settings
 page:
   menu: Menu
   home: Beranda
@@ -134,12 +138,16 @@ collections:
    height: 36px
 
 
+
 # Footer
 footer:
-  - img: assets/images/kits/18_plus.svg
+  - title: Gamble Responsibly
+    img: assets/images/kits/18_plus.svg
     url: https://l154gamer.github.io/disclaimer
-  - img: assets/download-app.svg
+  - title: Download Android App
+    img: assets/download-app.svg
     url: https://l154gamer.github.io/app/android/L154Gamer_AndroidApp.apk
+
 
 
 # Featured
@@ -168,6 +176,8 @@ feature:
         url: pgsoft
 
 
+
+# Providers
 byprovider:
   - title: Pragmatic Play
     url: pragmaticplay
