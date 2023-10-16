@@ -114,6 +114,14 @@ faq:
     a: Yes, the demo version has the same graphics, and features as the real version. The only difference is that you can’t win real money in the demo version. 
 
 
+# Footer
+footer:
+  - img: assets/images/kits/18_plus.svg
+    url: https://l154gamer.github.io/en/disclaimer
+  - img: assets/download-app.svg
+    url: https://l154gamer.github.io/app/android/L154Gamer_AndroidApp.apk
+
+
 # Collections
 collections:
  - title: Mahjong
