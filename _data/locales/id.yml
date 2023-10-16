@@ -134,6 +134,13 @@ collections:
    height: 36px
 
 
+# Footer
+footer:
+  - img: assets/images/kits/18_plus.svg
+    url: https://l154gamer.github.io/disclaimer
+  - img: assets/download-app.svg
+    url: https://l154gamer.github.io/app/android/L154Gamer_AndroidApp.apk
+
 
 # Featured
 feature:
