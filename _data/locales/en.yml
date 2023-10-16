@@ -1,9 +1,11 @@
+# Basic
 name: English
 site_url: /en/
 site:
   title: L154 Gamer
 
-# Sidenav menu
+
+# Sidenav
 sidenav:
   - title: Menu
     items:
@@ -49,7 +51,9 @@ sidenav:
       - title: All
         url: /en/collections
 
-# Settings
+
+
+# Page Settings
 page:
   menu: Menu
   home: Lobby
@@ -87,24 +91,8 @@ page:
   load_more: Load more
 
 
-# faq
-faq:
-- breadcrumb: Breadcrumb
-  items:
-   - title: Lobby
-     url: /en/
-   - title: Faq
-     url: /en/faq
-- qa: QA
-  items:
-   - q: Do I need to download anything to play the demo version?
-     a: No, you don’t need to download anything.
-   - q: Do I need to create an account to play the demo version?
-     a: No, you don’t need to create an account to play the demo version.
-   - q: Is the demo version the same as the real version?
-     a: Yes, the demo version has the same graphics, and features as the real version. The only difference is that you can’t win real money in the demo version. 
 
-
+# Faq
 faq:
   - q: Do I need to download anything to play the demo version?
     a: No, you don’t need to download anything.
@@ -114,12 +102,16 @@ faq:
     a: Yes, the demo version has the same graphics, and features as the real version. The only difference is that you can’t win real money in the demo version. 
 
 
+
 # Footer
 footer:
-  - img: assets/images/kits/18_plus.svg
+  - title: Gamble Responsibly
+    img: assets/images/kits/18_plus.svg
     url: https://l154gamer.github.io/en/disclaimer
-  - img: assets/download-app.svg
+  - title: Download Android App
+    img: assets/download-app.svg
     url: https://l154gamer.github.io/app/android/L154Gamer_AndroidApp.apk
+
 
 
 # Collections
@@ -180,6 +172,8 @@ feature:
         url: en/pgsoft
 
 
+
+#Providers
 byprovider:
   - title: Pragmatic Play
     url: /en/pragmaticplay
