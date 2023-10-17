@@ -1073,3 +1073,11 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25jokerking
   type: classic
   provider: Pragmatic Play 
+
+- title: Laughing Fortune
+  symbol: vs20buddhasgg
+  img: laughing-fortune.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20buddhasgg
+  type: slotmania
+  provider: Pragmatic Play  
+
