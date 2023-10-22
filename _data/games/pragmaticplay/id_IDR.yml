@@ -191,6 +191,13 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20partygates
   provider: Pragmatic Play
 
+- title: M88 Olympus
+  symbol: vs20m88gates
+  img: m88olympus.webp
+  type: m88
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20m88gates
+  provider: Pragmatic Play
+
 - title: Starlight Princess
   symbol: vs20starlight
   img: starlight-princess.webp
@@ -345,6 +352,13 @@
   type: betano
   provider: Pragmatic Play
 
+- title: Sweet M88
+  symbol: vs20fruitswm88
+  img: sweetm88.webp
+  type: m88
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitswm88
+  provider: Pragmatic Play
+
 - title: Aztec Gems
   symbol: vs5aztecgems
   img: aztec-gems.webp
@@ -448,6 +462,13 @@
   img: slotmania-sugar.webp
   type: slotmania
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slotsugar
+  provider: Pragmatic Play
+
+- title: Sugar Rush M88
+  symbol: vs20sugarm88
+  img: m88-sugar-rush.webp
+  type: m88
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20sugarm88
   provider: Pragmatic Play
 
 - title: Candy Village
