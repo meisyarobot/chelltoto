@@ -1,0 +1,35 @@
+---
+layout: default
+title: Game Replay
+permalink: /replay/
+locale: id
+uid: replay
+---
+
+<div class="uk-overflow-auto">
+  
+<table id="example" class="uk-table uk-table-divider uk-table-small display">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Bet</th>
+                <th>Profit</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for item in site.data.win.replay %}
+            <tr>
+                <td>
+                    {{ item.title }}
+                    <br/>
+                    <span class="uk-text-small">{{ item.date }}</span>
+                </td>
+                <td>{{ item.bet }}</td>
+                <td>{{ item.jp }}</td>
+                <td><a href="{{ item.url }}" target="modal_iframe" class="uk-button uk-button-small uk-button-danger" onClick="showModal()">Play</a></td>
+            </tr>
+        {% endfor %}
+        </tbody>
+ </table>
+</div>
