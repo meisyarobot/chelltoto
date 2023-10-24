@@ -56,6 +56,8 @@ replay:
     bet: 400
     jp: Rp. 1.533.120
 
+
+
 # Gatotkaca
   - title: Gates of Gatotkaca
     gid: 5HbZcp09hg
@@ -70,6 +72,21 @@ replay:
     url: https://replay.pragmaticplay.net/bP6IfO1DnM
     bet: 200
     jp: Rp. 206.250
+
+  - title: Gates of Gatotkaca
+    gid: PC8Nq56O0f
+    date: 24/Okt/2023
+    url: https://replay.pragmaticplay.net/PC8Nq56O0f
+    bet: 200
+    jp: Rp. 195.000
+
+  - title: Gates of Gatotkaca
+    gid: oA7jzRL2dn
+    date: 24/Okt/2023
+    url: https://replay.pragmaticplay.net/oA7jzRL2dn
+    bet: 400
+    jp: Rp. 418.000
+
 
 # Princess
   - title: Starlight Christmas
