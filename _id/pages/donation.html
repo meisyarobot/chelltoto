@@ -1,0 +1,35 @@
+---
+layout: default
+title: Donation
+permalink: /donation/
+locale: id
+uid: donation
+---
+
+<div class="uk-overflow-auto">
+  
+<table id="example" class="uk-table uk-table-divider uk-table-small display">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Receive</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for item in site.data.donation.donation %}
+            <tr>
+                <td>
+                    {{ item.date }}                
+                </td>
+                <td>
+                    {{ item.receive }}
+                </td>
+                <td>
+                    <div uk-lightbox><a class="uk-button uk-button-small" href="{{ item.img }}">Lihat</a></div>
+                </td>                
+            </tr>
+        {% endfor %}
+        </tbody>
+ </table>
+</div>
