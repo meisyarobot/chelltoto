@@ -22,6 +22,8 @@ sidenav:
         url: /bo
       - title: Faq
         url: /faq
+      - title: Donasi
+        url: /donation
     bahasa:
       - title: Indonesia
         url: /
