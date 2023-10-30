@@ -64,6 +64,13 @@ replay:
     bet: 400
     jp: Rp. 1.533.120
 
+  - title: Slotmania Olympus
+    gid: ktqrDZS3wo
+    date: 29/Okt/2023
+    url: https://replay.pragmaticplay.net/ktqrDZS3wo
+    bet: 1200
+    jp: Rp. 447.840
+
 
 
 # Gatotkaca
@@ -95,7 +102,13 @@ replay:
     bet: 400
     jp: Rp. 418.000
 
-
+  - title: Gates of Gatotkaca
+    gid: 0LARnNREZZ
+    date: 29/Okt/2023
+    url: https://replay.pragmaticplay.net/0LARnNREZZ
+    bet: 1000
+    jp: Rp.445.650
+  
 # Princess
   - title: Starlight Christmas
     gid: 1RC7KftEWq
