@@ -1,5 +1,12 @@
 # New games 
 
+- title: Rujak Bonanza 
+  symbol: vs20rujakbnz
+  img: rujak-bonanza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20rujakbnz
+  type: new
+  provider: Pragmatic Play
+
 - title: Gates of Heaven 
   symbol: vs20olympgateh
   img: gates-of-heaven.webp
