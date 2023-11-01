@@ -10,7 +10,6 @@ uid: replay
 <table id="mytable" class="uk-table uk-table-divider uk-table-small display">
         <thead>
             <tr>
-                <th class="uk-table-shrink">Date</th>
                 <th>Title</th>
                 <th>Bet</th>
                 <th>Win</th>
@@ -20,8 +19,7 @@ uid: replay
         <tbody>
         {% for item in site.data.win.replay %}
             <tr>
-                <td>{{ item.date }}</td>
-                <td uk-lightbox><a class="uk-text-link" data-type="iframe" href="{{ item.url }}">{{ item.title }}<br/><span class="uk-label uk-text-small">{{ item.date }}</span></a></td>                                          
+                <td uk-lightbox><a class="uk-link-text" data-type="iframe" href="{{ item.url }}">{{ item.title }}<br/><span class="uk-label uk-text-small">{{ item.date }}</span></a></td>                                          
                 <td>{{ item.bet }}</td>
                 <td>{{ item.jp }}</td>
                 <td uk-lightbox><a data-type="iframe" href="{{ item.url }}" class="uk-button uk-button-small uk-button-danger">Play</a></td>
