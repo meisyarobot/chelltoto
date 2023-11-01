@@ -5,7 +5,7 @@ permalink: /replay/
 locale: id
 uid: replay
 ---
-
+<p>Kemenangan dibawah 100K tidak ditampilkan.</p>
 <div class="uk-overflow-auto">
 <table id="mytable" class="uk-table uk-table-divider uk-table-small display">
         <thead>
@@ -13,14 +13,14 @@ uid: replay
                 <th>Date</th>
                 <th>Title</th>
                 <th>Bet</th>
-                <th>Profit</th>
+                <th>Win</th>
                 <th>Action</th>
             </tr>
         </thead>
         <tbody>
         {% for item in site.data.win.replay %}
             <tr>
-                <td>{{ item.title }}</td>
+                <td>{{ item.date }}</td>
                 <td>{{ item.title }}</td>                                          
                 <td>{{ item.bet }}</td>
                 <td>{{ item.jp }}</td>
