@@ -21,10 +21,10 @@ uid: replay
         {% for item in site.data.win.replay %}
             <tr>
                 <td>{{ item.date }}</td>
-                <td>{{ item.title }}</td>                                          
+                <td uk-lightbox><a data-type="iframe" href="{{ item.url }}">{{ item.title }}</a></td>                                          
                 <td>{{ item.bet }}</td>
                 <td>{{ item.jp }}</td>
-                <td><a href="{{ item.url }}" class="uk-button uk-button-small uk-button-danger">Play</a></td>
+                <td uk-lightbox><a data-type="iframe" href="{{ item.url }}" class="uk-button uk-button-small uk-button-danger">Play</a></td>
             </tr>
         {% endfor %}
         </tbody>
