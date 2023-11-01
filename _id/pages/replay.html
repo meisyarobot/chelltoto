@@ -7,10 +7,10 @@ uid: replay
 ---
 
 <div class="uk-overflow-auto">
-  
-<table id="example" class="uk-table uk-table-divider uk-table-small display">
+<table id="mytable" class="uk-table uk-table-divider uk-table-small display">
         <thead>
             <tr>
+                <th>Date</th>
                 <th>Title</th>
                 <th>Bet</th>
                 <th>Profit</th>
@@ -20,14 +20,11 @@ uid: replay
         <tbody>
         {% for item in site.data.win.replay %}
             <tr>
-                <td>
-                    {{ item.title }}
-                    <br/>
-                    <span class="uk-text-small">{{ item.date }}</span>
-                </td>
+                <td>{{ item.title }}</td>
+                <td>{{ item.title }}</td>                                          
                 <td>{{ item.bet }}</td>
                 <td>{{ item.jp }}</td>
-                <td><a href="{{ item.url }}" target="modal_iframe" class="uk-button uk-button-small uk-button-danger" onClick="showModal()">Play</a></td>
+                <td><a href="{{ item.url }}" class="uk-button uk-button-small uk-button-danger">Play</a></td>
             </tr>
         {% endfor %}
         </tbody>
