@@ -10,7 +10,8 @@ uid: replay
 <table id="mytable" class="uk-table uk-table-divider uk-table-small display">
         <thead>
             <tr>
-                <th>Title</th>
+                <th></th>
+                <th>Date/Title</th>
                 <th>Bet</th>
                 <th>Win</th>
                 <th>Action</th>
@@ -20,9 +21,22 @@ uid: replay
         {% for item in site.data.win.replay %}
             <tr>
                 <td uk-lightbox>
-                 <img src="{{ site.url}}{{ item.img }}" alt="{{ item.title }}" width="80px" height="80px"/>
-                 <a class="uk-link-text" data-type="iframe" href="{{ item.url }}">{{ item.title }}<br/><span class="uk-label uk-text-small">{{ item.date }}</span></a>
-                </td>                                          
+                 <a class="uk-link-text" data-type="iframe" href="{{ item.url }}"><img src="{{ site.url}}{{ item.img }}" alt="{{ item.title }}" width="80px" height="80px"/></a>                 
+                </td>            
+                <td>
+                 <table>
+                   <tr>
+                    <td uk-lightbox>
+                     <a class="uk-link-text" data-type="iframe" href="{{ item.url }}">{{ item.title }}</a>       
+                    </td>       
+                   </tr>
+                   <tr>
+                    <td>
+                     <span class="uk-label uk-text-small">{{ item.date }}</span>       
+                    </td>       
+                   </tr>
+                 </table>
+                </td>
                 <td>{{ item.bet }}</td>
                 <td>{{ item.jp }}</td>
                 <td uk-lightbox><a data-type="iframe" href="{{ item.url }}" class="uk-button uk-button-small uk-button-danger">Play</a></td>
