@@ -1,19 +1,11 @@
 replay:
 # Kakek Zeus
-
   - title: Gates of Olympus
     gid: r5ZpBZM03F
     date: 16/Des/2022
     url: https://replay.pragmaticplay.net/r5ZpBZM03F
     bet: 200
     jp: Rp. 1.000.000
-
-  - title: Gates of Olympus
-    gid: nHmUCFgXh4
-    date: 
-    url: https://replay.pragmaticplay.net/nHmUCFgXh4
-    bet: 600
-    jp: Rp. 780.000
     
   - title: Gates of Olympus
     gid: VRCTFuQqOL
@@ -29,23 +21,16 @@ replay:
     bet: 400
     jp: Rp. 395.000
 
-  - title: Slotmania Olympus
-    gid: 7hxDk66Zlf
-    date: 
-    url: https://replay.pragmaticplay.net/7hxDk66Zlf
-    bet: 600
-    jp: Rp. 320.000
-
   - title: Gates of Olympus
     gid: uD47NuXh5r
-    date: 
+    date: 08/Ag/2023
     url: https://replay.pragmaticplay.net/uD47NuXh5r
     bet: 1200
     jp: Rp. 299.940
 
   - title: Gates of Olympus
     gid: 3BP1hqlrpF
-    date: 
+    date: 10/Des/2022
     url: https://replay.pragmaticplay.net/3BP1hqlrpF
     bet: 200
     jp: Rp. 660.400
@@ -56,6 +41,22 @@ replay:
     url: https://replay.pragmaticplay.net/necBZTGRof
     bet: 400
     jp: Rp. 1.657.640
+
+
+# Slotmania Olympus
+  - title: Slotmania Olympus
+    gid: nHmUCFgXh4
+    date: 13/Ag/2023
+    url: https://replay.pragmaticplay.net/nHmUCFgXh4
+    bet: 600
+    jp: Rp. 780.000
+
+  - title: Slotmania Olympus
+    gid: 7hxDk66Zlf
+    date: 
+    url: https://replay.pragmaticplay.net/7hxDk66Zlf
+    bet: 600
+    jp: Rp. 320.000
 
   - title: Slotmania Olympus
     gid: KOFCQsPgU9
@@ -69,8 +70,7 @@ replay:
     date: 29/Okt/2023
     url: https://replay.pragmaticplay.net/ktqrDZS3wo
     bet: 1200
-    jp: Rp. 447.840
-
+    jp: Rp. 477.840
 
 
 # Gatotkaca
@@ -108,8 +108,10 @@ replay:
     url: https://replay.pragmaticplay.net/0LARnNREZZ
     bet: 1000
     jp: Rp.445.650
-  
+
+
 # Princess
+# Starlight Xmas
   - title: Starlight Christmas
     gid: 1RC7KftEWq
     date: 22/Okt/2023
@@ -152,6 +154,7 @@ replay:
     bet: 400
     jp: Rp. 106.520
 
+#Starlight Princess
   - title: Starlight Princess
     gid: VGshzLGKKd
     date: 15/Okt/2023
@@ -166,6 +169,7 @@ replay:
     bet: 200
     jp: Rp. 1.000.000
 
+#Starlight Princess 1000
   - title: Starlight Princess 1000
     gid: mTpBawcCsJ
     date: 29/Sep/2023
@@ -194,6 +198,7 @@ replay:
     bet: 1200
     jp: Rp. 138.120 
 
+#Slotmania Princess
   - title: Slotmania Princess
     gid: xx359EXbak
     date: 10/Okt/2023
