@@ -10,11 +10,10 @@ uid: replay
 <table id="mytable" class="uk-table uk-table-divider uk-table-small display">
         <thead>
             <tr>
-                <th>Game</th>
+                <th>Game Logo</th>
                 <th>Date/Title</th>
-                <th>Bet</th>
-                <th>Win</th>
-                <th>Action</th>
+                <th>Bet/Win</th>
+                <th>Replay</th>
             </tr>
         </thead>
         <tbody>
@@ -37,8 +36,16 @@ uid: replay
                    </tr>
                  </table>
                 </td>
-                <td>{{ item.bet }}</td>
-                <td>{{ item.jp }}</td>
+                <td>
+                 <table>
+                  <tr>
+                   <td>Bet {{ item.bet }}</td>       
+                  </tr>      
+                  <tr>
+                   <td>{{ item.jp }}</td>      
+                  </tr>
+                 </table>             
+                </td>
                 <td uk-lightbox><a data-type="iframe" href="{{ item.url }}" class="uk-button uk-button-small uk-button-danger">Play</a></td>
             </tr>
         {% endfor %}
