@@ -153,8 +153,16 @@ function openLink(radio){
 </script>
 <script>
 <script>
-new DataTable('#datatable', {
+new DataTable('#mytable', {
     pagingType: 'numbers'
 });
+</script>
+<script>
+$('.uk-container').infiniteScroll({
+  // options
+  path: '.pagination__next',
+  append: '.bs',
+  history: false,
+});  
 </script>
 <!-- /Scripts -->
