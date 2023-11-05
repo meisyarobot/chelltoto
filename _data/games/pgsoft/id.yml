@@ -1,6 +1,14 @@
 # 1.Bahasa Indonesia
 
 id_ID:
+ 
+  - title: Wild Heist Cashout
+    gameid: 1568554
+    img: Wild-Heist-Cashout.webp
+    url: https://m.pgsoft-games.com/1568554/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    type: new
+    provider: PG Soft 
+
   - title: Ninja Raccoon Frenzy
     gameid: 1529867
     img: ninja-raccoon-frenzy.webp
@@ -18,7 +26,7 @@ id_ID:
   - title: Safari Wilds
     gameid: 1594259
     img: safari-wilds.webp
-    type: new
+    type: videoslot
     url: https://m.pgsoft-games.com/1594259/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
     provider: PG Soft 
   
@@ -26,14 +34,14 @@ id_ID:
     gameid: 1397455
     img: fruity-candy.webp
     url: https://m.pgsoft-games.com/1397455/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-    type: new
+    type: videoslot
     provider: PG Soft 
 
   - title: Cruise Royale
     gameid: 1473388
     img: cruise-royale.webp
     url: https://m.pgsoft-games.com/1473388/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-    type: new
+    type: videoslot
     provider: PG Soft 
 
   - title: Mahjong Ways
