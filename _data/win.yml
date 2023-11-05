@@ -101,14 +101,6 @@ replay:
     img: assets/images/kits/gates-of-gatotkaca.png
 
   - title: Gates of Gatotkaca
-    gid: PC8Nq56O0f
-    date: 24/Okt/2023
-    url: https://replay.pragmaticplay.net/PC8Nq56O0f
-    bet: 200
-    jp: Rp.195.000
-    img: assets/images/kits/gates-of-gatotkaca.png
-
-  - title: Gates of Gatotkaca
     gid: oA7jzRL2dn
     date: 24/Okt/2023
     url: https://replay.pragmaticplay.net/oA7jzRL2dn
@@ -136,43 +128,11 @@ replay:
     img: assets/images/kits/starlight-xmas.png
 
   - title: Starlight Christmas
-    gid: qpeaB3kcEZ
-    date: 17/Des/2022
-    url: https://replay.pragmaticplay.net/qpeaB3kcEZ
-    bet: 400
-    jp: Rp.111.280
-    img: assets/images/kits/starlight-xmas.png
-
-  - title: Starlight Christmas
     gid: 8zEUFIj0e4
     date: 12/Mar/2023
     url: https://replay.pragmaticplay.net/8zEUFIj0e4
     bet: 200
     jp: Rp.272.500
-    img: assets/images/kits/starlight-xmas.png
-
-  - title: Starlight Christmas
-    gid: riPA1cgZfH
-    date: 04/Mar/2023
-    url: https://replay.pragmaticplay.net/riPA1cgZfH
-    bet: 200
-    jp: Rp.156.670
-    img: assets/images/kits/starlight-xmas.png
-
-  - title: Starlight Christmas
-    gid: 8HSvQgGbOX
-    date: 24/Mei/2023
-    url: https://replay.pragmaticplay.net/8HSvQgGbOX
-    bet: 1200
-    jp: Rp.167.580
-    img: assets/images/kits/starlight-xmas.png    
-
-  - title: Starlight Christmas
-    gid: XHS7893qtp
-    date: 17/Okt/2023
-    url: https://replay.pragmaticplay.net/XHS7893qtp
-    bet: 400
-    jp: Rp.106.520
     img: assets/images/kits/starlight-xmas.png
 
 
@@ -208,22 +168,6 @@ replay:
     url: https://replay.pragmaticplay.net/vZuuQl3jJl
     bet: 1200
     jp: Rp.274.560 
-    img: assets/images/kits/starlight-princess1000.png
-
-  - title: Starlight Princess 1000
-    gid: dB9sdX6F7W
-    date: 01/Ag/2023
-    url: https://replay.pragmaticplay.net/dB9sdX6F7W
-    bet: 400
-    jp: Rp.149.780 
-    img: assets/images/kits/starlight-princess1000.png
-
-  - title: Starlight Princess 1000
-    gid: 8jKFbnRTSw
-    date: 20/Okt/2023
-    url: https://replay.pragmaticplay.net/8jKFbnRTSw
-    bet: 1200
-    jp: Rp.138.120 
     img: assets/images/kits/starlight-princess1000.png
 
 
