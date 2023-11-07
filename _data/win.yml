@@ -220,4 +220,12 @@ replay:
     jp: Rp.450.000
     img: assets/images/kits/slotmania-princess.png
 
-# Game Lainnya
+# Twilight Princess
+  - title: Twilight Princess
+    gid: SFpRhTCPj8
+    date: 29/Okt/2023
+    url: https://replay.pragmaticplay.net/SFpRhTCPj8
+    bet: 200
+    jp: Rp.214.750
+    img: assets/images/kits/twilight-princess.png
+
