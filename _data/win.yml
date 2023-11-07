@@ -42,10 +42,18 @@ replay:
 
   - title: Gates of Olympus
     gid: necBZTGRof
-    date: 16/Nov/2022
+    date: 16/Okt/2022
     url: https://replay.pragmaticplay.net/necBZTGRof
     bet: 400
     jp: Rp.1.657.640
+    img: assets/images/kits/gates-of-olympus.png
+
+  - title: Gates of Olympus
+    gid: iepVhxJdg1
+    date: 8/Nov/2022
+    url: https://replay.pragmaticplay.net/iepVhxJdg1
+    bet: 400
+    jp: Rp.246.000
     img: assets/images/kits/gates-of-olympus.png
 
 
