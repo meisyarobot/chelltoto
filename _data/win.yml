@@ -185,7 +185,7 @@ replay:
     jp: Rp.1.000.000
     img: assets/images/kits/starlight-princess.png
 
-#Starlight Princess 1000
+# Starlight Princess 1000
   - title: Starlight Princess 1000
     gid: mTpBawcCsJ
     date: 29/Sep/2023
@@ -207,7 +207,7 @@ replay:
     date: 9/Nov/2023
     url: https://replay.pragmaticplay.net/oJUjIA1PCJ
     bet: 400
-    jp: Rp.577.000 
+    jp: Rp.577.200 
     img: assets/images/kits/starlight-princess1000.png
 
 
