@@ -185,6 +185,15 @@ replay:
     jp: Rp.1.000.000
     img: assets/images/kits/starlight-princess.png
 
+  - title: Starlight Princess
+    gid: KQq1cw74oh
+    date: 11/Nov/2023
+    url: https://replay.pragmaticplay.net/KQq1cw74oh
+    bet: 200
+    jp: Rp.1.000.000
+    img: assets/images/kits/starlight-princess.png
+
+
 # Starlight Princess 1000
   - title: Starlight Princess 1000
     gid: mTpBawcCsJ
