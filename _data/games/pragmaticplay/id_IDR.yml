@@ -6,13 +6,6 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20cjcluster
   type: new
   provider: Pragmatic Play
-  
-- title: John Hunter Nell'Antica Roma
-  symbol: vs20jhroma
-  img: john-hunter-nell-antica-roma.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20jhroma
-  type: new
-  provider: Pragmatic Play
 
 - title: Mahjong X  
   symbol: vs20mahjxbnz
@@ -25,48 +18,13 @@
   symbol: vswayscfglory
   img: chase-for-glory.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayscfglory
-  type: new
-  provider: Pragmatic Play
-
-- title: Gates of Olympus 1000 
-  symbol: vs20olympx
-  img: gates-of-olympus-1000.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympx
-  type: new
-  provider: Pragmatic Play
-
-- title: Floating Dragon New Year Festival Ultra Megaways 
-  symbol: vswaysfltdrgny
-  img: floating-dragon-new-year-festival.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfltdrgny
-  type: new
-  provider: Pragmatic Play
-
-- title: Sugar Rush Xmas 
-  symbol: vs20sugrux
-  img: sugar-rush-xmas.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20sugrux
-  type: new
-  provider: Pragmatic Play
-
-- title: The Dog House Dice Show
-  symbol: vs20dhdice
-  img: the-dog-house-dice-show.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20dhdice
-  type: new
+  type: wsg
   provider: Pragmatic Play
 
 - title: Susu & Koko 
   symbol: vs20susukoko
   img: susu-koko.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20susukoko
-  type: new
-  provider: Pragmatic Play
-
-- title: Big Bass Christmas Bash 
-  symbol: vs10bbsplxmas
-  img: big-bass-christmas-bash.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bbsplxmas
   type: new
   provider: Pragmatic Play
 
@@ -238,6 +196,13 @@
   img: olympus-gates.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympgate
   type: videoslot
+  provider: Pragmatic Play
+
+- title: Gates of Olympus 1000 
+  symbol: vs20olympx
+  img: gates-of-olympus-1000.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympx
+  type: new
   provider: Pragmatic Play
 
 - title: Slot Mania Olympus
@@ -541,6 +506,13 @@
   type: videoslot
   provider: Pragmatic Play
 
+- title: Sugar Rush Xmas 
+  symbol: vs20sugrux
+  img: sugar-rush-xmas.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20sugrux
+  type: new
+  provider: Pragmatic Play
+
 - title: Sugar Slot Mania
   symbol: vs20slotsugar
   img: slotmania-sugar.webp
@@ -829,6 +801,13 @@
   type: videoslot
   provider: Pragmatic Play
 
+- title: The Dog House Dice Show
+  symbol: vs20dhdice
+  img: the-dog-house-dice-show.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20dhdice
+  type: new
+  provider: Pragmatic Play
+
 - title: The Dog House Megaways
   symbol: vswaysdogs
   img: megaways-dog-house.webp
@@ -856,6 +835,13 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10floatdrg
   type: reelkingdom
   provider: Pragmatic Play - Reel Kingdom 
+
+- title: Floating Dragon New Year Festival Ultra Megaways 
+  symbol: vswaysfltdrgny
+  img: floating-dragon-new-year-festival.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfltdrgny
+  type: reelkingdom
+  provider: Pragmatic Play
 
 - title: Floating Dragon Megaways
   symbol: vswaysfltdrg
@@ -932,6 +918,13 @@
   img: big-bass-hold-spinner-megaways.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysbbhas
   type: megaways
+  provider: Pragmatic Play
+
+- title: Big Bass Christmas Bash 
+  symbol: vs10bbsplxmas
+  img: big-bass-christmas-bash.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bbsplxmas
+  type: new
   provider: Pragmatic Play
 
 - title: Slot Mania Big Bass
@@ -1072,6 +1065,13 @@
   img: john-hunter-and-the-book-of-tut-megaways.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaystut
   type: megaways
+  provider: Pragmatic Play
+
+- title: John Hunter Nell'Antica Roma
+  symbol: vs20jhroma
+  img: john-hunter-nell-antica-roma.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20jhroma
+  type: new
   provider: Pragmatic Play
 
 - title: The Tweety House
