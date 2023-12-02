@@ -1,4 +1,81 @@
-# New games 
+# New games  
+
+- title: Candy Jar Cluster
+  symbol: vs20cjcluster
+  img: candy-jar-cluster.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20cjcluster
+  type: new
+  provider: Pragmatic Play
+  
+- title: John Hunter Nell'Antica Roma
+  symbol: vs20jhroma
+  img: john-hunter-nell-antica-roma.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20jhroma
+  type: new
+  provider: Pragmatic Play
+
+- title: Mahjong X  
+  symbol: vs20mahjxbnz
+  img: mahjongx.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20mahjxbnz
+  type: new
+  provider: Pragmatic Play
+
+- title: Chase For Glory 
+  symbol: vswayscfglory
+  img: chase-for-glory.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayscfglory
+  type: new
+  provider: Pragmatic Play
+
+- title: Gates of Olympus 1000 
+  symbol: vs20olympx
+  img: gates-of-olympus1000.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympx
+  type: new
+  provider: Pragmatic Play
+
+- title: Floating Dragon New Year Festival Ultra Megaways 
+  symbol: vswaysfltdrgny
+  img: floating-dragon-new-year-festival.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfltdrgny
+  type: new
+  provider: Pragmatic Play
+
+- title: Sugar Rush Xmas 
+  symbol: vs20sugrux
+  img: sugar-rush-xmas.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20sugrux
+  type: new
+  provider: Pragmatic Play
+
+- title: The Dog House Dice Show
+  symbol: vs20dhdice
+  img: the-dog-house-dice-show.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20dhdice
+  type: new
+  provider: Pragmatic Play
+
+- title: Susu & Koko 
+  symbol: vs20susukoko
+  img: susu-koko.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20susukoko
+  type: new
+  provider: Pragmatic Play
+
+- title: Big Bass Christmas Bash 
+  symbol: vs10bbsplxmas
+  img: big-bass-christmas-bash.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bbsplxmas
+  type: new
+  provider: Pragmatic Play
+
+- title: Barong Rico 
+  symbol: vs5barongrico
+  img: barong-rico.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5barongrico
+  type: new
+  provider: Pragmatic Play
 
 - title: Rujak Bonanza 
   symbol: vs20rujakbnz
@@ -666,6 +743,13 @@
   img: juicy-fruits.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50juicyfr
   type: classic
+  provider: Pragmatic Play
+
+- title: Juicy Fruits Multihold 
+  symbol: vs50jfmulthold
+  img: juicy-fruits-multihold.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50jfmulthold
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Extra Juicy
