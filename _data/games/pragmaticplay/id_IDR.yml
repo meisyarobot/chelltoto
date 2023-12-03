@@ -1,5 +1,103 @@
 # New games  
 
+- title: Nile Fortune 
+  symbol: vs20nilefort
+  img: nile-fortune.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20nilefort
+  type: new
+  provider: Pragmatic Play
+
+- title: Viking Forge 
+  symbol: vs20sugarcoins
+  img: viking-forge.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20sugarcoins
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Grace of Ebisu
+  symbol: vs20olympgrace
+  img: grace-of-ebisu.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympgrace
+  type: new
+  provider: Pragmatic Play
+
+- title: 888 Bonanza
+  symbol: vs243goldfor
+  img: 888bonanza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs243goldfor
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Big Bass Crash
+  symbol: 1320
+  img: big-bass-crash.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=1320
+  type: table
+  provider: Pragmatic Play
+
+- title: Fire Stampede
+  symbol: vswaysstampede
+  img: fire-stempede.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysstampede
+  type: new
+  provider: Pragmatic Play
+
+- title: Ding Dong Christmas Bells
+  symbol: vs10ddcbells
+  img: dingdong.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10ddcbells
+  type: new
+  provider: Pragmatic Play
+
+- title: Ding Dong Christmas Bells
+  symbol: vs10ddcbells
+  img: dingdong.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10ddcbells
+  type: new
+  provider: Pragmatic Play
+
+- title: 5 Frozen Charms Megaways
+  symbol: vswayscharms
+  img: 5frozen-charms-megaways.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayscharms
+  type: new
+  provider: Pragmatic Play
+
+- title: The Wild Gang
+  symbol: vswayswildgang
+  img: the-wild-gang.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswildgang
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Gates of Xibalba
+  symbol: vs20xilbaba
+  img: gates-of-xibalba.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20xilbaba
+  type: new
+  provider: Pragmatic Play
+
+- title: Blade & Fangs
+  symbol: vs20mergedwndw
+  img: blade-fangs.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20mergedwndw
+  type: new
+  provider: Pragmatic Play
+
+- title: Gemine
+  symbol: vs20gemine
+  img: gemine.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20gemine
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Mr. Toad Gold Megaways
+  symbol: vswaystgold
+  img: mr-toad-gold-megaways.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaystgold
+  type: megaways
+  provider: Pragmatic Play
+
 - title: Candy Jar Clusters
   symbol: vs20cjcluster
   img: candy-jar-cluster.webp
@@ -588,6 +686,13 @@
   img: risesamurai3.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40samurai3
   type: videoslot
+  provider: Pragmatic Play
+
+- title: Rise of Samurai IV
+  symbol: vs15samurai4
+  img: rise-of-samurai4.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs15samurai4
+  type: videoalot
   provider: Pragmatic Play
 
 - title: Rise of Samurai Megaways
