@@ -37,15 +37,8 @@
 
 - title: Fire Stampede
   symbol: vswaysstampede
-  img: fire-stempede.webp
+  img: fire-stampede.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysstampede
-  type: new
-  provider: Pragmatic Play
-
-- title: Ding Dong Christmas Bells
-  symbol: vs10ddcbells
-  img: dingdong.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10ddcbells
   type: new
   provider: Pragmatic Play
 
