@@ -1291,3 +1291,44 @@
   type: slotmania
   provider: Pragmatic Play  
 
+- title: Wild Hop & Drop
+  symbol: vs20mparty
+  img: wild-hop-drop.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20mparty
+  provider: Pragmatic Play
+
+- title: Lady Godiva
+  symbol: vs20godiva
+  img: lady-godiva.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20godiva
+  provider: Pragmatic Play
+
+- title: Pixie Wings
+  symbol: vs50pixie
+  img: pixie-wings.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50pixie
+  provider: Pragmatic Play
+
+- title: Queen of Gold
+  symbol: vs25queenofgold
+  img: queen-of-gold.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25queenofgold
+  provider: Pragmatic Play
+
+- title: Ancient Egypt
+  symbol: vs10egypt
+  img: ancient-egypt.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10egypt
+  provider: Pragmatic Play
+
+- title: Ancient Egypt Classic
+  symbol: vs10egyptcls
+  img: ancient-egypt-classic.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10egyptcls
+  provider: Pragmatic Play
+
+- title: Egyptian Fortunes
+  symbol: vs20egypttrs
+  img: egyptian-fortunes.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20egypttrs
+  provider: Pragmatic Play
