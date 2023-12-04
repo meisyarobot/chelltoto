@@ -1332,3 +1332,52 @@
   img: egyptian-fortunes.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20egypttrs
   provider: Pragmatic Play
+
+- title: Spartan King
+  symbol: vs40spartaking
+  img: spartan-king.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40spartaking
+  provider: Pragmatic Play
+
+- title: 7 Piggies
+  symbol: vs7pigs
+  img: 7piggies.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs7pigs
+  provider: Pragmatic Play
+
+- title: Gates of Valhalla
+  symbol: vs10runes
+  img: valhalla-gates.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10runes
+  provider: Pragmatic Play
+
+- title: Santa's Wonderland
+  symbol: vs20santawonder
+  img: santas-wonderland.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20santawonder
+  provider: Pragmatic Play
+
+- title: Santa
+  symbol: vs20santa
+  img: santa.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20santa
+  provider: Pragmatic Play
+
+- title: Wild Wild Riches
+  symbol: vs576treasures
+  img: wild-wild-riches.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs576treasures
+  provider: Pragmatic Play
+
+- title: Coffee Wild
+  symbol: vs10coffee
+  img: coffee-wild.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10coffee
+  provider: Pragmatic Play
+
+- title: October Fortunes
+  symbol: vs20octobeer
+  img: octobeer-fortunes.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20octobeer
+  provider: Pragmatic Play
+
