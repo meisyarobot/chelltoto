@@ -1,5 +1,33 @@
-
 en_US:
+
+  - title: Forge of Wealth
+    gameid: 1555350
+    img: forge-of-wealth.webp
+    url: https://m.pgsoft-games.com/1555350/index.html?l=en&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    type: new
+    provider: PG Soft 
+ 
+  - title: Ultimate Striker
+    gameid: 1489936
+    img: ultimate-striker.webp
+    url: https://m.pgsoft-games.com/1489936/index.html?l=en&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    type: new
+    provider: PG Soft 
+
+  - title: Wild Heist Cashout
+    gameid: 1568554
+    img: Wild-Heist-Cashout.webp
+    url: https://m.pgsoft-games.com/1568554/index.html?l=en&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    type: new
+    provider: PG Soft 
+
+  - title: Ninja Raccoon Frenzy
+    gameid: 1529867
+    img: ninja-raccoon-frenzy.webp
+    url: https://m.pgsoft-games.com/1529867/index.html?l=en&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    type: new
+    provider: PG Soft 
+
   - title: Gladiator's Glory
     gameid: 1572362
     img: gladiators-glory.webp
