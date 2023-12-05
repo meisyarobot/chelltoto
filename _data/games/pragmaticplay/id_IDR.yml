@@ -1489,3 +1489,153 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20mtreasure
   provider: Pragmatic Play
 
+- title: Eye of Cleopatra
+  symbol: vs40cleoeye
+  img: eye-of-cleopatra.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40cleoeye
+  provider: Pragmatic Play
+
+- title: Might of RA
+  symbol: vs50mightra
+  img: ra-might.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50mightra
+  provider: Pragmatic Play
+
+- title: Aladdin and The Sorcerer
+  symbol: vs20aladdinsorc
+  img: aladdin-sorcerer.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20aladdinsorc
+  provider: Pragmatic Play
+
+- title: Hercules & Pegasus
+  symbol: vs20hercpeg
+  img: hercules-pegasus.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20hercpeg
+  provider: Pragmatic Play
+
+- title: Hercules Son of Zeus
+  symbol: vs50hercules
+  img: hercules-zeus-son.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50hercules
+  provider: Pragmatic Play
+
+- title: Reel Banks
+  symbol: vs25rlbank
+  img: reel-banks.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25rlbank
+  provider: Pragmatic Play
+
+- title: Dragon Tiger
+  symbol: vs1024dtiger
+  img: dragon-tiger.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1024dtiger
+  provider: Pragmatic Play 
+
+- title: Dragon Hero
+  symbol: vs20drgbless
+  img: dragon-hero.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20drgbless
+  provider: Pragmatic Play 
+
+- title: Lucky Dragons
+  symbol: vs50chinesecharms
+  img: lucky-dragons.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50chinesecharms
+  provider: Pragmatic Play 
+
+- title: Barn Festival
+  symbol: vs20farmfest
+  img: barn-festival.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20farmfest
+  provider: Pragmatic Play 
+
+- title: Wild Beach Party
+  symbol: vs20bchprty
+  img: wild-beach-party.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20bchprty
+  provider: Pragmatic Play
+
+- title: Jasmine Dreams
+  symbol: vs20mvwild
+  img: jasmine-dreams.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20mvwild
+  provider: Pragmatic Play  
+
+- title: Cowboy Coins
+  symbol: vswaysultrcoin
+  img: cowboy-coins.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysultrcoin
+  provider: Pragmatic Play
+
+- title: Queen of Atlantis
+  symbol: vs20doghousemh
+  img: queen-of-atlantis.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20doghousemh
+  provider: Pragmatic Play
+
+- title: Aladdin's Treasure
+  symbol: vs50amt
+  img: aladdins-treasure.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50amt
+  provider: Pragmatic Play
+
+- title: Pirate Gold Deluxe
+  symbol: vs40pirgold
+  img: pirate-gold-deluxe.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40pirgold
+  provider: Pragmatic Play
+
+- title: Vegas Nights
+  symbol: vs25vegas
+  img: vegas-nights.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25vegas
+  provider: Pragmatic Play
+
+- title: Pinup Girls
+  symbol: vs20ltng
+  img: pinup-girls.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20ltng
+  provider: Pragmatic Play
+
+- title: Magic Crystals
+  symbol: vs243crystalcave
+  img: magic-crystals.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs243crystalcave
+  provider: Pragmatic Play
+
+- title: Flying Hippo
+  symbol: vs20hippos
+  img: flying-hippo.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20hippos
+  provider: Pragmatic Play
+
+- title: Wild wild Bananas
+  symbol: vswayswwhex
+  img: wild-wild-bananas.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswwhex
+  provider: Pragmatic Play
+
+- title: Cash Patrol
+  symbol: vs25copsrobbers
+  img: cash-patrol.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25copsrobbers
+  provider: Pragmatic Play
+
+- title: Greedy Wolf
+  symbol: vs20wolfie
+  img: greedy-wolf.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20wolfie
+  provider: Pragmatic Play
+
+- title: Drago Jewels of Fortune
+  symbol: vs1600drago
+  img: drago-jewels-fortune.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1600drago
+  provider: Pragmatic Play
+
+- title: Yum Yum Powerways
+  symbol: vswaysyumyum
+  img: yum-yum-powerways.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysyumyum
+  provider: Pragmatic Play
+
