@@ -1639,3 +1639,87 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysyumyum
   provider: Pragmatic Play
 
+- title: The Knight King
+  symbol: vs20sknights
+  img: knight-king.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20sknights
+  provider: Pragmatic Play
+
+- title: Mochimon
+  symbol: vs20mochimon
+  img: mochimon.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20mochimon
+  provider: Pragmatic Play
+
+- title: Fairytale Fortune
+  symbol: vs15fairytale
+  img: fairytale-fortune.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs15fairytale
+  provider: Pragmatic Play
+
+- title: Book of Fallen
+  symbol: vs10bookfallen
+  img: book-of-fallen.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bookfallen
+  provider: Pragmatic Play
+
+- title: Wild Gladiator
+  symbol: vs25gladiator
+  img: wild-gladiators.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25gladiator
+  provider: Pragmatic Play
+
+- title: Book of Golden Sands
+  symbol: vswaysbook
+  img: book-of-golden-sands.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysbook
+  provider: Pragmatic Play
+
+- title: Peking Luck 
+  symbol: vs25peking
+  img: peking-luck.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25peking
+  provider: Pragmatic Play
+
+- title: 3 Kingdoms - Battle of Red Cliffs
+  symbol: vs25kingdoms
+  img: 3kingdoms.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25kingdoms
+  provider: Pragmatic Play
+
+- title: Monkey Madness
+  symbol: vs9madmonkey
+  img: monkey-madness.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs9madmonkey
+  provider: Pragmatic Play
+
+- title: Empty The Bank
+  symbol: vs20emptyban
+  img: empty-the-bank.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20emptyban
+  provider: Pragmatic Play
+
+- title: Day of Dead
+  symbol: vs20daydead
+  img: day-of-dead.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20daydead
+  provider: Pragmatic Play
+
+- title: Disco Lady
+  symbol: vs243discolady
+  img: disco-lady.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs243discolady
+  provider: Pragmatic Play
+
+- title: Smugglers Cove
+  symbol: vs20smugcove
+  img: smugglers-cove.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smugcove
+  provider: Pragmatic Play
+
+- title: Wild Depths
+  symbol: vs40wanderw
+  img: wild-depths.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40wanderw
+  provider: Pragmatic Play  
+
