@@ -1867,12 +1867,6 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20wildparty
   provider: Pragmatic Play
 
-- title: The Catfather
-  symbol: vs9catz
-  img: the-catfather.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs9catz
-  provider: Pragmatic Play
-
 - title: Guarana Eyes of The Amazon
   symbol: vs20guarush
   img: guarana-eyes-of-the-amazon.webp
@@ -1913,5 +1907,35 @@
   symbol: vs25walker
   img: wild-walker.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25walker
+  provider: Pragmatic Play
+
+- title: Medusa Strike
+  symbol: vs243medusa
+  img: medusa-strike.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs243medusa
+  provider: Pragmatic Play
+
+- title: Legend of Garuda
+  symbol: vs20garuda
+  img: legend-of-garuda.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20garuda
+  provider: Pragmatic Play
+
+- title: Heist For The Golden Nuggets
+  symbol: vs20hstgldngt
+  img: heist-for-the-golden-nuggets.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20hstgldngt
+  provider: Pragmatic Play
+
+- title: Wild West Bounty
+  symbol: vs40wildwesth
+  img: wild-west-bounty.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40wildwesth
+  provider: Pragmatic Play
+
+- title: Diamonds Of Egypt
+  symbol: vswayseternity
+  img: diamonds-of-egypt.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayseternity
   provider: Pragmatic Play
 
