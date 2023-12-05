@@ -105,13 +105,6 @@
   type: new
   provider: Pragmatic Play
 
-- title: Chase For Glory 
-  symbol: vswayscfglory
-  img: chase-for-glory.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayscfglory
-  type: wsg
-  provider: Pragmatic Play
-
 - title: Susu & Koko 
   symbol: vs20susukoko
   img: susu-koko.webp
@@ -1933,60 +1926,85 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayseternity
   provider: Pragmatic Play
 
-# Wild Streak Gaming
+# Wild Streak Gaming #
 - title: Firebird Spirit 
   symbol: vswaysconcoll
   img: firebird-spirit.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysconcoll
   type: wsg
   provider: Wild Streak Gaming
-
 - title: Gold Party
   symbol: vs25goldparty
   img: gold-party.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25goldparty
   type: wsg
   provider: Wild Streak Gaming
-
 - title: Queenie
   symbol: vs243queenie
   img: queenie.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs243queenie
   type: wsg
   provider: Wild Streak Gaming
-
 - title: Congo Cash
   symbol: vs432congocash
   img: congo-cash.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs432congocash
   type: wsg
   provider: Wild Streak Gaming
-
 - title: Big Juan
   symbol: vs40bigjuan
   img: big-juan.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40bigjuan
   type: wsg
   provider: Wild Streak Gaming
-
 - title: Temujin Treasures
   symbol: vs1024temuj
   img: temujin-treasures.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1024temuj
   type: wsg
   provider: Wild Streak Gaming
-
 - title: Cosmic Cash
   symbol: vs40cosmiccash
   img: cosmic-cash.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40cosmiccash
   type: wsg
   provider: Wild Streak Gaming
-
 - title: Mystery of The Orient
   symbol: vswaysmorient
   img: orient-mystery.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysmorient
   type: wsg
   provider: Wild Streak Gaming
+- title: Chase For Glory 
+  symbol: vswayscfglory
+  img: chase-for-glory.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayscfglory
+  type: wsg
+  provider: Wild Streak Gaming
+
+#####
+
+- title: Diamond Cascade 
+  symbol: vs50dmdcascade
+  img: diamond-cascade.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50dmdcascade
+  provider: Pragmatic Play
+
+- title: Saiyan Mania
+  symbol: vs20saiman
+  img: saiyan-mania.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20saiman
+  provider: Pragmatic Play
+
+- title: Hellvis Wild
+  symbol: vs243nudge4gold
+  img: hellvis-wild.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs243nudge4gold
+  provider: Pragmatic Play
+
+- title: Joker Race
+  symbol: vs25jokrace
+  img: joker-race.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25jokrace
+  provider: Pragmatic Play
 
