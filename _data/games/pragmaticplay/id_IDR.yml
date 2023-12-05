@@ -28,13 +28,6 @@
   type: videoslot
   provider: Pragmatic Play
 
-- title: Big Bass Crash
-  symbol: 1320
-  img: big-bass-crash.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=1320
-  type: table
-  provider: Pragmatic Play
-
 - title: Fire Stampede
   symbol: vswaysstampede
   img: fire-stampede.webp
@@ -871,12 +864,22 @@
   type: videoslot
   provider: Pragmatic Play
 
+# Table Games
 - title: Spaceman
   symbol: 1302
   img: spaceman.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=1302
   type: table
   provider: Pragmatic Play
+
+- title: Big Bass Crash
+  symbol: 1320
+  img: big-bass-crash.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=1320
+  type: table
+  provider: Pragmatic Play
+
+#####
 
 - title: The Dog House
   symbol: vs20doghouse
@@ -920,6 +923,7 @@
   type: videoslot
   provider: Pragmatic Play
 
+# Reel Kingdom
 - title: Floating Dragon — Hold & Spin
   symbol: vs10floatdrg
   img: floating-dragon.webp
@@ -1031,6 +1035,72 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10gdchalleng
   type: reelkingdom
   provider: Pragmatic Play
+
+- title: Spirit of Adventure
+  symbol: vs10spiritadv
+  img: spirit-of-adventure.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10spiritadv
+  type: reelkingdom
+  provider: Reel Kingdom
+
+- title: Emerald King
+  symbol: vs20eking
+  img: emerald-king.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20eking
+  type: reelkingdom
+  provider: Reel Kingdom
+
+- title: Emerald King — Rainbow Road
+  symbol: vs20ekingrr
+  img: emerald-king-rainbow-road.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20ekingrr
+  type: reelkingdom
+  provider: Reel Kingdom
+  
+- title: Ultra — Hold & Spin
+  symbol: vs5ultra
+  img: ultra-hold-spin.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5ultra
+  type: reelkingdom
+  provider: Reel Kingdom
+
+- title: Dragon — Hot Hold & Spin
+  symbol: vs5drhs
+  img: dragon-hot-hold-spin.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5drhs
+  type: reelkingdom
+  provider: Reel Kingdom
+
+- title: Pizza! Pizza? Pizza!
+  symbol: vswayspizza
+  img: pizza.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayspizza
+  type: reelkingdom
+  provider: Reel Kingdom
+
+- title: Eye Storm
+  symbol: vs10eyestorm
+  img: eye-storm.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10eyestorm
+  type: reelkingdom
+  provider: Reel Kingdom
+
+- title: Rock Vegas
+  symbol: vs20rockvegas
+  img: rock-vegas.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20rockvegas
+  type: reelkingdom
+  provider: Reel Kingdom
+
+- title: Lucky, Grace & Charm — Mega Hold & spin
+  symbol: vs10luckcharm
+  img: lucky-grace-charm.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10luckcharm
+  type: reelkingdom
+  provider: Reel Kingdom
+
+
+#####
 
 - title: The Amazing Money Machine
   symbol: vs10amm
@@ -1933,48 +2003,56 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysconcoll
   type: wsg
   provider: Wild Streak Gaming
+  
 - title: Gold Party
   symbol: vs25goldparty
   img: gold-party.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25goldparty
   type: wsg
   provider: Wild Streak Gaming
+  
 - title: Queenie
   symbol: vs243queenie
   img: queenie.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs243queenie
   type: wsg
   provider: Wild Streak Gaming
+  
 - title: Congo Cash
   symbol: vs432congocash
   img: congo-cash.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs432congocash
   type: wsg
   provider: Wild Streak Gaming
+  
 - title: Big Juan
   symbol: vs40bigjuan
   img: big-juan.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40bigjuan
   type: wsg
   provider: Wild Streak Gaming
+  
 - title: Temujin Treasures
   symbol: vs1024temuj
   img: temujin-treasures.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1024temuj
   type: wsg
   provider: Wild Streak Gaming
+  
 - title: Cosmic Cash
   symbol: vs40cosmiccash
   img: cosmic-cash.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40cosmiccash
   type: wsg
   provider: Wild Streak Gaming
+  
 - title: Mystery of The Orient
   symbol: vswaysmorient
   img: orient-mystery.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysmorient
   type: wsg
   provider: Wild Streak Gaming
+  
 - title: Chase For Glory 
   symbol: vswayscfglory
   img: chase-for-glory.webp
