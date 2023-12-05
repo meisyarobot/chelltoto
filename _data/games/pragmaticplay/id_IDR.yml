@@ -1381,24 +1381,6 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20octobeer
   provider: Pragmatic Play
 
-- title: Wild Wild Riches
-  symbol: vs576treasures
-  img: wild-wild-riches.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs576treasures
-  provider: Pragmatic Play
-
-- title: Coffee Wild
-  symbol: vs10coffee
-  img: coffee-wild.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10coffee
-  provider: Pragmatic Play
-
-- title: October Fortunes
-  symbol: vs20octobeer
-  img: octobeer-fortunes.webp
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20octobeer
-  provider: Pragmatic Play
-
 - title: Chicken Chase
   symbol: vs10chkchase
   img: chicken-chase.webp
