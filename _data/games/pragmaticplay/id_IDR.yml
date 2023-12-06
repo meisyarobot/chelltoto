@@ -2086,3 +2086,59 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25jokrace
   provider: Pragmatic Play
 
+- title: Shining Hot 5
+  symbol: vs5sh
+  img: shining-hot5.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5sh
+  type: classic
+  provider: Pragmatic Play
+
+- title: Shining Hot 20
+  symbol: vs20sh
+  img: shining-hot20.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20sh
+  type: classic
+  provider: Pragmatic Play
+
+- title: Shining Hot 40
+  symbol: vs40sh
+  img: shining-hot40.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40sh
+  type: classic
+  provider: Pragmatic Play
+
+- title: Shining Hot 100
+  symbol: vs100sh
+  img: shining-hot100.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs100sh
+  type: classic
+  provider: Pragmatic Play
+
+- title: Fire Hot 5
+  symbol: vs5firehot
+  img: fire-hot5.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5firehot
+  type: classic
+  provider: Pragmatic Play
+
+- title: Fire Hot 20
+  symbol: vs20fh
+  img: fire-hot20.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fh
+  type: classic
+  provider: Pragmatic Play
+
+- title: Fire Hot 40
+  symbol: vs40firehot
+  img: fire-hot40.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40firehot
+  type: classic
+  provider: Pragmatic Play
+
+- title: Fire Hot 100
+  symbol: vs100firehot
+  img: fire-hot100.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs100firehot
+  type: classic
+  provider: Pragmatic Play
+
