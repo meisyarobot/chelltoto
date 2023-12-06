@@ -1113,6 +1113,27 @@
   type: reelkingdom
   provider: Reel Kingdom
 
+- title: Hot To Burn
+  symbol: vs5hotburn
+  img: hot-to-burn.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5hotburn
+  type: classic
+  provider: Reel Kingdom
+
+- title: Hot To Burn Hold & Spin
+  symbol: vs20hburnhs
+  img: hot-to-burn-hold-spin.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20hburnhs
+  type: classic
+  provider: Reel Kingdom
+
+- title: Hot To Burn Extreme
+  symbol: vs40hotburnx
+  img: hot-to-burn-xtreme.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40hotburnx
+  type: classic
+  provider: Reel Kingdom
+
 
 #####
 
@@ -2156,3 +2177,30 @@
   type: classic
   provider: Pragmatic Play
 
+- title: Striking Hot 5 
+  symbol: vs5strh
+  img: striking-hot5.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5strh
+  type: classic
+  provider: Pragmatic Play
+
+- title: Crown of Fire
+  symbol: vs10crownfire
+  img: crown-of-fire.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10crownfire
+  type: classic
+  provider: Pragmatic Play
+
+- title: Fire 88
+  symbol: vs7fire88
+  img: fire88.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs7fire88
+  type: classic
+  provider: Pragmatic Play
+
+- title: Super X
+  symbol: vs20superx
+  img: superx.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20superx
+  type: classic
+  provider: Pragmatic Play
