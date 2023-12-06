@@ -324,6 +324,13 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20m88gates
   provider: Pragmatic Play
 
+- title: Gates of Vigor
+  symbol: vs20vigorolymp
+  img: gates-of-vigor.webp
+  type: vigor
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20vigorolymp
+  provider: Pragmatic Play 
+
 - title: Starlight Princess
   symbol: vs20starlight
   img: starlight-princess.webp
