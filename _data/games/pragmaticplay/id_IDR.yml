@@ -632,6 +632,13 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20sugarm88
   provider: Pragmatic Play
 
+- title: Infini88 Sugar Rush
+  symbol: vs20infini88sr
+  img: infini88-sugar-rush.webp
+  type: infini
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20infini88sr
+  provider: Pragmatic Play
+
 - title: Candy Village
   symbol: vs20candvil
   img: candy-village.webp
