@@ -520,6 +520,20 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5slotgems
   provider: Pragmatic Play
 
+- title: Infini88 Aztec Gems
+  symbol: vs5infiniaztec
+  img: infini88-aztec-gems.webp
+  type: infini
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5infiniaztec
+  provider: Pragmatic Play
+
+- title: Mpoplay Aztec Gems
+  symbol: vs5aztecmpoplay
+  img: mpoplay-aztec-gems.webp
+  type: mpoplay
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5aztecmpoplay
+  provider: Pragmatic Play
+
 - title: Wild West Gold
   symbol: vs40wildwest
   img: wild-west-gold.webp
