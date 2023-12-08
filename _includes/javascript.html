@@ -165,4 +165,16 @@ $('.uk-container').infiniteScroll({
   history: false,
 });  
 </script>
+<script>
+$(document).ready(function(){
+  $(".bc").slice(0, 8).show();
+  $("#loadMore").on("click", function(e){
+    e.preventDefault();
+    $(".bc:hidden").slice(0, 4).slideDown();
+    if($(".bc:hidden").length == 0) {
+      $("#loadMore").text("No Content").addClass("noContent");
+    }
+  });  
+})  
+</script>
 <!-- /Scripts -->
