@@ -1,4 +1,18 @@
-# New games  
+# New games
+
+- title: Sea Fantasy
+  symbol: vswaysseastory
+  img: sea-fantasy.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysseastory
+  type: new
+  provider: Pragmatic Play
+
+- title: MBS Heist Megaways
+  symbol: vswaysmbslions
+  img: mbs-heist-megaways.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysmbslions
+  type: new
+  provider: Pragmatic Play
 
 - title: Xmas Spark 
   symbol: vs20giftcndblz
