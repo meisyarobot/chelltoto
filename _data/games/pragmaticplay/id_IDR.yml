@@ -2302,3 +2302,76 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20superx
   type: classic
   provider: Pragmatic Play
+
+- title: Colossal Cash Zone 
+  symbol: vs20colcashzone
+  img: colossal-cash-zone.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20colcashzone
+  provider: Pragmatic Play
+
+- title: Magic Journey 
+  symbol: vs8magicjourn
+  img: magic-journey.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs8magicjourn
+  provider: Pragmatic Play
+
+- title: Cyclops Smash 
+  symbol: vs20earthquake
+  img: cyclops-smash.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20earthquake
+  provider: Pragmatic Play
+
+- title: Treasure Wild
+  symbol: vs20trsbox
+  img: treasure-wild.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20trsbox
+  provider: Pragmatic Play
+
+- title: Black Bull
+  symbol: vs20trswild2
+  img: black-bull.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20trswild2
+  provider: Pragmatic Play
+ 
+- title: Magic Money Maze
+  symbol: vs10mmm
+  img: magic-money-maze.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10mmm
+  provider: Pragmatic Play
+
+- title: Wild Booster
+  symbol: vs20wildboost
+  img: wild-booster.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20wildboost
+  provider: Pragmatic Play
+
+- title: Fortunes of The Aztec
+  symbol: vswaysstrlght
+  img: fortunes-of-the-aztec.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysstrlght
+  provider: Pragmatic Play
+
+- title: The Magic Cauldron
+  symbol: vs20magicpot
+  img: the-magic-cauldron.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20magicpot
+  provider: Pragmatic Play
+
+- title: Wild Bison Charge
+  symbol: vs20stickywild
+  img: wild-bison-charge.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20stickywild
+  provider: Pragmatic Play
+
+- title: Caishen's Cash
+  symbol: vs243caishien
+  img: caishens-cash.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs243caishien
+  provider: Pragmatic Play
+
+- title: Money Roll 
+  symbol: cs5moneyroll
+  img: money-roll.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=cs5moneyroll
+  provider: Pragmatic Play
+
