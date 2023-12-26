@@ -2375,3 +2375,34 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=cs5moneyroll
   provider: Pragmatic Play
 
+- title: Goblin Heist PowerNudge 
+  symbol: vs20gobnudge
+  img: goblin-heist.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20gobnudge
+  provider: Pragmatic Play
+
+- title: Club Tropicana 
+  symbol: vs12tropicana
+  img: club-tropicana.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs12tropicana
+  provider: Pragmatic Play
+
+- title: Zombie Carnival 
+  symbol: vswayszombcarn
+  img: zombie-carnival.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayszombcarn
+  provider: Pragmatic Play
+
+- title: Cleocatra 
+  symbol: vs20cleocatra
+  img: cleocatra.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20cleocatra
+  provider: Pragmatic Play
+
+- title: Wild Celebrity Bus Megaways 
+  symbol: vswaysrsm
+  img: wild-celebrity-bus-megaways.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysrsm
+  type: megaways
+  provider: Pragmatic Play
+
