@@ -60,13 +60,15 @@
   provider: Hacksaw Gaming
 
 - title: Chaos Crew 
+  gameid: 1059
   img: chaos-crew.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1059/1.61.1/index.html?language=id&channel=mobile&gameid=1059&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Chaos Crew 2
+  gameid: 1352
   img: chaos-crew-2.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1352/1.16.0/index.html?language=id&channel=mobile&gameid=1352&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Fred's Food Truck
@@ -81,23 +83,27 @@
   provider: Hacksaw Gaming
 
 - title: Book of Time
+  gameid: 1213
   img: book-of-time.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1213/1.32.0/index.html?language=id&channel=mobile&gameid=1213&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Forest Fortune
+  gameid: 1185
   img: forest-fortune.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1185/1.11.0/index.html?language=id&channel=mobile&gameid=1185&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Benny The Beer
+  gameid: 1356
   img: benny-the-beer.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1356/1.21.13/index.html?language=id&channel=mobile&gameid=1356&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Born Wild
+  gameid: 1189
   img: born-wild.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1189/1.13.0/index.html?language=id&channel=mobile&gameid=1189&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Beast Below
