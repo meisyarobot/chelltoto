@@ -108,63 +108,75 @@
   provider: Hacksaw Gaming
 
 - title: Beast Below
+  gameid: 1279
   img: beast-below.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1279/1.21.0/index.html?language=id&channel=mobile&gameid=1279&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Mighty Masks Nudge Reels
+  gameid: 1305
   img: mighty-masks.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1305/1.21.0/index.html?language=en&channel=mobile&gameid=1305&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=EUR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Xmas Drop
+  gameid: 1396
   img: xmas-drop.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1396/1.10.0/index.html?language=id&channel=mobile&gameid=1396&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Blood Thirst
+  gameid: 1251
   img: bloodthirst.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1251/1.18.2/index.html?language=id&channel=mobile&gameid=1251&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Undead Fortune
+  gameid: 1193
   img: undead-fortune.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1193/1.48.1/index.html?language=id&channel=mobile&gameid=1193&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Harvest Wilds Hoppers
+  gameid: 1140
   img: harvest-wilds.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1140/1.28.1/index.html?language=id&channel=mobile&gameid=1140&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Gladiator Legends
+  gameid: 1160
   img: gladiator-legends.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1160/1.39.1/index.html?language=id&channel=mobile&gameid=1160&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Vending Machine
+  gameid: 1340
   img: vending-machine.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1340/1.11.0/index.html?language=id&channel=mobile&gameid=1340&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Temple of Torment
+  gameid: 1237
   img: temple-of-torment.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1237/1.18.0/index.html?language=id&channel=mobile&gameid=1237&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Cubes
+  gameid: 1048
   img: cubes.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1048/1.58.0/index.html?language=id&channel=mobile&gameid=1048&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Cubes 2
+  gameid: 1069
   img: cubes-2.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1069/1.54.0/index.html?language=id&channel=mobile&gameid=1069&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Dork Unit
+  gameid: 1172
   img: dork-unit.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1172/1.42.0/index.html?language=id&channel=mobile&gameid=1172&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: The Bowery Boys
