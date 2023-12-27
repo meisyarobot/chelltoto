@@ -48,13 +48,13 @@
   url: 
   provider: Hacksaw Gaming
 
-- title: Chaos Crew
+- title: Chaos Crew 2
   img: chaos-crew-2.jpg
   url: 
   provider: Hacksaw Gaming
 
 - title: Fred's Food Truck
-  img: freds-food-truck.jpg
+  img: fred-s-food-truck.jpg
   url: 
   provider: Hacksaw Gaming
 
@@ -99,7 +99,7 @@
   provider: Hacksaw Gaming
 
 - title: Blood Thirst
-  img: blood-thirst.jpg
+  img: bloodthirst.jpg
   url: 
   provider: Hacksaw Gaming
 
@@ -109,7 +109,7 @@
   provider: Hacksaw Gaming
 
 - title: Harvest Wilds Hoppers
-  img: harvest-wild-hoppers.jpg
+  img: harvest-wilds.jpg
   url: 
   provider: Hacksaw Gaming
 
@@ -123,8 +123,8 @@
   url: 
   provider: Hacksaw Gaming
 
-- title: Temple of Tornment
-  img: temple-of-tornment.jpg
+- title: Temple of Torment
+  img: temple-of-torment.jpg
   url: 
   provider: Hacksaw Gaming
 
