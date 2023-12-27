@@ -10,13 +10,15 @@
   provider: Hacksaw Gaming
 
 - title: Cursed Seas
+  gameid: 1263
   img: cursed-seas.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1263/1.11.3/index.html?language=id&channel=mobile&gameid=1263&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Rotten
+  gameid: 1209
   img: rotten.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1209/1.20.0/index.html?language=id&channel=mobile&gameid=1209&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Toshi Video Club
@@ -25,8 +27,9 @@
   provider: Hacksaw Gaming
 
 - title: Wanted Dead or a Wild
+  gameid: 1067
   img: wanted-dead-or-a-wild.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1067/1.52.1/index.html?language=id&channel=mobile&gameid=1067&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Rip City
@@ -60,8 +63,9 @@
   provider: Hacksaw Gaming
 
 - title: Fred's Food Truck
+  gameid: 1229
   img: fred-s-food-truck.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1229/1.22.0/index.html?language=id&channel=mobile&gameid=1229&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Lord Venom
