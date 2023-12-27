@@ -1,12 +1,14 @@
 - title: Dark Summoning
+  gameid: 1392
   img: dark-summoning.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1392/1.25.0/index.html?language=id&channel=mobile&gameid=1392&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   type: new
   provider: Hacksaw Gaming
 
 - title: Le Bandit
+  gameid: 1309
   img: le-bandit.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1309/1.11.3/index.html?language=id&channel=mobile&gameid=1309&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Cursed Seas
@@ -22,8 +24,9 @@
   provider: Hacksaw Gaming
 
 - title: Toshi Video Club
+  gameid: 1087
   img: toshi-video-club.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1087/1.41.0/index.html?language=id&channel=mobile&gameid=1087&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Wanted Dead or a Wild
