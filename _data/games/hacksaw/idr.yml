@@ -1,3 +1,9 @@
+- title: Dark Summoning
+  img: dark-summoning.jpg
+  url: 
+  type: new
+  provider: Hacksaw Gaming
+
 - title: Le Bandit
   img: le-bandit.jpg
   url: 
@@ -162,4 +168,61 @@
   img: alpha-eagle.jpg
   url: 
   provider: Hacksaw Gaming
+
+- title: Om Nom
+  gameid: 1043
+  img: om-nom.jpg
+  url: https://static-live.hacksawgaming.com/1043/1.44.10/index.html?language=id&currency=IDR&channel=mobile&gameid=1043&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
+  provider: Hacksaw Gaming
+
+- title: Eye of The Panda Hoppers
+  img: eye-of-the-panda.jpg
+  url: 
+  provider: Hacksaw Gaming
+
+- title: Densho
+  img: densho.jpg
+  url: 
+  provider: Hacksaw Gaming
+
+- title: Ronin Stackways
+  img: ronin-stackways.jpg
+  url: 
+  provider: Hacksaw Gaming
+
+- title: Mayan Stackways
+  img: mayan-stackways.jpg
+  url: 
+  provider: Hacksaw Gaming
+
+- title: Drop 'Em
+  img: drop-em.jpg
+  url: 
+  provider: Hacksaw Gaming
+
+- title: Stack 'Em
+  img: stack-em.jpg
+  url: 
+  provider: Hacksaw Gaming
+
+- title: Stick 'Em
+  img: stick-em.jpg
+  url: 
+  provider: Hacksaw Gaming
+
+- title: Fear The Dark
+  img: fear-the-dark.jpg
+  url: 
+  provider: Hacksaw Gaming
+
+- title: Stormforged
+  img: stormforged.jpg
+  url: 
+  provider: Hacksaw Gaming
+
+- title: Kee 'Em Cool
+  img: keep-em-cool.jpg
+  url: 
+  provider: Hacksaw Gaming
+
 
