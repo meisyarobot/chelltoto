@@ -80,6 +80,7 @@
 - title: Lord Venom
   img: lord-venom.jpg
   url: 
+  disable: disable
   provider: Hacksaw Gaming
 
 - title: Book of Time
