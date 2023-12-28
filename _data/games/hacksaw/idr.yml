@@ -263,10 +263,170 @@
   url: https://static-live.hacksawgaming.com/1243/1.19.0/index.html?language=id&channel=mobile&gameid=1243&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
-- title: Kee 'Em Cool
+- title: Keep 'Em Cool
   gameid: 1259
   img: keep-em-cool.jpg
   url: https://static-live.hacksawgaming.com/1259/1.21.0/index.html?language=id&channel=mobile&gameid=1259&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
+- title: Magic Piggy
+  gameid: 
+  img: magic-piggy.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Frank's Farm
+  gameid: 
+  img: franks-farm.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Gronk's Gems
+  gameid: 
+  img: gronks-gems.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Pug Life
+  gameid: 
+  img: pug-life.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Time Spinners
+  gameid: 
+  img: time-spinners.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Fruit Duel
+  gameid: 
+  img: fruit-duel.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Buffalo Stuck 'N Sync
+  gameid: 
+  img: buffalo.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Itero — Echospins
+  gameid: 
+  img: itero.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Warrior Ways
+  gameid: 
+  img: warrior-ways.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Double Rainbow
+  gameid: 
+  img: double-rainbow.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: King Carrot
+  gameid: 
+  img: king-carrot.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Tasty Treats
+  gameid: 
+  img: tasty-treats.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Cash Quest
+  gameid: 
+  img: cash-quest.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Rocket — Reels
+  gameid: 
+  img: rocket-reels.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Xpander
+  gameid: 
+  img: xpander.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Hop 'N Pop
+  gameid: 
+  img: hop-n-pop.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Fruitz
+  gameid: 
+  img: fruitz.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Aztec Twist
+  gameid: 
+  img: aztec-twist.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Miami — Multiflier
+  gameid: 
+  img: miami.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Cash Compass
+  gameid: 
+  img: cash-compass.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Let It Snow
+  gameid: 
+  img: let-it-snow.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Mystery Motel
+  gameid: 
+  img: mystery-motel.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: The Respinners
+  gameid: 
+  img: the-respinners.jpg
+  url: 
+  disable: disable
+  provider: Hacksaw Gaming
 
