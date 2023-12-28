@@ -190,13 +190,15 @@
   provider: Hacksaw Gaming
 
 - title: Immortal Desire
+  gameid: 1364
   img: immortal-desire.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1364/1.12.0/index.html?language=id&channel=mobile&gameid=1364&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Alpha Eagle
+  gameid: 1201
   img: alpha-eagle.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1201/1.39.0/index.html?language=id&channel=mobile&gameid=1201&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Om Nom
@@ -205,54 +207,64 @@
   url: https://static-live.hacksawgaming.com/1043/1.44.10/index.html?language=id&currency=IDR&channel=mobile&gameid=1043&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
-- title: Eye of The Panda Hoppers
+- title: Eye of The Panda
+  gameid: 1344
   img: eye-of-the-panda.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1344/1.13.0/index.html?language=id&channel=mobile&gameid=1344&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Densho
+  gameid: 1348
   img: densho.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1348/1.17.1/index.html?language=id&channel=mobile&gameid=1348&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Ronin Stackways
+  gameid: 1267
   img: ronin-stackways.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1267/1.8.0/index.html?language=id&channel=mobile&gameid=1267&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Mayan Stackways
+  gameid: 
   img: mayan.jpg
   url: 
   provider: Hacksaw Gaming
 
 - title: Drop 'Em
+  gameid: 1314
   img: drop-em.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1314/1.14.0/index.html?language=id&channel=mobile&gameid=1314&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Stack 'Em
+  gameid: 
   img: stack-em.jpg
   url: 
   provider: Hacksaw Gaming
 
 - title: Stick 'Em
+  gameid: 
   img: stick-em.jpg
   url: 
   provider: Hacksaw Gaming
 
 - title: Fear The Dark
+  gameid: 1271
   img: fear-the-dark.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1271/1.13.0/index.html?language=id&channel=mobile&gameid=1271&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Stormforged
+  gameid: 1243
   img: stormforged.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1243/1.19.0/index.html?language=id&channel=mobile&gameid=1243&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Kee 'Em Cool
+  gameid: 1259
   img: keep-em-cool.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1259/1.21.0/index.html?language=id&channel=mobile&gameid=1259&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 
