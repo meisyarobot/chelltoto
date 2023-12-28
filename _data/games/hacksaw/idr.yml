@@ -270,59 +270,51 @@
   provider: Hacksaw Gaming
 
 - title: Magic Piggy
-  gameid: 
+  gameid: 1247
   img: magic-piggy.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1247/1.41.1/index.html?language=id&channel=mobile&gameid=1247&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Frank's Farm
-  gameid: 
+  gameid: 1225
   img: franks-farm.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1225/1.45.0/index.html?language=id&channel=mobile&gameid=1225&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Gronk's Gems
-  gameid: 
+  gameid: 1221
   img: gronks-gems.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1221/1.19.0/index.html?language=id&channel=mobile&gameid=1221&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Pug Life
-  gameid: 
+  gameid: 1217
   img: pug-life.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1217/1.34.0/index.html?language=id&channel=mobile&gameid=1217&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Time Spinners
-  gameid: 
+  gameid: 1181
   img: time-spinners.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1181/1.70.0/index.html?language=id&channel=mobile&gameid=1181&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Fruit Duel
-  gameid: 
+  gameid: 1197
   img: fruit-duel.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1197/1.30.1/index.html?language=id&channel=mobile&gameid=1197&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Buffalo Stuck 'N Sync
-  gameid: 
+  gameid: 1176
   img: buffalo.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1176/1.38.1/index.html?language=id&channel=mobile&gameid=1176&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Itero — Echospins
-  gameid: 
+  gameid: 1168
   img: itero.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1168/1.36.0/index.html?language=id&channel=mobile&gameid=1168&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Warrior Ways
