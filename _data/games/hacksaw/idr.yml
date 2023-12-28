@@ -180,13 +180,15 @@
   provider: Hacksaw Gaming
 
 - title: The Bowery Boys
+  gameid: 1135
   img: the-bowery-boys.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1135/1.40.0/index.html?language=id&channel=mobile&gameid=1135&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Joker Bombs
+  gameid: 1117
   img: joker-bombs.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1117/1.25.10/index.html?language=id&channel=mobile&gameid=1117&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Immortal Desire
@@ -226,9 +228,9 @@
   provider: Hacksaw Gaming
 
 - title: Mayan Stackways
-  gameid: 
+  gameid: 1275
   img: mayan.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1275/1.18.1/index.html?language=id&channel=mobile&gameid=1275&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Drop 'Em
@@ -238,15 +240,15 @@
   provider: Hacksaw Gaming
 
 - title: Stack 'Em
-  gameid: 
+  gameid: 1084
   img: stack-em.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1084/1.58.2/index.html?language=id&channel=mobile&gameid=1084&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Stick 'Em
-  gameid: 
+  gameid: 1042
   img: stick-em.jpg
-  url: 
+  url: https://static-live.hacksawgaming.com/1042/1.46.10/index.html?language=id&channel=mobile&gameid=1042&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Fear The Dark
