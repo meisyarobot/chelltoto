@@ -318,107 +318,92 @@
   provider: Hacksaw Gaming
 
 - title: Warrior Ways
-  gameid: 
+  gameid: 1131
   img: warrior-ways.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1131/1.32.0/index.html?language=id&channel=mobile&gameid=1131&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Double Rainbow
-  gameid: 
+  gameid: 1144
   img: double-rainbow.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1144/1.42.1/index.html?language=id&channel=mobile&gameid=1144&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: King Carrot
-  gameid: 
+  gameid: 1127
   img: king-carrot.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1127/1.29.2/index.html?language=id&channel=mobile&gameid=1127&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Tasty Treats
-  gameid: 
+  gameid: 1096
   img: tasty-treats.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1096/1.15.2/index.html?language=id&channel=mobile&gameid=1096&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Cash Quest
-  gameid: 
+  gameid: 1099
   img: cash-quest.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1099/1.22.0/index.html?language=id&channel=mobile&gameid=1099&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Rocket — Reels
-  gameid: 
+  gameid: 1102
   img: rocket-reels.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1102/1.33.2/index.html?language=id&channel=mobile&gameid=1102&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Xpander
-  gameid: 
+  gameid: 1093
   img: xpander.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1093/1.41.2/index.html?language=id&channel=mobile&gameid=1093&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Hop 'N Pop
-  gameid: 
+  gameid: 1091
   img: hop-n-pop.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1091/1.35.1/index.html?language=id&channel=mobile&gameid=1091&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
-- title: Fruitz
-  gameid: 
+- title: Frutz
+  gameid: 1081
   img: fruitz.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1081/1.30.0/index.html?language=id&channel=mobile&gameid=1081&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Aztec Twist
-  gameid: 
+  gameid: 1066
   img: aztec-twist.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1066/1.42.0/index.html?language=id&channel=mobile&gameid=1066&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Miami — Multiflier
-  gameid: 
+  gameid: 1049
   img: miami.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1049/1.50.0/index.html?language=id&channel=mobile&gameid=1049&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Cash Compass
-  gameid: 
+  gameid: 1055
   img: cash-compass.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1055/1.60.0/index.html?language=id&channel=mobile&gameid=1055&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Let It Snow
-  gameid: 
+  gameid: 1070
   img: let-it-snow.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1070/1.31.0/index.html?language=id&channel=mobile&gameid=1070&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: Mystery Motel
-  gameid: 
+  gameid: 1071
   img: mystery-motel.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1071/1.49.0/index.html?language=id&channel=mobile&gameid=1071&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
 - title: The Respinners
-  gameid: 
+  gameid: 1058
   img: the-respinners.jpg
-  url: 
-  disable: disable
+  url: https://static-live.hacksawgaming.com/1058/1.42.1/index.html?language=id&channel=mobile&gameid=1058&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
 
