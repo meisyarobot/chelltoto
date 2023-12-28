@@ -1,214 +1,166 @@
 - title: Deadwood xNudge
+  gameid: Deadwood
   img: deadwood.webp
-  url: nolimit-city/deadwood-xnudge
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=Deadwood&fullscreen=True
   vendor: Nolimit City
 
 - title: Thor Hammer Time
+  gameid: Thor
   img: thor-hammer-time.webp
-  url: nolimit-city/thor-hammer-time
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=Thor&fullscreen=True
   vendor: Nolimit City
   
 - title: Rock Bottom
+  gameid: RockBottom
   img: rock-bottom.webp
-  url: nolimit-city/rock-bottom
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=RockBottom&fullscreen=True
   vendor: Nolimit City
   
 - title: Walk of Shame
+  gameid: WalkOfShame
   img: walk-of-shame.webp
-  url: nolimit-city/walk-of-shame
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=WalkOfShame&fullscreen=True
   vendor: Nolimit City
   
 - title: Serial
+  gameid: Serial
   img: serial.webp
-  url: nolimit-city/serial
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=Serial&fullscreen=True
   vendor: Nolimit City
   
 - title: True Grit Redemption
+  gameid: TrueGrit
   img: true-grit-redemption.webp
-  url: nolimit-city/true-grit-redemption
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=TrueGrit&fullscreen=True
   vendor: Nolimit City
 
 - title: Tomb of Akhenaten
+  gameid: TombOfAkhenaten
   img: tomb-of-akhenaten.webp
-  url: nolimit-city/tomb-of-akhenaten
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=TombOfAkhenaten&fullscreen=True
   vendor: Nolimit City
   
 - title: Mental
   img: mental.webp
-  url: nolimit-city/mental
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=Mental&fullscreen=True
   vendor: Nolimit City
   
 - title: Folsom Prison
   img: folsom-prison.webp
-  url: nolimit-city/folsom-prison
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=FolsomPrison&fullscreen=True
   vendor: Nolimit City
   
 - title: Buffalo Hunter
   img: buffalo-hunter.webp
-  url: nolimit-city/buffalo-hunter
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=BuffaloHunter&fullscreen=True
   vendor: Nolimit City
   
 - title: Kitchen Drama Sushi Mania
   img: sushi-mania.webp
-  url: nolimit-city/kitchen-drama-sushi-mania
-  permalink: 
-  disable: disable
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=KitchenDramaSushiMania&fullscreen=True
   vendor: Nolimit City
   
 - title: Kitchen Drama BBQ Frenzy
   img: bbq-frenzy.webp
-  disable: disable
-  url: nolimit-city/kitchen-drama-bbq-frenzy
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=KitchenDramaBbqFrenzy&fullscreen=True
   vendor: Nolimit City
   
 - title: Poison Eve
   img: poison-eve.webp
-  disable: disable
-  url: nolimit-city/poison-eve
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=PoisonEve&fullscreen=True
   vendor: Nolimit City
   
 - title: Legion X
   img: legion-xxx.webp
-  disable: disable
-  url: nolimit-city/legionx
-  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=RockBottom&fullscreen=True
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=LegionX&fullscreen=True
   vendor: Nolimit City
   
-- title: Elpaso Gunfight xNudge
+- title: El Paso Gunfight xNudge
   img: elpaso.webp
-  disable: disable
-  url: nolimit-city/elpaso-gunfight
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=ElPaso&fullscreen=True
   vendor: Nolimit City
   
 - title: Barbarian Fury
   img: barbarian-fury.webp
-  disable: disable
-  url: nolimit-city/barbarian-fury
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=BarbarianFury&fullscreen=True
   vendor: Nolimit City
   
 - title: The Border
   img: the-border.webp
-  disable: disable
-  url: nolimit-city/the-border
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=TheBorder&fullscreen=True
   vendor: Nolimit City
   
 - title: Punk Toilet
   img: punk-toilet.webp
-  disable: disable
-  url: nolimit-city/punk-toilet
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=PunkToilet&fullscreen=True
   vendor: Nolimit City
   
 - title: Remember Gulag
   img: remember-gulag.webp
-  disable: disable
-  url: nolimit-city/remember-gulag
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=RememberGulag&fullscreen=True
   vendor: Nolimit City
   
 - title: Little Bighorn
   img: little-bighorn.webp
-  disable: disable
-  url: nolimit-city/little-bighorn
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=LittleBighorn&fullscreen=True
   vendor: Nolimit City
   
 - title: Misery Mining
   img: misery-mining.webp
-  disable: disable
-  url: nolimit-city/misery-mining
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=MiseryMining&fullscreen=True
   vendor: Nolimit City
   
 - title: San Quentin xWays
   img: san-quentin.webp
-  disable: disable
-  url: nolimit-city/san-quentin
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=SanQuentin&fullscreen=True
   vendor: Nolimit City
   
 - title: Dead Canary
   img: dead-canary.webp
-  disable: disable
-  url: nolimit-city/dead-canary
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=DeadCanary&fullscreen=True
   vendor: Nolimit City
   
 - title: Tombstone RIP
   img: tombstone-rip.webp
-  disable: disable
-  url: nolimit-city/tombstone-rip
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=TombstoneRip&fullscreen=True
   vendor: Nolimit City
   
 - title: Tombstone
   img: tomb-stone.webp
-  disable: disable
-  url: nolimit-city/tomb-stone
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=Tombstone&fullscreen=True
   vendor: Nolimit City
   
 - title: Evil Goblins
   img: evil-goblins.webp
-  disable: disable
-  url: nolimit-city/evil-goblins
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=EvilGoblins&fullscreen=True
   vendor: Nolimit City
   
 - title: Tesla Jolt
   img: tesla-jolt.webp
-  disable: disable
-  url: nolimit-city/tesla-jolt
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=TeslaJolt&fullscreen=True
   vendor: Nolimit City
   
 - title: Ice Ice Yeti
   img: ice-ice-yeti.webp
-  disable: disable
-  url: nolimit-city/ice-ice-yeti
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=IceIceYeti&fullscreen=True
   vendor: Nolimit City
   
 - title: Book of Shadows
   img: book-of-shadows.webp
-  disable: disable
-  url: nolimit-city/book-of-shadows
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=BookOfShadows&fullscreen=True
   vendor: Nolimit City
   
 - title: Pearl Harbor
   img: pearl-harbor.webp
-  disable: disable
-  url: nolimit-city/pearl-harbor
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=PearlHarbor&fullscreen=True
   vendor: Nolimit City
   
 - title: Punk Rocker
   img: punk-rocker.webp
-  disable: disable
-  url: nolimit-city/punk-rocker
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=PunkRocker&fullscreen=True
   vendor: Nolimit City
   
 - title: Tomb of Nefertiti
   img: tomb-of-nefertiti.webp
-  disable: disable
-  url: nolimit-city/tomb-of-nefertiti
-  permalink: 
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=TombOfNefertiti&fullscreen=True
   vendor: Nolimit City
-
