@@ -739,6 +739,13 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20infini88sr
   provider: Pragmatic Play
 
+- title: Pure Sweet
+  symbol: vs20puresweeth
+  img: pure-sweet.webp
+  type: slotmania
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20puresweeth
+  provider: Pragmatic Play
+
 - title: Candy Village
   symbol: vs20candvil
   img: candy-village.webp
@@ -1044,6 +1051,13 @@
   type: megaways
   provider: Pragmatic Play
 
+- title: The Dog Bank Megaways
+  symbol: vswaysdogbank
+  img: the-dog-bank-megaways.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysdogbank
+  type: megaways
+  provider: Pragmatic Play
+
 - title: Release The Kraken
   symbol: vs20kraken
   img: release-the-kraken.webp
@@ -1326,6 +1340,13 @@
   img: fruit-party2.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fparty2
   type: videoslot
+  provider: Pragmatic Play
+
+- title: Pure Fruit
+  symbol: vs20purefruith
+  img: pure-fruit.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20purefruith
+  type: slotmania
   provider: Pragmatic Play
 
 - title: John Hunter and The Book of Tut
