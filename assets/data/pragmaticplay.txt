@@ -203,6 +203,132 @@
       "vs20swbombdrop",
       "Slotmania",
       "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20swbombdrop'>Play</a>"
+    ],
+    [
+      "Wild West Gold",
+      "vs40wildwest",
+      "-",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40wildwest'>Play</a>"
+    ],
+    [
+      "Wild West Bounty",
+      "vs40wildwesth",
+      "-",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40wildwesth'>Play</a>"
+    ],
+    [
+      "Wild West Gold Megaways",
+      "vswayswildwest",
+      "Megaways",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswildwest'>Play</a>"
+    ],
+    [
+      "Wild West Slotmania",
+      "vs40smwildwest",
+      "Slotmania",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40smwildwest'>Play</a>"
+    ],
+    [
+      "Kill or Die",
+      "vs40killdieh",
+      "Slotmania",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40killdieh'>Play</a>"
+    ],
+    [
+      "Wild West Duels",
+      "vs20pistols",
+      "-",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20pistols'>Play</a>"
+    ],
+    [
+      "Bonanza Gold",
+      "vs20bonzgold",
+      "-",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20bonzgold'>Play</a>"
+    ],
+    [
+      "Slotmania Bonanza Gold",
+      "vs20goldmania",
+      "Slotmania",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20goldmania'>Play</a>"
+    ],
+    [
+      "Piramyd Bonanza",
+      "vs20pbonanza",
+      "-",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20pbonanza'>Play</a>"
+    ],
+    [
+      "Slotmania Piramyd",
+      "vs20smbonanza",
+      "Slotmania",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smbonanza'>Play</a>"
+    ],
+    [
+      "Sugar Rush",
+      "vs20sugarrush",
+      "-",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20suvs20sugarrushgarrush'>Play</a>"
+    ],
+    [
+      "Sugar Rush Xmas",
+      "vs20sugrux",
+      "-",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20sugrux'>Play</a>"
+    ],
+    [
+      "Slotmania Sugar",
+      "vs20slotsugar",
+      "Slotmania",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slotsugar'>Play</a>"
+    ],
+    [
+      "M88 Sugar Rush",
+      "vs20sugarm88",
+      "M88 Mansion",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20sugarm88'>Play</a>"
+    ],
+    [
+      "Infini88 Sugar Rush",
+      "vs20infini88sr",
+      "Infini88",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20infini88sr'>Play</a>"
+    ],
+    [
+      "Pure Sweet",
+      "vs20puresweeth",
+      "Slotmania",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20puresweeth'>Play</a>"
+    ],
+    [
+      "Aztec Gems",
+      "vs5aztecgems",
+      "-",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5aztecgems'>Play</a>"
+    ],
+    [
+      "Aztec Gems Deluxe",
+      "vs9aztecgemsdx",
+      "-",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs9aztecgemsdx'>Play</a>"
+    ],
+    [
+      "Slotmania Gems",
+      "vs5slotgems",
+      "Slotmania",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5slotgems'>Play</a>"
+    ],
+    [
+      "Infini88 Aztec Gems",
+      "vs5infiniaztec",
+      "Infini88",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5infiniaztec'>Play</a>"
+    ],
+    [
+      "Mpoplay Aztec Gems",
+      "vs5aztecmpoplay",
+      "Mpoplay",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5aztecmpoplay'>Play</a>"
     ]
     
   ]
