@@ -1609,6 +1609,12 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs576treasures
   provider: Pragmatic Play
 
+- title: Wild Wild Riches Megaways
+  symbol: vswayswwricheses
+  img: wild-wild-riches-megaways.webp
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswwricheses
+  provider: Pragmatic Play
+
 - title: Coffee Wild
   symbol: vs10coffee
   img: coffee-wild.webp
@@ -2447,6 +2453,27 @@
   symbol: vswaysrsm
   img: wild-celebrity-bus-megaways.webp
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysrsm
+  type: megaways
+  provider: Pragmatic Play
+
+- title: Lady D Megaways 
+  symbol: vswaysladydh
+  img: lady-d-megaways.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysladydh
+  type: slotmania
+  provider: Pragmatic Play
+
+- title: Madame Destiny Megaways 
+  symbol: vswaysmadame
+  img: madame-destiny-megaways.webp
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysmadame
+  type: megaways
+  provider: Pragmatic Play
+
+- title: Legend of Heroes Megaways
+  symbol: vswayslofhero
+  img: megaways-legend-of-heroes.webp
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayslofhero
   type: megaways
   provider: Pragmatic Play
 
