@@ -352,6 +352,7 @@
 
 
 # Old Games
+# Olynpus
 - title: Gates of Olympus
   symbol: vs20olympgate
   img: olympus-gates.webp
@@ -415,6 +416,14 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20vigorolymp
   provider: Pragmatic Play 
 
+- title: Oly
+  symbol: vs20olyh
+  img: oly.webp
+  type: slotmania
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olyh
+  provider: Pragmatic Play 
+
+# Princess
 - title: Starlight Princess
   symbol: vs20starlight
   img: starlight-princess.webp
@@ -576,6 +585,13 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitswm88
   provider: Pragmatic Play
 
+- title: Sweet Bomb Drop
+  symbol: vs20swbombdrop
+  img: sweet-bomb-drop.webp
+  type: m88
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20swbombdrop
+  provider: Pragmatic Play
+
 - title: Aztec Gems
   symbol: vs5aztecgems
   img: aztec-gems.webp
@@ -630,6 +646,13 @@
   img: megaways-wwg.webp
   type: megaways
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswildwest
+  provider: Pragmatic Play
+
+- title: Kill or Die
+  symbol: vs40killdieh
+  img: kill-or-die.webp
+  type: slotmania
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40killdieh
   provider: Pragmatic Play
 
 - title: Wild West Duels
