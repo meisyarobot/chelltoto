@@ -4,19 +4,62 @@
       "Gates of Olympus",
       "vs20olympgate",
       "-",
-      "<a href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympgate'>Play</a>"
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympgate'>Play</a>"
     ],
     [
       "Gates of Olympus 1000",
       "vs20olympx",
       "-",
-      "<a href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympx'>Play</a>"
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympx'>Play</a>"
     ],
     [
       "Slotmania Olympus",
       "vs20olympmania",
       "Slotmania",
-      "<a href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympmania'>Play</a>"
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympmania'>Play</a>"
+    ],
+    [
+      "5000X Mania",
+      "vs20xmania",
+      "-",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20xmania'>Play</a>"
+    ],
+    [
+      "Nexus Gates of Olympus",
+      "vs20nexusgates",
+      "Nexus",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20nexusgates'>Play</a>"
+    ],
+    [
+      "Infini88 Gates of Olympus",
+      "vs20olginf88",
+      "Infini88",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olginf88'>Play</a>"
+    ],
+    [
+      "Gates of Partycasino",
+      "vs20partygates",
+      "Partycasino",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20partygates'>Play</a>"
+    ],
+    [
+      "M88 Olympus",
+      "vs20m88gates",
+      "M88",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20m88gates'>Play</a>"
+    ],
+    [
+      "Gates of Vigor",
+      "vs20vigorolymp",
+      "Vigor",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20vigorolymp'>Play</a>"
+    ],
+    [
+      "Oly",
+      "vs20olyh",
+      "Slotmania",
+      "<a target='modal_iframe' onClick='showModal()' href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olyh'>Play</a>"
     ]
+    
   ]
 }
