@@ -2,15 +2,18 @@
   "data": [
     [
       "Gates of Olympus",
-      "vs20olympgate"
+      "vs20olympgate",
+      "<a href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympgate'>Play</a>"
     ],
     [
       "Gates of Olympus 1000",
-      "vs20olympx"
+      "vs20olympx",
+      "<a href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympx'>Play</a>"
     ],
     [
       "Slotmania Olympus",
-      "vs20olympmania"
+      "vs20olympmania",
+      "<a href='https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympmania'>Play</a>"
     ]
   ]
 }
