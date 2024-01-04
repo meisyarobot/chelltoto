@@ -2,14 +2,18 @@
   "data": [
 
     {
-      "name": "Gates of Olympus",
+      "title": "Gates of Olympus",
       "gameID": "vs20olympgate",
-      "line": " "
+      "line": "",
+      "currency": "IDR",
+      "language": "id"
     },
     {
-      "name": "Slotmania Olympus",
+      "title": "Slotmania Olympus",
       "gameID": "vs20olympmania",
-      "line": "Slotmania"
+      "line": "Slotmania",
+      "currency": "IDR",
+      "language": "id"
     }
 
   ]
