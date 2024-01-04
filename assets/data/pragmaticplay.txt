@@ -34,7 +34,7 @@
       "language": "ID"
     },
     {
-      "title": "Slotmaia Olympus",
+      "title": "Slotmania Olympus",
       "jurisdiction": "99",
       "gameID": "vs20olympmania",
       "line": "Slotmania",
@@ -78,6 +78,366 @@
       "jurisdiction": "99",
       "gameID": "vs20vigorolymp",
       "line": "Vigor",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Gates of Gatotkaca",
+      "jurisdiction": "99",
+      "gameID": "vs20gatotgates",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Slotmania Gatotkaca",
+      "jurisdiction": "99",
+      "gameID": "vs20smgatot",
+      "line": "Slotmania",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Infini88 Gates of Gatotkaca",
+      "jurisdiction": "99",
+      "gameID": "vs20infini88ggk",
+      "line": "Infini88",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Gatotkaca's Fury",
+      "jurisdiction": "99",
+      "gameID": "vs20gatotfury",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Slotmania Gatotkaca's Fury",
+      "jurisdiction": "99",
+      "gameID": "vs20gatotslot",
+      "line": "Slotmania",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Starlight Princess",
+      "jurisdiction": "99",
+      "gameID": "vs20starlight",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Starlight Princess 1000",
+      "jurisdiction": "99",
+      "gameID": "vs20starlightx",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Starlight Christmas",
+      "jurisdiction": "99",
+      "gameID": "vs20schristmas",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Slotmania Princess",
+      "jurisdiction": "99",
+      "gameID": "vs20smprincess",
+      "line": "Slotmania",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Infini88 Starlight Princess",
+      "jurisdiction": "99",
+      "gameID": "vs20slpinf88",
+      "line": "Infini88",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Nexus Starlight Princess",
+      "jurisdiction": "99",
+      "gameID": "vs20nexussp",
+      "line": "Nexus",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Sweet Bonanza",
+      "jurisdiction": "99",
+      "gameID": "vs20fruitsw",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Sweet Bonanza Xmas",
+      "jurisdiction": "99",
+      "gameID": "vs20sbxmas",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Sweet Bonanza Dice",
+      "jurisdiction": "99",
+      "gameID": "vs20bnnzdice",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Sweet Bomb Drop",
+      "jurisdiction": "99",
+      "gameID": "vs20swbombdrop",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Snabbare Bonanza",
+      "jurisdiction": "99",
+      "gameID": "vs20snabbare",
+      "line": "Snabbare",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Sweet Slotmania",
+      "jurisdiction": "99",
+      "gameID": "vs20fruitmania",
+      "line": "Slotmania",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Nexus Sweet Bonanza",
+      "jurisdiction": "99",
+      "gameID": "vs20fruitsnexus",
+      "line": "Nexus",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Infini88 Sweet Bonanza",
+      "jurisdiction": "99",
+      "gameID": "vs20swbinf88",
+      "line": "Infini88",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Vbet Sweet Bonanza",
+      "jurisdiction": "99",
+      "gameID": "vs20fruitswvbet",
+      "line": "Vbet",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Stoiximan Sweet Bonanza",
+      "jurisdiction": "99",
+      "gameID": "vs20fruitstoix",
+      "line": "Stoiximan",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Casumo Sweet Bonanza",
+      "jurisdiction": "99",
+      "gameID": "vs20casumob",
+      "line": "Casumo",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Betano Sweet Bonanza",
+      "jurisdiction": "99",
+      "gameID": "vs20fruitbetano",
+      "line": "Betano",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Sweet M88",
+      "jurisdiction": "99",
+      "gameID": "vs20fruitswm88",
+      "line": "M88 Mansion",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Wild West Gold",
+      "jurisdiction": "99",
+      "gameID": "vs40wildwest",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Wild West Megaways",
+      "jurisdiction": "99",
+      "gameID": "vswayswildwest",
+      "line": "Megaways",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Wild West Bounty",
+      "jurisdiction": "99",
+      "gameID": "vs40wildwesth",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Kill or Die",
+      "jurisdiction": "99",
+      "gameID": "vs40killdieh",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Wild West Slotmania",
+      "jurisdiction": "99",
+      "gameID": "vs40smwildwest",
+      "line": "Slotmania",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Wild West Duels",
+      "jurisdiction": "99",
+      "gameID": "vs20pistols",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Bonanza Gold",
+      "jurisdiction": "99",
+      "gameID": "vs20bonzgold",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Slotmania Bonanza",
+      "jurisdiction": "99",
+      "gameID": "vs20goldmania",
+      "line": "Slotmania",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Pyramid Bonanza",
+      "jurisdiction": "99",
+      "gameID": "vs20pbonanza",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Slotmania Pyramid",
+      "jurisdiction": "99",
+      "gameID": "vs20smbonanza",
+      "line": "Slotmania",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Sugar Rush",
+      "jurisdiction": "99",
+      "gameID": "vs20sugarrush",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Sugar Rush Xmas",
+      "jurisdiction": "99",
+      "gameID": "vs20sugrux",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Pure Swwet",
+      "jurisdiction": "99",
+      "gameID": "vs20puresweeth",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Slotmania Sugar",
+      "jurisdiction": "99",
+      "gameID": "vs20slotsugar",
+      "line": "Slotmania",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "M88 Sugar Rush",
+      "jurisdiction": "99",
+      "gameID": "vs20sugarm88",
+      "line": "M88 Mansion",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Infini88 Sugar Rush",
+      "jurisdiction": "99",
+      "gameID": "vs20infini88sr",
+      "line": "Infini88",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Aztec Gems",
+      "jurisdiction": "99",
+      "gameID": "vs5aztecgems",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Aztec Gems Deluxe",
+      "jurisdiction": "99",
+      "gameID": "vs9aztecgemsdx",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Slotmania Gems",
+      "jurisdiction": "99",
+      "gameID": "vs5slotgems",
+      "line": "Slotmania",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Infini88 Aztec Gems",
+      "jurisdiction": "99",
+      "gameID": "vs5infiniaztec",
+      "line": "Infini88",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Mpoplay Aztec Gems",
+      "jurisdiction": "99",
+      "gameID": "vs5aztecmpoplay",
+      "line": "Mpoplay",
       "currency": "IDR",
       "language": "ID"
     }
