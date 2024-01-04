@@ -1,19 +1,16 @@
 {
   "data": [
+
     {
       "name": "Gates of Olympus",
-      "gameID": "gg",
-      "line": "Nexus"
+      "gameID": "vs20olympgate",
+      "line": " "
     },
     {
       "name": "Slotmania Olympus",
-      "gameID": "cc",
+      "gameID": "vs20olympmania",
       "line": "Slotmania"
-    },
-    {
-      "name": "Betano Bonanza",
-      "gameID": "pp",
-      "line": "Infini88"
     }
+
   ]
 }
