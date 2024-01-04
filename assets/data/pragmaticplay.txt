@@ -4,7 +4,7 @@
     {
       "title": "Gates of Olympus",
       "symbol": "vs20olympgate",
-      "img": "assets/images/kits/gates-of-olympus.png",
+      "img": "gates-of-olympus.png",
       "line": "",
       "vendor": "Pragmatic Play",
       "jurisdiction": "99",
@@ -23,6 +23,7 @@
     {
       "title": "Gates of Olympus 1000",
       "symbol": "vs20olympx",
+      "img": "",
       "line": "",
       "vendor": "Pragmatic Play",
       "jurisdiction": "99",
@@ -41,6 +42,7 @@
     {
       "title": "5000x Mania",
       "symbol": "vs20xmania",
+      "img": "",
       "line": "",
       "vendor": "Pragmatic Play",
       "jurisdiction": "99",
@@ -59,6 +61,7 @@
     {
       "title": "Oly",
       "symbol": "vs20olyh",
+      "img": "",
       "line": "",
       "vendor": "Pragmatic Play",
       "jurisdiction": "99",
@@ -77,6 +80,7 @@
     {
       "title": "Slotmania Olympus",
       "symbol": "vs20olympmania",
+      "img": "slotmania-olympus.png",
       "line": "Slotmania",
       "vendor": "Pragmatic Play",
       "jurisdiction": "99",
@@ -186,6 +190,7 @@
       "title": "Gates of Gatotkaca",
       "jurisdiction": "99",
       "symbol": "vs20gatotgates",
+      "img": "gates-of-gatotkaca.png",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -294,6 +299,7 @@
       "title": "Starlight Princess 1000",
       "jurisdiction": "99",
       "symbol": "vs20starlightx",
+      "img": "starlight-princess.png",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -312,6 +318,7 @@
       "title": "Starlight Christmas",
       "jurisdiction": "99",
       "symbol": "vs20schristmas",
+      "img": "starlight-xmas.png",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
