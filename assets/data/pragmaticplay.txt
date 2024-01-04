@@ -233,6 +233,7 @@
       "title": "Slotmania Gatotkaca",
       "jurisdiction": "99",
       "symbol": "vs20smgatot",
+      "img": "slotmania-gatotkaca.png",
       "line": "Slotmania",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -1032,7 +1033,64 @@
       "title": "Candy Jar Clusters",
       "jurisdiction": "99",
       "symbol": "vs20cjcluster",
-      "img": "candy-jar-clusters.png",
+      "img": "candy-jar-cluster.png",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Twilight Princess",
+      "jurisdiction": "99",
+      "symbol": "vs20dhcluster",
+      "img": "twilight-princess.png",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Mahjong Wins",
+      "jurisdiction": "99",
+      "symbol": "vs1024mahjwins",
+      "img": "mahjong-wins.png",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Mahjong X",
+      "jurisdiction": "99",
+      "symbol": "vs20mahjxbnz",
+      "img": "mahjongx.png",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
