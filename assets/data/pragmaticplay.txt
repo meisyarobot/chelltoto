@@ -305,6 +305,7 @@
       "title": "Starlight Princess",
       "jurisdiction": "99",
       "symbol": "vs20starlight",
+      "img": "starlight-princess.png",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -323,7 +324,7 @@
       "title": "Starlight Princess 1000",
       "jurisdiction": "99",
       "symbol": "vs20starlightx",
-      "img": "starlight-princess.png",
+      "img": "starlight-princess1000.png",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -361,6 +362,7 @@
       "title": "Slotmania Princess",
       "jurisdiction": "99",
       "symbol": "vs20smprincess",
+      "img": "slotmania-princess.png",
       "line": "Slotmania",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -379,6 +381,7 @@
       "title": "Infini88 Starlight Princess",
       "jurisdiction": "99",
       "symbol": "vs20slpinf88",
+      "img": "infini88-starlight-princess.png",
       "line": "Infini88",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -397,6 +400,7 @@
       "title": "Nexus Starlight Princess",
       "jurisdiction": "99",
       "symbol": "vs20nexussp",
+      "img": "nexus-starlight-princess.png",
       "line": "Nexus",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -415,6 +419,7 @@
       "title": "Sweet Bonanza",
       "jurisdiction": "99",
       "symbol": "vs20fruitsw",
+      "img": "sweet-bonanza.png",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -1010,6 +1015,25 @@
       "jurisdiction": "99",
       "symbol": "vs5aztecmpoplay",
       "line": "Mpoplay",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Candy Jar Clusters",
+      "jurisdiction": "99",
+      "symbol": "vs20cjcluster",
+      "img": "candy-jar-clusters.png",
+      "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
         "IDR",
