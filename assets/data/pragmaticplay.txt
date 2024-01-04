@@ -23,7 +23,7 @@
     {
       "title": "Gates of Olympus 1000",
       "symbol": "vs20olympx",
-      "img": "",
+      "img": "gates-of-olympus-1000.png",
       "line": "",
       "vendor": "Pragmatic Play",
       "jurisdiction": "99",
@@ -42,7 +42,7 @@
     {
       "title": "5000x Mania",
       "symbol": "vs20xmania",
-      "img": "",
+      "img": "5000xmania.png",
       "line": "",
       "vendor": "Pragmatic Play",
       "jurisdiction": "99",
@@ -61,7 +61,7 @@
     {
       "title": "Oly",
       "symbol": "vs20olyh",
-      "img": "",
+      "img": "oly.png",
       "line": "",
       "vendor": "Pragmatic Play",
       "jurisdiction": "99",
@@ -100,6 +100,7 @@
       "title": "Nexus Gates of Olympus",
       "jurisdiction": "99",
       "symbol": "vs20nexusgates",
+      "img": "nexus-gates-of-olympus.png",
       "line": "Nexus",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -118,6 +119,7 @@
       "title": "Infini88 Gates of Olympus",
       "jurisdiction": "99",
       "symbol": "vs20olginf88",
+      "img": "infini88-gates-of-olympus.png",
       "line": "Infini88",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -136,6 +138,7 @@
       "title": "Gates of Partycasino",
       "jurisdiction": "99",
       "symbol": "vs20partygates",
+      "img": "gates-of-partycasino.png",
       "line": "Partycasino",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -154,6 +157,7 @@
       "title": "M88 Olympus",
       "jurisdiction": "99",
       "symbol": "vs20m88gates",
+      "img": "m88-olympus.png",
       "line": "M88 Mansion",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -172,7 +176,27 @@
       "title": "Gates of Vigor",
       "jurisdiction": "99",
       "symbol": "vs20vigorolymp",
+      "img": "gates-of-vigor.png",
       "line": "Vigor",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Gates of Heaven",
+      "jurisdiction": "99",
+      "symbol": "vs20olympgateh",
+      "img": "gates-of-heaven.png",
+      "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
         "IDR",
