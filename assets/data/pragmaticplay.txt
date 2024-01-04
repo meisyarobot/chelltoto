@@ -3,17 +3,19 @@
 
     {
       "title": "Gates of Olympus",
+      "jurisdiction": "99",
       "gameID": "vs20olympgate",
       "line": "",
       "currency": "IDR",
-      "language": "id"
+      "language": "ID"
     },
     {
       "title": "Slotmania Olympus",
+      "jurisdiction": "99",
       "gameID": "vs20olympmania",
       "line": "Slotmania",
       "currency": "IDR",
-      "language": "id"
+      "language": "ID"
     }
 
   ]
