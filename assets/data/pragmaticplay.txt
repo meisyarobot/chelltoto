@@ -10,10 +10,74 @@
       "language": "ID"
     },
     {
-      "title": "Slotmania Olympus",
+      "title": "Gates of Olympus 1000",
+      "jurisdiction": "99",
+      "gameID": "vs20olympx",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "5000x Mania",
+      "jurisdiction": "99",
+      "gameID": "vs20xmania",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Oly",
+      "jurisdiction": "99",
+      "gameID": "vs20olyh",
+      "line": "",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Slotmaia Olympus",
       "jurisdiction": "99",
       "gameID": "vs20olympmania",
       "line": "Slotmania",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Nexus Gates of Olympus",
+      "jurisdiction": "99",
+      "gameID": "vs20nexusgates",
+      "line": "Nexus",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Infini88 Gates of Olympus",
+      "jurisdiction": "99",
+      "gameID": "vs20olginf88",
+      "line": "Infini88",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Gates of Partycasino",
+      "jurisdiction": "99",
+      "gameID": "vs20partygates",
+      "line": "Partycasino",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "M88 Olympus",
+      "jurisdiction": "99",
+      "gameID": "vs20m88gates",
+      "line": "M88 Mansion",
+      "currency": "IDR",
+      "language": "ID"
+    },
+    {
+      "title": "Gates of Vigor",
+      "jurisdiction": "99",
+      "gameID": "vs20vigorolymp",
+      "line": "Vigor",
       "currency": "IDR",
       "language": "ID"
     }
