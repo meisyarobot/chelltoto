@@ -18,6 +18,978 @@
         "EN",
         "RU"
       ]
+    },
+    {
+      "title": "Gates of Olympus 1000",
+      "symbol": "vs20olympx",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "jurisdiction": "99",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "5000x Mania",
+      "symbol": "vs20xmania",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "jurisdiction": "99",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Oly",
+      "symbol": "vs20olyh",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "jurisdiction": "99",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Slotmania Olympus",
+      "symbol": "vs20olympmania",
+      "line": "Slotmania",
+      "vendor": "Pragmatic Play",
+      "jurisdiction": "99",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Nexus Gates of Olympus",
+      "jurisdiction": "99",
+      "symbol": "vs20nexusgates",
+      "line": "Nexus",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Infini88 Gates of Olympus",
+      "jurisdiction": "99",
+      "symbol": "vs20olginf88",
+      "line": "Infini88",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Gates of Partycasino",
+      "jurisdiction": "99",
+      "symbol": "vs20partygates",
+      "line": "Partycasino",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "M88 Olympus",
+      "jurisdiction": "99",
+      "symbol": "vs20m88gates",
+      "line": "M88 Mansion",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Gates of Vigor",
+      "jurisdiction": "99",
+      "symbol": "vs20vigorolymp",
+      "line": "Vigor",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Gates of Gatotkaca",
+      "jurisdiction": "99",
+      "symbol": "vs20gatotgates",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Slotmania Gatotkaca",
+      "jurisdiction": "99",
+      "symbol": "vs20smgatot",
+      "line": "Slotmania",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Infini88 Gates of Gatotkaca",
+      "jurisdiction": "99",
+      "symbol": "vs20infini88ggk",
+      "line": "Infini88",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Gatotkaca's Fury",
+      "jurisdiction": "99",
+      "symbol": "vs20gatotfury",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Slotmania Gatotkaca's Fury",
+      "jurisdiction": "99",
+      "symbol": "vs20gatotslot",
+      "line": "Slotmania",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Starlight Princess",
+      "jurisdiction": "99",
+      "symbol": "vs20starlight",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Starlight Princess 1000",
+      "jurisdiction": "99",
+      "symbol": "vs20starlightx",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Starlight Christmas",
+      "jurisdiction": "99",
+      "symbol": "vs20schristmas",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Slotmania Princess",
+      "jurisdiction": "99",
+      "symbol": "vs20smprincess",
+      "line": "Slotmania",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Infini88 Starlight Princess",
+      "jurisdiction": "99",
+      "symbol": "vs20slpinf88",
+      "line": "Infini88",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Nexus Starlight Princess",
+      "jurisdiction": "99",
+      "symbol": "vs20nexussp",
+      "line": "Nexus",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Sweet Bonanza",
+      "jurisdiction": "99",
+      "symbol": "vs20fruitsw",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Sweet Bonanza Xmas",
+      "jurisdiction": "99",
+      "symbol": "vs20sbxmas",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Sweet Bonanza Dice",
+      "jurisdiction": "99",
+      "symbol": "vs20bnnzdice",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Sweet Bomb Drop",
+      "jurisdiction": "99",
+      "symbol": "vs20swbombdrop",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Snabbare Bonanza",
+      "jurisdiction": "99",
+      "symbol": "vs20snabbare",
+      "line": "Snabbare",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Sweet Slotmania",
+      "jurisdiction": "99",
+      "symbol": "vs20fruitmania",
+      "line": "Slotmania",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Nexus Sweet Bonanza",
+      "jurisdiction": "99",
+      "symbol": "vs20fruitsnexus",
+      "line": "Nexus",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Infini88 Sweet Bonanza",
+      "jurisdiction": "99",
+      "symbol": "vs20swbinf88",
+      "line": "Infini88",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Vbet Sweet Bonanza",
+      "jurisdiction": "99",
+      "symbol": "vs20fruitswvbet",
+      "line": "Vbet",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Stoiximan Sweet Bonanza",
+      "jurisdiction": "99",
+      "symbol": "vs20fruitstoix",
+      "line": "Stoiximan",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Casumo Sweet Bonanza",
+      "jurisdiction": "99",
+      "symbol": "vs20casumob",
+      "line": "Casumo",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Betano Sweet Bonanza",
+      "jurisdiction": "99",
+      "symbol": "vs20fruitbetano",
+      "line": "Betano",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Sweet M88",
+      "jurisdiction": "99",
+      "symbol": "vs20fruitswm88",
+      "line": "M88 Mansion",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Wild West Gold",
+      "jurisdiction": "99",
+      "symbol": "vs40wildwest",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Wild West Megaways",
+      "jurisdiction": "99",
+      "symbol": "vswayswildwest",
+      "line": "Megaways",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Wild West Bounty",
+      "jurisdiction": "99",
+      "symbol": "vs40wildwesth",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Kill or Die",
+      "jurisdiction": "99",
+      "symbol": "vs40killdieh",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Wild West Slotmania",
+      "jurisdiction": "99",
+      "symbol": "vs40smwildwest",
+      "line": "Slotmania",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Wild West Duels",
+      "jurisdiction": "99",
+      "symbol": "vs20pistols",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Bonanza Gold",
+      "jurisdiction": "99",
+      "symbol": "vs20bonzgold",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Slotmania Bonanza",
+      "jurisdiction": "99",
+      "symbol": "vs20goldmania",
+      "line": "Slotmania",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Pyramid Bonanza",
+      "jurisdiction": "99",
+      "symbol": "vs20pbonanza",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Slotmania Pyramid",
+      "jurisdiction": "99",
+      "symbol": "vs20smbonanza",
+      "line": "Slotmania",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Sugar Rush",
+      "jurisdiction": "99",
+      "symbol": "vs20sugarrush",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Sugar Rush Xmas",
+      "jurisdiction": "99",
+      "symbol": "vs20sugrux",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Pure Swwet",
+      "jurisdiction": "99",
+      "symbol": "vs20puresweeth",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Slotmania Sugar",
+      "jurisdiction": "99",
+      "symbol": "vs20slotsugar",
+      "line": "Slotmania",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "M88 Sugar Rush",
+      "jurisdiction": "99",
+      "symbol": "vs20sugarm88",
+      "line": "M88 Mansion",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Infini88 Sugar Rush",
+      "jurisdiction": "99",
+      "symbol": "vs20infini88sr",
+      "line": "Infini88",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Aztec Gems",
+      "jurisdiction": "99",
+      "symbol": "vs5aztecgems",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Aztec Gems Deluxe",
+      "jurisdiction": "99",
+      "symbol": "vs9aztecgemsdx",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Slotmania Gems",
+      "jurisdiction": "99",
+      "symbol": "vs5slotgems",
+      "line": "Slotmania",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Infini88 Aztec Gems",
+      "jurisdiction": "99",
+      "symbol": "vs5infiniaztec",
+      "line": "Infini88",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Mpoplay Aztec Gems",
+      "jurisdiction": "99",
+      "symbol": "vs5aztecmpoplay",
+      "line": "Mpoplay",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
     }
 
   ]
