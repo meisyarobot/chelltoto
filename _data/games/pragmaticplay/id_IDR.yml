@@ -1,5 +1,34 @@
 # New games
 
+- title: Sasuntsi Davit
+  symbol: sasuntsi-davit.webp
+  img: hockey-league-wild-match.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20davofsun
+  type: new
+  provider: Pragmatic Play
+
+  
+- title: Hockey League Wild Match
+  symbol: vs9hockey
+  img: hockey-league-wild-match.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs9hockey
+  type: new
+  provider: Pragmatic Play
+
+- title: FTN Rush
+  symbol: vs20ftnsugar
+  img: ftn-rush.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20ftnsugar
+  type: new
+  provider: Pragmatic Play
+
+- title: Gates of FTN
+  symbol: vs20ftngates
+  img: gates-of-ftn.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20ftngates
+  type: new
+  provider: Pragmatic Play
+
 - title: Gates of Olympus Dice
   symbol: vs20olympdice
   img: gates-of-olympus-dice.webp
