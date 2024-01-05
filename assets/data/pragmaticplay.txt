@@ -442,7 +442,7 @@
       "title": "Sweet Bonanza",
       "jurisdiction": "99",
       "symbol": "vs20fruitsw",
-      "img": "sweet-bonanza.png",
+      "img": "sweet-bonanza.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -461,6 +461,7 @@
       "title": "Sweet Bonanza Xmas",
       "jurisdiction": "99",
       "symbol": "vs20sbxmas",
+      "img": "sweet-bonanza-xmas.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -479,6 +480,7 @@
       "title": "Sweet Bonanza Dice",
       "jurisdiction": "99",
       "symbol": "vs20bnnzdice",
+      "img": "sweet-bonanza-dice.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -497,6 +499,7 @@
       "title": "Sweet Bomb Drop",
       "jurisdiction": "99",
       "symbol": "vs20swbombdrop",
+      "img": "sweet-bomb-drop.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -515,6 +518,7 @@
       "title": "Snabbare Bonanza",
       "jurisdiction": "99",
       "symbol": "vs20snabbare",
+      "img": "snabbare-bonanza.webp",
       "line": "Snabbare",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -533,6 +537,7 @@
       "title": "Sweet Slotmania",
       "jurisdiction": "99",
       "symbol": "vs20fruitmania",
+      "img": "slotmania-sweet.webp",
       "line": "Slotmania",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -551,6 +556,7 @@
       "title": "Nexus Sweet Bonanza",
       "jurisdiction": "99",
       "symbol": "vs20fruitsnexus",
+      "img": "nexus-sweet-bonanza.webp",
       "line": "Nexus",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -569,6 +575,7 @@
       "title": "Infini88 Sweet Bonanza",
       "jurisdiction": "99",
       "symbol": "vs20swbinf88",
+      "img": "infini88-sweet-bonanza.webp",
       "line": "Infini88",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -587,6 +594,7 @@
       "title": "Vbet Sweet Bonanza",
       "jurisdiction": "99",
       "symbol": "vs20fruitswvbet",
+      "img": "vbet-sweet-bonanza.webp",
       "line": "Vbet",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -605,6 +613,7 @@
       "title": "Stoiximan Sweet Bonanza",
       "jurisdiction": "99",
       "symbol": "vs20fruitstoix",
+      "img": "stoiximan-bonanza.webp",
       "line": "Stoiximan",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -623,6 +632,7 @@
       "title": "Casumo Sweet Bonanza",
       "jurisdiction": "99",
       "symbol": "vs20casumob",
+      "img": "casumo-bonanza.webp",
       "line": "Casumo",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -641,6 +651,7 @@
       "title": "Betano Sweet Bonanza",
       "jurisdiction": "99",
       "symbol": "vs20fruitbetano",
+      "img": "betano-bonanza.webp",
       "line": "Betano",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -659,6 +670,7 @@
       "title": "Sweet M88",
       "jurisdiction": "99",
       "symbol": "vs20fruitswm88",
+      "img": "sweetm88.webp",
       "line": "M88 Mansion",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -677,6 +689,7 @@
       "title": "Wild West Gold",
       "jurisdiction": "99",
       "symbol": "vs40wildwest",
+      "img": "wild-west-gold.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -695,6 +708,7 @@
       "title": "Wild West Megaways",
       "jurisdiction": "99",
       "symbol": "vswayswildwest",
+      "img": "megaways-wwg.webp",
       "line": "Megaways",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -713,6 +727,7 @@
       "title": "Wild West Bounty",
       "jurisdiction": "99",
       "symbol": "vs40wildwesth",
+      "img": "wild-west-bounty.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -731,6 +746,7 @@
       "title": "Kill or Die",
       "jurisdiction": "99",
       "symbol": "vs40killdieh",
+      "img": "kill-or-die.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -749,6 +765,7 @@
       "title": "Wild West Slotmania",
       "jurisdiction": "99",
       "symbol": "vs40smwildwest",
+      "img": "slotmania-wwg.webp",
       "line": "Slotmania",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -767,6 +784,7 @@
       "title": "Wild West Duels",
       "jurisdiction": "99",
       "symbol": "vs20pistols",
+      "img": "wild-west-duels.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -785,6 +803,7 @@
       "title": "Bonanza Gold",
       "jurisdiction": "99",
       "symbol": "vs20bonzgold",
+      "img": "bonanza-gold.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -803,6 +822,7 @@
       "title": "Slotmania Bonanza",
       "jurisdiction": "99",
       "symbol": "vs20goldmania",
+      "img": "slotmania-bonanzagold.webp",
       "line": "Slotmania",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -821,6 +841,7 @@
       "title": "Pyramid Bonanza",
       "jurisdiction": "99",
       "symbol": "vs20pbonanza",
+      "img": "pyramid-bonanza.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -839,6 +860,7 @@
       "title": "Slotmania Pyramid",
       "jurisdiction": "99",
       "symbol": "vs20smbonanza",
+      "img": "slotmania-pyramid.webp",
       "line": "Slotmania",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -857,6 +879,7 @@
       "title": "Sugar Rush",
       "jurisdiction": "99",
       "symbol": "vs20sugarrush",
+      "img": "sugar-rush.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -875,6 +898,7 @@
       "title": "Sugar Rush Xmas",
       "jurisdiction": "99",
       "symbol": "vs20sugrux",
+      "img": "sugar-rush-xmas.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -893,6 +917,7 @@
       "title": "Pure Swwet",
       "jurisdiction": "99",
       "symbol": "vs20puresweeth",
+      "img": "pure-sweet.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -911,6 +936,7 @@
       "title": "Slotmania Sugar",
       "jurisdiction": "99",
       "symbol": "vs20slotsugar",
+      "img": "slotmania-sugar.webp",
       "line": "Slotmania",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -929,6 +955,7 @@
       "title": "M88 Sugar Rush",
       "jurisdiction": "99",
       "symbol": "vs20sugarm88",
+      "img": "m88-sugar-rush.webp",
       "line": "M88 Mansion",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -947,6 +974,7 @@
       "title": "Infini88 Sugar Rush",
       "jurisdiction": "99",
       "symbol": "vs20infini88sr",
+      "img": "infini88-sugar-rush.webp",
       "line": "Infini88",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -965,6 +993,7 @@
       "title": "Aztec Gems",
       "jurisdiction": "99",
       "symbol": "vs5aztecgems",
+      "img": "aztec-gems.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -983,6 +1012,7 @@
       "title": "Aztec Gems Deluxe",
       "jurisdiction": "99",
       "symbol": "vs9aztecgemsdx",
+      "img": "aztec-gems-deluxe.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -1001,6 +1031,7 @@
       "title": "Slotmania Gems",
       "jurisdiction": "99",
       "symbol": "vs5slotgems",
+      "img": "slotmania-gems.webp",
       "line": "Slotmania",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -1019,6 +1050,7 @@
       "title": "Infini88 Aztec Gems",
       "jurisdiction": "99",
       "symbol": "vs5infiniaztec",
+      "img": "infini88-aztec-gems.webp",
       "line": "Infini88",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -1037,6 +1069,7 @@
       "title": "Mpoplay Aztec Gems",
       "jurisdiction": "99",
       "symbol": "vs5aztecmpoplay",
+      "img": "mpoplay-aztec-gems.webp",
       "line": "Mpoplay",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -1055,7 +1088,7 @@
       "title": "Candy Jar Clusters",
       "jurisdiction": "99",
       "symbol": "vs20cjcluster",
-      "img": "candy-jar-cluster.png",
+      "img": "candy-jar-cluster.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -1074,7 +1107,7 @@
       "title": "Twilight Princess",
       "jurisdiction": "99",
       "symbol": "vs20dhcluster",
-      "img": "twilight-princess.png",
+      "img": "twilight-princess.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -1093,7 +1126,26 @@
       "title": "Mahjong Wins",
       "jurisdiction": "99",
       "symbol": "vs1024mahjwins",
-      "img": "mahjong-wins.png",
+      "img": "mahjong-wins.webp",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Mahjong Wins Bonus",
+      "jurisdiction": "99",
+      "symbol": "vs1024mjwinbns",
+      "img": "mahjong-wins-bonus.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -1112,7 +1164,45 @@
       "title": "Mahjong X",
       "jurisdiction": "99",
       "symbol": "vs20mahjxbnz",
-      "img": "mahjongx.png",
+      "img": "mahjongx.webp",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Mahjong Bonanza",
+      "jurisdiction": "99",
+      "symbol": "vs20mahjongbnz",
+      "img": "mahjong-bonanza.webp",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
+      "title": "Mahjong Panda",
+      "jurisdiction": "99",
+      "symbol": "vs1024mahjpanda",
+      "img": "mahjong-panda.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
