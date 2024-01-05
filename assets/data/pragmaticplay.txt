@@ -4,7 +4,7 @@
     {
       "title": "Gates of Olympus",
       "symbol": "vs20olympgate",
-      "img": "gates-of-olympus.png",
+      "img": "olympus-gates.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "jurisdiction": "99",
@@ -23,7 +23,7 @@
     {
       "title": "Gates of Olympus 1000",
       "symbol": "vs20olympx",
-      "img": "gates-of-olympus-1000.png",
+      "img": "gates-of-olympus-1000.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "jurisdiction": "99",
@@ -42,7 +42,7 @@
     {
       "title": "Gates of Olympus Dice",
       "symbol": "vs20olympdice",
-      "img": "gates-of-olympus-dice.png",
+      "img": "gates-of-olympus-dice.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "jurisdiction": "99",
@@ -61,7 +61,7 @@
     {
       "title": "5000x Mania",
       "symbol": "vs20xmania",
-      "img": "5000xmania.png",
+      "img": "5000xmania.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "jurisdiction": "99",
@@ -80,7 +80,7 @@
     {
       "title": "Oly",
       "symbol": "vs20olyh",
-      "img": "oly.png",
+      "img": "oly.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "jurisdiction": "99",
@@ -99,7 +99,7 @@
     {
       "title": "Slotmania Olympus",
       "symbol": "vs20olympmania",
-      "img": "slotmania-olympus.png",
+      "img": "slotmania-olympus.webp",
       "line": "Slotmania",
       "vendor": "Pragmatic Play",
       "jurisdiction": "99",
@@ -119,7 +119,7 @@
       "title": "Nexus Gates of Olympus",
       "jurisdiction": "99",
       "symbol": "vs20nexusgates",
-      "img": "nexus-gates-of-olympus.png",
+      "img": "nexus-olympus.webp",
       "line": "Nexus",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -138,7 +138,7 @@
       "title": "Infini88 Gates of Olympus",
       "jurisdiction": "99",
       "symbol": "vs20olginf88",
-      "img": "infini88-gates-of-olympus.png",
+      "img": "infini88-olympus.webp",
       "line": "Infini88",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -157,7 +157,7 @@
       "title": "Gates of Partycasino",
       "jurisdiction": "99",
       "symbol": "vs20partygates",
-      "img": "gates-of-partycasino.png",
+      "img": "gates-of-partycasino.webp",
       "line": "Partycasino",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -176,7 +176,7 @@
       "title": "M88 Olympus",
       "jurisdiction": "99",
       "symbol": "vs20m88gates",
-      "img": "m88-olympus.png",
+      "img": "m88olympus.webp",
       "line": "M88 Mansion",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -195,7 +195,7 @@
       "title": "Gates of Vigor",
       "jurisdiction": "99",
       "symbol": "vs20vigorolymp",
-      "img": "gates-of-vigor.png",
+      "img": "gates-of-vigor.webp",
       "line": "Vigor",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -214,7 +214,7 @@
       "title": "Gates of Heaven",
       "jurisdiction": "99",
       "symbol": "vs20olympgateh",
-      "img": "gates-of-heaven.png",
+      "img": "gates-of-heaven.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
