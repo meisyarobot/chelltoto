@@ -138,7 +138,7 @@
       "title": "Infini88 Gates of Olympus",
       "jurisdiction": "99",
       "symbol": "vs20olginf88",
-      "img": "infini88-olympus.webp",
+      "img": "infini88-olympuss.webp",
       "line": "Infini88",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -233,7 +233,7 @@
       "title": "Gates of Gatotkaca",
       "jurisdiction": "99",
       "symbol": "vs20gatotgates",
-      "img": "gates-of-gatotkaca.png",
+      "img": "gatotkaca.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -252,7 +252,7 @@
       "title": "Slotmania Gatotkaca",
       "jurisdiction": "99",
       "symbol": "vs20smgatot",
-      "img": "slotmania-gatotkaca.png",
+      "img": "slotmania-gatotkaca.webp",
       "line": "Slotmania",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -271,6 +271,7 @@
       "title": "Infini88 Gates of Gatotkaca",
       "jurisdiction": "99",
       "symbol": "vs20infini88ggk",
+      "img": "infini88-gatotkaca.webp",
       "line": "Infini88",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -289,6 +290,7 @@
       "title": "Gatotkaca's Fury",
       "jurisdiction": "99",
       "symbol": "vs20gatotfury",
+      "img": "gatotkaca-fury.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -307,6 +309,7 @@
       "title": "Slotmania Gatotkaca's Fury",
       "jurisdiction": "99",
       "symbol": "vs20gatotslot",
+      "img": "slotmania-gatotkacas-fury.webp",
       "line": "Slotmania",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -325,7 +328,7 @@
       "title": "Starlight Princess",
       "jurisdiction": "99",
       "symbol": "vs20starlight",
-      "img": "starlight-princess.png",
+      "img": "starlight-princess.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -344,7 +347,7 @@
       "title": "Starlight Princess 1000",
       "jurisdiction": "99",
       "symbol": "vs20starlightx",
-      "img": "starlight-princess1000.png",
+      "img": "starlight-princess-1000.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -363,7 +366,7 @@
       "title": "Starlight Christmas",
       "jurisdiction": "99",
       "symbol": "vs20schristmas",
-      "img": "starlight-xmas.png",
+      "img": "starlight-xmas.webp",
       "line": "",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -382,7 +385,7 @@
       "title": "Slotmania Princess",
       "jurisdiction": "99",
       "symbol": "vs20smprincess",
-      "img": "slotmania-princess.png",
+      "img": "slotmania-princess.webp",
       "line": "Slotmania",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -401,7 +404,7 @@
       "title": "Infini88 Starlight Princess",
       "jurisdiction": "99",
       "symbol": "vs20slpinf88",
-      "img": "infini88-starlight-princess.png",
+      "img": "infini88-princess.webp",
       "line": "Infini88",
       "vendor": "Pragmatic Play",
       "currency": [
@@ -420,7 +423,7 @@
       "title": "Nexus Starlight Princess",
       "jurisdiction": "99",
       "symbol": "vs20nexussp",
-      "img": "nexus-starlight-princess.png",
+      "img": "nexus-starlight-princess.webp",
       "line": "Nexus",
       "vendor": "Pragmatic Play",
       "currency": [
