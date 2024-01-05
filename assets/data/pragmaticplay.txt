@@ -40,6 +40,25 @@
       ]
     },
     {
+      "title": "Gates of Olympus Dice",
+      "symbol": "vs20olympdice",
+      "img": "gates-of-olympus-dice.png",
+      "line": "",
+      "vendor": "Pragmatic Play",
+      "jurisdiction": "99",
+      "currency": [
+        "IDR",
+        "USD",
+        "EUR",
+        "RUB"
+      ],
+      "language": [
+        "ID",
+        "EN",
+        "RU"
+      ]
+    },
+    {
       "title": "5000x Mania",
       "symbol": "vs20xmania",
       "img": "5000xmania.png",
