@@ -1,5 +1,12 @@
 # New games
 
+- title: Gates of Olympus Dice
+  symbol: vs20olympdice
+  img: gates-of-olympus-dice.webp
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?minilobby=true&lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympdice
+  type: new
+  provider: Pragmatic Play
+
 - title: Year of The Dragon King
   symbol: vs20yotdk
   img: year-of-the-dragon-king.webp
