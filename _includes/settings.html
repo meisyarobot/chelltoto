@@ -19,25 +19,17 @@
 <!-- /Game Filter --> 
 
 {% if page.active == "pragmaticplay" %}
-<hr>  
-<!-- Line --> 
-<div class="uk-width-1-2@s uk-width-2-5@m">
-    <ul class="uk-nav uk-nav-default">
-     <li class="uk-nav-header">{{ site.data.locales[page.locale].page.line }}</li>
-     <li><a uk-filter-control="[data-pilih='megaways']" href="#megaways"><span uk-icon="icon: chevron-double-right"></span>Megaways</a></li>
-     <li><a uk-filter-control="[data-pilih='reelkingdom']" href="#reelkingdom"><span uk-icon="icon: chevron-double-right"></span>Reel Kingdom</a></li>
-     <li><a uk-filter-control="[data-pilih='wsg']" href="#wsg"><span uk-icon="icon: chevron-double-right"></span>Wild Streak Gaming</a></li>
-    </ul>
-</div>
-<!-- /Line -->
 
 <hr>
   
-<!-- Engine --> 
+<!-- Line --> 
 <div class="uk-width-1-2@s uk-width-2-5@m">
-<h6 class="uk-nav-header uk-margin-remove-bottom">{{ site.data.locales[page.locale].page.engine }}</h6>    
+<h6 class="uk-nav-header uk-margin-remove-bottom">{{ site.data.locales[page.locale].page.line }}</h6>    
  <div class="uk-column-1-2 uk-margin-remove-top"> 
     <ul class="uk-nav uk-nav-default">     
+     <li><a uk-filter-control="[data-pilih='megaways']" href="#megaways"><span uk-icon="icon: chevron-double-right"></span>Megaways</a></li>
+     <li><a uk-filter-control="[data-pilih='reelkingdom']" href="#reelkingdom"><span uk-icon="icon: chevron-double-right"></span>Reel Kingdom</a></li>
+     <li><a uk-filter-control="[data-pilih='wsg']" href="#wsg"><span uk-icon="icon: chevron-double-right"></span>Wild Streak Gaming</a></li>
      <li><a uk-filter-control="[data-pilih='slotmania']" href="#slotmania"><span uk-icon="icon: chevron-double-right"></span>Slotmania</a></li>
      <li><a uk-filter-control="[data-pilih='nexus']" href="#nexus"><span uk-icon="icon: chevron-double-right"></span>Nexus</a></li>
      <li><a uk-filter-control="[data-pilih='infini']" href="#infini"><span uk-icon="icon: chevron-double-right"></span>Infini88</a></li>
@@ -52,7 +44,7 @@
     </ul>
  </div>
 </div>
-<!-- /Engine -->  
+<!-- /Line -->  
 {% endif %}
  
 {% if page.uid %}  
