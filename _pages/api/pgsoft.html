@@ -1,0 +1,16 @@
+---
+layout: null
+permalink: /api/pgsoft
+---
+{
+  "data": [
+   {% for data in site.data.games.pgsoft.id %}
+    {
+      "title": "{{ data.title }}",
+      "gameID": "{{ data.gameID }}",
+      "img": "{{ data.img }}"
+    }
+  {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ]  
+}
