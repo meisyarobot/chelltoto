@@ -4,10 +4,10 @@ permalink: /api/pgsoft
 ---
 {
   "data": [
-   {% for data in site.data.games.pgsoft.id %}
+   {% for data in site.data.games.pgsoft.id.id_ID %}
     {
       "title": "{{ data.title }}",
-      "gameID": "{{ data.gameID }}",
+      "gameID": "{{ data.gameid }}",
       "img": "{{ data.img }}"
     }
   {% unless forloop.last %},{% endunless %}
