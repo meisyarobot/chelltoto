@@ -29,7 +29,7 @@ sidenav:
         url: /
       - title: English
         url: /en
-  - title: Providers
+  - title: Games
     items:
       - title: Pragmatic Play
         url: /pragmaticplay
@@ -44,20 +44,6 @@ sidenav:
     all:
       - title: Semua
         url: /categories
-  - title: Koleksi
-    items:
-      - title: Mahyong
-        url: /collections/mahjong
-      - title: Mitologi Mesir
-        url: /collections/egypt
-      - title: Tabel Game
-        url: /collections/tablegames
-      - title: Budaya Indonesia
-        url: /collections/indonesian-cultures
-    all:
-      - title: Semua
-        url: /collections
-
 
 
 # Page Settings
@@ -181,7 +167,6 @@ feature:
         url: pgsoft
       - img: assets/img/pgsoft/supermarket-spree.webp
         url: pgsoft
-
 
 
 # Providers
