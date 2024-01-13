@@ -2,9 +2,8 @@
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit-icons.min.js"></script>     
-<script src="https://unpkg.com/infinite-scroll@4/dist/infinite-scroll.pkgd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.27.2/js/core/modal.min.js"></script>
-<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
 <script>
 function showModal()
 {
@@ -150,31 +149,5 @@ $('select').change(function(){
 function openLink(radio){
  window.open(radio.value,'_self');
 }
-</script>
-<script>
-<script>
-new DataTable('#mytable', {
-    pagingType: 'numbers'
-});
-</script>
-<script>
-$('.uk-container').infiniteScroll({
-  // options
-  path: '.pagination__next',
-  append: '.bs',
-  history: false,
-});  
-</script>
-<script>
-$(document).ready(function(){
-  $(".bc").slice(0, 8).show();
-  $("#loadMore").on("click", function(e){
-    e.preventDefault();
-    $(".bc:hidden").slice(0, 4).slideDown();
-    if($(".bc:hidden").length == 0) {
-      $("#loadMore").text("No Content").addClass("noContent");
-    }
-  });  
-})  
 </script>
 <!-- /Scripts -->
