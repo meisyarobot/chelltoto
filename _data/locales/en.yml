@@ -24,7 +24,7 @@ sidenav:
         url: /
       - title: English
         url: /en         
-  - title: Providers
+  - title: Games
     items:
       - title: Pragmatic Play
         url: /en/pragmaticplay
@@ -39,19 +39,6 @@ sidenav:
     all:
       - title: All
         url: /en/categories
-  - title: Collections
-    items:
-      - title: Mahjong
-        url: /en/collections/mahjong
-      - title: Egypt Mythology
-        url: /en/collections/egypt
-      - title: Table Games
-        url: /en/collections/tablegames
-      - title: Indonesian Cultures
-        url: /en/collections/indonesian-cultures
-    all:
-      - title: All
-        url: /en/collections
 
 
 
