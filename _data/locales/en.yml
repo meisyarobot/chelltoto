@@ -36,6 +36,8 @@ sidenav:
         url: /en/netent
       - title: Microgaming
         url: /en/microgaming
+      - title: Hacksaw Gaming
+        url: /en/hacksaw
     all:
       - title: All
         url: /en/categories
