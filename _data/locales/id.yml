@@ -76,10 +76,10 @@ page:
   grid: Grid
   settings: Pengaturan
   filter: Sortir
-  lang-cur: Mata Uang & Bahasa
+  lang-cur: Mata Uang
   display: Tampilan
-  english: English (USD)
-  indonesian: Indonesia (IDR)
+  english: USD
+  indonesian: IDR
   engine: Engine
   load_more: Tampilan lebih banyak
 

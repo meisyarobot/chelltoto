@@ -72,10 +72,10 @@ page:
   grid: Grid
   settings: Settings
   filter: Filter
-  lang-cur: Currency & Language
+  lang-cur: Currency
   display: Appearance
-  english: English (USD)
-  indonesian: Indonesian (IDR)
+  english: USD
+  indonesian: IDR
   engine: Engine
   load_more: Load more
 
