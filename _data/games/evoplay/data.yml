@@ -65,7 +65,7 @@
   provider: Evoplay
 
 - title: Temple of Thunder
-  img: https://evoplay.games/wp-content/uploads/2022/03/Templeofthunder_270x270.jpg
+  img: evoplay/Templeofthunder_270x270.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/templeofthunder
   type: videoslot
   provider: Evoplay
@@ -108,13 +108,13 @@
   
 - title: Europe Transit
   url: https://demo.evoplay.games/demo/fullstate/html5/evoplay/europetransit
-  img: https://evoplay.games/wp-content/uploads/2023/06/Europe_transit_270x270.jpg
+  img: evoplay/Europe_transit_270x270.jpg
   type: videoslot
   provider: Evoplay
 
 - title: Cursed Of The Pharaoh
   url: https://demo.evoplay.games/demo/fullstate/html5/evoplay/curseofthepharaoh
-  img: https://evoplay.games/wp-content/uploads/2022/06/curseofthepharaoh_270x270.jpg
+  img: evoplay/curseofthepharaoh_270x270.jpg
   type: videoslot
   provider: Evoplay
 
