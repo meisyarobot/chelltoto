@@ -1,65 +1,65 @@
 - title: Wonder Farm
-  img: https://evoplay.games/wp-content/uploads/2023/03/wonderfarm_270x270.jpg
+  img: evoplay/wonderfarm_270x270.jpg
   url: https://demo.evoplay.games/demo/fullstate/html5/evoplay/wonderfarm
   type: videoslot
   provider: Evoplay
   
 - title: Redrose Sanctuary
-  img: https://evoplay.games/wp-content/uploads/2022/10/RedroseSanctuary_270x270.jpg
+  img: evoplay/RedroseSanctuary_270x270.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/redrosesanctuary
   type: videoslot
   provider: Evoplay
   
 - title: Redrose Sanctuary Bonus Buy
-  img: https://evoplay.games/wp-content/uploads/2023/02/RedroseSanctuaryBonusBuy_270x270.jpg
+  img: evoplay/RedroseSanctuaryBonusBuy_270x270.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/redrosesanctuarybb
   type: videoslot
   provider: Evoplay
   
 - title: Book of the Priestess
-  img: https://evoplay.games/wp-content/uploads/2023/01/Book_of_the_Priestess_270x270-1.jpg
+  img: evoplay/Book_of_the_Priestess_270x270-1.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/bookofthepriestess
   type: videoslot
   provider: Evoplay
   
 - title: Catch the Wind
-  img: https://evoplay.games/wp-content/uploads/2023/08/Catch_the_wind_270x270.jpg
+  img: evoplay/Catch_the_wind_270x270.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/catchthewind
   type: videoslot
   provider: Evoplay
   
 - title: Sold It
-  img: https://evoplay.games/wp-content/uploads/2022/12/SoldIt_270x270.jpg
+  img: evoplay/SoldIt_270x270.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/soldit
   type: videoslot
   provider: Evoplay
   
 - title: Mega Greatest Catch Bonus Buy
-  img: https://evoplay.games/wp-content/uploads/2023/01/Megagreatestcatchbonus_580x580-1.jpg
+  img: evoplay/Megagreatestcatchbonus_580x580-1.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/megagreatestcatchbb
   type: videoslot
   provider: Evoplay
   
 - title: Star Guardians
-  img: https://evoplay.games/wp-content/uploads/2021/09/580x580.jpg
+  img: evoplay/580x580.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/starguardians
   type: videoslot
   provider: Evoplay
 
 - title: Collapsed Castle Bonus Buy
-  img: https://evoplay.games/wp-content/uploads/2022/12/CollapsedCastleBonusBuy_270x270-1.jpg
+  img: evoplay/CollapsedCastleBonusBuy_270x270-1.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/collapsedcastlebb
   type: videoslot
   provider: Evoplay
   
 - title: Collapsed Castle 
-  img: https://evoplay.games/wp-content/uploads/2022/10/CollapsedCastle_270x270.jpg
+  img: evoplay/CollapsedCastle_270x270.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/collapsedcastle
   type: videoslot
   provider: Evoplay
   
 - title: Mega Greatest Catch
-  img: https://evoplay.games/wp-content/uploads/2022/08/Megagreatestcatch_270x270.jpg
+  img: evoplay/Megagreatestcatch_270x270.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/megagreatestcatch
   type: videoslot
   provider: Evoplay
@@ -71,37 +71,37 @@
   provider: Evoplay
   
 - title: Gold of Sirens
-  img: https://evoplay.games/wp-content/uploads/2021/06/Gold_of_Sirens_270x270-1.jpg
+  img: evoplay/Gold_of_Sirens_270x270-1.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/goldofsirens
   type: videoslot
   provider: Evoplay
   
 - title: Runes of Destiny
-  img: https://evoplay.games/wp-content/uploads/2021/03/promo_360_360.png
+  img: evoplay/promo_360_360.png
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/runesofdestiny
   type: videoslot
   provider: Evoplay
   
 - title: Wild Bullets
-  img: https://evoplay.games/wp-content/uploads/2021/03/WildBullets_270x270.jpg
+  img: evoplay/WildBullets_270x270.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/wildbullets
   type: videoslot
   provider: Evoplay
   
 - title: Western Reels
-  img: https://evoplay.games/wp-content/uploads/2021/03/WeaternReels_270x270.jpg
+  img: evoplay/WeaternReels_270x270.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/westernreels
   type: videoslot
   provider: Evoplay
   
 - title: Football
-  img: https://evoplay.games/wp-content/uploads/2021/03/Football_270x270.jpg
+  img: evoplay/Football_270x270.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/football
   type: videoslot
   provider: Evoplay
   
 - title: Lucky Girls
-  img: https://evoplay.games/wp-content/uploads/2021/03/LuckyGirls_270x270.jpg
+  img: evoplay/LuckyGirls_270x270.jpg
   url: http://demo.evoplay.games/demo/fullstate/html5/evoplay/luckygirls
   type: videoslot
   provider: Evoplay
@@ -120,72 +120,72 @@
 
 - title: Sea Of Spins
   url: https://demo.evoplay.games/demo/fullstate/html5/evoplay/seaofspins
-  img: https://evoplay.games/wp-content/uploads/2021/03/SeaOfSpins_270x270.jpg
+  img: evoplay/SeaOfSpins_270x270.jpg
   type: videoslot
   provider: Evoplay
 
 - title: Jolly Treasures
   url: https://demo.evoplay.games/demo/fullstate/html5/evoplay/jollytreasures
-  img: https://evoplay.games/wp-content/uploads/2021/03/JollyTreasures_270x270.jpg
+  img: evoplay/JollyTreasures_270x270.jpg
   type: videoslot
   provider: Evoplay
 
 - title: Gangster Night
   url: https://demo.evoplay.games/demo/fullstate/html5/evoplay/gangsternight
-  img: https://evoplay.games/wp-content/uploads/2021/06/GangsterNight_270_270.jpg
+  img: evoplay/GangsterNight_270_270.jpg
   type: videoslot
   provider: Evoplay
 
 - title: Battle Tanks
   url: https://demo.evoplay.games/demo/fullstate/html5/evoplay/battletanks
-  img: https://evoplay.games/wp-content/uploads/2021/03/BattleTanks_270x270.jpg
+  img: evoplay/BattleTanks_270x270.jpg
   type: videoslot
   provider: Evoplay
 
 - title: Prohibition
   url: https://demo.evoplay.games/demo/fullstate/html5/evoplay/prohibition
-  img: https://evoplay.games/wp-content/uploads/2021/03/Prohibition_270x270.jpg
+  img: evoplay/Prohibition_270x270.jpg
   type: videoslot
   provider: Evoplay
 
 - title: USSR Seventies
   url: https://demo.evoplay.games/demo/fullstate/html5/evoplay/seventies
-  img: https://evoplay.games/wp-content/uploads/2021/03/BackTo70th_270x270.jpg
+  img: evoplay/BackTo70th_270x270.jpg
   type: videoslot
   provider: Evoplay
 
 - title: Blackjack Lucky Sevens
-  img: https://evoplay.games/wp-content/uploads/2021/03/Blackjack-360x360-1.png
+  img: evoplay/Blackjack-360x360-1.png
   url: http://demo.evoplay.games/demo/table/html5/evoplay/blackjack
   type: table
   provider: Evoplay
 
 - title: Baccarat 777
-  img: https://evoplay.games/wp-content/uploads/2021/03/Baccarat_270x270.jpg
+  img: evoplay/Baccarat_270x270.jpg
   url: http://demo.evoplay.games/demo/table/html5/evoplay/baccarat
   type: table
   provider: Evoplay
 
 - title: European Roulette
-  img: https://evoplay.games/wp-content/uploads/2021/03/EuropianRoulette_270x270.jpg
+  img: evoplay/EuropianRoulette_270x270.jpg
   url: http://demo.evoplay.games/demo/table/html5/evoplay/europeanroulette
   type: table
   provider: Evoplay
 
 - title: Texas Hold’em Poker 3D
-  img: https://evoplay.games/wp-content/uploads/2021/03/TexasHoldEm_270x270.jpg
+  img: evoplay/TexasHoldEm_270x270.jpg
   url: http://demo.evoplay.games/demo/table/html5/evoplay/texasholdempoker3d
   type: table
   provider: Evoplay
 
 - title: Texas Holdem Bonus
-  img: https://evoplay.games/wp-content/uploads/2021/03/TexasHoldEmBonus_270x270.jpg
+  img: evoplay/TexasHoldEmBonus_270x270.jpg
   url: http://demo.evoplay.games/demo/table/html5/evoplay/texasholdembonus
   type: table
   provider: Evoplay
 
 - title: Oasis Poker Classic
-  img: https://evoplay.games/wp-content/uploads/2021/03/OasisPokerClassic_270x270.jpg
+  img: evoplay/OasisPokerClassic_270x270.jpg
   url: http://demo.evoplay.games/demo/table/html5/evoplay/oasispokerclassic
   type: table
   provider: Evoplay
