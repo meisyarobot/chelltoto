@@ -153,6 +153,7 @@ function openLink(radio){
 <script>
   new DataTable('#example', {
       ajax: 'https://l154gamer.github.io/api/hacksaw',
+      processing: true,
       columns: [
           {   data: 'img',
               render: function (data) { return '<img src="https://l154gamer.github.io/assets/img/hacksaw/' + data + '" width="180px" class="uk-border-rounded"/>'; }
