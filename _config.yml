@@ -17,7 +17,7 @@ collections:
   en:
     output: true
     permalink: /:collection/:slug
-  ru:
+  lobby:
     output: true
     permalink: /:collection/:slug
 
@@ -39,7 +39,5 @@ defaults:
     values: 
       locale: en
   - scope: 
-      path: _ru/**
-    values: 
-      locale: ru
+      path: _lobby/**
 
