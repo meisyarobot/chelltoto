@@ -223,7 +223,7 @@ bosedotwc:
     server: MPO
   - title: Grandbet88
     img: 
-    server: Nexus Engine
+    server: Nexus
   - title: Totolotre
     img:
     server: IDN Play
@@ -238,11 +238,17 @@ bosedotwc:
     server: IDN Play
   - title: Gembira77
     img: 
-    server: Nexus Engine
+    server: Nexus
   - title: Patriot88
     img: 
-    server: Nexus Engine    
-
+    server: Nexus    
+  - title: Congtogel
+    img: 
+    server: IDN Play    
+  - title: Doajitu
+    img: 
+    server: IDN Play    
+  
 
 byprovider:
   - title: Pragmatic Play
