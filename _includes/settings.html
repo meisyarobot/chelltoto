@@ -76,6 +76,7 @@
        {{ site.data.locales[page.locale].page.indonesia }}
       {% endif %}
      </label> <br/>
+      
      <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio2" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
       {% if page.active == "pragmaticplay" %}
       USD
@@ -84,6 +85,7 @@
        {{ site.data.locales[page.locale].page.english }}
       {% endif %}
      </label><br/>
+      
      <label><input class="uk-radio" type="radio" name="radio3" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
       {% if page.active == "pragmaticplay" %}
       Ruble
@@ -115,6 +117,7 @@
        {{ site.data.locales[page.locale].page.indonesia }}
       {% endif %}
      </label><br/>
+      
      <label><input class="uk-radio" type="radio" name="radio2" checked>     
       {% if page.active == "pragmaticplay" %}
       USD
@@ -123,6 +126,7 @@
        {{ site.data.locales[page.locale].page.english }}
       {% endif %}
      </label><br/>
+      
       <label><input class="uk-radio" type="radio" name="radio3" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
       {% if page.active == "pragmaticplay" %}
       Ruble
@@ -165,7 +169,7 @@
       {% endif %}
      </label><br/>      
 
-     <label><input class="uk-radio" type="radio" name="radio3">     
+     <label><input class="uk-radio" type="radio" name="radio3" checked>     
       {% if page.active == "pragmaticplay" %}
       Ruble
       {% endif %}
