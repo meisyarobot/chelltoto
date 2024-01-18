@@ -52,6 +52,7 @@ sidenav:
         url: /ru/collections
 
 
+
 page:
   home: Лобби
   disclaimer: Дисклеймер
@@ -94,7 +95,8 @@ page:
   nodata: нет данных игры
   scam_websites: Мошеннические сайты
   recommended_games: Рекомендованные игры
-  comingsoon: This page is under construction. Sorry for inconvenience caused.
+  page_under_construction: Данная страница находится в разработке. Извините за неудобства.
+  site_under_construction: Сайт на реконструкции 
   refresh: Обновить
   reload: Перезагрузить
   display: Display
@@ -106,7 +108,6 @@ page:
   close: Закрыть
   next: Следующий
   previous: Предыдущий
-
 
 
 
