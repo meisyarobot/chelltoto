@@ -52,7 +52,10 @@
 <!-- Mata Uang & Bahasa --> 
 <div class="uk-width-1-2@s uk-width-2-5@m">
 <ul class="uk-nav uk-nav-default">
- <li class="uk-nav-header">{{ site.data.locales[page.locale].page.currency }}</li> 
+ <li class="uk-nav-header">
+  {% if page.active == "pragmaticplay" %}{{ site.data.locales[page.locale].page.currency }}{% endif %}
+  {% if page.active == "pgsoft" %}{{ site.data.locales[page.locale].page.language }}{% endif %}
+ </li> 
  
  {% if page.locale == 'id' %}
  
@@ -66,9 +69,21 @@
     <li>
      <div class="uk-form-controls">
      <label><input class="uk-radio" type="radio" name="radio1" checked>     
-      IDR</label><br>
+      {% if page.active == "pragmaticplay" %}
+      IDR
+      {% endif %}
+      {% if page.active == "pgsoft" %}
+       {{ site.data.locales[page.locale].page.indonesia }}
+      {% endif %}
+     </label> <br>
      <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio2" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
-      USD</label>   
+      {% if page.active == "pragmaticplay" %}
+      USD
+      {% endif %}
+      {% if page.active == "pgsoft" %}
+       {{ site.data.locales[page.locale].page.english }}
+      {% endif %}
+     </label>   
      </div>
     </li>
    {% endunless %}
@@ -85,19 +100,31 @@
     <li>
      <div class="uk-form-controls">
      <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
-      IDR</label><br>
+      {% if page.active == "pragmaticplay" %}
+      IDR
+      {% endif %}
+      {% if page.active == "pgsoft" %}
+       {{ site.data.locales[page.locale].page.indonesia }}
+      {% endif %}
+     </label><br>
      <label><input class="uk-radio" type="radio" name="radio2" checked>     
-      USD</label>       
+      {% if page.active == "pragmaticplay" %}
+      USD
+      {% endif %}
+      {% if page.active == "pgsoft" %}
+       {{ site.data.locales[page.locale].page.english }}
+      {% endif %}
+     </label>       
      </div>
     </li>
    {% endunless %}
   {% endfor %}
 
 </ul>
- {% endif%}
+ {% endif %}
 </div>       
 <!-- /Mata Uang & Bahasa --> 
-{% endif%}
+{% endif %}
   
 {% if page.active == "indocultures" %}
 <hr>  
