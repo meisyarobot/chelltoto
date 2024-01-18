@@ -143,7 +143,6 @@
  {% elsif page.locale == 'ru' %}
   {% assign postsOrPages = site.pages 
     | concat: site.pages 
-    | concat: site.id
     | where: "uid", page.uid 
     | sort: "locale" %}
   {% for item in postsOrPages %}
