@@ -48,42 +48,62 @@ sidenav:
         url: /categories
 
 
-# Page Settings
+# Page
 page:
-  menu: Menu
   home: Beranda
   disclaimer: Penafian
-  search: Cari
   view_all: Lihat Semua
   show_all: Tampilkan Semua
-  all: Semua Game
-  games: Permainan
-  line: Line
-  table_games: Game Tabel
-  egypt: Mitologi Mesir
-  mahjong: Mahyong
-  indonesian_cultures: Kebudayaan Indonesia
-  megaways: Megaways
-  classic: Game Klasik
-  table: Tabel
-  new: Game Terbaru
-  nodata: Tidak ada game data
-  providers: Providers
+  download: Unduh
+  donate: Donasi
+  game: Permainan
+  english: Inggris
+  indonesia: Indonesia
+  russian: Rusia
   language: Bahasa
-  games_by_theme: Game Berdasarkan Tema
-  games_by_provider: Game Berdasarkan Provider
-  comingsoon: Halaman ini sedang dalam pembuatan atau pengembangan. Maaf atas ketidaknyamanannya.
-  error_404: Halaman yang sedang anda cari untuk sementara tidak tersedia. Silakan coba lagi nanti.
-  list: List
-  grid: Grid
+  currency: Mata Uang
+  lang-cur: Bahasa & Mata Uang
+  play: Main
+  faq: FAQ
+  search: Cari
+  all: Semua
+  table: Tabel 
+  new: Baru
+  new_games: Game Terbaru
+  classic_slots: Slot Klasik
   settings: Pengaturan
   filter: Sortir
-  lang-cur: Mata Uang
+  all_games: Semua Game
+  classic: Classic
+  classic_games: Game Klasik
+  table_games: Table Games
+  providers: Providers
+  list: List
+  grid: Grid
+  menu: Menu
+  slots: Slots
+  show_more: Tampilkan lebih banyak
+  load_more: Muat lebih banyak
+  collections : Koleksi
+  line: Line
+  page_not_found: Halama tidak ditemukan
+  error_404: Halaman yang anda cari untuk sementara tidak tersedia. Silakan coba lagi nanti.
+  nodata: Tidak ada game data
+  scam_websites: Scam Websites
+  recommended_games: Game Rekomendasi
+  page_under_construction: Halaman ini sedang dalam perbaikan. Mohon maaf atas ketidaknyamanannya.
+  site_under_construction: Situs sedang dalam pengembangan
+  refresh: Segarkan
+  reload: Muat ulang
   display: Tampilan
-  english: USD
-  indonesian: IDR
-  engine: Engine
-  load_more: Tampilan lebih banyak
+  tc: Syarat & Ketentuan
+  tos: Ketentuan Layanan
+  tou: Ketentuan Pengguna
+  contact_us: Hubungi Kami
+  maintenance: Sedang dalam pemeliharaan
+  close: Tutup
+  next: Selanjutnya
+  previous: Sebelumnya
 
 
 
