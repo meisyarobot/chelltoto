@@ -53,29 +53,61 @@ sidenav:
 
 
 page:
-  menu: Menu
   home: Лобби
-  disclaimer: Penafian
-  search: Поиск
+  disclaimer: Дисклеймер
   view_all: Показать все
-  all: Все игры
-  games: Игры
-  line: Line
-  table_games: Настольные игры
-  egypt: Mesir
-  mahjong: Mahyong
-  classic: Klasik
-  table: Настольные игры
-  new: Terbaru
-  nodata: Tidak ada game data
-  providers: Провайдеры
+  show_all: Show All
+  download: Скачать
+  donate: Пожертвовать
+  game: Игры
+  english: English
+  indonesia: Indonesian
+  russian: Russian
   language: Язык
-  games_by_theme: Game Berdasarkan Tema
-  games_by_provider: Game Berdasarkan Provider
-  comingsoon: Halaman ini sedang dalam pembuatan atau pengembangan. Maaf atas ketidaknyamanannya.
-  error_404: Страница, которую вы ищете, временно недоступна. Пожалуйста, попробуйте еще раз позднее.
+  currency: валюты
+  lang-cur: валюты и Язык
+  play: Играть
+  faq: ЧЗВ
+  search: Поиск
+  all: Все
+  table: Настольные 
+  new: Новая
+  new_games: Новые игры
+  classic_slots: Классические слоты 
+  settings: Настройки
+  filter: Фильтра
+  all_games: Все игры
+  classic: Classic
+  classic_games: Классические слоты
+  table_games: Настольные игры
+  providers: Провайдеры
   list: Список
   grid: Сетка
+  menu: Меню
+  slots: Слоты
+  show_more: Показать ещё
+  load_more: Load more
+  collections : Коллекции
+  line: Line
+  page_not_found: Страница не найдена
+  error_404: Страница, которую вы ищете, временно недоступна. Пожалуйста, попробуйте еще раз позднее.
+  nodata: нет данных игры
+  scam_websites: Мошеннические сайты
+  recommended_games: Рекомендованные игры
+  comingsoon: This page is under construction. Sorry for inconvenience caused.
+  refresh: Обновить
+  reload: Перезагрузить
+  display: Display
+  tc: Правила и условия Terms & Conditions
+  tos: Условия сервиса
+  tou: Условия использования 
+  contact_us: Contact Us
+  maintenance: Maintenance
+  close: Закрыть
+  next: Следующий
+  previous: Предыдущий
+
+
 
 
 # Collections
