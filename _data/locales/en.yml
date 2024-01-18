@@ -46,40 +46,60 @@ sidenav:
 
 # Page Settings
 page:
-  menu: Menu
   home: Lobby
   disclaimer: Disclaimer
-  search: Search
   view_all: View All
   show_all: Show All
-  all: All Games
-  games: Games
-  line: Line
-  table_games: Table Games
-  egypt: Egyptian Mythology
-  mahjong: Mahjong
-  indonesian_cultures: Indonesian Cultures
-  megaways: Megaways
-  classic: Classic Games
-  table: Table
-  new: New Games
-  nodata: No game data
-  providers: Providers
+  download: Download
+  donate: Donate
+  game: Game
+  english: English
+  indonesia: Indonesian
+  russian: Russian
   language: Language
-  games_by_theme: Games By Theme
-  games_by_provider: Games By Provider
-  comingsoon: This page is under construction. Sorry for inconvenience caused.
-  error_404: The page you are looking for is temporarily unavailable. Please try again later.
-  list: List
-  grid: Grid
+  currency: Currency
+  lang-cur: Language & Currency
+  play: Play
+  faq: FAQ
+  search: Search
+  all: All
+  table: Table 
+  new: New
+  new_games: New Games
+  classic_slots: Classic Slots
   settings: Settings
   filter: Filter
-  lang-cur: Currency
-  display: Appearance
-  english: USD
-  indonesian: IDR
-  engine: Engine
+  all_games: All Games
+  classic: Classic
+  classic_games: Classic Games
+  table_games: Table Games
+  providers: Providers
+  list: List
+  grid: Grid
+  menu: Menu
+  slots: Slots
+  show_more: Show more
   load_more: Load more
+  collections : Collections
+  line: Line
+  page_not_found: Page Not Found
+  error_404: The page you are looking for is temporarily unavailable. Please try again later.
+  nodata: No game data
+  scam_websites: Scam Websites
+  recommended_games: Recommended Games
+  page_under_construction: This page is under construction. Sorry for inconvenience caused.
+  site_under_construction: Website is under construction
+  refresh: Refresh
+  reload: Reload
+  display: Display
+  tc: Terms & Conditions
+  tos: Terms of Service
+  tou: Terms of Use 
+  contact_us: Contact Us
+  maintenance: Maintenance
+  close: Close
+  next: Next
+  previous: Previous
 
 
 
