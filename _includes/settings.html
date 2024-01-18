@@ -66,9 +66,9 @@
     <li>
      <div class="uk-form-controls">
      <label><input class="uk-radio" type="radio" name="radio1" checked>     
-      {{ site.data.locales[page.locale].page.indonesia }}</label><br>
+      IDR</label><br>
      <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio2" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
-      {{ site.data.locales[item.locale].page.english }}</label>   
+      USD</label>   
      </div>
     </li>
    {% endunless %}
@@ -85,9 +85,9 @@
     <li>
      <div class="uk-form-controls">
      <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
-      {{ site.data.locales[item.locale].page.indonesia }}</label><br>
+      IDR</label><br>
      <label><input class="uk-radio" type="radio" name="radio2" checked>     
-      {{ site.data.locales[page.locale].page.english }}</label>       
+      USD</label>       
      </div>
     </li>
    {% endunless %}
