@@ -170,9 +170,9 @@ feature:
   - title: Pragmatic Play
     url: pragmaticplay
     images:
-      - img: assets/feature/peaky-blinders.webp
+      - img: assets/images/peaky-blinders.webp
         url: pragmaticplay
-      - img: assets/feature/cowboys-gold.webp
+      - img: assets/images/cowboys-gold.webp
         url: pragmaticplay
       - img: assets/img/pragmatic-play/wild-west-duels.webp
         url: pragmaticplay
@@ -181,9 +181,9 @@ feature:
   - title: PG Soft
     url: pgsoft
     images:
-      - img: assets/feature/wild-bounty-showdown.webp
+      - img: assets/images/treasure-of-aztec.webp
         url: pgsoft
-      - img: assets/feature/medusa.webp
+      - img: assets/images/mafia-mayhem.webp
         url: pgsoft
       - img: assets/img/pgsoft/mahjong-ways2.webp
         url: pgsoft
