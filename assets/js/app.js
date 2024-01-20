@@ -1,3 +1,21 @@
+// Game Developers
+new DataTable('#games', {
+    ajax: {
+        url: 'https://l154gamer.github.io/api/software',
+        dataType: 'JSON'
+    },
+    ordering: false,
+    info: true,
+    paging: true,
+    dom: 'Pfrtip',
+    "pageLength": 50,
+    columns: [
+        {
+            data: 'title'
+        }
+    ]
+});
+
 // Hacksaw Gaming
 new DataTable('#hacksaw', {
     ajax: {
