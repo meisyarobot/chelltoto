@@ -1,0 +1,26 @@
+---
+layout: default
+title: Games Software
+permalink: /software/
+locale: id
+uid: software
+---
+<div class="uk-overflow-auto"><table id="software" class="uk-table uk-table-small table"></table></div>
+<script>
+new DataTable('#software', {
+    ajax: {
+        url: 'https://l154gamer.github.io/api/software',
+        dataType: 'JSON'
+    },
+    ordering: false,
+    info: true,
+    paging: true,
+    dom: 'Pfrtip',
+    "pageLength": 50,
+    columns: [
+        {
+            data: 'title'
+        }
+    ]
+});
+</script>
