@@ -11,8 +11,15 @@ new DataTable('#games', {
     "pageLength": 50,
     columns: [
         {
-            data: 'title'
-        }
+            data: 'title',
+            render: function (data, type, row) {
+                if (type === 'display') {
+                    let link = 'https://l154gamer.github.io/lobby/';
+                    return '<a class="uk-link-text" href="' + link + '' + row.url + '" >' + row.title + '</a>';        
+                }
+                return data;
+            }
+        }        
     ]
 });
 
