@@ -53,12 +53,10 @@
 <div class="uk-width-1-2@s uk-width-2-5@m">
 <ul class="uk-nav uk-nav-default">
  <li class="uk-nav-header">
-  {% if page.active == "pragmaticplay" %}{{ site.data.locales[page.locale].page.currency }}{% endif %}
-  {% if page.active == "pgsoft" %}{{ site.data.locales[page.locale].page.language }}{% endif %}
+  {{ site.data.locales[page.locale].page.language }}
  </li> 
- 
+
  {% if page.locale == 'id' %}
- 
   {% assign postsOrPages = site.pages 
     | concat: site.pages 
     | concat: site.en
