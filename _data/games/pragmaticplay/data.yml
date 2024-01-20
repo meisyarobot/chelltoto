@@ -1,10 +1,4 @@
 # New games
- 
-- title: Pompeii Megareels Megaways
-  symbol: vswaysmegareel
-  img: pompeii-megareels-megaways.webp
-  type: new
-  provider: Pragmatic Play
 
 - title: Saray Ruyasi
   symbol: vs20dede
@@ -12,15 +6,59 @@
   type: new
   provider: Pragmatic Play
 
-- title: Strawberry Cocktail
-  symbol: vs10strawberry
-  img: strawberry-cocktail.webp
-  type: new
-  provider: Pragmatic Play
-
 - title: The Alter Ego
   symbol: vswaysalterego
   img: the-alter-ego.webp
+  type: new
+  provider: Pragmatic Play
+
+- title: Mighty Munching Melons
+  symbol: 
+  img: mighty-munching-melons.webp
+  type: new
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Big Bass Golden Lake
+  symbol: 
+  img: upcoming.webp
+  type: new
+  disable: disable
+  provider: Pragmatic Play
+ 
+- title: Big Bass Floats My Boat
+  symbol: vs10bbfloats
+  img: big-bass-floats-my-boat.webp
+  type: reelkingdom
+  provider: Pragmatic Play
+ 
+- title: Trees of Treasure
+  symbol: vs20treesot
+  img: trees-of-treassure.webp
+  type: videoslot
+  provider: Pragmatic Play
+ 
+- title: Red Hot Luck — Powerpays
+  symbol: vs20powerpays
+  img: red-hot-luck.webp
+  type: new
+  provider: Pragmatic Play
+ 
+- title: Wheel O'Gold
+  symbol: vs20multiup
+  img: wheel-o-gold.webp
+  type: new
+  provider: Pragmatic Play
+ 
+- title: Pompeii Megareels Megaways
+  symbol: vswaysmegareel
+  img: pompeii-megareels-megaways.webp
+  type: new
+  provider: Pragmatic Play
+ 
+- title: Strawberry Cocktail
+  symbol: vs10strawberry
+  img: strawberry-cocktail.webp
   type: new
   provider: Pragmatic Play
 
