@@ -7,7 +7,7 @@ permalink: /api/pragmaticplay
    {% for data in site.data.games.pragmaticplay.data %}
     {
       "title": "{{ data.title }}",
-      "symbol": "{{ data.symbol }}",
+      "gameID": "{{ data.symbol }}",
       "img": "{{ data.img }}"
     }
   {% unless forloop.last %},{% endunless %}
