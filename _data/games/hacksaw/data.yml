@@ -1,3 +1,8 @@
+- title: 2 Wild 2 Die
+  gameid: 1400
+  img: 2wild-2die.jpg
+  type: videoslot
+  provider: Hacksaw Gaming
 
 - title: Beam Boys
   gameid: 1426
@@ -414,3 +419,35 @@
   gid: 1.42.1
   img: the-respinners.jpg
   provider: Hacksaw Gaming
+
+- title: Hi-Lo
+  gameid: 2460272
+  img: plinko.jpg
+  type: videoslot
+  disable: disable
+  provider: Hacksaw Gaming
+
+- title: Plinko
+  gameid: 1294
+  img: plinko.jpg
+  type: videoslot
+  provider: Hacksaw Gaming
+
+- title: The Haunted Circus
+  gameid: 1039
+  img: the-hauted-circus.jpg
+  type: videoslot
+  provider: Hacksaw Gaming
+
+- title: The Bomb
+  gameid: 1054
+  img: the-bomb.jpg
+  type: videoslot
+  provider: Hacksaw Gaming
+
+- title: Feel The Beat
+  gameid: 1372
+  img: feel-the-beat.jpg
+  type: videoslot
+  provider: Hacksaw Gaming
+
