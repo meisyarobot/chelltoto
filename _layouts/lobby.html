@@ -79,7 +79,7 @@ new DataTable('#hacksaw', {
             render: function (data, type, row) {
                 if (type === 'display') {
                     let link = 'https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=mobile&language=en&currency=USD&partner=demo&mode=demo&gameid=';
-                    return '<a href="' + link + '' + row.gameID + '" target="modal_iframe" onClick="showModal()">' + row.title + '</a>';        
+                    return '<a class="uk-link-text" href="' + link + '' + row.gameID + '" target="modal_iframe" onClick="showModal()">' + row.title + '</a>';        
                 }
                 return data;
             }
