@@ -65,8 +65,8 @@ new DataTable('#pragmaticplay', {
             data: 'img',
             render: function (data, type, row) {
                 if (type === 'display') {
-                    let link = 'https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=mobile&language=en&currency=USD&partner=demo&mode=demo&gameid=';
-                    return '<a href="' + link + '' + row.gameID + '" target="modal_iframe" onClick="showModal()"><img src="https://l154gamer.github.io/assets/img/pragmaticplay/' + row.img + '" width="180px" class="uk-border-rounded" alt="' + row.title + '"></a>';        
+                    let link = 'https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?jurisdiction=99&lang=ID&cur=IDR&gameSymbol=';
+                    return '<a href="' + link + '' + row.symbol + '" target="modal_iframe" onClick="showModal()"><img src="https://l154gamer.github.io/assets/img/pragmatic-play/' + row.img + '" width="180px" class="uk-border-rounded" alt="' + row.title + '"></a>';        
                 }
                 return data;
             }
@@ -75,18 +75,18 @@ new DataTable('#pragmaticplay', {
             data: 'title',
             render: function (data, type, row) {
                 if (type === 'display') {
-                    let link = 'https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=mobile&language=en&currency=USD&partner=demo&mode=demo&gameid=';
-                    return '<a class="uk-link-text" href="' + link + '' + row.gameID + '" target="modal_iframe" onClick="showModal()">' + row.title + '</a>';        
+                    let link = 'https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?jurisdiction=99&lang=ID&cur=IDR&gameSymbol=';
+                    return '<a class="uk-link-text" href="' + link + '' + row.symbol + '" target="modal_iframe" onClick="showModal()">' + row.title + '</a>';        
                 }
                 return data;
             }
         },     
         {
-            data: 'gameID',
+            data: 'symbol',
             render: function (data, type, row) {
                 if (type === 'display') {
-                    let link = 'https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=mobile&language=en&currency=USD&partner=demo&mode=demo&gameid=';
-                    return '<a class="uk-button uk-button-default uk-button-small" href="' + link + '' + row.gameID + '" target="modal_iframe" onClick="showModal()">Play</a>';             
+                    let link = 'https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?jurisdiction=99&lang=ID&cur=IDR&gameSymbol=';
+                    return '<a class="uk-button uk-button-default uk-button-small" href="' + link + '' + row.symbol + '" target="modal_iframe" onClick="showModal()">Play</a>';             
                 }
                 return data;
             }
