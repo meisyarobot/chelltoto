@@ -89,13 +89,6 @@
   img: fred-s-food-truck.jpg
   provider: Hacksaw Gaming
 
-- title: Lord Venom
-  img: lord-venom.jpg
-  gid: 
-  url: 
-  disable: disable
-  provider: Hacksaw Gaming
-
 - title: Book of Time
   gameid: 1213
   gid: 1.32.0
