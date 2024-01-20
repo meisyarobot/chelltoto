@@ -68,29 +68,17 @@
    {% unless item.url contains '/page/' %}
     <li>
      <div class="uk-form-controls">
-     <label><input class="uk-radio" type="radio" name="radio1" checked>     
-      {% if page.active == "pragmaticplay" %}
-      IDR
-      {% endif %}
-      {% if page.active == "pgsoft" %}
+     <label><input class="uk-radio" type="radio" name="radio1" checked>           
        {{ site.data.locales[page.locale].page.indonesia }}
-      {% endif %}
      </label> <br/>
-      
-     <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio2" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
-      {% if page.active == "pragmaticplay" %}
-      USD
-      {% endif %}
-      {% if page.active == "pgsoft" %}
+     <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio2" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">         
        {{ site.data.locales[page.locale].page.english }}
-      {% endif %}
      </label>
         
      </div>
     </li>
    {% endunless %}
   {% endfor %}
- 
  {% elsif page.locale == 'en' %}
   {% assign postsOrPages = site.pages 
     | concat: site.pages 
@@ -102,27 +90,15 @@
     <li>
      <div class="uk-form-controls">
      <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio1" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">     
-      {% if page.active == "pragmaticplay" %}
-      IDR
-      {% endif %}
-      {% if page.active == "pgsoft" %}
        {{ site.data.locales[page.locale].page.indonesia }}
-      {% endif %}
-     </label><br/>
-      
+     </label><br/>      
      <label><input class="uk-radio" type="radio" name="radio2" checked>     
-      {% if page.active == "pragmaticplay" %}
-      USD
-      {% endif %}
-      {% if page.active == "pgsoft" %}
        {{ site.data.locales[page.locale].page.english }}
-      {% endif %}
      </label>
      </div>
     </li>
    {% endunless %}
   {% endfor %}
-
 </ul>
  {% endif %}
 </div>       
