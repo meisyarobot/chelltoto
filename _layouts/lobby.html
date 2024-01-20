@@ -52,35 +52,52 @@
  {% include modal.html %}
  {% include javascript.html %}
  <script>
-    new DataTable('#hacksaw', {
-        ajax: 'https://l154gamer.github.io/api/hacksaw',
-        processing: true,
-        columns: [
-            {   data: 'img',
-                render: function (data) { return '<img src="https://l154gamer.github.io/assets/img/hacksaw/' + data + '" width="180px" class="uk-border-rounded"/>'; }
-            },
-            {
-                data: 'title',
-                render: function (data, type, row) {
-                    if (type === 'display') {
-                        let link = 'https://static-live.hacksawgaming.com/' + row.gameID + '/' + row.gid + '/index.html?language=id&channel=mobile&gameid=' + row.gameID + '&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api';
-                        return '<a class="uk-link-reset" href="' + link + '" target="modal_iframe" onClick="showModal()">' + data + '</a>';
-                    }
-                    return data;
+new DataTable('#hacksaw', {
+    ajax: {
+        url: 'https://l154gamer.github.io/api/hacksaw',
+        dataType: 'JSON'
+    },
+    language: {
+        url: 'https://cdn.datatables.net/plug-ins/1.13.7/i18n/id.json'
+    },
+    ordering: false,
+    info: true,
+    paging: true,
+    dom: 'Pfrtip',
+    "pageLength": 25,
+    columns: [        
+        {
+            data: 'img',
+            render: function (data, type, row) {
+                if (type === 'display') {
+                    let link = 'https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=mobile&language=en&currency=USD&partner=demo&mode=demo&gameid=';
+                    return '<a href="' + link + '' + row.gameID + '" target="modal_iframe" onClick="showModal()"><img src="https://l154gamer.github.io/assets/img/hacksaw/' + row.img + '" width="180px" class="uk-border-rounded" alt="' + row.title + '"></a>';        
                 }
-            },
-            {
-                data: null,
-                render: function (data, type, row) {
-                    if (type === 'display') {
-                        let link = 'https://static-live.hacksawgaming.com/' + row.gameID + '/' + row.gid + '/index.html?language=id&channel=mobile&gameid=' + row.gameID + '&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api';
-                        return '<a class="uk-button uk-button-default uk-button-small uk-link-reset" href="' + link + '" target="modal_iframe" onClick="showModal()">Play</a>';
-                    }
-                    return data;
-                }
+                return data;
             }
-        ]
-    });
+        },
+        {
+            data: 'title',
+            render: function (data, type, row) {
+                if (type === 'display') {
+                    let link = 'https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=mobile&language=en&currency=USD&partner=demo&mode=demo&gameid=';
+                    return '<a href="' + link + '' + row.gameID + '" target="modal_iframe" onClick="showModal()">' + row.title + '</a>';        
+                }
+                return data;
+            }
+        },     
+        {
+            data: 'gameID',
+            render: function (data, type, row) {
+                if (type === 'display') {
+                    let link = 'https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=mobile&language=en&currency=USD&partner=demo&mode=demo&gameid=';
+                    return '<a class="uk-button uk-button-default uk-button-small" href="' + link + '' + row.gameID + '" target="modal_iframe" onClick="showModal()">Play</a>';             
+                }
+                return data;
+            }
+        }
+    ]
+});
     </script>
 </body>
 </html>
