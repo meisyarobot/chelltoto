@@ -1,6 +1,6 @@
 - title: Wild Duel 
-  gameid: 
-  img: wild-duel.webp
+  gameid: 10231
+  img: 10231.webp
   type: yggdrasil
   provider: Peter & Sons
 
@@ -22,3 +22,8 @@
   type: videoslot
   provider: Peter & Sons
 
+- title: Robbin Nottingham Raiders
+  gameid: 
+  img: 
+  type: yggdrasil
+  provider: Peter & Sons
