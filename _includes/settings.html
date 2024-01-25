@@ -1,10 +1,7 @@
 <!-- Settings -->
 <div id="offcanvas-flip" uk-offcanvas="flip: true; overlay: true">
  <div class="uk-offcanvas-bar">
-  <button class="uk-offcanvas-close" type="button" uk-close></button>
-  <h4>{{ site.data.locales[page.locale].page.settings }}</h4>
-
-{% if page.active == "hacksaw" %}  
+  
 <div class="uk-clearfix">
     <div class="uk-float-right">
      <ul class="uk-iconnav"><li><a type="button class="uk-offcanvas-close" uk-icon="icon: close; ratio: 1" href="#"></a></li></ul>
@@ -35,10 +32,9 @@
 </ul>
 </div>
 </div>
-{% endif %}  
+
 <hr>
   
-{% if page.active == "hacksaw" %}
 <div class="uk-width-1-2@s uk-width-2-5@m uk-margin-bottom">
         <div uk-form-custom="target: > * > span:first-child">
             <select aria-label="Custom controls">
@@ -54,7 +50,6 @@
         </div>
 </div>
 <hr/>
-{% endif %}
 
 <!-- Game Filter --> 
 <div class="uk-width-1-2@s uk-width-2-5@m">
