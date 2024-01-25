@@ -96,16 +96,17 @@
 </div>
 <!-- /Line -->  
 {% endif %}
- 
-{% if page.uid %}  
-<hr>  
+
+<hr>
+  
 <!-- Mata Uang & Bahasa --> 
 <div class="uk-width-1-2@s uk-width-2-5@m">
+ <div class="uk-column-1-2">   
+{% if page.uid %}
 <ul class="uk-nav uk-nav-default">
  <li class="uk-nav-header">
   {{ site.data.locales[page.locale].page.language }}
- </li> 
-
+ </li>
  {% if page.locale == 'id' %}
   {% assign postsOrPages = site.pages 
     | concat: site.pages 
@@ -121,8 +122,7 @@
      </label> <br/>
      <label><input class="uk-radio {{ item.locale }}" type="radio" name="radio2" value="{{ site.baseurl }}{{ item.url }}" onclick="openLink(this)">         
        {{ site.data.locales[page.locale].page.english }}
-     </label>
-        
+     </label>        
      </div>
     </li>
    {% endunless %}
@@ -147,8 +147,20 @@
     </li>
    {% endunless %}
   {% endfor %}
-</ul>
- {% endif %}
+</ul>  
+{% endif %}  
+    <ul class="uk-iconnav">
+      <li id="grid"><a class="uk-text-uppercase" href="#"><span uk-icon="icon: thumbnails"></span>Grid</a></li>
+      <li id="list"><a class="uk-text-uppercase" href="#"><span uk-icon="icon: list"></span>List</a></li>
+    </ul>
+ </div>
+</div>       
+<!-- /Mata Uang & Bahasa --> 
+ 
+<!-- Mata Uang & Bahasa --> 
+<div class="uk-width-1-2@s uk-width-2-5@m">
+
+ 
 </div>       
 <!-- /Mata Uang & Bahasa --> 
 {% endif %}
@@ -195,18 +207,6 @@
  </ul>
 </div>
 {% endif %}
-  
-<hr>
-
-<!-- Display Setting -->
-<div class="uk-width-1-2@s uk-width-2-5@m">
-<h6 class="uk-text-uppercase uk-margin-remove-bottom">{{ site.data.locales[page.locale].page.display }}</h6>
-<ul class="uk-iconnav">
-    <li id="grid"><a class="uk-text-uppercase" href="#"><span uk-icon="icon: thumbnails"></span>{{ site.data.locales[page.locale].page.grid }}</a></li>
-    <li id="list"><a class="uk-text-uppercase" href="#"><span uk-icon="icon: list"></span>{{ site.data.locales[page.locale].page.list }}</a></li>
-</ul>    
-</div>
-<!-- /Display Setting -->
 
  </div>
 </div><!-- /Settings -->
