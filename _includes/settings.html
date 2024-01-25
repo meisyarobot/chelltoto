@@ -44,7 +44,7 @@
             <select aria-label="Custom controls">
                 <option value="">{{ site.data.locales[page.locale].page.select }}</option>
                 {% for item in site.data.locales[page.locale].byprovider %}
-                 <option value="{{ item.url }}">{{ item.title }}</option>
+                 <option value="{{ site.url }}{{ item.url }}">{{ item.title }}</option>
                 {% endfor %}
             </select>
             <button type="button" tabindex="-1">
@@ -104,9 +104,6 @@
  <div class="uk-column-1-2">   
 {% if page.uid %}
 <ul class="uk-nav uk-nav-default">
- <li class="uk-nav-header">
-  {{ site.data.locales[page.locale].page.language }}
- </li>
  {% if page.locale == 'id' %}
   {% assign postsOrPages = site.pages 
     | concat: site.pages 
