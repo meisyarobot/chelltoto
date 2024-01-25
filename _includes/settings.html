@@ -4,11 +4,11 @@
   
 <div class="uk-clearfix">
     <div class="uk-float-right">
-     <ul class="uk-iconnav"><li><a type="button class="uk-offcanvas-close" uk-icon="icon: close; ratio: 1" href="#"></a></li></ul>
+     <ul class="uk-iconnav"><li><button type="button class="uk-offcanvas-close" uk-icon="icon: close; ratio: 1" uk-close></button></li></ul>
     </div>
     <div class="uk-float-left">
  <ul class="uk-iconnav">
-  <li><a uk-icon="icon: home; ratio: 1" href="index.html"></a></li>
+  <li><a uk-icon="icon: home; ratio: 1" href="{{ site.data.locales[page.locale].site_url }}"></a></li>
   <li><button class="theme-toggle" id="theme-toggle" title="Toggles light & dark" aria-label="auto" aria-live="polite">
       <svg class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24">
         <mask class="moon" id="moon-mask">
