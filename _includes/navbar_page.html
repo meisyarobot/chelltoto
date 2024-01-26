@@ -1,7 +1,22 @@
 <nav class="uk-fixed-navigation uk-navbar-container" uk-navbar style="background: #000100 !important;">
     <div class="nav-overlay uk-navbar-left">
     <a uk-icon="icon: arrow-left; ratio: 1.5" class="uk-navbar-toggle hide" href="index.html"></a>
-        <ul class="uk-navbar-nav">
+        <div uk-form-custom="target: > * > span:first-child">
+            <select aria-label="Custom controls">
+             {% for item in site.data.locales[page.locale].byprovider %}
+             {% assign class = nil %}
+             {% if page.url contains item.url %}
+             {% assign class = 'selected' %}
+             {% endif %}
+               <option value="{{ site.url }}{{ item.url }}" {{ class }}>{{ item.title }}</option>
+             {% endfor %}
+            </select>
+            <a tabindex="-1">
+                <span></span>
+                <span uk-icon="icon: chevron-down"></span>
+            </a>
+        </div>        
+        <ul class="uk-navbar-nav hide">
             <li>{{ page.title }}</li>
         </ul>
     </div>
