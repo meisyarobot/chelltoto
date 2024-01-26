@@ -59,7 +59,7 @@ page:
   game: Permainan
   english: English
   indonesia: Indonesian
-  russian: Rusian (Ruble)
+  russian: Rusian
   language: Bahasa
   currency: Mata Uang
   lang-cur: Bahasa & Mata Uang
@@ -68,13 +68,13 @@ page:
   search: Cari di
   all: Semua
   table: Tabel 
-  new: Baru
+  new: Terbaru
   new_games: Game Terbaru
   classic_slots: Slot Klasik
   settings: Pengaturan
   filter: Sortir
   all_games: Semua Game
-  classic: Classic
+  classic: Klasik
   classic_games: Game Klasik
   table_games: Table Games
   providers: Providers
