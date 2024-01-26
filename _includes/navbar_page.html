@@ -1,0 +1,20 @@
+<nav class="uk-fixed-navigation uk-navbar-container" uk-navbar style="background: #000100 !important;">
+    <div class="nav-overlay uk-navbar-left">
+    <a uk-icon="icon: arrow-left; ratio: 1.5" class="uk-navbar-toggle hide" href="index.html"></a>
+        <ul class="uk-navbar-nav">
+            <li>{{ page.title }}</li>
+        </ul>
+    </div>
+    <div class="nav-overlay uk-navbar-right">
+        <a class="uk-navbar-toggle" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
+        <button uk-icon="icon: settings; ratio: 1" class="uk-button uk-button-default uk-padding-remove border-0" uk-toggle="target: #offcanvas-flip"></button>
+    </div>
+    <div class="nav-overlay uk-navbar-left uk-flex-1" hidden>
+        <div class="uk-navbar-item uk-width-expand">
+            <form class="uk-search uk-search-navbar uk-width-1-1 uk-text-small">
+                <input id="myfilter" class="uk-search-input" type="search" placeholder="{{ site.data.locales[page.locale].page.search }} {{ page.title }}" aria-label="Search" autofocus>
+            </form>
+        </div>
+        <a class="uk-navbar-toggle" uk-close uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
+    </div>
+</nav>
