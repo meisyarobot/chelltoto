@@ -11,10 +11,10 @@
                <option value="{{ site.url }}{{ item.url }}" {{ class }}>{{ item.title }}</option>
              {% endfor %}
             </select>
-            <a class="uk-link-text" tabindex="-1">
+            <button class="uk-button uk-button-link" tabindex="-1">
                 <span></span>
                 <span uk-icon="icon: chevron-down"></span>
-            </a>
+            </button>
         </div>        
         <ul class="uk-navbar-nav hide">
             <li>{{ page.title }}</li>
