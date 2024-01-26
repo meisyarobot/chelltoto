@@ -38,14 +38,13 @@
 <div class="uk-width-1-2@s uk-width-2-5@m uk-margin-bottom">
         <div uk-form-custom="target: > * > span:first-child">
             <select aria-label="Custom controls">
-                <option value="">{{ site.data.locales[page.locale].page.select }}</option>
-                {% for item in site.data.locales[page.locale].byprovider %}
-      {% assign class = nil %}
-      {% if page.url contains item.url %}
-      {% assign class = 'selected' %}
-      {% endif %}
-                 <option value="{{ site.url }}{{ item.url }}" {{ class }}>{{ item.title }}</option>
-                {% endfor %}
+             {% for item in site.data.locales[page.locale].byprovider %}
+             {% assign class = nil %}
+             {% if page.url contains item.url %}
+             {% assign class = 'selected' %}
+             {% endif %}
+               <option value="{{ site.url }}{{ item.url }}" {{ class }}>{{ item.title }}</option>
+             {% endfor %}
             </select>
             <button type="button" tabindex="-1">
                 <span></span>
