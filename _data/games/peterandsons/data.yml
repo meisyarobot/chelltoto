@@ -1,6 +1,6 @@
 - title: Wild Duel 
   gameid: 10231
-  img: 10231.webp
+  img: wild-duel.webp
   type: yggdrasil
   provider: Peter & Sons
 
@@ -22,8 +22,96 @@
   type: videoslot
   provider: Peter & Sons
 
-- title: Robbin Nottingham Raiders
+- title: Robin Nottingham Raiders
   gameid: 
-  img: 
+  img: robin-notthingham-raiders.webp
   type: yggdrasil
   provider: Peter & Sons
+
+- title: Robin Sherwood Marauders
+  gameid: 
+  img: robin-sherwood-marauders.webp
+  type: yggdrasil
+  provider: Peter & Sons
+
+- title: Punch Club
+  gameid: 
+  img: punch-club.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Wild Bard
+  gameid: 
+  img: wild-bard.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: The Mafiosi
+  gameid: 
+  img: the-mafiosi.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Zombies at The Door
+  gameid: 
+  img: zombies-at-the-door.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Kaiser
+  gameid: 
+  img: kaiser.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Cauldron
+  gameid: 
+  img: cauldrom.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Monster Blox Gigablox
+  gameid: 
+  img: monsterblox.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Valkyries
+  gameid: 
+  img: valkyries.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Xibalba
+  gameid: 
+  img: xibalba.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Voodoo Hex
+  gameid: 
+  img: voodoo-hex.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Thunder Hawk
+  gameid: 
+  img: thunder-hawk.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Abrakadabra
+  gameid: 
+  img: abrakadabra.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Peter Hunter
+  gameid: 
+  img: peter-hunter.webp
+  type: videoslot
+  provider: Peter & Sons
+
+
+
+
