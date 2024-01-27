@@ -1,6 +1,6 @@
 - title: Wild Duel 
   gameid: 10231
-  img: wild-duel.webp
+  img: wild_duel.webp
   type: yggdrasil
   provider: Peter & Sons
 
@@ -24,7 +24,7 @@
 
 - title: Robin Nottingham Raiders
   gameid: 
-  img: robin-notthingham-raiders.webp
+  img: robin-nottingham-raiders.webp
   type: yggdrasil
   provider: Peter & Sons
 
@@ -66,7 +66,7 @@
 
 - title: Cauldron
   gameid: 
-  img: cauldrom.webp
+  img: cauldron.webp
   type: videoslot
   provider: Peter & Sons
 
