@@ -8,7 +8,7 @@ uid: hacksaw
 ---
 <div id="grid" class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid>
 {% for game in site.data.games.hacksaw.data %}  
- <div data-pilih="{{ game.type }}" class="uk-width-1-2 bc {{ game.disable }}">
+ <div data-pilih="{{ game.type }}" class="uk-width-1-2 bc {{ game.disable }} item">
   <div class="uk-card uk-card-default uk-border-rounded"> 
    <div class="uk-card-media-top">
     <a target="modal_iframe" onClick="showModal()" href="https://static-stg.hacksawgaming.com/launcher/static-launcher.html?gameid={{ game.gameid }}&channel=mobile&language=id&currency=IDR&partner=demo&mode=demo"> 
@@ -25,4 +25,8 @@ uid: hacksaw
 {% else %}
 <p>{{ site.data.locales[page.locale].page.nodata }}</p>
  {% endfor %}        
+</div>
+<div class="uk-text-center">
+<p class="lead">Displayed <b class="shownLength"></b> Of <b class="listLength"></b> Results.</p>
+<div class="buttonToogle" style="display: none;"><a href="javascript:;" class="uk-button showMore">+ Show More</a></div>
 </div>
