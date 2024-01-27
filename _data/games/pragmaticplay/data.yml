@@ -758,6 +758,13 @@
   gameID: vs5aztecmpoplay
   provider: Pragmatic Play
 
+- title: Nexus Aztec Gems
+  symbol: vs5nexusgems
+  img: nexus-aztec-gems.webp
+  type: nexus
+  gameID: vs5aztecmpoplay
+  provider: Pragmatic Play 
+
 - title: Wild West Gold
   symbol: vs40wildwest
   img: wild-west-gold.webp
@@ -872,6 +879,13 @@
 - title: Infini88 Sugar Rush
   symbol: vs20infini88sr
   img: infini88-sugar-rush.webp
+  type: infini
+  gameID: vs20infini88sr
+  provider: Pragmatic Play
+
+- title: Nexus Sugar Rush
+  symbol: vs20nexussr
+  img: nexus-sugar-rush.webp
   type: infini
   gameID: vs20infini88sr
   provider: Pragmatic Play
