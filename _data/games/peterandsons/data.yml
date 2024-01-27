@@ -1,3 +1,21 @@
+- title: Peter Hunter
+  gameid: 
+  img: peter-hunter.webp
+  type: new
+  provider: Peter & Sons
+
+- title: Frozen Age
+  gameid: 
+  img: frozen-age.webp
+  type: new
+  provider: Peter & Sons
+
+- title: Pop Cop
+  gameid: 
+  img: pop-cop.webp
+  type: new
+  provider: Peter & Sons
+
 - title: Wild Duel 
   gameid: 10231
   img: wild_duel.webp
@@ -109,8 +127,63 @@
 - title: Peter Hunter
   gameid: 
   img: peter-hunter.webp
+  type: new
+  provider: Peter & Sons
+
+- title: Animafia
+  gameid: 
+  img: animafia.webp
+  type: new
+  provider: Peter & Sons
+
+- title: Barbarossa
+  gameid: 
+  img: barbarossa.webp
   type: videoslot
   provider: Peter & Sons
+
+- title: Dragonlox Gigablox
+  gameid: 
+  img: dragonblox.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Wild 1
+  gameid: 
+  img: wild1.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Waterblox Gigablox
+  gameid: 
+  img: waterblox.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Hammer of Gods
+  gameid: 
+  img: hammer-of-gods.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Sheriff Colt
+  gameid: 
+  img: sheriff-colt.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: D'Cirque
+  gameid: 
+  img: dcirque.webp
+  type: videoslot
+  provider: Peter & Sons
+
+- title: Johnan Legendarian
+  gameid: 
+  img: johnan-legendarian.webp
+  type: videoslot
+  provider: Peter & Sons
+
 
 
 
