@@ -1,5 +1,11 @@
 pgsoft:
 
+  - title: Fortune Dragon
+    gameid: 1695365
+    img: fortune-dragon.webp   
+    type: new
+    provider: PG Soft 
+  
   - title: Dragon Hatch 2
     gameid: 1451122
     img: dragon-hatch2.webp
