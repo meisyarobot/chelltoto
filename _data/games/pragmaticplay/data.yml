@@ -19,10 +19,9 @@
   provider: Pragmatic Play
 
 - title: Mighty Munching Melons
-  symbol: 
+  symbol: vs20mmmelon
   img: mighty-munching-melons.webp
-  type: new
-  disable: disable
+  type: reelkingdom
   provider: Pragmatic Play
 
 - title: Big Bass Golden Lake
