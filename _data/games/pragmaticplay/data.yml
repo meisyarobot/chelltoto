@@ -92,6 +92,12 @@
   type: videoslot
   provider: Pragmatic Play
 
+- title: Holiday Ride
+  symbol: vs25holiday
+  img: holiday-ride.webp
+  type: videoslot
+  provider: Pragmatic Play
+  
 - title: Via Del Corso
   symbol: vs25viadel
   img: via-del-corso.webp
