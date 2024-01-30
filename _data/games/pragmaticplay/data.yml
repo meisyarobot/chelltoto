@@ -1,5 +1,11 @@
 # New games
 
+- title: Fortune Ace
+  symbol: vs1024fortune
+  img: fortune-ace.webp
+  type: new
+  provider: Pragmatic Play
+
 - title: Saray Ruyasi
   symbol: vs20dede
   img: saray-ruyasi.webp
