@@ -15,36 +15,31 @@ pgsoft:
   
   - title: Werewolf's Hunt
     gameid: 1615454
-    img: werewolfs-hunt.jpg
-    url: https://m.pgsoft-games.com/1615454/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+    img: werewolfs-hunt.webp   
     type: new
     provider: PG Soft 
   
   - title: Tsar Treasures
     gameid: 1655268
     img: tsar-treasures.webp
-    url: https://m.pgsoft-games.com/1655268/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
     type: new
     provider: PG Soft 
   
   - title: Mafia Mayhem
     gameid: 1580541
     img: Mafia-Mayhem.webp
-    url: https://m.pgsoft-games.com/1580541/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
     type: new
     provider: PG Soft 
   
   - title: Forge of Wealth
     gameid: 1555350
     img: forge-of-wealth.webp
-    url: https://m.pgsoft-games.com/1555350/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
     type: videoslot
     provider: PG Soft 
  
   - title: Ultimate Striker
     gameid: 1489936
     img: ultimate-striker.webp
-    url: https://m.pgsoft-games.com/1489936/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/games/quit&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
     type: videoslot
     provider: PG Soft 
 
