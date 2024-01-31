@@ -150,7 +150,7 @@
 
 - title: Gods of Gold Infinireels
   gameid: 
-  img: gods-of-gold.webp
+  img: gods-of-gold-infinireels.webp
   disable: disable
   provider: NetEnt
 
@@ -163,6 +163,12 @@
 - title: Gonzo's Quest
   gameid: 
   img: gonzos-quest.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Gonzo's Gold
+  gameid: 
+  img: gonzos-gold.webp
   disable: disable
   provider: NetEnt
 
@@ -193,12 +199,6 @@
 - title: Jimi Hendrix
   gameid: 
   img: jimi-hendrix.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Twin Spin Megaways
-  gameid: 
-  img: twin-spin.webp
   disable: disable
   provider: NetEnt
 
@@ -279,7 +279,7 @@
   disable: disable
   provider: NetEnt
 
-- title: Bing Bang Boom
+- title: Big Bang Boom
   gameid: 
   img: big-bang-boom.webp
   disable: disable
@@ -324,12 +324,6 @@
 - title: Silverback Gold
   gameid: 
   img: silverback-gold.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Gonzo's Gold
-  gameid: 
-  img: gonzos-gold.webp
   disable: disable
   provider: NetEnt
 
