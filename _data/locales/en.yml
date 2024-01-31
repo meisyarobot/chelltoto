@@ -101,6 +101,9 @@ page:
   next: Next
   previous: Previous
   select: Providers
+  displayed: Displayed
+  of: Of
+  results: Results
 
 
 
