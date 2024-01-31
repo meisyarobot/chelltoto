@@ -63,13 +63,6 @@
   disable: disable
   provider: Pragmatic Play
 
-- title: Fortune Dragon
-  symbol: 
-  img: fortune-dragon.webp
-  type: videoslot
-  disable: disable
-  provider: Pragmatic Play
-
 - title: Fortune Ace
   symbol: vs1024fortune
   img: fortune-ace.webp
