@@ -6,7 +6,6 @@ active: megaways
 uid: megaways
 locale: id
 ---
-
 <div id="grid" class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid>
 {% for game in site.data.games.megaways.data %}  
  <div data-pilih="{{game.type}}" class="uk-width-1-2 bc {{game.disable}}">
@@ -24,6 +23,6 @@ locale: id
   </div>
  </div>       
 {% else %}
-<p>{{site.data.settings.menu.page.nodata}}</p>
+<p>{{ site.data.locales[page.locale].page.nodata }}</p>
  {% endfor %}        
 </div>
