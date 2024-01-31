@@ -1,5 +1,23 @@
 # New games
 
+- title: Jeitinho Brasileiro
+  symbol: vs25jeitinho
+  img: jeitinho-brasileiro.webp
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Gods of Oblivion
+  symbol: vsprg20sugargod
+  img: gods-of-oblivion.webp
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: El Dorado The City of Gold Megaways
+  symbol: vswaysdorado
+  img: el-dorado-megaways.webp
+  type: megaways
+  provider: Pragmatic Play
+
 - title: Beware The Deep Megaways
   symbol: 
   img: beware-the-deep-megaways.webp
@@ -2694,4 +2712,10 @@
   img: megaways-legend-of-heroes.webp
   gameID: vswayslofhero
   type: megaways
+  provider: Pragmatic Play
+
+- title: Candy Blitz
+  symbol: vs20candyblitz
+  img: candy-blitz.webp
+  type: videoslot
   provider: Pragmatic Play
