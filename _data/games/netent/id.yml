@@ -72,7 +72,7 @@
 
 - title: Bing Bang Boom
   gameid: 
-  img: bing-bang-boom.webp
+  img: big-bang-boom.webp
   disable: disable
   provider: NetEnt
 
@@ -94,15 +94,15 @@
   disable: disable
   provider: NetEnt
 
-- title: Punk Master
+- title: Funk Master
   gameid: 
-  img: punk-master.webp
+  img: funk-master.webp
   disable: disable
   provider: NetEnt
 
-- title: Space War 2
+- title: Space Wars 2
   gameid: 
-  img: space-war-2.webp
+  img: space-wars-2.webp
   disable: disable
   provider: NetEnt
 
