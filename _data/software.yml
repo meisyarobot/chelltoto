@@ -1,25 +1,29 @@
 - title: Pragmatic Play
-  url: pragmatic-play
+  img: 
+  url: pragmaticplay
+  
 - title: PG Soft (Pocket Games Soft)
+  img: 
   url: pgsoft
+  
 - title: Microgaming
+  img: 
   url: microgaming
+  
 - title: Nolimit City
-  url: nolimit-city
+  img: 
+  url: nolimitcity
+  
 - title: Hacksaw Gaming
-  url: hacksaw-gaming
+  img: 
+  url: hacksaw
+
 - title: WMS Gaming (Williams Interactive)
-  url: wms-gaming
 - title: Bally Technologies
-  url: bally
 - title: Quickspin
-  url: quickspin
 - title: Peter & Sons
-  url: peter-and-sons
 - title: Novomatic Mobile
-  url: novomatic-mobile
 - title: Relax Gaming
-  url: relax-gaming
 - title: BTG (Big Time Gaming)
 - title: Playtech
 - title: Betsoft
@@ -27,7 +31,7 @@
 - title: Play'n Go
 - title: IGT (International Gaming Technology)
 - title: Netent
-- title: Leander
+- title: Leander (Raw iGaming)
 - title: Thunderkick
 - title: Yggdrasil
 - title: iSoftBet
@@ -36,7 +40,7 @@
 - title: Blueprint Gaming
 - title: Barcrest
 - title: Mercur Gaming
-- title: Realistic
+- title: Realtime Gaming
 - title: Omi Gaming
 - title: Sheriff Gaming
 - title: Bgaming
@@ -93,10 +97,10 @@
 - title: Crazy Tooth Studio
 - title: Wazdan
 - title: Snowborn Games
-- title: Redrake Gaming
+- title: Red Rake Gaming
 - title: Gold Coin Studios
 - title: R. Franco Digital
-- title: Zitro
+- title: Zitro Games
 - title: Truelab Games
 - title: MGA Games
 - title: Mag Interactive
@@ -119,7 +123,7 @@
 - title: BP Games
 - title: Belatra Games
 - title: FunTa Gaming
-- title: Leap
+- title: Leap Gaming
 - title: Lady Luck Games
 - title: Playpearls
 - title: Platipus
@@ -128,7 +132,7 @@
 - title: Skill On Net
 - title: Slingo
 - title: Smartsoft Gaming
-- title: Spear Head
+- title: Spearhead
 - title: Spin 2 Win
 - title: Spinmatic Entertainment
 - title: Spribe
@@ -320,3 +324,13 @@
 - title: Ortiz Gaming
 - title: Mplay
 - title: Liveslots
+- title: BBIN
+- title: Slot Land Entertainment 
+- title: Saucify 
+- title: Redrake Gaming
+- title: Pateplay
+- title: Openbet
+- title: Neogames
+- title: Nemesis Games Studio
+- title: GVG (Green Valley Games)
+- title: Cozy
