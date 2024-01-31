@@ -1,5 +1,12 @@
 # New games
 
+- title: Beware The Deep Megaways
+  symbol: 
+  img: beware-the-deep-megaways.webp
+  type: megaways
+  disable: disable
+  provider: Pragmatic Play
+
 - title: Gears of Horus
   symbol: 
   img: gears-of-horus.webp
