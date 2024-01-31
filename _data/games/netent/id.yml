@@ -276,7 +276,7 @@
 
 - title: Secret of The Stones
   gameid: 
-  img: secret-of-the-stone.webp
+  img: secret-of-the-stones.webp
   disable: disable
   provider: NetEnt
 
@@ -340,7 +340,7 @@
   disable: disable
   provider: NetEnt
 
-- title: Twin Spin
+- title: Twin Spin Megaways
   gameid: 
   img: twin-spin.webp
   disable: disable
