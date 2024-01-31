@@ -1,5 +1,75 @@
 # New games
 
+- title: Gears of Horus
+  symbol: 
+  img: gears-of-horus.webp
+  type: videoslot
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Big Burger Load It Up With Xtra Cheese
+  symbol: 
+  img: big-burger-load-it-up-with-xtra-cheese.webp
+  type: videoslot
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Fire Portals
+  symbol: 
+  img: fire-portals.webp
+  type: videoslot
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Sugar Rush 1000
+  symbol: 
+  img: sugar-rush1000.webp
+  type: videoslot
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Pot of Fortune
+  symbol: 
+  img: pot-of-fortune.webp
+  type: videoslot
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Big Bass Day At The Races
+  symbol: 
+  img: big-bass-day-at-the-races.webp
+  type: reelkingdom
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Big Bass Golden Lake
+  symbol: 
+  img: upcoming.webp
+  type: reelkingdom
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Tiki Hut Megaways
+  symbol: 
+  img: tiki-hut-megaways.webp
+  type: megaways
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Happy Fortune
+  symbol: 
+  img: happy-fortune.webp
+  type: videoslot
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Fortune Dragon
+  symbol: 
+  img: fortune-dragon.webp
+  type: videoslot
+  disable: disable
+  provider: Pragmatic Play
+
 - title: Fortune Ace
   symbol: vs1024fortune
   img: fortune-ace.webp
@@ -22,13 +92,6 @@
   symbol: vs20mmmelon
   img: mighty-munching-melons.webp
   type: reelkingdom
-  provider: Pragmatic Play
-
-- title: Big Bass Golden Lake
-  symbol: 
-  img: upcoming.webp
-  type: new
-  disable: disable
   provider: Pragmatic Play
  
 - title: Big Bass Floats My Boat
