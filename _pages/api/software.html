@@ -7,7 +7,7 @@ permalink: /api/software
    {% for data in site.data.software %}
     {
       "title": "{{ data.title }}",
-      "img": "",
+      "img": "{{ data.img }}",
       "url": "{{ data.url }}"
     }
   {% unless forloop.last %},{% endunless %}
