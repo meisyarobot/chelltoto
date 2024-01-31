@@ -1,147 +1,3 @@
-
-- title: Cupcakes
-  gameid: 
-  img: cupcakes.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Milkshake XXXTreme
-  gameid: 
-  img: milkshake-xxxtreme.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Fruit Shop Frenzy
-  gameid: 
-  img: fruit-shop-frenzy.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Pirates Party
-  gameid: 
-  img: pirates-party.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Fruit Shop Megaways
-  gameid: 
-  img: fruit-shop-megaways.webp
-  disable: disable
-  type: megaways
-  provider: NetEnt
-
-- title: Jelly Belly Megaways
-  gameid: 
-  img: jelly-belly-megaways.webp
-  disable: disable
-  type: megaways
-  provider: NetEnt
-  
-- title: Wild Turkey Megaways
-  gameid: 
-  img: wild-turkey-megaways.webp
-  disable: disable
-  type: megaways
-  provider: NetEnt
-
-- title: Twin Spin Megaways
-  gameid: 
-  img: twin-spin-megaways.webp
-  disable: disable
-  type: megaways
-  provider: NetEnt
-
-- title: Divine Fortune Megaways
-  gameid: 
-  img: divine-fortune-megaways.webp
-  disable: disable
-  type: megaways
-  provider: NetEnt
-
-- title: Gem Crush
-  gameid: 
-  img: gem-crush.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Elk Hunter
-  gameid: 
-  img: elk-hunter.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Bing Bang Boom
-  gameid: 
-  img: big-bang-boom.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Cornelius
-  gameid: 
-  img: cornelius.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Bee Hive Bonanza
-  gameid: 
-  img: bee-hive-bonanza.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Superstars
-  gameid: 
-  img: superstars.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Funk Master
-  gameid: 
-  img: funk-master.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Space Wars 2
-  gameid: 
-  img: space-wars-2.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Knight Rider
-  gameid: 
-  img: knight-rider.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Silverback Gold
-  gameid: 
-  img: silverback-gold.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Gonzo's Gold
-  gameid: 
-  img: gonzos-gold.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Starburst
-  gameid: 
-  img: starburst.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Starburst XXXtreme
-  gameid: 
-  img: starburst-xxxtreme.webp
-  disable: disable
-  provider: NetEnt
-
-- title: Gun 'N Roses
-  gameid: 
-  img: guns-n-roses.webp
-  disable: disable
-  provider: NetEnt
-
 - title: Dead or Alive
   gameid: 
   img: dead-or-alive.webp
@@ -349,6 +205,149 @@
 - title: Robin Hood Shifting Riches
   gameid: 
   img: robin-hood-shifting-riches.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Cupcakes
+  gameid: 
+  img: cupcakes.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Milkshake XXXTreme
+  gameid: 
+  img: milkshake-xxxtreme.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Fruit Shop Frenzy
+  gameid: 
+  img: fruit-shop-frenzy.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Pirates Party
+  gameid: 
+  img: pirates-party.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Fruit Shop Megaways
+  gameid: 
+  img: fruit-shop-megaways.webp
+  disable: disable
+  type: megaways
+  provider: NetEnt
+
+- title: Jelly Belly Megaways
+  gameid: 
+  img: jelly-belly-megaways.webp
+  disable: disable
+  type: megaways
+  provider: NetEnt
+  
+- title: Wild Turkey Megaways
+  gameid: 
+  img: wild-turkey-megaways.webp
+  disable: disable
+  type: megaways
+  provider: NetEnt
+
+- title: Twin Spin Megaways
+  gameid: 
+  img: twin-spin-megaways.webp
+  disable: disable
+  type: megaways
+  provider: NetEnt
+
+- title: Divine Fortune Megaways
+  gameid: 
+  img: divine-fortune-megaways.webp
+  disable: disable
+  type: megaways
+  provider: NetEnt
+
+- title: Gem Crush
+  gameid: 
+  img: gem-crush.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Elk Hunter
+  gameid: 
+  img: elk-hunter.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Bing Bang Boom
+  gameid: 
+  img: big-bang-boom.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Cornelius
+  gameid: 
+  img: cornelius.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Bee Hive Bonanza
+  gameid: 
+  img: bee-hive-bonanza.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Superstars
+  gameid: 
+  img: superstars.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Funk Master
+  gameid: 
+  img: funk-master.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Space Wars 2
+  gameid: 
+  img: space-wars-2.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Knight Rider
+  gameid: 
+  img: knight-rider.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Silverback Gold
+  gameid: 
+  img: silverback-gold.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Gonzo's Gold
+  gameid: 
+  img: gonzos-gold.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Starburst
+  gameid: 
+  img: starburst.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Starburst XXXtreme
+  gameid: 
+  img: starburst-xxxtreme.webp
+  disable: disable
+  provider: NetEnt
+
+- title: Gun 'N Roses
+  gameid: 
+  img: guns-n-roses.webp
   disable: disable
   provider: NetEnt
 
