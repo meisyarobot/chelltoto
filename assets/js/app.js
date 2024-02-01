@@ -21,7 +21,8 @@ new DataTable('#games', {
             }
         },        
         {
-            data: 'available'
+            data: 'available',
+            render: function (data, type, row) {return '' + row.available + '';}
         }
     ]
 });
