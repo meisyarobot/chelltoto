@@ -6,19 +6,16 @@
 - title: Thor Hammer Time
   gameid: Thor
   img: thor-hammer-time.webp
-  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=Thor&fullscreen=True
   vendor: Nolimit City
   
 - title: Rock Bottom
   gameid: RockBottom
   img: rock-bottom.webp
-  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=RockBottom&fullscreen=True
   vendor: Nolimit City
   
 - title: Walk of Shame
   gameid: WalkOfShame
   img: walk-of-shame.webp
-  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=id_ID&currency=IDR&device=mobile&game=WalkOfShame&fullscreen=True
   vendor: Nolimit City
   
 - title: Serial
