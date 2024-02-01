@@ -19,7 +19,10 @@ new DataTable('#games', {
                 }
                 return data;
             }
-        }        
+        },        
+        {
+            data: 'available'
+        }
     ]
 });
 
