@@ -1,36 +1,67 @@
 - title: Pragmatic Play
   img: pragmatic-play.webp
   url: pragmaticplay
+  available: yes
   
 - title: PG Soft (Pocket Games Soft)
   img: 
   url: pgsoft
+  available: yes
   
 - title: Microgaming
   img: microgaming.webp
   url: microgaming
+  available: yes
   
 - title: Nolimit City
   img: 
   url: nolimitcity
+  available: yes
   
 - title: Hacksaw Gaming
   img: 
   url: hacksaw
+  available: yes
 
 - title: WMS Gaming (Williams Interactive)
+  available: no
+
 - title: Bally Technologies
+  available: no
+
 - title: Quickspin
+  available: no
+
 - title: Peter & Sons
+  available: no
+
 - title: Novomatic Mobile
+  available: no
+
 - title: Relax Gaming
+  available: no
+
 - title: BTG (Big Time Gaming)
+  available: no
+
 - title: Playtech
+  available: no
+
 - title: Betsoft
+  available: no
+
 - title: Nextgen Gaming
+  available: no
+
 - title: Play'n Go
+  available: no
+
 - title: IGT (International Gaming Technology)
+  available: no
+
 - title: Netent
+  available: yes
+
 - title: Leander (Raw iGaming)
 - title: Thunderkick
 - title: Yggdrasil
