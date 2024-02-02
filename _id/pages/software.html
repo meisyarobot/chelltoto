@@ -9,8 +9,8 @@ uid: providers
     <li><a href="#">Item</a></li>
     <li><a href="#">Status</a></li>
 </ul>
-<ul class="uk-switcher uk-margin">
-    <li>
+<div class="uk-switcher uk-margin">
+    <div>
 <div uk-grid><!-- grids -->
 
 {% for item in site.data.locales[page.locale].byprovider %}  
@@ -48,6 +48,6 @@ uid: providers
 {% endfor %}
  
 </div>        
-    </li>
-    <li><div class="uk-overflow-auto"><table id="software" class="uk-table uk-table-small table"></table></div></li>
-</ul>
+    </div>
+    <div><div class="uk-overflow-auto"><table id="software" class="uk-table uk-table-small table"></table></div></div>
+</div>
