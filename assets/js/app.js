@@ -123,3 +123,21 @@ new DataTable('#pragmaticplay', {
     ]
 });
 
+// Games Providers
+new DataTable('#software', {
+    ajax: {
+        url: 'https://l154gamer.github.io/api/software',
+        dataType: 'JSON'
+    },
+    ordering: false,
+    info: true,
+    paging: true,
+    dom: 'Pfrtip',
+    "pageLength": 50,
+    columns: [
+        {
+            data: 'title'
+        }
+    ]
+});
+
