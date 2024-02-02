@@ -133,7 +133,8 @@ new DataTable('#software', {
     info: true,
     paging: true,
     dom: 'Pfrtip',
-    "pageLength": 50,
+    searching: false,
+    "pageLength": 30,
     columns: [
         {
             data: 'title'
