@@ -7,6 +7,7 @@ new DataTable('#games', {
     ordering: false,
     info: true,
     paging: true,
+    dom: 'Pfrtip',
     "pageLength": 50,
     columns: [
         {
@@ -133,6 +134,7 @@ new DataTable('#software', {
     paging: true,
     "bFilter": false,
     searching: false,
+    dom: 'Pfrtip',
     "pageLength": 30,
     columns: [
         {
