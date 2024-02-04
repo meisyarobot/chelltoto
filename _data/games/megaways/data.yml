@@ -286,21 +286,21 @@
 # YGGDrasil
 - title: Big Bucks Bandits Megaways
   gameid: 1025
-  img: yggdrasil/big-bucks-bandits.webp
+  img: megaways/big-bucks-bandits.webp
   url: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1025&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   type: yggdrasil
   provider: YGGDrasil
 
 - title: Atlantis Megaways
   gameid: 1020
-  img: yggdrasil/atlantis-megaways.webp
+  img: megaways/atlantis-megaways.webp
   url: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1020&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   type: yggdrasil
   provider: YGGDrasil
 
 - title: Odin Infinity Reels Megaways
   gameid: 1033
-  img: yggdrasil/odin-megaways.webp
+  img: megaways/odin-megaways.webp
   url: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1033&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   type: yggdrasil
   provider: YGGDrasil
@@ -367,14 +367,14 @@
 
 - title: Risque Megaways 
   gameid: 
-  img: risque-megaways.webp
+  img: redtiger/risque-megaways.webp
   url: https://gserver-invicta.redtiger.cash/invicta/launcher/RisqueMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
   type: redtiger
   provider: Red Tiger 
 
 - title: Blood Suckers Megaways 
   gameid: 
-  img: blood-suckers-megaways.webp
+  img: redtiger/blood-suckers-megaways.webp
   url: https://gserver-invicta.redtiger.cash/invicta/launcher/BloodSuckersMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
   type: redtiger
   provider: Red Tiger 
