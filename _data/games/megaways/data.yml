@@ -1,490 +1,307 @@
+# Pragmatic Play
 - title: Wild West Gold Megaways
-  symbol: vswayswildwest
+  gameid: vswayswildwest
   img: megaways-wwg.webp
-  url: megaways/wild-west-gold
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswildwest
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play
 
 - title: Aztec King Megaways
-  symbol: vswaysaztecking
+  gameid: vswaysaztecking
   img: aztec-king-megaways.webp
-  url: megaways/aztec-king
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysaztecking
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play
 
 - title: Mammoth Gold Megaways
-  symbol: vs20mammoth
+  gameid: vs20mammoth
   img: mammoth-gold.webp
-  url: megaways/mammoth-gold
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20mammoth
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play
 
 - title: Power of Thor Megaways
-  symbol: vswayshammthor
+  gameid: vswayshammthor
   img: megaways-thor.webp
-  url: megaways/thor-power
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayshammthor
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play
 
 - title: 5 Rabbits Megaways
-  symbol: vswaysrabbits
+  gameid: vswaysrabbits
   img: megaways-rabbits.webp
-  url: megaways/5rabbits
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysrabbits
-  provider: Megaways 
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play 
 
 - title: 5 Lions Megaways
-  symbol: vswayslions
+  gameid: vswayslions
   img: megaways-lions.webp
-  url: megaways/5lions
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayslions
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play
 
 - title: Extra Juicy Megaways
-  symbol: vswaysxjuicy
+  gameid: vswaysxjuicy
   img: megaways-extra-juicy.webp
-  url: megaways/extra-juicy
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysxjuicy
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play
 
 - title: Great Rhino Megaways
-  symbol: vswaysrhino
+  gameid: vswaysrhino
   img: great-rhino-megaways.webp
-  url: megaways/great-rhino
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysrhino
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play
 
 - title: Crystal Caverns Megaways
-  symbol: vswayscryscav
+  gameid: vswayscryscav
   img: crystal-caverns.webp
-  url: megaways/crystal-caverns
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayscryscav
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
-
-- title: Floating Dragon Megaways
-  symbol: vswaysfltdrg
-  img: floating-dragon.webp
-  url: megaways/floating-dragon
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfltdrg
-  provider: Megaways
-  by: Reel Kingdom
-  url_provider: reel-kingdom
+  url: 
+  provider: Pragmatic Play
 
 - title: The Dog House Megaways
-  symbol: vswaysdogs
+  gameid: vswaysdogs
   img: megaways-dog-house.webp
-  url: megaways/dog-house
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysdogs
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play
 
 - title: Legend of Heroes Megaways
-  symbol: vswayslofhero
+  gameid: vswayslofhero
   img: megaways-legend-of-heroes.webp
-  url: megaways/heroes-legend
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayslofhero
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play
 
 - title: Rise of Samurai Megaways
-  symbol: vswayssamurai
+  gameid: vswayssamurai
   img: megaways-risesamurai.webp
-  url: megaways/risesamurai
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayssamurai
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play
 
 - title: Elemental Gems Megaways
-  symbol: vswayselements
+  gameid: vswayselements
   img: elemental-gems-megaways.webp
-  url: megaways/elemental-gems
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayselements
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play
 
 - title: Lucky Fishing Megaways
-  symbol: vswaysluckyfish
+  gameid: vswaysluckyfish
   img: lucky-fishing-megaways.webp
-  url: megaways/lucky-fishing
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysluckyfish
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play
 
 - title: Madame Destiny Megaways
-  symbol: vswaysmadame
+  gameid: vswaysmadame
   img: madame-destiny-megaways.webp
-  url: megaways/madame-destiny
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysmadame
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
-
-- title: Big Bass Bonanza Megaways
-  symbol: vswaysbbb
-  img: big-bass-bonanza-megaways.webp
-  url: megaways/big-bass-bonanza
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysbbb
-  provider: Megaways
-  by: Reel Kingdom
-  url_provider: reel-kingdom
+  url: 
+  provider: Pragmatic Play
 
 - title: Wild Wild Riches Megaways
-  symbol: vswayswwriches
+  gameid: vswayswwriches
   img: wild-wild-riches-megaways.webp
-  url: megaways/wild-wild-riches
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswwriches
-  provider: Megaways 
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play 
 
 - title: Spin & Score Megaways
-  symbol: vswaysfrywld
+  gameid: vswaysfrywld
   img: spin-score-megaways.webp
-  url: megaways/spin-score
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfrywld
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play
 
 - title: Buffalo King Megaways
-  symbol: vswaysbufking
+  gameid: vswaysbufking
   img: buffalo-king-megaways.webp
-  url: megaways/buffalo-king
-  currency: idr
-  lang: id
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysbufking
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: 
+  provider: Pragmatic Play
 
-- title: Olympus Zeus Megaways
-  img: olympus-zeus.webp
-  url: isoftbet/olympus-zeus
-  currency: idr
-  lang: id
-  provider: Megaways
-  by: iSoftBet
-  url_provider: isoftbet
-
-- title: Gold digger Megaways
-  img: gold-digger.webp
-  url: isoftbet/gold-digger
-  currency: idr
-  lang: id
-  permalink: https://stage-game-launcher-lux.isoftbet.com/1015/200514?mode=0&turboMode=1&background=1&cur=IDR&lang=en&enableConsole=false
-  provider: Megaways
-  by: iSoftBet
-  url_provider: isoftbet
-
-- title: Tales of Silver Megaways
-  img: tales-of-silver.webp
-  url: isoftbet/tales-of-silver
-  permalink: https://stage-game-launcher-lux.isoftbet.com/1015/200771?identifier=pulse_tales_of_silver_mw&lang=EN&cur=IDR&background=1&mode=0&
-  currency: IDR
-  provider: Megaways
-  by: iSoftBet
-  url_provider: isoftbet
-
-- title: Tyrant King Megaways
-  img: tyrant-king.webp
-  url: isoftbet/tyrant-king
-  permalink: https://stage-game-launcher-lux.isoftbet.com/1015/200521?identifier=pulse_tyrant_king_megaways&lang=EN&cur=IDR&background=1&mode=0&
-  currency: IDR
-  provider: Megaways
-  by: iSoftBet
-  url_provider: isoftbet
-
-- title: Sahara Riches Megaways
-  img: sahara-riches.webp
-  url: playtech/sahara-riches
-  permalink: https://gamelauncher-uu-pop-stg.playtechone.com/launcher?game=gpas_mgccsahara_pop&casino=playtechhorizon&clientplatform=web&clienttype=casino&real=0&currency=IDR&language=id
-  currency: IDR
-  lang: id
-  provider: Megaways
-  by: Playtech
-  url_provider: megaways
-
-- title: Buffalo Blitz Megaways
-  img: buffalo-blitz.webp
-  url: playtech/buffalo-blitz
-  permalink: https://gamelauncher-uu-pop-stg.playtechone.com/launcher?casino=playtechhorizon&clientplatform=web&clienttype=casino&real=0&currency=IDR&language=id&game=gpas_bbmways_pop
-  currency: IDR
-  lang: id
-  provider: Megaways
-  by: Playtech
-  url_provider: megaways
-
-- title: Big Bucks Bandits Megaways
-  id: 1025
-  img: big-bucks-bandits.webp
-  url: megaways/big-bucks-bandits
-  currency: idr
-  lang: id
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1025&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
-  provider: Megaways
-  by: YGGDrasil
-  url_provider: yggdrasil
-
-- title: Atlantis Megaways
-  id: 1020
-  img: atlantis-megaways.webp
-  url: megaways/atlantis
-  currency: idr
-  lang: id
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1020&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
-  provider: Megaways
-  by: YGGDrasil
-  url_provider: yggdrasil
-
-- title: Odin Infinity Reels Megaways
-  id: 1033
-  img: odin-megaways.webp
-  url: megaways/odin-infinity-reels
-  currency: idr
-  lang: id
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1033&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
-  provider: Megaways
-  by: YGGDrasil
-  url_provider: yggdrasil
-  
-- title: Aztec Magic Megaways
-  img: aztec-magic-megaways.webp
-  lang: En
-  url: megaways/aztec-magic-megaways
-  permalink: https://bgaming-network.com/play/AztecMagicMegaways/FUN?server=demo
-  provider: Megaways
-  by: BGaming
-  url_provider: bgaming
-  
 - title: Wild Celebrity Bus Megaways
-  symbol: vswaysrsm
+  gameid: vswaysrsm
   img: wild-celebrity-bus-megaways.webp
-  lang: En
-  url: megaways/wild-celebrity-bus-megaways
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysrsm
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysrsm
+  provider: Pragmatic Play
 
 - title: Old Gold Miner Megaways
-  symbol: vswaysoldminer
+  gameid: vswaysoldminer
   img: old-gold-miner-megaways.webp
-  lang: En
-  url: megaways/old-gold-miner-megaways
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysoldminer
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysoldminer
+  provider: Pragmatic Play
 
 - title: Chilli Heat Megaways
-  symbol: vswayschilheat
+  gameid: vswayschilheat
   img: chilli-heat-megaways.webp
-  lang: En
-  url: megaways/chilli-heat-megaways
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayschilheat
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayschilheat
+  provider: Pragmatic Play
 
 - title: Power of Merlin Megaways 
-  symbol: vswayspowzeus
+  gameid: vswayspowzeus
   img: power-of-merlin-megaways.webp
-  lang: En
-  url: megaways/power-of-merlin-megaways
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayspowzeus
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayspowzeus
+  provider: Pragmatic Play
 
 - title: Starz Megaways 
-  symbol: vs117649starz
+  gameid: vs117649starz
   img: starz-megaways.webp
-  lang: En
-  url: megaways/starz-megaways
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs117649starz
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs117649starz
+  provider: Pragmatic Play
 
 - title: Madame Mystique Megaways 
-  symbol: vswaysmadameh
+  gameid: vswaysmadameh
   img: madame-mystique-megaways.webp
-  lang: En
-  url: megaways/madame-mystique-megaways
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysmadameh
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysmadameh
+  provider: Pragmatic Play
 
 - title: Curse of The Werewolf Megaways 
-  symbol: vswayswerewolf
+  gameid: vswayswerewolf
   img: curse-of-the-werewolf-megaways.webp
-  lang: En
-  url: megaways/curse-of-the-werewolf-megaways
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswerewolf
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswerewolf
+  provider: Pragmatic Play
 
 - title: A Christmas Carol Megaways 
-  symbol: vs20xmascarol
+  gameid: vs20xmascarol
   img: christmas-carol-megaways.webp
-  lang: ID
-  url: megaways/christmas-carol-megaways
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20xmascarol
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20xmascarol
+  provider: Pragmatic Play
 
 - title: Muertos Multiplier Megaways 
-  symbol: vs20muertos
+  gameid: vs20muertos
   img: muertos-multiplier-megaways.webp
-  lang: ID
-  url: megaways/muertos-multiplier-megaways
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20muertos
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20muertos
+  provider: Pragmatic Play
 
 - title: Fury of Odin Megaways 
-  symbol: vswaysfuryodin
+  gameid: vswaysfuryodin
   img: fury-of-odin-megaways.webp
-  lang: ID
-  url: megaways/fury-of-odin-megaways
-  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfuryodin
-  provider: Megaways
-  by: Pragmatic Play
-  url_provider: pragmatic-play 
+  url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfuryodin
+  provider: Pragmatic Play
 
+
+# Reel Kingdom
+- title: Floating Dragon Megaways
+  gameid: vswaysfltdrg
+  img: floating-dragon.webp
+  url: 
+  provider: Reel Kingdom
+
+- title: Big Bass Bonanza Megaways
+  gameid: vswaysbbb
+  img: big-bass-bonanza-megaways.webp
+  url: 
+  provider: Reel Kingdom
+
+
+# iSoftBet
+- title: Olympus Zeus Megaways
+  gameid: 
+  img: olympus-zeus.webp
+  url: 
+  provider: iSoftBet
+
+- title: Gold digger Megaways
+  gameid: 
+  img: gold-digger.webp
+  url: https://stage-game-launcher-lux.isoftbet.com/1015/200514?mode=0&turboMode=1&background=1&cur=IDR&lang=en&enableConsole=false
+  provider: iSoftBet
+
+- title: Tales of Silver Megaways
+  gameid: 
+  img: tales-of-silver.webp
+  url: https://stage-game-launcher-lux.isoftbet.com/1015/200771?identifier=pulse_tales_of_silver_mw&lang=EN&cur=IDR&background=1&mode=0&
+  provider: iSoftBet
+
+- title: Tyrant King Megaways
+  gameid: 
+  img: tyrant-king.webp
+  url: https://stage-game-launcher-lux.isoftbet.com/1015/200521?identifier=pulse_tyrant_king_megaways&lang=EN&cur=IDR&background=1&mode=0&
+  provider: iSoftBet
+
+
+# Playtech
+- title: Sahara Riches Megaways
+  gameid: 
+  img: sahara-riches.webp
+  url: https://gamelauncher-uu-pop-stg.playtechone.com/launcher?game=gpas_mgccsahara_pop&casino=playtechhorizon&clientplatform=web&clienttype=casino&real=0&currency=IDR&language=id
+  provider: Playtech
+
+- title: Buffalo Blitz Megaways
+  gameid: 
+  img: buffalo-blitz.webp
+  url: https://gamelauncher-uu-pop-stg.playtechone.com/launcher?casino=playtechhorizon&clientplatform=web&clienttype=casino&real=0&currency=IDR&language=id&game=gpas_bbmways_pop
+  provider: Playtech
+
+
+# YGGDrasil
+- title: Big Bucks Bandits Megaways
+  gameid: 1025
+  img: big-bucks-bandits.webp
+  url: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1025&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDrasil
+
+- title: Atlantis Megaways
+  gameid: 1020
+  img: atlantis-megaways.webp
+  url: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1020&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDrasil
+
+- title: Odin Infinity Reels Megaways
+  gameid: 1033
+  img: odin-megaways.webp
+  url: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1033&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDrasil
+
+
+# Bgaming
+- title: Aztec Magic Megaways
+  gameid: 
+  img: aztec-magic-megaways.webp
+  url: https://bgaming-network.com/play/AztecMagicMegaways/FUN?server=demo
+  provider: BGaming
+
+
+# Red Tiger
 - title: What The Fox Megaways 
+  gameid: 
   img: what-the-fox-megaways.webp
-  lang: ID
-  url: redtiger/what-the-fox-megaways
-  provider: Megaways
-  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/WhatTheFoxMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
-  by: Red Tiger
-  url_provider: redtiger 
+  url: https://gserver-invicta.redtiger.cash/invicta/launcher/WhatTheFoxMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger 
+
 - title: Pirates' Plenty Megaways 
+  gameid: 
   img: pirates-plenty-megaways.webp
-  lang: ID
-  url: redtiger/pirates-plenty-megaways
-  provider: Megaways
-  by: Red Tiger
-  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/PiratesPlentyMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
-  url_provider: redtiger 
+  url: https://gserver-invicta.redtiger.cash/invicta/launcher/PiratesPlentyMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+
 - title: Dynamite Riches Megaways 
+  gameid: 
   img: dynamite-riches-megaways.webp
-  lang: ID
-  url: redtiger/dynamite-riches-megaways
-  provider: Megaways
-  by: Red Tiger
-  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/DynamiteRichesMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
-  url_provider: redtiger 
+  url: https://gserver-invicta.redtiger.cash/invicta/launcher/DynamiteRichesMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger 
+
 - title: Leprechaun's Magic Megaways 
+  gameid: 
   img: leprechauns-magic-megaways.webp
-  lang: ID
-  url: redtiger/leprechauns-magic-megaways
-  provider: Megaways
-  by: Red Tiger
-  url_provider: redtiger 
+  url: 
+  provider: Red Tiger 
+
 - title: Golden Leprechaun Megaways 
+  gameid: 
   img: golden-leprechaun-megaways.webp
-  lang: ID
-  url: redtiger/golden-leprechaun-megaways
-  provider: Megaways
-  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/LeprechaunsMagicMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
-  by: Red Tiger
-  url_provider: redtiger 
+  url: https://gserver-invicta.redtiger.cash/invicta/launcher/LeprechaunsMagicMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger 
+
 - title: Egypt Megaways 
+  gameid: 
   img: egypt-megaways.webp
-  lang: ID
-  url: redtiger/egypt-megaways
-  provider: Megaways
-  by: Red Tiger
-  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/EgyptMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
-  url_provider: redtiger 
+  url: https://gserver-invicta.redtiger.cash/invicta/launcher/EgyptMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger 
+
 - title: Gonzo's Quest Megaways 
+  gameid: 
   img: gonzos-quest-megaways.webp
-  lang: ID
-  url: redtiger/gonzos-quest-megaways
-  provider: Megaways
-  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/GonzosQuestMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  url: https://gserver-invicta.redtiger.cash/invicta/launcher/GonzosQuestMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
   by: Red Tiger
-  url_provider: redtiger 
+  provider: Red Tiger 
+
 - title: Risque Megaways 
+  gameid: 
   img: risque-megaways.webp
-  lang: ID
-  url: redtiger/risque-megaways
-  provider: Megaways
-  by: Red Tiger
-  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/RisqueMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
-  url_provider: redtiger 
+  url: https://gserver-invicta.redtiger.cash/invicta/launcher/RisqueMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger 
+
 - title: Blood Suckers Megaways 
+  gameid: 
   img: blood-suckers-megaways.webp
-  lang: ID
-  url: redtiger/blood-suckers-megaways
-  provider: Megaways
-  by: Red Tiger
-  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/BloodSuckersMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
-  url_provider: redtiger 
+  url: https://gserver-invicta.redtiger.cash/invicta/launcher/BloodSuckersMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger 
