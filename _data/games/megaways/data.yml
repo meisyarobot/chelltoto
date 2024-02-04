@@ -240,28 +240,28 @@
 # iSoftBet
 - title: Olympus Zeus Megaways
   gameid: 
-  img: megaways/olympus-zeus.webp
+  img: isoftbet/olympus-zeus.webp
   url: 
   type: isoftbet
   provider: iSoftBet
 
 - title: Gold digger Megaways
   gameid: 
-  img: megaways/gold-digger.webp
+  img: isoftbet/gold-digger.webp
   url: https://stage-game-launcher-lux.isoftbet.com/1015/200514?mode=0&turboMode=1&background=1&cur=IDR&lang=en&enableConsole=false
   type: isoftbet
   provider: iSoftBet
 
 - title: Tales of Silver Megaways
   gameid: 
-  img: megaways/tales-of-silver.webp
+  img: isoftbet/tales-of-silver.webp
   url: https://stage-game-launcher-lux.isoftbet.com/1015/200771?identifier=pulse_tales_of_silver_mw&lang=EN&cur=IDR&background=1&mode=0&
   type: isoftbet
   provider: iSoftBet
 
 - title: Tyrant King Megaways
   gameid: 
-  img: megaways/tyrant-king.webp
+  img: isoftbet/tyrant-king.webp
   url: https://stage-game-launcher-lux.isoftbet.com/1015/200521?identifier=pulse_tyrant_king_megaways&lang=EN&cur=IDR&background=1&mode=0&
   type: isoftbet
   provider: iSoftBet
