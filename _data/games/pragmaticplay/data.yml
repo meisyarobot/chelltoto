@@ -2717,3 +2717,22 @@
   img: candy-blitz.webp
   type: videoslot
   provider: Pragmatic Play
+
+- title: Sugar Rush Summer Time
+  symbol: vs20cms
+  img: sugar-rush-summer-time.webp
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: The Champions
+  symbol: vs25champ
+  img: the-champions.webp
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Star Jackpots 
+  symbol: vs50starjackpots
+  img: star-jackpots.webp
+  type: videoslot
+  provider: Pragmatic Play
+ 
