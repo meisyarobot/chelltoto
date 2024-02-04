@@ -113,6 +113,13 @@
   url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?jurisdiction=99&lang=ID&cur=IDR&gameSymbol=vswaysdogsh
   provider: Pragmatic Play
 
+- title: The Dog Bank Megaways
+  gameid: vswaysdogbank
+  img: pragmatic-play/the-dog-bank-megaways.webp
+  type: pragmaticplay
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?jurisdiction=99&lang=ID&cur=IDR&gameSymbol=vswaysdogbank
+  provider: Pragmatic Play
+
 - title: Legend of Heroes Megaways
   gameid: vswayslofhero
   img: pragmatic-play/megaways-legend-of-heroes.webp
