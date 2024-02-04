@@ -1,24 +1,31 @@
 # Pragmatic Play
+
+- title: Mr. Toad Gold Megaways
+  gameid: vswaystgold
+  img: pragmatic-play/mr-toad-gold-megaways.webp
+  type: pragmaticplay
+  provider: Pragmatic Play
+
 - title: Pompeii Megareels Megaways
-  symbol: vswaysmegareel
+  gameid: vswaysmegareel
   img: pragmatic-play/pompeii-megareels-megaways.webp
   type: pragmaticplay
   provider: Pragmatic Play
 
 - title: Tiki Hut Megaways
-  symbol: vsprgwaysth
+  gameid: vsprgwaysth
   img: pragmatic-play/tiki-hut-megaways.webp
   type: pragmaticplay
   provider: Pragmatic Play
 
 - title: El Dorado The City of Gold Megaways
-  symbol: vswaysdorado
+  gameid: vswaysdorado
   img: pragmatic-play/el-dorado-megaways.webp
   type: pragmaticplay
   provider: Pragmatic Play
 
 - title: Beware The Deep Megaways
-  symbol: 
+  gameid: 
   img: pragmatic-play/beware-the-deep-megaways.webp
   type: pragmaticplay
   disable: disable
@@ -91,6 +98,12 @@
   gameid: vswaysdogs
   img: pragmatic-play/megaways-dog-house.webp
   url: 
+  type: pragmaticplay
+  provider: Pragmatic Play
+
+- title: The Dog Mansion Megaways
+  gameid: vswaysdogsh
+  img: pragmatic-play/the-dog-mansion-megaways.webp
   type: pragmaticplay
   provider: Pragmatic Play
 
@@ -217,6 +230,24 @@
   gameid: vswaysfuryodin
   img: pragmatic-play/fury-of-odin-megaways.webp
   url: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfuryodin
+  type: pragmaticplay
+  provider: Pragmatic Play
+
+- title: Blazing Wilds Megaways
+  gameid: vswaysfirewmw
+  img: pragmatic-play/blazing-wilds-megaways.webp
+  type: pragmaticplay
+  provider: Pragmatic Play
+
+- title: MBS Heist Megaways
+  gameid: vswaysmbslions
+  img: pragmatic-play/mbs-heist-megaways.webp
+  type: pragmaticplay
+  provider: Pragmatic Play
+
+- title: 5 Frozen Charms Megaways
+  gameid: vswayscharms
+  img: pragmatic-play/5frozen-charms-megaways.webp
   type: pragmaticplay
   provider: Pragmatic Play
 
