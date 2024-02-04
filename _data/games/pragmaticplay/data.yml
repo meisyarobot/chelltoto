@@ -81,10 +81,9 @@
   provider: Pragmatic Play
 
 - title: Happy Fortune
-  symbol: 
+  symbol: vs20laughluck
   img: happy-fortune.webp
   type: videoslot
-  disable: disable
   provider: Pragmatic Play
 
 - title: Fortune Ace
