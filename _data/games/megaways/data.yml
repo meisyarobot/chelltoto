@@ -1,4 +1,29 @@
 # Pragmatic Play
+- title: Pompeii Megareels Megaways
+  symbol: vswaysmegareel
+  img: pragmatic-play/pompeii-megareels-megaways.webp
+  type: pragmaticplay
+  provider: Pragmatic Play
+
+- title: Tiki Hut Megaways
+  symbol: vsprgwaysth
+  img: pragmatic-play/tiki-hut-megaways.webp
+  type: pragmaticplay
+  provider: Pragmatic Play
+
+- title: El Dorado The City of Gold Megaways
+  symbol: vswaysdorado
+  img: pragmatic-play/el-dorado-megaways.webp
+  type: pragmaticplay
+  provider: Pragmatic Play
+
+- title: Beware The Deep Megaways
+  symbol: 
+  img: pragmatic-play/beware-the-deep-megaways.webp
+  type: pragmaticplay
+  disable: disable
+  provider: Pragmatic Play
+
 - title: Wild West Gold Megaways
   gameid: vswayswildwest
   img: megaways-wwg.webp
