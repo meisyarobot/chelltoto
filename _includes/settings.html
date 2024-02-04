@@ -48,9 +48,7 @@
 <!-- /Game Filter --> 
 
 {% if page.active == "pragmaticplay" %}
-
-<hr>
-  
+<hr>  
 <!-- Line --> 
 <div class="uk-width-1-2@s uk-width-2-5@m">
 <h6 class="uk-nav-header uk-margin-remove-bottom">{{ site.data.locales[page.locale].page.line }}</h6>    
@@ -70,6 +68,26 @@
      <li><a uk-filter-control="[data-pilih='m88']" href="#m88"><span uk-icon="icon: chevron-double-right"></span>M88</a></li>
      <li><a uk-filter-control="[data-pilih='vigor']" href="#vigor"><span uk-icon="icon: chevron-double-right"></span>Vigor</a></li>
      <li><a uk-filter-control="[data-pilih='mpoplay']" href="#mpoplay"><span uk-icon="icon: chevron-double-right"></span>MpoPlay</a></li>
+    </ul>
+ </div>
+</div>
+<!-- /Line -->  
+{% endif %}
+
+{% if page.active == "megaways" %}
+<hr>  
+<!-- Line --> 
+<div class="uk-width-1-2@s uk-width-2-5@m">
+<h6 class="uk-nav-header uk-margin-remove-bottom">{{ site.data.locales[page.locale].page.line }}</h6>    
+ <div class="uk-column-1-2 uk-margin-remove-top"> 
+    <ul class="uk-nav uk-nav-default">     
+     <li><a uk-filter-control="[data-pilih='pragmaticplay']" href="#pragmaticplay"><span uk-icon="icon: chevron-double-right"></span>Pragmatic play</a></li>
+     <li><a uk-filter-control="[data-pilih='reelkingdom']" href="#reelkingdom"><span uk-icon="icon: chevron-double-right"></span>Reel Kingdom</a></li>
+     <li><a uk-filter-control="[data-pilih='redtiger']" href="#redtiger"><span uk-icon="icon: chevron-double-right"></span>Red Tiger</a></li>
+     <li><a uk-filter-control="[data-pilih='bgaming']" href="#bgaming"><span uk-icon="icon: chevron-double-right"></span>Bgaming</a></li>
+     <li><a uk-filter-control="[data-pilih='playtech']" href="#playtech"><span uk-icon="icon: chevron-double-right"></span>Playtech</a></li>
+     <li><a uk-filter-control="[data-pilih='yggdrasil']" href="#yggdrasil"><span uk-icon="icon: chevron-double-right"></span>YGGDrasil</a></li>     
+     <li><a uk-filter-control="[data-pilih='isoftbet']" href="#isoftbet"><span uk-icon="icon: chevron-double-right"></span>iSoftBet</a></li>
     </ul>
  </div>
 </div>
