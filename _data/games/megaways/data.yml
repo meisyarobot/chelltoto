@@ -270,14 +270,14 @@
 # Playtech
 - title: Sahara Riches Megaways
   gameid: 
-  img: megaways/sahara-riches.webp
+  img: playtech/sahara-riches.webp
   url: https://gamelauncher-uu-pop-stg.playtechone.com/launcher?game=gpas_mgccsahara_pop&casino=playtechhorizon&clientplatform=web&clienttype=casino&real=0&currency=IDR&language=id
   type: playtech
   provider: Playtech
 
 - title: Buffalo Blitz Megaways
   gameid: 
-  img: megaways/buffalo-blitz.webp
+  img: playtech/buffalo-blitz.webp
   url: https://gamelauncher-uu-pop-stg.playtechone.com/launcher?casino=playtechhorizon&clientplatform=web&clienttype=casino&real=0&currency=IDR&language=id&game=gpas_bbmways_pop
   type: playtech
   provider: Playtech
@@ -286,21 +286,21 @@
 # YGGDrasil
 - title: Big Bucks Bandits Megaways
   gameid: 1025
-  img: megaways/big-bucks-bandits.webp
+  img: yggdrasil/big-bucks-bandits.webp
   url: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1025&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   type: yggdrasil
   provider: YGGDrasil
 
 - title: Atlantis Megaways
   gameid: 1020
-  img: megaways/atlantis-megaways.webp
+  img: yggdrasil/atlantis-megaways.webp
   url: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1020&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   type: yggdrasil
   provider: YGGDrasil
 
 - title: Odin Infinity Reels Megaways
   gameid: 1033
-  img: megaways/odin-megaways.webp
+  img: yggdrasil/odin-megaways.webp
   url: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1033&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   type: yggdrasil
   provider: YGGDrasil
