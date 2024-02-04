@@ -75,10 +75,9 @@
   provider: Pragmatic Play
 
 - title: Tiki Hut Megaways
-  symbol: 
+  symbol: vsprgwaysth
   img: tiki-hut-megaways.webp
   type: megaways
-  disable: disable
   provider: Pragmatic Play
 
 - title: Happy Fortune
