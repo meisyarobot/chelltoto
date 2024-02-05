@@ -1,5 +1,15 @@
 # New games
 
+- title: The Catfather Part II
+  symbol: vs30catz
+  img: the-catfather2.webp
+  provider: Pragmatic Play
+
+- title: Spooky Fortune
+  symbol: vs20gg
+  img: spooky-fortune.webp
+  provider: Pragmatic Play
+
 - title: The Dog House — Dog or Alive
   symbol: 
   img: the-dog-house-dog-or-alive.webp
@@ -20,10 +30,9 @@
   provider: Pragmatic Play
 
 - title: El Dorado The City of Gold
-  symbol: vswaysdorado
+  symbol: vs25eldorado_cv39
   img: el-dorado-the-city-of-gold.webp
   type: videoslot
-  disable: disable
   provider: Pragmatic Play
   
 - title: El Dorado The City of Gold Megaways
