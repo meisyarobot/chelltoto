@@ -23,7 +23,7 @@ collections:
     permalink: /:collection/:slug
   lobby:
     output: true
-    permalink: /:collection/:slug
+    permalink: /:collection/play?gameid=:id
 
 
 defaults:
