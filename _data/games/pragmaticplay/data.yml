@@ -1,5 +1,10 @@
 # New games
 
+- title: The Catfather
+  symbol: vs9catz
+  img: the-catfather.webp
+  provider: Pragmatic Play
+
 - title: The Catfather Part II
   symbol: vs30catz
   img: the-catfather2.webp
@@ -1215,13 +1220,6 @@
   type: new
   url: 
   disable: game_disable
-  provider: Pragmatic Play
-
-- title: The Catfather
-  symbol: vs9catz
-  img: the-catfather.webp
-  type: videoslot
-  gameID: vs9catz
   provider: Pragmatic Play
 
 - title: Juicy Fruits
