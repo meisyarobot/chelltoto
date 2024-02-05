@@ -49,5 +49,6 @@ defaults:
       locale: ru      
   - scope: 
       path: _lobby/**
+    values: 
       permalink: /:collection?provider=:name
 
