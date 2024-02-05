@@ -23,7 +23,7 @@ collections:
     permalink: /:collection/:slug
   lobby:
     output: true
-    permalink: /:collection?provider=:name
+    permalink: /:collection/:slug
 
 
 defaults:
@@ -49,6 +49,4 @@ defaults:
       locale: ru      
   - scope: 
       path: _lobby/**
-    values: 
-      permalink: /:collection?provider=:name
 
