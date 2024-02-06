@@ -143,3 +143,34 @@ new DataTable('#software', {
     ]
 });
 
+
+# Win Replay
+new DataTable('#winReplay', {
+    ajax: {
+        url: 'https://l154gamer.github.io/api/replay',
+        dataType: 'JSON'
+    },
+    ordering: false,
+    info: true,
+    paging: true,
+    dom: 'Pfrtip',
+    columns: [
+        {   data: 'img',
+            render: function (data, type, row) {return '<img src="https://l154gamer.github.io/' + row.img + '" width="80px" class="uk-border-rounded"><br/><b class="uk-text-small">'+ row.title +'</b>';}
+        },
+        {
+            data: 'title',
+            render: function (data, type, row) {return '<b>'+ row.jp +'</b><br/><u>'+ row.date +'</u><br/>Bet: '+ row.bet +'<br/>Bo: '+ row.bo +'';}
+        },
+        {
+            data: "gid",
+            render: function (data, type, row) {
+                if (type === 'display') {
+                    let link = 'https://replay.pragmaticplay.net/';
+                    return '<a class="uk-button uk-button-default uk-button-small" target="modal_iframe" onClick="showModal()" href="' + link + ''+ row.gid +'">Replay</a>';
+                }
+                return data;
+            }
+        }
+    ]
+});
