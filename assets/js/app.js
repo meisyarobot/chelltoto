@@ -144,7 +144,7 @@ new DataTable('#software', {
 });
 
 
-# Win Replay
+// Win Replay
 new DataTable('#winReplay', {
     ajax: {
         url: 'https://l154gamer.github.io/api/replay',
