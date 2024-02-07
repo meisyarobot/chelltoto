@@ -21,7 +21,7 @@ new DataTable('#winReplay', {
         },
         {
             data: 'title',
-            render: function (data, type, row) {return '<b>'+ row.jp +'</b><br/><u>'+ row.date +'</u><br/>Bet: '+ row.bet +'<br/><spqn class="uk-text-small">Bo: '+ row.bo +'</span>';}
+            render: function (data, type, row) {return '<div class="uk-text-small>"><b>'+ row.jp +'</b><br/><u>'+ row.date +'</u><br/>Bet: '+ row.bet +'<br/>Bo: '+ row.bo +'</div>';}
         },
         {
             data: "gid",
