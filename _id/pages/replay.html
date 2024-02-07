@@ -21,14 +21,14 @@ new DataTable('#winReplay', {
         },
         {
             data: 'title',
-            render: function (data, type, row) {return '<b>'+ row.jp +'</b><br/><u>'+ row.date +'</u><br/>Bet: '+ row.bet +'<br/>Bo: '+ row.bo +'';}
+            render: function (data, type, row) {return '<b>'+ row.jp +'</b><br/><u>'+ row.date +'</u><br/>Bet: '+ row.bet +'<br/><spqn class="uk-text-small">Bo: '+ row.bo +'</span>';}
         },
         {
             data: "gid",
             render: function (data, type, row) {
                 if (type === 'display') {
                     let link = 'https://replay.pragmaticplay.net/';
-                    return '<a class="uk-button uk-button-default uk-button-small" target="modal_iframe" onClick="showModal()" href="' + link + ''+ row.gid +'">Replay</a>';
+                    return '<a class="uk-button uk-button-default uk-button-small" target="modal_iframe" onClick="showModal()" href="' + link + ''+ row.gid +'">Play</a>';
                 }
                 return data;
             }
