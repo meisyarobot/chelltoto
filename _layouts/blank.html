@@ -6,20 +6,15 @@
 </head>
 <bod>
 <!-- Navbar --> 
-<nav class="uk-navbar-container uk-navbar-transparent uk-fixed-navigation">
- <div uk-navbar>
-   <div class="uk-container">
-   <div class="uk-navbar-left">   
-       <a href="{{ "/" | relative_url }}" uk-icon="icon: arrow-left"></a>
-   </div>
-   <div class="uk-navbar-center">
-      <a class="uk-logo uk-navbar-item uk-text-muted" href="{{ relative_url }}">
-       {{ page.title }}
-      </a>  
-   </div>
-  </div>
+<nav class="uk-navbar-container uk-navbar-transparent uk-fixed-navigation" uk-navbar>
+ <div class="uk-navbar-left">
+  <a href="{{ "/" | relative_url }}" uk-icon="icon: arrow-left"></a>
  </div>
- </nav>
+ <div class="uk-navbar-center">
+  {{ page.title }}
+ </div>
+ <div class="uk-navbar-right">…</div>
+</nav>
 <!-- /Navbar -->
  <div class="uk-section uk-margin-xlarge-top"><!-- Section -->
   <div class="uk-container"><!-- Container -->
