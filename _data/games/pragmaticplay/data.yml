@@ -122,10 +122,9 @@
   provider: Pragmatic Play
 
 - title: Fire Portals
-  symbol: 
+  symbol: vs20portals
   img: fire-portals-logo.webp
   type: videoslot
-  disable: disable
   provider: Pragmatic Play
 
 - title: Sugar Rush 1000
@@ -135,10 +134,9 @@
   provider: Pragmatic Play
 
 - title: Pot of Fortune
-  symbol: 
+  symbol: vs20stckwldsc
   img: pot-of-fortune.webp
   type: videoslot
-  disable: disable
   provider: Pragmatic Play
 
 - title: Big Bass Day At The Races
