@@ -12,6 +12,13 @@
   img: casino-heist-megaways.webp
   provider: Pragmatic Play
 
+- title: The Dog House — Dog or Alive
+  symbol: 
+  img: the-dog-house-dog-or-alive.webp
+  type: new
+  disable: disable
+  provider: Pragmatic Play
+
 - title: Power of Ninja 
   symbol: vs20ninjapower
   img: power-of-ninja.webp
@@ -45,13 +52,6 @@
 - title: Spooky Fortune
   symbol: vs20gg
   img: spooky-fortune.webp
-  provider: Pragmatic Play
-
-- title: The Dog House — Dog or Alive
-  symbol: 
-  img: the-dog-house-dog-or-alive.webp
-  type: new
-  disable: disable
   provider: Pragmatic Play
 
 - title: Jeitinho Brasileiro
