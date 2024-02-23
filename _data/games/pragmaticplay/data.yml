@@ -1,4 +1,31 @@
-# New games
+# New games 
+
+- title: Train to Seoul 
+  symbol: 
+  disable: disable
+  img: train-to-seoul.webp
+  provider: Pragmatic Play
+
+- title: Casino Heist Megaways 
+  symbol: 
+  disable: disable
+  img: casino-heist-megaways.webp
+  provider: Pragmatic Play
+
+- title: Power of Ninja 
+  symbol: vs20ninjapower
+  img: power-of-ninja.webp
+  provider: Pragmatic Play
+
+- title: Bali Dragon
+  symbol: vs5balidragon
+  img: bali-dragon.webp
+  provider: Pragmatic Play
+
+- title: Great Lagoon
+  symbol: vs25lagoon
+  img: great-lagoon.webp
+  provider: Pragmatic Play
 
 - title: Romeo and Juliet
   symbol: vs25romeoandjuliet
@@ -104,10 +131,9 @@
   provider: Pragmatic Play
 
 - title: Sugar Rush 1000
-  symbol: 
+  symbol: vs20sugarrushx
   img: sugar-rush1000.webp
   type: videoslot
-  disable: disable
   provider: Pragmatic Play
 
 - title: Pot of Fortune
