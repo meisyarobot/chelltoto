@@ -26,6 +26,11 @@
   disable: disable
   provider: Pragmatic Play
 
+- title: Aztec Powernudge 
+  symbol: vs20sbpnudge
+  img: vs20sbpnudge.webp
+  provider: Pragmatic Play
+
 - title: Power of Ninja 
   symbol: vs20ninjapower
   img: power-of-ninja.webp
