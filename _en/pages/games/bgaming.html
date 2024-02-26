@@ -6,7 +6,12 @@ active: bgaming
 locale: en
 uid: bgaming
 ---
-
+<ul class="uk-subnav uk-subnav-pill" uk-switcher="animation: uk-animation-slide-left-medium, uk-animation-slide-right-medium">
+    <li><a href="#">Games</a></li>
+    <li><a href="#">Favorites</a></li>
+</ul>
+<ul class="uk-switcher uk-margin">
+<li>
 <div id="grid" class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid>
 {% for game in site.data.games.bgaming.data %}  
  <div data-pilih="{{game.type}}" class="uk-width-1-2 bc {{game.disable}}" id="{{ game.title }}">
@@ -39,3 +44,10 @@ uid: bgaming
 <p>{{ site.data.locales[page.locale].page.nodata }}</p>
  {% endfor %}        
 </div>
+</li>
+<li>
+ <ul class="uk-list uk-list-divider favorites__list" data-my-favorites data-my-favorites-empty="{{ site.data.locales[page.locale].page.no_favorites_yet }}"></ul>
+ <hr/>
+ <button class="clear_favorites">{{ site.data.locales[page.locale].page.empty_favorites }}</button>
+</li>
+</ul>
