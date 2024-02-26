@@ -24,16 +24,14 @@ uid: bgaming
       </h3>
     </div>
     <div class="uk-float-right">
-      <button class="shop-item__favorite-button" data-add-to-favorite="{{ game.title }}" data-favorite-title="Meredith dress">
+      <button class="shop-item__favorite-button" data-add-to-favorite="{{ game.title }}" data-favorite-title="{{ game.title }}">
           <span class="sr-only"
-                data-favorite="{{ site.data.locales[page.locale].page.add_to_my_favorites }}"
-                data-favorite-added="{{ site.data.locales[page.locale].page.remove_from_my_favorites }}"></span>
+                data-favorite="Add to my favorites"
+                data-favorite-added="Remove from my favorites"></span>
       </button>
     </div>
    </div>    
-    <h3 class="uk-link-reset uk-text-small uk-card-title uk-text-bold">
-    <a href="{{ game.permalink | absolute_url }}" target="modal_iframe" onClick="showModal()">{{game.title}}</a>
-    </h3>
+
    </div> 
   </div>
  </div>       
