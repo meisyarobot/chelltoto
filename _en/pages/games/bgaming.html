@@ -9,7 +9,7 @@ uid: bgaming
 
 <div id="grid" class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid>
 {% for game in site.data.games.bgaming.data %}  
- <div data-pilih="{{game.type}}" class="uk-width-1-2 bc {{game.disable}}">
+ <div data-pilih="{{game.type}}" class="uk-width-1-2 bc {{game.disable}}" id="{{ game.title }}>
   <div class="uk-card uk-card-default uk-border-rounded"> 
    <div class="uk-card-media-top">
     <a href="{{ game.permalink | absolute_url }}" target="modal_iframe" onClick="showModal()"> 
@@ -17,6 +17,20 @@ uid: bgaming
     </a>
    </div> 
    <div class="uk-card-body uk-margin-remove-top"> 
+   <div class="uk-clearfix">
+    <div class="uk-float-left">
+      <h3 class="uk-link-reset uk-text-small uk-card-title uk-text-bold">
+       <a href="{{ game.permalink | absolute_url }}" target="modal_iframe" onClick="showModal()">{{game.title}}</a>
+      </h3>
+    </div>
+    <div class="uk-float-right">
+      <button class="shop-item__favorite-button" data-add-to-favorite="{{ game.title }}" data-favorite-title="Meredith dress">
+          <span class="sr-only"
+                data-favorite="{{ site.data.locales[page.locale].page.add_to_my_favorites }}"
+                data-favorite-added="{{ site.data.locales[page.locale].page.remove_from_my_favorites }}"></span>
+      </button>
+    </div>
+   </div>    
     <h3 class="uk-link-reset uk-text-small uk-card-title uk-text-bold">
     <a href="{{ game.permalink | absolute_url }}" target="modal_iframe" onClick="showModal()">{{game.title}}</a>
     </h3>
