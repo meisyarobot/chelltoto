@@ -46,8 +46,16 @@ uid: bgaming
 </div>
 </li>
 <li>
+   <div class="uk-clearfix">
+    <div class="uk-float-left">
+      <h3 class="uk-link-reset uk-text-small uk-card-title uk-text-bold">
+       {{ site.data.locales[page.locale].page.my_favorites }}
+      </h3>
+    </div>
+    <div class="uk-float-right">
+      <button class="uk-button uk-button-danger uk-button-small clear_favorites">{{ site.data.locales[page.locale].page.empty_favorites }}</button>
+    </div>
+   </div>    
  <ul class="uk-list uk-list-divider favorites__list" data-my-favorites data-my-favorites-empty="{{ site.data.locales[page.locale].page.no_favorites_yet }}"></ul>
- <hr/>
- <button class="uk-button uk-button-danger uk-button-small clear_favorites">{{ site.data.locales[page.locale].page.empty_favorites }}</button>
 </li>
 </ul>
