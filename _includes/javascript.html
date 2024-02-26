@@ -292,4 +292,22 @@ let favorites = new FavoritesList();
 buttons.forEach( button => favorites.initButton(button));
 favorites.initClearButton(emptyFavoritesButton);  
 </script>
+<script>
+// Replace .uk-subnav with your switcher element
+const switcherEl = document.querySelector('.uk-subnav');
+const anchors = switcherEl.querySelectorAll('li > a');
+const switcher = UIkit.switcher(switcherEl);
+
+// Show content corresponds to location hash
+let active = 0;
+while(anchors[active]) {  
+  if(anchors[active].hash === window.location.hash) {
+    switcher.show(active);    
+    break;
+  }
+  active++;
+}
+// Update location hash in address bar.
+switcherEl.addEventListener('click', (event) => window.location.hash = event.target.hash.substr(1));  
+</script>
 <!-- /Scripts -->
