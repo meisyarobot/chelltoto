@@ -1,3 +1,4 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
 html{
     --bg: #37474f;
     --color-heading: rgb(27, 168, 14); 
@@ -193,7 +194,8 @@ body {
   content: attr(data-my-favorites-empty);
 }
 .shop-item__favorite-button::before {
-  content: '♡';
+  content: "\f004";
+   font-family: "FontAwesome";
 }
 .shop-item__favorite-button[data-is-favorite] {
   color: red;
@@ -205,4 +207,8 @@ body {
 
 .shop-item__favorite-button[data-is-favorite] span::before {
   content: attr(data-favorite-added);
+}
+button {
+ background: transparent;
+ border: 0;
 }
