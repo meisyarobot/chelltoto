@@ -7,7 +7,7 @@ locale: en
 uid: bgaming
 ---
 <ul class="uk-subnav uk-subnav-pill" uk-switcher="animation: uk-animation-slide-left-medium, uk-animation-slide-right-medium">
-    <li><a href="#games">Games</a></li>
+    
     <li><a href="#favorites">Favorites</a></li>
 </ul>
 <ul class="uk-switcher uk-margin">
@@ -41,6 +41,7 @@ uid: bgaming
 <li>
    <div class="uk-clearfix">
     <div class="uk-float-left">
+      <a href="#" uk-switcher-item="previous">Go back</a>
       <h4 class="uk-text-bold">
        {{ site.data.locales[page.locale].page.my_favorites }}
       </h4>
