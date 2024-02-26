@@ -41,15 +41,12 @@ uid: bgaming
 <li>
    <div class="uk-clearfix">
     <div class="uk-float-left">
-      <a href="#" uk-switcher-item="previous">Go back</a>
-      <h4 class="uk-text-bold">
-       {{ site.data.locales[page.locale].page.my_favorites }}
-      </h4>
+      <a class="uk-link-muted" href="#" uk-switcher-item="previous"><span uk-icon="arrow-left"></span> Go back</a>
     </div>
     <div class="uk-float-right">
       <button class="uk-button uk-button-danger uk-button-small clear_favorites">{{ site.data.locales[page.locale].page.empty_favorites }}</button>
     </div>
    </div>    
- <ul class="uk-list uk-list-divider favorites__list" data-my-favorites data-my-favorites-empty="{{ site.data.locales[page.locale].page.no_favorites_yet }}"></ul>
+ <ul class="uk-list uk-list-divider uk-link-text favorites__list" data-my-favorites data-my-favorites-empty="{{ site.data.locales[page.locale].page.no_favorites_yet }}"></ul>
 </li>
 </ul>
