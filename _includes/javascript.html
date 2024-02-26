@@ -201,4 +201,95 @@ document.addEventListener('touchend', e => {
             });
         });
     </script>
+<script>
+//Favorites
+const favoriteButtonAttr = 'data-add-to-favorite';
+const isFavorite = 'data-is-favorite';
+const listSelector = '[data-my-favorites]';
+const storageName = 'favoritesList';
+
+class FavoritesList {
+  constructor () {
+    this.storageName = storageName;
+    this.list = this.initList();
+  }
+  
+  initList () {
+    if (window.localStorage.getItem(this.storageName)) { 
+      // todo: repetitive parse?
+      const list = JSON.parse(window.localStorage.getItem(this.storageName));
+      updateHtmlList(list);
+      return list;
+    } else {   
+      return [];
+    }
+  }
+  
+  initButton(button) {
+    const id = String(button.getAttribute(favoriteButtonAttr));
+    
+    button.addEventListener('click', (event) => {
+      const button = event.target;
+      !inArray(id, this.list) ? this.list.push(id) : removeFromArray(id, this.list);
+      setState(id, this.list);
+      this.updateList();
+    })
+    
+    function setState (id, list) {
+      return button.toggleAttribute(isFavorite, inArray(id, list));
+    }
+    
+    setState(id, this.list);
+    return button;
+  }
+  
+  updateList() {
+    setLocalStorage(this.storageName, this.list);
+    updateHtmlList(this.list); 
+  }
+  
+  initClearButton (button) {
+    console.log(button)
+    button.addEventListener('click', () =>  {
+      window.localStorage.removeItem(this.storageName)
+      updateHtmlList([]); 
+      //@todo: sync active button state in article list with empty list
+    })
+  }
+}
+
+function updateHtmlList(list) {
+  if(list.length > 0) {
+    // lastest favorites on top & don't modify original list;
+    const newList = list.slice(0).reverse();
+    favoritesHTMLElement.innerHTML = '';
+    listItems = document.createElement('ul');
+    newList.forEach( item => {
+      let htmlLi = document.createElement('li');
+      htmlLi.innerHTML = '<img src="'+item.img+'"/><br/><a href="'+item.link+'" class="uk-link">'+item+'</a>';
+      favoritesHTMLElement.appendChild(htmlLi);
+    });
+  } else {
+    favoritesHTMLElement.innerHTML = '';
+  }
+}  
+
+function inArray(element, array) {
+  return array.indexOf(element) != -1;
+}
+
+function removeFromArray(element, array) {
+  array.splice(array.indexOf(element), 1); 
+}
+
+function setLocalStorage(key, value) {
+  window.localStorage.setItem(key, JSON.stringify(value));
+}
+const buttons = document.querySelectorAll(`[${favoriteButtonAttr}]`);
+const favoritesHTMLElement = document.querySelector(listSelector);
+const emptyFavoritesButton = document.querySelector('.clear_favorites');
+let favorites = new FavoritesList();  
+buttons.forEach( button => favorites.initButton(button));
+favorites.initClearButton(emptyFavoritesButton);  
+</script>
 <!-- /Scripts -->
