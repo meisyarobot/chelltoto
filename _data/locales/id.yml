@@ -110,6 +110,11 @@ page:
   results: Hasil
   games_found: Games ditemukan
   upcoming: Akan datang
+  add_to_my_favorites: Tambahkan ke daftar favorit saya
+  remove_from_my_favorites: Hapus dari daftar favorite saya
+  no_favorites_yet: Tidak ada game favorit
+  empty_favorites: Kosongkan favorit
+  my_favorites: Favorit Saya
 
 
 # Faq
