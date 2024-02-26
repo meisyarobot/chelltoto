@@ -189,3 +189,20 @@ body {
 .pull-to-refresh.visible {
   top: 0;
 }
+.favorites__list:empty:before {
+  content: attr(data-my-favorites-empty);
+}
+.shop-item__favorite-button::before {
+  content: '♡';
+}
+.shop-item__favorite-button[data-is-favorite] {
+  color: red;
+  border: 0;
+}
+.shop-item__favorite-button span::before {
+  content: attr(data-favorite);
+}
+
+.shop-item__favorite-button[data-is-favorite] span::before {
+  content: attr(data-favorite-added);
+}
