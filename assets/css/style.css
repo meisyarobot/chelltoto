@@ -195,7 +195,8 @@ body {
 }
 .shop-item__favorite-button::before {
   content: "\f004";
-   font-family: "FontAwesome";
+  font-family: "FontAwesome";
+  font-size: 2rem;
 }
 .shop-item__favorite-button[data-is-favorite] {
   color: red;
