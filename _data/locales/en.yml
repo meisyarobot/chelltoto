@@ -106,6 +106,11 @@ page:
   results: Results
   games_found: Games found
   upcoming: Upcoming
+  add_to_my_favorites: Add to my favorites
+  remove_from_my_favorites: Remove from my favorites
+  no_favorites_yet: No favorites yet
+  empty_favorites: Empty favorites
+  my_favorites: My Favorites
 
 
 # Faq
