@@ -24,16 +24,6 @@ permalink: /demo/
     <div class="header-logo">
       <h1>{{ page.title }}</h1>
     </div>
-    <!-- Nav Links -->
-    <div class="header-nav">
-      <li class="header-favoriet">
-        
-      </li>
-      <li class="header-cart">
-        <i class='bx bx-shopping-bag'></i>
-        <span class="badge"><span>0</span></span>
-      </li>
-    </div>
   </header>
   <!-- End Header -->
 
@@ -45,12 +35,13 @@ permalink: /demo/
  <ul class="uk-switcher uk-margin">
  <li>
   <!-- Search Area -->
+  <form class="uk-search uk-search-default">
   <div class="search-area">
-    <h2>Search To Product</h2>
-    <input type="text" class="inputSearch" placeholder="Product Name">
+   <span uk-search-icon></span>
+    <input type="text" class="uk-search-input inputSearch" placeholder="Search a game">
   </div>
+  </form>
   <!-- End Search -->
-
   <!-- Products Area -->
   <div class="products-area"></div>
   <!-- Alarm For No Search  -->
@@ -63,18 +54,7 @@ permalink: /demo/
   <li>
   <!-- Start In Favorites -->
   <div class="favorites-container">
-    <!-- Favorites Header -->
-    <div class="favorites-header">
-      <!-- Heading Text -->
-      <h2>Your Favorites</h2>
-      <!-- Close Favorites Button -->
-      <div class="closeFavorites-btn">
-        <div class="close-Favorites-action">
-          <i class='bx bxs-up-arrow-alt bx-tada' ></i>
-          <span>Close</span>
-        </div>
-      </div>
-    </div>
+   <h4>Your Favorites</h4>
 
     <!-- No Favorites Yet Alarm Box -->
     <div class="noFavorites">
