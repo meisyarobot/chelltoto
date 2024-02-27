@@ -52,12 +52,56 @@ permalink: /demo/
  </li>
   
   <li>
+  <!-- Cart Container -->
+  <div class="cart-container">
+    <!-- Cart Header -->
+    <div class="cart-header">
+      <!-- Heading Text -->
+      <h2>Your Cart</h2>
+      <!-- Close Cart Button -->
+      <div class="closeCart-btn">
+        <div class="close-cart-action">
+          <i class='bx bxs-up-arrow-alt bx-tada' ></i>
+          <span>Close</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- No Product Yet Alarm Box -->
+    <div class="noProductsInCart">
+      <i class="bx bx-shopping-bag bx-tada"></i>
+      <h3>No Products Added To The Cart Yet !</h3>
+      <button onclick="closeWindow(cartConatiner)">Return To Shop</button>
+    </div>
+
+    <!-- In Cart Area -->
+    <div class="inCart-area">
+      <!-- Data Will Be Come From The JavaScript (: -->
+    </div>
+    <!-- In Cart End -->
+   
   <!-- Start In Favorites -->
   <div class="favorites-container">
-   <h4>Your Favorites</h4>
-   <div class="inCart-area">
-      <!-- Data Will Be Come From The JavaScript (: -->
-   </div>
+    <!-- Favorites Header -->
+    <div class="favorites-header">
+      <!-- Heading Text -->
+      <h2>Your Favorites</h2>
+      <!-- Close Favorites Button -->
+      <div class="closeFavorites-btn">
+        <div class="close-Favorites-action">
+          <i class='bx bxs-up-arrow-alt bx-tada' ></i>
+          <span>Close</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- No Favorites Yet Alarm Box -->
+    <div class="noFavorites">
+      <i class="bx bx-heart bx-tada"></i>
+      <h3>No Favorites Added To The Favorites Yet !</h3>
+      <button onclick="closeWindow(favoritesConatiner)">Return To Shop</button>
+    </div>
+
     <!-- In Favorites Area -->
     <div class="inFavorites-area">
       <!-- Data Will Be Come From The JavaScript (: -->
