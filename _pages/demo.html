@@ -1296,7 +1296,7 @@ footer{
 let productsDB = [
   {% for data in site.data.games.bgaming.data %}
   {
-    id: 1,
+    id: "{{ forloop.index }}",
     imgSrc: "{{ data.img }}",
     title: "{{ data.title }}",
     price: 39,
