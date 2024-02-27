@@ -1294,72 +1294,20 @@ footer{
 
 // Products Data
 let productsDB = [
+  {% for data in site.data.games.pragmaticplay.data %}
   {
-    id: 1,
-    imgSrc: 'https://e.top4top.io/p_1925fb9g01.jpg',
-    title: "Backpack",
+    id: {{ data.symbol }},
+    imgSrc: "{{ data.img }}",
+    title: "{{ data.title }}",
     price: 39,
     size: "Large",
     color: "#000",
     qty: 0,
     isLiked: false,
     cost: 0
-  },
-  {
-    id: 2,
-    imgSrc: 'https://f.top4top.io/p_1925dzmty2.jpg',
-    title: "Chair",
-    price: 55,
-    size: "Medium",
-    color: "#000",
-    qty: 0,
-    isLiked: false,
-    cost: 0
-  },
-  {
-    id: 3,
-    imgSrc: 'https://g.top4top.io/p_19256ma7c3.jpg',
-    title: "Headset",
-    price: 25,
-    size: "Small",
-    color: "#000",
-    qty: 0,
-    isLiked: false,
-    cost: 0
-  },
-  {
-    id: 4,
-    imgSrc: 'https://h.top4top.io/p_19252cb0k4.jpg',
-    title: "Shoes",
-    price: 15,
-    size: "Samll",
-    color: "#000",
-    qty: 0,
-    isLiked: false,
-    cost: 0
-  },
-  {
-    id: 5,
-    imgSrc: 'https://i.top4top.io/p_1925yf61w5.jpg',
-    title: "SweatShirt",
-    price: 44,
-    size: "Large",
-    color: "#000",
-    qty: 0,
-    isLiked: false,
-    cost: 0
-  },
-  {
-    id: 6,
-    imgSrc: 'https://j.top4top.io/p_1925wl82q6.jpg',
-    title: "Watch",
-    price: 70,
-    size: "Medium",
-    color: "gray",
-    qty: 0,
-    isLiked: false,
-    cost: 0
   }
+  {% unless forloop.last %},{% endunless %}
+  {% endfor %}
 ];
 
 // Get All The Products Data From Local Storage
