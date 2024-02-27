@@ -1297,8 +1297,8 @@ let productsDB = [
   {% for data in site.data.games.bgaming.data %}
   {
     id: {{ forloop.index }},
-    imgSrc: "{{ data.img }}",
-    title: "{{site.url}}assets/img/bgaming/{{ data.title }}",
+    imgSrc: "{{site.url}}assets/img/bgaming/{{ data.img }}",
+    title: "{{ data.title }}",
     price: 39,
     size: "Large",
     color: "#000",
@@ -1453,7 +1453,7 @@ document.addEventListener('click', openPrimaryColorsArea);
         ></i>
       </div>
       <div class="product-image">
-        <img src="${item.imgSrc}" alt="Product Image">
+        <img src="${item.imgSrc}" alt="${item.title}">
       </div>
       <!-- Action Box -->
       <div class="action-box">
@@ -1527,7 +1527,7 @@ function closeWindow(targetElement) {
     return `
     <!-- In Cart Product -->
     <div class="inCart-product">
-      <img src="${item.imgSrc}" alt="Product Image">
+      <img src="${item.imgSrc}" alt="${item.title}">
       <div class="inCart-product-info">
         <span>${item.title}</span> <!-- Title -->
         <span>Size: ${item.size}</span> <!-- Size -->
@@ -1657,7 +1657,7 @@ function deleteProduct(id) {
     return `
     <!-- In Favorites Product -->
     <div class="inFavorites-product">
-      <img src="${item.imgSrc}" alt="Favorite Product Image">
+      <img src="${item.imgSrc}" alt="${item.title}">
       <div class="inFavorites-product-info">
         <span>${item.title}</span> <!-- Title -->
         <span>Lorem ipsum dolor sit amet.</span> <!-- Description -->
