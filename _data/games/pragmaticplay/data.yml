@@ -1,5 +1,16 @@
 # New games 
 
+- title: Ice Lobster 
+  symbol: 
+  img: ice-lobster.webp
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Ripe Rewards 
+  symbol: vs40stckwldlvl
+  img: vs40stckwldlvl.webp
+  provider: Pragmatic Play
+
 - title: Train to Seoul 
   symbol: vs15seoultrain
   img: train-to-seoul.webp
