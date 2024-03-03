@@ -204,7 +204,7 @@ feature:
     images:
       - img: assets/images/punk-toilet.webp
         url: nolimitcity
-      - img: assets/images/tombstone-rip-mayhem.webp
+      - img: assets/images/tombstone-rip.webp
         url: nolimitcity
         
 
