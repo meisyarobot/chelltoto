@@ -84,6 +84,48 @@
   img: bounty-hunters.webp
   vendor: Nolimit City
 
+- title: Whacked !
+  gameid: Whacked
+  img: whacked.webp
+  vendor: Nolimit City
+
+- title: The Cage
+  gameid: TheCage
+  img: the-cage.webp
+  vendor: Nolimit City
+
+- title: Kiss My Chainsaw
+  gameid: KissMyChainsaw
+  img: kiss-my-chainsaw.webp
+  vendor: Nolimit City
+
+- title: Benji Killed in Vegas
+  gameid: BenjiKilledInVegas
+  img: benji-killed-in-vegas.webp
+  vendor: Nolimit City
+
+- title: Gluttony
+  gameid: Gluttony
+  img: gluttony.webp
+  vendor: Nolimit City
+
+- title: The Rave
+  gameid: TheRave
+  img: the-rave.webp
+  vendor: Nolimit City
+
+- title: Karen Maneater
+  gameid: KarenManeater
+  img: karen-maneater.webp
+  disable: disable
+  vendor: Nolimit City
+
+- title: Hoarder
+  gameid: Hoarder
+  img: hoarder.webp
+  disable: disable
+  vendor: Nolimit City
+
 - title: Dragon Tribe
   gameid: DragonTribe
   img: dragon-tribe.webp
