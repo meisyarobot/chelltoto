@@ -177,25 +177,36 @@ feature:
     url: en/pragmaticplay
     images:
       - img: assets/images/peaky-blinders.webp
-        url: pragmaticplay
+        url: en/pragmaticplay
       - img: assets/images/cowboys-gold.webp
-        url: pragmaticplay
+        url: en/pragmaticplay
       - img: assets/img/pragmatic-play/wild-west-duels.webp
-        url: pragmaticplay
+        url: en/pragmaticplay
       - img: assets/img/pragmatic-play/wild-west-gold.webp
-        url: pragmaticplay
+        url: en/pragmaticplay
   - title: PG Soft
     url: en/pgsoft
     images:
       - img: assets/images/treasures-of-aztec.webp
-        url: pgsoft
+        url: en/pgsoft
       - img: assets/images/mafia-mayhem.webp
-        url: pgsoft
+        url: en/pgsoft
       - img: assets/img/pgsoft/mahjong-ways2.webp
-        url: pgsoft
+        url: en/pgsoft
       - img: assets/img/pgsoft/supermarket-spree.webp
-        url: pgsoft
-
+        url: en/pgsoft
+  - title: Nolimit City
+    url: en/nolimitcity
+    images:
+      - img: assets/images/punk-toilet.webp
+        url: en/nolimitcity
+      - img: assets/images/tombstone-rip.webp
+        url: en/nolimitcity
+      - img: assets/img/nolimit-city/dday.webp
+        url: en/nolimitcity
+      - img: assets/img/nolimit-city/disturbed.webp
+        url: en/nolimitcity
+        
 
 #Providers
 byprovider:
