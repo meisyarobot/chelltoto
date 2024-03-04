@@ -8,7 +8,7 @@ locale: en
 ---
 <div id="grid" class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid>
  {% for game in site.data.games.redtiger.en %}
- <div data-pilih="{{game.type}}" class="uk-card uk-card-default uk-border-rounded {{game.disable}}"><!-- card --> 
+ <div data-pilih="{{game.type}}" class="uk-card uk-card-default uk-border-rounded bc {{game.disable}}"><!-- card --> 
   <a id="game__url" href="{{ game.permalink }}s/quit" target="modal_iframe" onClick="showModal()">        
    <img  src="{{site.url}}assets/img/redtiger/{{game.img}}" width="1800" height="1200" alt="" class="uk-card-media-top uk-border-rounded" id="game__img">
    </a>
