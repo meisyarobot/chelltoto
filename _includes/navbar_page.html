@@ -23,7 +23,7 @@
     <div class="nav-overlay uk-navbar-right">
     {% if page.active == "redtiger" %}
         <a class="uk-navbar-toggle uk-navbar-toggle-animate" href uk-navbar-toggle-icon></a>
-          <div class="uk-dropbar uk-fixed" uk-drop="stretch: y; stretch: x; target: !.uk-navbar-container; animation: reveal-top; animate-out: true; duration: 700" uk-overflow-auto>
+          <div class="uk-dropbar uk-display-flex" uk-drop="stretch: y; stretch: x; target: !.uk-navbar-container; animation: reveal-top; animate-out: true; duration: 700" uk-overflow-auto>
             <h4>{{ site.data.locales[page.locale].page.my_favorites }}</h4>
             <div class="cart"></div>
             <hr/>           
