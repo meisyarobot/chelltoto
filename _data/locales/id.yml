@@ -8,7 +8,8 @@ disclaimer: >
 donate: >
   Donasi untuk mendukung situs ini. 
   Dana (ewallet) 0881024240202
-
+info: >
+  Game favorit hanya disimpan di penyimpanan lokal browser Anda, dan tidak akan tersedia di perangkat atau browser lain.
 
 # Sidenav
 sidenav:
@@ -114,7 +115,9 @@ page:
   remove_from_my_favorites: Hapus dari daftar favorite saya
   no_favorites_yet: Tidak ada game favorit
   empty_favorites: Kosongkan favorit
-  my_favorites: Favorit Saya
+  my_favorites: Game Favorit Anda
+  delete: Hapus
+  play: Main
 
 
 # Faq
