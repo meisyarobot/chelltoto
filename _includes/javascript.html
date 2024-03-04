@@ -310,4 +310,114 @@ while(anchors[active]) {
 // Update location hash in address bar.
 switcherEl.addEventListener('click', (event) => window.location.hash = event.target.hash.substr(1));  
 </script>
+{% if page.active == "redtiger" %}
+<script>
+"use strict";
+
+const addProductToCart = product => { 
+  // add the product to the cart 
+  cartDOM.insertAdjacentHTML('beforeend', `         
+                <div class="uk-child-width-1-2 cart__item uk-margin" uk-grid >    
+                   <div><img class="uk-border-rounded cart__item__image" width="100px" src="${product.image}" alt=${product.name}/><br/><h4 class="uk-text-bold uk-text-small uk-margin-remove cart__item__name">${product.name}</h4></div>                  
+                   <div>
+                    <div class="uk-child-width-1-2" uk-grid>
+                       <div><p class="uk-text-small">${product.provider}</p></div>
+                       <div><a class="uk-button uk-button-default uk-button-small" target="modal_iframe" onClick="showModal()" href="${product.url}">Play</a><br/><br/><button class="uk-button uk-button-danger uk-button-small" data-action="REMOVE_ITEM" uk-icon="trash"></button></div>
+                    </div>
+                   </div>
+                 </div>
+           `);
+};
+
+
+const removeItem = (product, cartItemDOM, addToCartButtonDOM) => {
+  // Now decrease the quantity in array and update DOM 
+  cartItemDOM.classList.add('cart__item--removed');
+  setTimeout(() => {
+    //remove this item 
+    cartItemDOM.remove();
+  }, 250);
+  cart = cart.filter(cartItem => {
+    return cartItem.name != product.name;
+  });
+  localStorage.setItem('cart', JSON.stringify(cart));
+  addToCartButtonDOM.insertAdjacentHTML = ('<button style="top: 5px;right:5px;" type="button"  class="game__btn uk-icon-button uk-position-absolute" uk-icon="heart"></button>');
+  addToCartButtonDOM.disabled = false;
+};
+
+const handleActionButtons = (addToCartButtonDOM, product) =>
+{
+  addToCartButtonDOM.insertAdjacentHTML = ('<button style="top: 5px;right:5px;" type="button"  id="game__btn" class="uk-icon-button uk-position-absolute" uk-icon="check"></button>');
+  addToCartButtonDOM.disabled = true;
+  //Attach the event listener to the buttons 
+  const cartItemsDOM = cartDOM.querySelectorAll('.cart__item');
+  cartItemsDOM.forEach(cartItemDOM => {
+    if (cartItemDOM.querySelector('.cart__item__name').innerText === product.name)
+    {
+            cartItemDOM.querySelector('[data-action="REMOVE_ITEM"]').addEventListener('click', () => {
+        removeItem(product, cartItemDOM, addToCartButtonDOM);
+
+      }); //remove item 
+
+    }
+  });
+
+};
+
+
+//get the cart 
+const cartDOM = document.querySelector('.cart');
+//Get the product DOM
+const addToCartButtonsDOM = document.querySelectorAll('[data-action="ADD_TO_FAVE"]');
+//Create cart array 
+let cart = JSON.parse(localStorage.getItem('cart')) || [];
+
+////local storage 
+if (cart.length > 0) {
+  cart.forEach(cartItem => {
+    const product = cartItem;
+
+    addProductToCart(product); // // add the product to the cart 
+
+    addToCartButtonsDOM.forEach(addToCartButtonDOM => {
+      const productDOM = addToCartButtonDOM.parentNode;
+
+      if (productDOM.querySelector('.uk-text-bold').innerText === product.name) {
+        handleActionButtons(addToCartButtonDOM, product);
+      }
+    });
+  });
+
+
+} ////local storage 
+
+
+addToCartButtonsDOM.forEach(addToCartButtonDOM => {
+  addToCartButtonDOM.addEventListener('click', () => {
+    const productDOM = addToCartButtonDOM.parentNode;
+    const product = {
+      image: productDOM.querySelector('#game__img').getAttribute('src'),
+      url: productDOM.querySelector('#game__url').getAttribute('href'),
+      name: productDOM.querySelector('#game__title').innerText,
+      provider: productDOM.querySelector('#game__provider').innerText,
+      };
+
+    //https://www.linkedin.com/pulse/javascript-filter-function-examples-rafael-mariano-de-oliveira
+    if (!(cart.filter(cartItem => cartItem.name === product.name).length > 0))
+    {
+      addProductToCart(product); // add the product to the cart 
+      cart.push(product);
+      localStorage.setItem('cart', JSON.stringify(cart));
+      handleActionButtons(addToCartButtonDOM, product);
+    }
+
+  });
+
+});    
+</script>
+
+<script>
+UIkit.icon.add('navbar-toggle-icon','<span uk-icon="heart"></span>');
+</script>
+{% endif %}   
 <!-- /Scripts -->
