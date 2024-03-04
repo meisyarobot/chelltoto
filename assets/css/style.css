@@ -213,3 +213,19 @@ button {
  background: transparent;
  border: 0;
 }
+.uk-disabled, .disabled {
+ color: red !important;
+ border: 0 !important;
+}
+:disabled, :disabled span {
+  color:red !important;
+}
+#game__btn {
+ background: #000100 !important;
+}
+#game__title {
+ padding: 10px;
+}
+#game__img {
+ padding: 5px;
+    }
