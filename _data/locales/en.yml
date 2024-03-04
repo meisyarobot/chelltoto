@@ -110,7 +110,9 @@ page:
   remove_from_my_favorites: Remove from my favorites
   no_favorites_yet: No favorites yet
   empty_favorites: Empty favorites
-  my_favorites: My Favorites
+  my_favorites: Your Favorite Games
+  delete: Delete
+  play: Play
 
 
 # Faq
