@@ -23,13 +23,12 @@
     <div class="nav-overlay uk-navbar-right">
     {% if page.active == "redtiger" %}
         <a class="uk-navbar-toggle uk-navbar-toggle-animate" href uk-navbar-toggle-icon></a>
-             <div class="uk-dropbar uk-fixed" uk-drop="stretch: y; stretch: x; target: !.uk-navbar-container; animation: reveal-top; animate-out: true; duration: 700" uk-overflow-auto>
+          <div class="uk-dropbar uk-fixed" uk-drop="stretch: y; stretch: x; target: !.uk-navbar-container; animation: reveal-top; animate-out: true; duration: 700" uk-overflow-auto>
             <h4>{{ site.data.locales[page.locale].page.my_favorites }}</h4>
             <div class="cart"></div>
-            <hr/>
-            <p>Klik icon <span uk-icon="heart"></span> diatas untuk menutup halaman ini.</p>
+            <hr/>           
             <p>{{ site.data.locales[page.locale].info }}</p>                           
-             </div>      
+        </div>      
      {% endif %}   
         <a class="uk-navbar-toggle" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
         <button uk-icon="icon: settings; ratio: 1" class="uk-button uk-button-default uk-padding-remove border-0" uk-toggle="target: #offcanvas-flip"></button>
