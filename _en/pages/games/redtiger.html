@@ -7,17 +7,22 @@ uid: redtiger
 locale: en
 ---
 <div id="grid" class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid>
- {% for game in site.data.games.redtiger.en %}
- <div data-pilih="{{game.type}}" class="uk-card uk-card-default uk-border-rounded bc {{game.disable}}"><!-- card --> 
-  <a id="game__url" href="{{ game.permalink }}s/quit" target="modal_iframe" onClick="showModal()">        
-   <img  src="{{site.url}}assets/img/redtiger/{{game.img}}" width="1800" height="1200" alt="" class="uk-card-media-top uk-border-rounded" id="game__img">
-   </a>
-   <p class="uk-margin-remove-top uk-margin-remove-bottom uk-text-small hide" id="game__provider">{{game.provider}}</p>
-   <h3 class="uk-margin-remove-top uk-margin-remove-bottom uk-text-small uk-card-title uk-text-bold" id="game__title">{{game.title}}</h3><!-- card title -->
-   <button style="top: 8px; right:8px;" type="button" id="game__btn" class="uk-icon-button uk-button-secondary uk-position-absolute" uk-icon="heart" data-action="ADD_TO_FAVE"></button>
- </div><!-- /card --> 
-</div>        
+{% for game in site.data.games.redtiger.en %}  
+ <div data-pilih="{{game.type}}" class="uk-width-1-2 bc {{game.disable}}">
+  <div class="uk-card uk-card-default uk-border-rounded"> 
+   <div class="uk-card-media-top">
+    <a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()"> 
+     <img src="{{site.url}}assets/img/redtiger/{{game.img}}" width="1800" height="1200" alt="{{game.title}}" class="uk-border-rounded">
+    </a>
+   </div> 
+   <div class="uk-card-body uk-margin-remove-top"> 
+    <h3 class="uk-link-reset uk-text-small uk-card-title uk-text-bold">
+    <a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()">{{game.title}}</a>
+    </h3>
+   </div> 
+  </div>
+ </div>       
 {% else %}
 <p>{{ site.data.locales[page.locale].page.nodata }}</p>
- {% endfor %}
+ {% endfor %}        
 </div>
