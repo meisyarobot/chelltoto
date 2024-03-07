@@ -1,6 +1,5 @@
 # New games 
 
-
 - title: Gates of Gatotkaca 1000 
   symbol: vs20gatotx
   img: vs20gatotx.webp
@@ -8,9 +7,9 @@
   provider: Pragmatic Play
 
 - title: Ice Lobster 
-  symbol: 
+  symbol: vs20stickypos
   img: ice-lobster.webp
-  disable: disable
+  type: new
   provider: Pragmatic Play
 
 - title: Ripe Rewards 
