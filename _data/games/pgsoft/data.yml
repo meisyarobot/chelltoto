@@ -1,5 +1,11 @@
 pgsoft:
 
+  - title: Gemstone Gold
+    gameid: 1671262
+    img: 1671262.webp   
+    type: new
+    provider: PG Soft 
+  
   - title: Fortune Dragon
     gameid: 1695365
     img: fortune-dragon.webp   
@@ -16,19 +22,19 @@ pgsoft:
   - title: Werewolf's Hunt
     gameid: 1615454
     img: werewolfs-hunt.webp   
-    type: new
+    type: videoslot
     provider: PG Soft 
   
   - title: Tsar Treasures
     gameid: 1655268
     img: tsar-treasures.webp
-    type: new
+    type: videoslot
     provider: PG Soft 
   
   - title: Mafia Mayhem
     gameid: 1580541
     img: Mafia-Mayhem.webp
-    type: new
+    type: videoslot
     provider: PG Soft 
   
   - title: Forge of Wealth
