@@ -14,6 +14,30 @@
   disable: disable
   provider: Pragmatic Play
 
+- title: Barnyard Megahays Megaways
+  symbol: vswaysmegahays
+  img: vswaysmegahays.webp
+  type: new
+  provider: Pragmatic Play
+
+- title: Lobster Bob’s Sea Food and Win It
+  symbol: vs20lobseafd
+  img: vs20lobseafd.webp
+  type: new
+  provider: Pragmatic Play
+
+- title: Release the Bison
+  symbol: vs20bison
+  img: vs20bison.webp
+  type: new
+  provider: Pragmatic Play
+
+- title: Animals Magic 1000 
+  symbol: vs20animalmag
+  img: vs20animalmag.webp
+  type: new
+  provider: Pragmatic Play
+
 - title: Gates of Gatotkaca 1000 
   symbol: vs20gatotx
   img: vs20gatotx.webp
@@ -28,7 +52,7 @@
 
 - title: Ice Lobster 
   symbol: vs20stickypos
-  img: ice-lobster.webp
+  img: vs20stickypos.webp
   type: new
   provider: Pragmatic Play
 
