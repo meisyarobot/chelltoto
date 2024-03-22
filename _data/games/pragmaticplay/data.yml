@@ -1,4 +1,11 @@
-# New games 
+# New games  
+
+- title: Candy Blitz Bombz 
+  symbol: 
+  img: candy-blitz-bombz.webp
+  type: new
+  disable: disable
+  provider: Pragmatic Play
 
 - title: Heart of Cleopatra 
   symbol: 
@@ -6,12 +13,14 @@
   type: new
   disable: disable
   provider: Pragmatic Play
+
 - title: Fruity Treats 
   symbol: 
   img: fruity-treats.webp
   type: new
   disable: disable
   provider: Pragmatic Play
+
 - title: Barnyard Megahays Megaways
   symbol: vswaysmegahays
   img: vswaysmegahays.webp
