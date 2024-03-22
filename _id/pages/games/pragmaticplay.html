@@ -6,6 +6,14 @@ active: pragmaticplay
 locale: id
 uid: pragmaticplay
 ---
+
+ <ul class="uk-subnav uk-subnav-pill" uk-switcher="animation: uk-animation-slide-left-medium, uk-animation-slide-right-medium">
+    <li><a href="#games">Games</a></li>
+    <li><a href="#upcoming">Upcoming Games</a></li>
+ </ul>
+
+ <ul class="uk-switcher uk-margin">
+ <li>
 <div id="grid" class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid>
 {% for game in site.data.games.pragmaticplay.data %}  
  <div data-pilih="{{ game.type }}" class="uk-width-1-2 bc {{ game.disable }}">
@@ -26,3 +34,8 @@ uid: pragmaticplay
 <p>{{ site.data.locales[page.locale].page.nodata }}</p>
  {% endfor %}        
 </div>
+ </li>
+ <li>
+  <h4>Upcoming Games</h4>
+ </li>
+ </ul>
