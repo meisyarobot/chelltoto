@@ -1,19 +1,83 @@
 # New games 
 
+- title: Vegas Magic  
+  symbol: vs20vegasmagic
+  img: vegas-magic.webp
+  provider: Pragmatic Play
+- title: Glorious Rome 
+  symbol: vs20rome
+  img: glorious-rome.webp
+  provider: Pragmatic Play
+- title: Diamonds Are Forever 
+  symbol: cs3w
+  img: diamonds-are-forever.webp
+  provider: Pragmatic Play
+- title: Honey Honey Honey 
+  symbol: vs20honey
+  img: honey-honey-honey.webp
+  provider: Pragmatic Play
+- title: Money Money Money
+  symbol: vs1money
+  img: money-money-money.webp
+  provider: Pragmatic Play
+- title: Money Mouse
+  symbol: vs25mmouse
+  img: money-mouse.webp
+  provider: Pragmatic Play
+- title: Dwarven Gold 
+  symbol: vs25dwarves
+  img: dwarven-gold.webp
+  provider: Pragmatic Play
+- title: Dwarven Gold Deluxe
+  symbol: vs25dwarves_new
+  img: dwarven-gold-deluxe.webp
+  provider: Pragmatic Play
+- title: Lady of The Moon
+  symbol: vs13ladyofmoon
+  img: lady-of-the-moon.webp
+  provider: Pragmatic Play
+- title: Fu Fu Fu
+  symbol: vs1fufufu
+  img: fufufu.webp
+  provider: Pragmatic Play
+- title: Egypt Bonanza
+  symbol: vs20ebonanza
+  img: egypt-bonanza.webp
+  provider: Pragmatic Play
+- title: Lucky Dragon Ball 
+  symbol: vs1ball
+  img: lucky-dragon-ball.webp
+  provider: Pragmatic Play
+- title: Sugar Rush 2015 
+  symbol: vs20cm
+  img: sugar-rush-2015.webp
+  provider: Pragmatic Play
+- title: Dragon Kingdom
+  symbol: vs25dragonkingdom
+  img: dragon-kingdom.webp
+  provider: Pragmatic Play
+- title: 888 Dragons 
+  symbol: vs1dragon8
+  img: 888dragon.webp
+  provider: Pragmatic Play
+- title: Triple Dragons 
+  symbol: vs5trdragons
+  img: triple-dragons.webp
+  provider: Pragmatic Play
+
+
 - title: Heart of Cleopatra 
   symbol: 
   img: heart-of-cleopatra.webp
   type: new
   disable: disable
   provider: Pragmatic Play
-
 - title: Fruity Treats 
   symbol: 
   img: fruity-treats.webp
   type: new
   disable: disable
   provider: Pragmatic Play
-
 - title: Barnyard Megahays Megaways
   symbol: vswaysmegahays
   img: vswaysmegahays.webp
