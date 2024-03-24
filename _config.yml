@@ -5,11 +5,16 @@ url:            "https://l154gamer.github.io/"
 markdown: kramdown
 future: true
 encoding: UTF-8
-locales: ["id", "en", "ru"]
+locales: ["id", "en"]
 language_default: id
 include:
   - _pages
-
+plugins:
+  - jekyll-redirect-from
+redirect_from:
+  json: false
+whitelist:
+  - jekyll-redirect-from  
 
 collections:
   id:
