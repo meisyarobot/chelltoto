@@ -1,9 +1,44 @@
 # New games
 
+- title: Starlight-Princess Pachi
+  symbol: 
+  img: starlight-princess-pachi.webp
+  type: upcoming
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Treasure Trawler
+  symbol: 
+  img: treasure-trawler.webp
+  type: upcoming
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Rise of Pyramids
+  symbol: 
+  img: rise-pyramids.webp
+  type: upcoming
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Front Runner Odds On
+  symbol: 
+  img: front-runner-odds-on.webp
+  type: upcoming
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Dwarf Dragon 
+  symbol: 
+  img: dwarf-dragon.webp
+  type: upcoming
+  disable: disable
+  provider: Pragmatic Play
+
 - title: Heart of Cleopatra 
   symbol: 
   img: heart-of-cleopatra.webp
-  type: new
+  type: upcoming
   disable: disable
   provider: Pragmatic Play
 
