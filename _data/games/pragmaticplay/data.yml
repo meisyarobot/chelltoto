@@ -239,19 +239,19 @@
 - title: Fortune Ace
   symbol: vs1024fortune
   img: fortune-ace.webp
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Saray Ruyasi
   symbol: vs20dede
   img: saray-ruyasi.webp
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: The Alter Ego
   symbol: vswaysalterego
   img: the-alter-ego.webp
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Mighty Munching Melons
@@ -275,25 +275,25 @@
 - title: Red Hot Luck — Powerpays
   symbol: vs20powerpays
   img: red-hot-luck.webp
-  type: new
+  type: videoslot
   provider: Pragmatic Play
  
 - title: Wheel O'Gold
   symbol: vs20multiup
   img: wheel-o-gold.webp
-  type: new
+  type: videoslot
   provider: Pragmatic Play
  
 - title: Pompeii Megareels Megaways
   symbol: vswaysmegareel
   img: pompeii-megareels-megaways.webp
-  type: new
+  type: videoslot
   provider: Pragmatic Play
  
 - title: Strawberry Cocktail
   symbol: vs10strawberry
   img: strawberry-cocktail.webp
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Jurassic Giants
@@ -341,34 +341,20 @@
 - title: Sasuntsi Davit
   symbol: vs20davofsun
   img: sasuntsi-davit.webp
-  type: new
+  type: videoslot
   provider: Pragmatic Play
   
 - title: Hockey League Wild Match
   symbol: vs9hockey
   img: hockey-league-wild-match.webp
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: FTN Rush
   symbol: vs20ftnsugar
   img: ftn-rush.webp
   gameID: vs20ftnsugar
-  type: new
-  provider: Pragmatic Play
-
-- title: Gates of FTN
-  symbol: vs20ftngates
-  img: gates-of-ftn.webp
-  gameID: vs20ftngates
-  type: new
-  provider: Pragmatic Play
-
-- title: Gates of Olympus Dice
-  symbol: vs20olympdice
-  img: gates-of-olympus-dice.webp
-  gameID: vs20olympdice
-  type: new
+  type: ftn
   provider: Pragmatic Play
 
 - title: Year of The Dragon King
@@ -389,77 +375,77 @@
   symbol: vs20cbrhst
   img: cyber-heist.webp
   gameID: vs20cbrhst
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Loki's Riches
   symbol: vs20loksriches
   img: lokis-riches.webp
   gameID: vs20loksriches
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: The Big Dawgs
   symbol: vs20bigdawgs
   img: the-big-dawgs.webp
   gameID: vs20bigdawgs
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Castle of Fire
   symbol: vswaysexpandng
   img: castle-of-fire.webp
   gameID: vswaysexpandng
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Mr. Tain's Fishing Adventures
   symbol: vs20mrtfish
   img: mr-tains-fishing-adventures.webp
   gameID: vs20mrtfish
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Blazing Wilds Megaways
   symbol: vswaysfirewmw
   img: blazing-wilds-megaways.webp
   gameID: vswaysfirewmw
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Mahjong Wins Bonus
   symbol: vs1024mjwinbns
   img: mahjong-wins-bonus.webp
   gameID: vs1024mjwinbns
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Sea Fantasy
   symbol: vswaysseastory
   img: sea-fantasy.webp
   gameID: vswaysseastory
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: MBS Heist Megaways
   symbol: vswaysmbslions
   img: mbs-heist-megaways.webp
   gameID: vswaysmbslions
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Xmas Spark 
   symbol: vs20giftcndblz
   img: xmas-spark.webp
   gameID: vs20giftcndblz
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Nile Fortune 
   symbol: vs20nilefort
   img: nile-fortune.webp
   gameID: vs20nilefort
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Viking Forge 
@@ -473,7 +459,7 @@
   symbol: vs20olympgrace
   img: grace-of-ebisu.webp
   gameID: vs20olympgrace
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: 888 Bonanza
@@ -487,21 +473,21 @@
   symbol: vswaysstampede
   img: fire-stampede.webp
   gameID: vswaysstampede
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Ding Dong Christmas Bells
   symbol: vs10ddcbells
   img: dingdong.webp
   gameID: vs10ddcbells
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: 5 Frozen Charms Megaways
   symbol: vswayscharms
   img: 5frozen-charms-megaways.webp
   gameID: vswayscharms
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: The Wild Gang
@@ -515,14 +501,14 @@
   symbol: vs20xilbaba
   img: gates-of-xibalba.webp
   gameID: vs20xilbaba
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Blade & Fangs
   symbol: vs20mergedwndw
   img: blade-fangs.webp
   gameID: vs20mergedwndw
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Gemine
@@ -543,105 +529,98 @@
   symbol: vs20cjcluster
   img: candy-jar-cluster.webp
   gameID: vs20cjcluster
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Mahjong X  
   symbol: vs20mahjxbnz
   img: mahjongx.webp
   gameID: vs20mahjxbnz
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Susu & Koko 
   symbol: vs20susukoko
   img: susu-koko.webp
   gameID: vs20susukoko
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Barong Rico 
   symbol: vs5barongrico
   img: barong-rico.webp
   gameID: vs5barongrico
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Rujak Bonanza 
   symbol: vs20rujakbnz
   img: rujak-bonanza.webp
   gameID: vs20rujakbnz
-  type: new
-  provider: Pragmatic Play
-
-- title: Gates of Heaven 
-  symbol: vs20olympgateh
-  img: gates-of-heaven.webp
-  gameID: vs20olympgateh
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Sugar Supreme Powernudge
   symbol: vs20sugarnudge
   img: sugar-supreme.webp
   gameID: vs20sugarnudge
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Timber Stacks
   symbol: vswaystimber
   img: timber-stacks.webp
   gameID: vswaystimber
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Gravity Bonanza 
   symbol: vs20gravity
   img: gravity-bonanza.webp
   gameID: vs20gravity
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Rainbow Reels 
   symbol: vs40rainbowr
   img: rainbow-reels.webp
   gameID: vs40rainbowr
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Twilight Princess
   symbol: vs20dhcluster
   img: twilight-princess.webp
   gameID: vs20dhcluster
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Tundra's Fortune
   symbol: vswaysraghex
   img: tundras-fortune.webp
   gameID: vswaysraghex
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Infective Wild 
   symbol: vs40infwild
   img: infective-wild.webp
   gameID: vs40infwild
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Yi Sun Shin 
   symbol: vs20yisunshin
   img: yi-sun-shin.webp
   gameID: vs20yisunshin
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Cash Chips
   symbol: vs20maskgame
   img: cash-chips.webp
   gameID: vs20maskgame
-  type: new
+  type: videoslot
   provider: Pragmatic Play
 
 - title: Mahjong Wins 
@@ -752,6 +731,13 @@
   type: slotmania
   provider: Pragmatic Play
 
+- title: Gates of Olympus Dice
+  symbol: vs20olympdice
+  img: gates-of-olympus-dice.webp
+  gameID: vs20olympdice
+  type: videoslot
+  provider: Pragmatic Play
+
 - title: Nexus Gates of Olympus
   symbol: vs20nexusgates
   img: nexus-olympus.webp
@@ -793,6 +779,27 @@
   type: slotmania
   gameID: vs20olyh
   provider: Pragmatic Play 
+
+- title: Gates of FTN
+  symbol: vs20ftngates
+  img: gates-of-ftn.webp
+  gameID: vs20ftngates
+  type: ftn
+  provider: Pragmatic Play
+
+- title: Gates of Rizk
+  symbol: vs20gatesofrizk
+  img: vs20gatesofrizk.webp
+  gameID: vs20gatesofrizk
+  type: rizk
+  provider: Pragmatic Play
+
+- title: Gates of Heaven 
+  symbol: vs20olympgateh
+  img: gates-of-heaven.webp
+  gameID: vs20olympgateh
+  type: videoslot
+  provider: Pragmatic Play
 
 # Princess
 - title: Starlight Princess
