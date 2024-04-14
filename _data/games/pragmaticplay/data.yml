@@ -32,11 +32,10 @@
   disable: disable
   provider: Pragmatic Play
 
-- title: Dwarf Dragon 
-  symbol: 
+- title: Dwarf & Dragon 
+  symbol: vswaysspltsym
   img: dwarf-dragon.webp
-  type: upcoming
-  disable: disable
+  type: new
   provider: Pragmatic Play
 
 - title: Heart of Cleopatra 
