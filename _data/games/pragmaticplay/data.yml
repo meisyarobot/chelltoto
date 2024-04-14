@@ -1,9 +1,24 @@
 # New games
+ 
+- title: Heroic Spins 
+  symbol: 
+  img: heroic-spins.webp
+  type: upcoming
+  disable: disable
+  provider: Pragmatic Play
 
-- title: Slot88 Olympus 1000
-  symbol: vs20gateslots88
-  img: vs20gateslots88.webp
-  type: new
+- title: Big Bass Bonanza Reel Action 
+  symbol: 
+  img: big-bass-bonanza-reel-action.webp
+  type: upcoming
+  disable: disable
+  provider: Pragmatic Play
+
+- title: Revenge of Loki Megaways 
+  symbol: 
+  img: revenge-of-loki-megaways.webp
+  type: upcoming
+  disable: disable
   provider: Pragmatic Play
 
 - title: Starlight-Princess Pachi
@@ -11,6 +26,18 @@
   img: starlight-princess-pachi.webp
   type: upcoming
   disable: disable
+  provider: Pragmatic Play
+
+- title: Slot88 Way of Ninja 
+  symbol: vs20olympnin
+  img: vs20olympnin.webp
+  type: slot88
+  provider: Pragmatic Play
+
+- title: Slot88 Olympus 1000
+  symbol: vs20gateslots88
+  img: vs20gateslots88.webp
+  type: slot88
   provider: Pragmatic Play
 
 - title: Treasure Trawler
