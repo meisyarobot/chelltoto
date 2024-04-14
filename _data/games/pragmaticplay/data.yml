@@ -14,10 +14,9 @@
   provider: Pragmatic Play
 
 - title: Treasure Trawler
-  symbol: 
+  symbol: vs20treastraw
   img: treasure-trawler.webp
-  type: upcoming
-  disable: disable
+  type: new
   provider: Pragmatic Play
 
 - title: Rise of Pyramids
