@@ -20,10 +20,9 @@
   provider: Pragmatic Play
 
 - title: Rise of Pyramids
-  symbol: 
+  symbol: vswayshexhaus
   img: rise-pyramids.webp
-  type: upcoming
-  disable: disable
+  type: new
   provider: Pragmatic Play
 
 - title: Front Runner Odds On
