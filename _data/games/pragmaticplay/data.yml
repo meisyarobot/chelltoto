@@ -39,10 +39,9 @@
   provider: Pragmatic Play
 
 - title: Heart of Cleopatra 
-  symbol: 
+  symbol: vs20heartcleo
   img: heart-of-cleopatra.webp
-  type: upcoming
-  disable: disable
+  type: new
   provider: Pragmatic Play
 
 - title: Candy Blitz Bombz 
