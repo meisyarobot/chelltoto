@@ -26,10 +26,9 @@
   provider: Pragmatic Play
 
 - title: Front Runner Odds On
-  symbol: 
+  symbol: vs10frontrun
   img: front-runner-odds-on.webp
-  type: upcoming
-  disable: disable
+  type: new
   provider: Pragmatic Play
 
 - title: Dwarf & Dragon 
