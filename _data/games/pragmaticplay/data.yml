@@ -1,5 +1,12 @@
 # New games
- 
+
+- title: Wildies 
+  symbol: 
+  img: wildies.webp
+  type: upcoming
+  disable: disable
+  provider: Pragmatic Play
+
 - title: Heroic Spins 
   symbol: 
   img: heroic-spins.webp
