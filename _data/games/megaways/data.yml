@@ -1,5 +1,27 @@
 # Pragmatic Play
 
+- title: Revenge of Loki Megaways 
+  gameid: 
+  img: pragmatic-play/revenge-loki-megaways.webp
+  type: pragmaticplay
+  disable: disable
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?jurisdiction=99&lang=ID&cur=IDR&gameSymbol=
+  provider: Pragmatic Play
+
+- title: Barnyard Megahays Megaways
+  gameid: vswaysmegahays
+  img: pragmatic-play/vswaysmegahays.webp
+  type: pragmaticplay
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?jurisdiction=99&lang=ID&cur=IDR&gameSymbol=vswaysmegahays
+  provider: Pragmatic Play
+
+- title: Casino Heist Megaways 
+  gameid: vswayscheist
+  img: pragmatic-play/casino-heist-megaways.webp
+  type: pragmaticplay
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?jurisdiction=99&lang=ID&cur=IDR&gameSymbol=vswayscheist
+  provider: Pragmatic Play
+
 - title: Mr. Toad Gold Megaways
   gameid: vswaystgold
   img: pragmatic-play/mr-toad-gold-megaways.webp
@@ -29,11 +51,10 @@
   provider: Pragmatic Play
 
 - title: Beware The Deep Megaways
-  gameid: 
+  gameid: vswaysbewaretd
   img: pragmatic-play/beware-the-deep-megaways.webp
   type: pragmaticplay
-  disable: disable
-  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?jurisdiction=99&lang=ID&cur=IDR&gameSymbol=
+  url: https://d3pvfi6m7bxu71.cloudfront.net/gs2c/openGame.do?jurisdiction=99&lang=ID&cur=IDR&gameSymbol=vswaysbewaretd
   provider: Pragmatic Play
 
 - title: Wild West Gold Megaways
