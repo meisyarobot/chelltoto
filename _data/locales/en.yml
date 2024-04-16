@@ -116,6 +116,8 @@ page:
   my_favorites: Your Favorite Games
   delete: Delete
   play: Play
+  no_demo: Demo not yet available
+
 
 
 # Faq
