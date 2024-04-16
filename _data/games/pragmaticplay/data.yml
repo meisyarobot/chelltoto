@@ -178,73 +178,6 @@
   img: great-lagoon.webp
   provider: Pragmatic Play
 
-- title: Romeo and Juliet
-  symbol: vs25romeoandjuliet
-  img: romeo-juliet.webp
-  provider: Pragmatic Play
-
-- title: The Catfather
-  symbol: vs9catz
-  img: the-catfather.webp
-  provider: Pragmatic Play
-
-- title: The Catfather Part II
-  symbol: vs30catz
-  img: the-catfather-part2.webp
-  provider: Pragmatic Play
-
-- title: Spooky Fortune
-  symbol: vs20gg
-  img: spooky-fortune.webp
-  provider: Pragmatic Play
-
-- title: Jeitinho Brasileiro
-  symbol: vs25jeitinho
-  img: jeitinho-brasileiro.webp
-  type: videoslot
-  provider: Pragmatic Play
-
-- title: Gods of Oblivion
-  symbol: vsprg20sugargod
-  img: gods-of-oblivion.webp
-  type: videoslot
-  provider: Pragmatic Play
-
-- title: El Dorado The City of Gold
-  symbol: vs25eldorado_cv39
-  img: el-dorado-the-city-of-gold.webp
-  type: videoslot
-  provider: Pragmatic Play
-  
-- title: El Dorado The City of Gold Megaways
-  symbol: vswaysdorado
-  img: el-dorado-megaways.webp
-  type: megaways
-  provider: Pragmatic Play
-
-- title: Sugar Rush 2015 
-  symbol: vs20cm
-  img: sugar-rush-2015.webp
-  provider: Pragmatic Play  
-
-- title: Sugar Rush Summer Time
-  symbol: vs20cms
-  img: sugar-rush-summer-time.webp
-  type: videoslot
-  provider: Pragmatic Play
-
-- title: Sugar Rush Valentine's Day
-  symbol: vs20cmv
-  img: sugar-rush-valentines-day.webp
-  type: videoslot
-  provider: Pragmatic Play
-
-- title: Sugar Rush Winter
-  symbol: vs20cw
-  img: sugar-rush-winter.webp
-  type: videoslot
-  provider: Pragmatic Play
-
 - title: Vegas Adventures With Mr. Green
   symbol: vs25vegasadv
   img: vegas-adventures-with-mr-green.webp
@@ -3010,3 +2943,71 @@
   symbol: vs5trdragons
   img: triple-dragons.webp
   provider: Pragmatic Play
+
+- title: Romeo and Juliet
+  symbol: vs25romeoandjuliet
+  img: romeo-juliet.webp
+  provider: Pragmatic Play
+
+- title: The Catfather
+  symbol: vs9catz
+  img: the-catfather.webp
+  provider: Pragmatic Play
+
+- title: The Catfather Part II
+  symbol: vs30catz
+  img: the-catfather-part2.webp
+  provider: Pragmatic Play
+
+- title: Spooky Fortune
+  symbol: vs20gg
+  img: spooky-fortune.webp
+  provider: Pragmatic Play
+
+- title: Jeitinho Brasileiro
+  symbol: vs25jeitinho
+  img: jeitinho-brasileiro.webp
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Gods of Oblivion
+  symbol: vsprg20sugargod
+  img: gods-of-oblivion.webp
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: El Dorado The City of Gold
+  symbol: vs25eldorado_cv39
+  img: el-dorado-the-city-of-gold.webp
+  type: videoslot
+  provider: Pragmatic Play
+  
+- title: El Dorado The City of Gold Megaways
+  symbol: vswaysdorado
+  img: el-dorado-megaways.webp
+  type: megaways
+  provider: Pragmatic Play
+
+- title: Sugar Rush 2015 
+  symbol: vs20cm
+  img: sugar-rush-2015.webp
+  provider: Pragmatic Play  
+
+- title: Sugar Rush Summer Time
+  symbol: vs20cms
+  img: sugar-rush-summer-time.webp
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Sugar Rush Valentine's Day
+  symbol: vs20cmv
+  img: sugar-rush-valentines-day.webp
+  type: videoslot
+  provider: Pragmatic Play
+
+- title: Sugar Rush Winter
+  symbol: vs20cw
+  img: sugar-rush-winter.webp
+  type: videoslot
+  provider: Pragmatic Play
+
