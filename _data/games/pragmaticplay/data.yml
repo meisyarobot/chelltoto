@@ -7,13 +7,6 @@
   disable: disable
   provider: Pragmatic Play
 
-- title: Heroic Spins 
-  symbol: 
-  img: heroic-spins.webp
-  type: upcoming
-  disable: disable
-  provider: Pragmatic Play
-
 - title: Big Bass Bonanza Reel Action 
   symbol: 
   img: big-bass-bonanza-reel-action.webp
@@ -28,9 +21,15 @@
   disable: disable
   provider: Pragmatic Play
 
-- title: Starlight-Princess Pachi
+- title: Starlight Princess Pachi
   symbol: vswaysjapan
   img: starlight-princess-pachi.webp
+  type: new
+  provider: Pragmatic Play
+
+- title: Heroic Spins 
+  symbol: vs20shootstars
+  img: heroic-spins.webp
   type: new
   provider: Pragmatic Play
 
