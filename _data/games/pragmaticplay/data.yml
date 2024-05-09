@@ -7,10 +7,9 @@
   provider: Pragmatic Play
 
 - title: Big Bass Bonanza Reel Action 
-  symbol: 
+  symbol: vs10bbbrlact
   img: big-bass-bonanza-reel-action.webp
-  type: upcoming
-  disable: disable
+  type: new
   provider: Pragmatic Play
 
 - title: Revenge of Loki Megaways 
