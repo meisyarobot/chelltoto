@@ -1,5 +1,23 @@
 # New games
 
+- title: Sweet Bonanza 1000
+  symbol: vs20fruitswx
+  img: sweet-bonanza-1000.webp
+  type: new
+  provider: Pragmatic Play
+
+- title: Medusa's Stone 
+  symbol: vs20medusast
+  img: medusas-stone.webp
+  type: new
+  provider: Pragmatic Play
+
+- title: Monkey King Rush 
+  symbol: vs20mkrush
+  img: monkey-king-rush.webp
+  type: new
+  provider: Pragmatic Play
+
 - title: Wildies 
   symbol: vs25wildies
   img: wildies.webp
