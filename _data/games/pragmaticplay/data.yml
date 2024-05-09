@@ -14,10 +14,9 @@
   provider: Pragmatic Play
 
 - title: Revenge of Loki Megaways 
-  symbol: 
+  symbol: vswaysloki
   img: revenge-loki-megaways.webp
-  type: upcoming
-  disable: disable
+  type: new
   provider: Pragmatic Play
 
 - title: Starlight Princess Pachi
