@@ -3,10 +3,10 @@ site_url: /
 
 menu:
   - title: Beranda
-    url: chelltoto/
+    url: /chelltoto/
     icon: home
   - title: Penafian
-    url: chelltoto/about
+    url: /chelltoto/about
     icon: info
   - title: Situs Sedot WC
     url: /bo
