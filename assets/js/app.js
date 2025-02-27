@@ -1,7 +1,7 @@
 // Game Developers
 new DataTable('#games', {
     ajax: {
-        url: 'https://l154gamer.github.io/api/software',
+        url: 'https://meisyarobot.github.io/chelltoto/api/software',
         dataType: 'JSON'
     },
     ordering: false,
@@ -14,7 +14,7 @@ new DataTable('#games', {
             data: 'title',
             render: function (data, type, row) {
                 if (type === 'display') {
-                    let link = 'https://l154gamer.github.io/lobby/';
+                    let link = 'https://meisyarobot.github.io/chelltoto/lobby/';
                     return '<a class="uk-link-text" href="' + link + '' + row.url + '" >' + row.title + '</a>';        
                 }
                 return data;
@@ -78,7 +78,7 @@ new DataTable('#hacksaw', {
 // Pragmatic Play
 new DataTable('#pragmaticplay', {
     ajax: {
-        url: 'https://l154gamer.github.io/api/pragmaticplay',
+        url: 'https://meisyarobot.github.io/chelltoto/api/pragmaticplay',
         dataType: 'JSON'
     },
     language: {
@@ -126,7 +126,7 @@ new DataTable('#pragmaticplay', {
 // Games Providers
 new DataTable('#software', {
     ajax: {
-        url: 'https://l154gamer.github.io/api/software',
+        url: 'https://meisyarobot.github.io/chelltoto/api/software',
         dataType: 'JSON'
     },
     ordering: false,
@@ -147,7 +147,7 @@ new DataTable('#software', {
 // Win Replay
 new DataTable('#winReplay', {
     ajax: {
-        url: 'https://l154gamer.github.io/api/replay',
+        url: 'https://meisyarobot.github.io/chelltoto/api/replay',
         dataType: 'JSON'
     },
     ordering: false,
@@ -156,7 +156,7 @@ new DataTable('#winReplay', {
     dom: 'Pfrtip',
     columns: [
         {   data: 'img',
-            render: function (data, type, row) {return '<img src="https://l154gamer.github.io/' + row.img + '" width="80px" class="uk-border-rounded"><br/><b class="uk-text-small">'+ row.title +'</b>';}
+            render: function (data, type, row) {return '<img src="https://meisyarobot.github.io/chelltoto/' + row.img + '" width="80px" class="uk-border-rounded"><br/><b class="uk-text-small">'+ row.title +'</b>';}
         },
         {
             data: 'title',
